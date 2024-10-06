@@ -1,0 +1,4 @@
+2022-06-03 11:41:46 error: [POST] /api/clients/createClient >> StatusCode:: 500, Message:: Cliente validation failed: googleAds: Cast to Boolean failed for value "Otro" (type string) at path "googleAds"
+2022-06-03 11:42:52 error: [POST] /api/clients/createClient >> StatusCode:: 500, Message:: E11000 duplicate key error collection: sac.clientes index: celular_1 dup key: { celular: null }
+2022-06-03 11:44:05 error: [POST] /api/clients/createClient >> StatusCode:: 500, Message:: E11000 duplicate key error collection: sac.clientes index: celular_1 dup key: { celular: null }
+2022-06-03 11:45:06 error: [POST] /api/clients/createClient >> StatusCode:: 500, Message:: E11000 duplicate key error collection: sac.clientes index: celular_1 dup key: { celular: null }

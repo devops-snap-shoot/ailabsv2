@@ -1,0 +1,4 @@
+2024-08-22 11:03:43 error: [POST] /api/login >> StatusCode:: 409, Message:: Wrong password
+2024-08-22 11:03:51 error: [POST] /api/login >> StatusCode:: 409, Message:: Wrong password
+2024-08-22 11:03:57 error: [POST] /api/login >> StatusCode:: 409, Message:: Wrong password
+2024-08-22 11:04:03 error: [POST] /api/login >> StatusCode:: 409, Message:: Wrong password

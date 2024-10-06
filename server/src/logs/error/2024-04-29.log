@@ -1,0 +1,14 @@
+2024-04-29 11:35:36 error: [POST] /api/login >> StatusCode:: 409, Message:: Wrong password
+2024-04-29 11:35:45 error: [POST] /api/login >> StatusCode:: 409, Message:: Wrong password
+2024-04-29 13:03:54 error: uncaughtException: Cannot read properties of undefined (reading '0')
+TypeError: Cannot read properties of undefined (reading '0')
+    at C:\Users\gorel\Documents\Kauel_USA\imKchat\app\server\src\controllers\ia.controller.ts:101:57
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-04-29 13:05:50 error: uncaughtException: Cannot read properties of undefined (reading '0')
+TypeError: Cannot read properties of undefined (reading '0')
+    at C:\Users\gorel\Documents\Kauel_USA\imKchat\app\server\src\controllers\ia.controller.ts:101:57
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-04-29 15:28:45 error: uncaughtException: Cannot read properties of null (reading 'id')
+TypeError: Cannot read properties of null (reading 'id')
+    at C:\Users\gorel\Documents\Kauel_USA\imKchat\app\server\src\routes\files.route.ts:34:47
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)

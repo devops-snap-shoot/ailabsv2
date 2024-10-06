@@ -1,0 +1,2 @@
+2022-10-26 14:49:39 error: [POST] /api/login >> StatusCode:: 500, Message:: Operation `users.findOne()` buffering timed out after 10000ms
+2022-10-26 14:49:48 error: [GET] /favicon.ico >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\KauelWorks\Ionic-Boilerplate\client\build\index.html'

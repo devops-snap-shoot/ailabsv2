@@ -1,0 +1,117 @@
+{
+    "loginPage": {
+        "welcome": "Welcome to I'mKChat",
+        "messageLogin": "Log in with your account to continue",
+        "buttonLogin": "Log In",
+        "buttonignup": "Sign up",
+        "termsOfUse": "Terms of use",
+        "developedBy": "Developed By",
+        "privacyPolicy": "Privacy policy"
+    },
+    "homePage": {
+        "myDocuments": "My Documents",
+        "dropLeyend": "Press button to upload",
+        "uploadButton": "Upload",
+        "chat": {
+            "title": "What can you do?",
+            "botMessage": "(For now this is the only one answer). As an AI language model, I can process and understand text documents. You can provide the document, and I can assist you with tasks related to it, such as summarizing the document, extracting specific information, answering questions based on the document, or providing insights and explanations related to the document's content. Please upload the document, and I'll do my best to assist you."
+        },
+        "inputPlaceHolder": "Ask me",
+        "initialText": "To start our interaction please send a document in the allowed format and then ask me about it",
+        "messageCopy": "Your conversation has been copied successfully.",
+        "deleteOnlyMessage": "Solo el administrador del archivo puede borrarlo.",
+        "cantConnectServer": "No puedo conectar con el servidor. Por favor intenta más tarde."
+    },
+    "footer": {
+        "copyRight": "2023 © Kauel Inc. All rights reserved.",
+        "links": {
+            "ai": {
+                "title": "AI",
+                "linkName1": "K_AI Tools",
+                "linkNameUrl1": "K_AI Tools",
+                "linkName2": "K-Vision.space",
+                "linkNameUrl2": "K-Vision.space",
+                "linkName3": "Kauel",
+                "linkNameUrl3": "Kauel",
+                "linkName4": "Skyman",
+                "linkNameUrl4": "Skyman",
+                "linkName5": "Design Assistant",
+                "linkNameUrl5": "Design Assistant"
+            },
+            "vr": {
+                "title": "VR",
+                "linkName1": "Kyon",
+                "linkNameUrl1": "Kyon",
+                "linkName2": "K-Virtual Space",
+                "linkNameUrl2": "K-Virtual Space"
+            },
+            "us": {
+                "title": "US",
+                "linkName1": "Contact",
+                "linkNameUrl1": "Contact",
+                "linkName2": "About",
+                "linkNameUrl2": "About",
+                "linkName3": "Pricing",
+                "linkNameUrl3": "Pricing",
+                "linkName4": "Carreers",
+                "linkNameUrl4": "Carreers",
+                "linkName5": "Releases",
+                "linkNameUrl5": "Releases",
+                "linkName6": "Press",
+                "linkNameUrl6": "Press",
+                "linkName7": "Help Center",
+                "linkNameUrl7": "Help Center"
+            },
+            "legal": {
+                "title": "Legal",
+                "linkName1": "Privacy Policy",
+                "linkNameUrl1": "Privacy Policy",
+                "linkName2": "Terms Of Service",
+                "linkNameUrl2": "Terms Of Service"
+            },
+            "socialMedia": {
+                "title": "Social Media",
+                "linkName1": "Facebook",
+                "linkNameUrl1": "Facebook",
+                "linkName2": "Twitter",
+                "linkNameUrl2": "Twitter",
+                "linkName3": "LinkedIn",
+                "linkNameUrl3": "LinkedIn",
+                "linkName4": "Instagram",
+                "linkNameUrl4": "Instagram",
+                "linkName5": "TikTok",
+                "linkNameUrl5": "TikTok",
+                "linkName6": "YouTube",
+                "linkNameUrl6": "YouTube"
+            }
+        }
+    },
+    "admin": {
+        "folder": {
+            "addignUser": {
+                "title": "Seleccione usuario"
+            }
+        },
+        "createUser": {
+            "signature": {
+                "text": "firma"
+            },
+            "inputs": {
+                "firstName": "Primer Nombre",
+                "last": "Apellido",
+                "dateOfBirth": "Fecha de Nacimiento",
+                "mobile": "Número de teléfono",
+                "email": "Correo electrónico",
+                "password": "Contraseña",
+                "companies": "Empresa",
+                "roles": "Rol"
+            }
+        }
+    },
+    "messages": {
+        "indevelopment":"Desarrollando"
+    },
+    "confirm": {
+        "removeFile": "Confirme que borrará el archivo. La acción es permanente."
+    }
+}

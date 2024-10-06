@@ -1,0 +1,15 @@
+2024-06-17 12:16:21 info: =================================
+2024-06-17 12:16:21 info: ======= ENV: development =======
+2024-06-17 12:16:21 info: 🚀 App listening on the port 5210
+2024-06-17 12:16:21 info: =================================
+2024-06-17 12:16:22 info: [0mGET /api/veify-token/ [32m200[0m 89.056 ms - 967[0m
+2024-06-17 12:16:22 info: [0mGET /api/veify-token/ [36m304[0m 1.891 ms - -[0m
+2024-06-17 12:16:23 info: [0mGET /api/organization/getOrganizations [32m200[0m 1338.404 ms - 979[0m
+2024-06-17 12:16:23 info: [0mGET /api/files/getFiles [32m200[0m 1976.966 ms - -[0m
+2024-06-17 12:16:23 info: [0mGET /api/roles/getRoles [32m200[0m 1927.832 ms - -[0m
+2024-06-17 12:16:26 info: [0mGET /api/users/getUsers [32m200[0m 4970.592 ms - -[0m
+2024-06-17 15:41:14 info: [0mOPTIONS /api/login [32m204[0m 2.924 ms - 0[0m
+2024-06-17 15:41:15 info: [0mPOST /api/login [32m200[0m 521.806 ms - -[0m
+2024-06-17 15:41:15 info: [0mGET /api/organization/getOrganizations [36m304[0m 83.369 ms - -[0m
+2024-06-17 15:41:15 info: [0mGET /api/roles/getRoles [36m304[0m 156.649 ms - -[0m
+2024-06-17 15:41:18 info: [0mGET /api/users/getUsers [36m304[0m 3584.190 ms - -[0m

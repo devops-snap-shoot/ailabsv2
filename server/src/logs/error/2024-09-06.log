@@ -1,0 +1,58 @@
+2024-09-06 15:55:36 error: uncaughtException: listen EADDRINUSE: address already in use :::5210
+Error: listen EADDRINUSE: address already in use :::5210
+    at Server.setupListenHandle [as _listen2] (node:net:1817:16)
+    at listenInCluster (node:net:1865:12)
+    at Server.listen (node:net:1953:7)
+    at Function.listen (C:\Users\gorel\Documents\Projects\k-chat-pdf\server\node_modules\express\lib\application.js:618:24)
+    at App (C:\Users\gorel\Documents\Projects\k-chat-pdf\server\src\app.ts:436:28)
+    at startServer (C:\Users\gorel\Documents\Projects\k-chat-pdf\server\src\server.ts:6:8)
+    at Object.<anonymous> (C:\Users\gorel\Documents\Projects\k-chat-pdf\server\src\server.ts:9:1)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module.m._compile (C:\Users\gorel\Documents\Projects\k-chat-pdf\server\node_modules\ts-node\src\index.ts:1371:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\gorel\Documents\Projects\k-chat-pdf\server\node_modules\ts-node\src\index.ts:1374:12)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:128:12)
+    at main (C:\Users\gorel\Documents\Projects\k-chat-pdf\server\node_modules\ts-node\src\bin.ts:331:12)
+    at Object.<anonymous> (C:\Users\gorel\Documents\Projects\k-chat-pdf\server\node_modules\ts-node\src\bin.ts:482:3)
+2024-09-06 15:57:19 error: uncaughtException: Load Failed: ./F1040EZ.pdf - Error: ENOENT: no such file or directory, stat './F1040EZ.pdf'
+Error: Load Failed: ./F1040EZ.pdf - Error: ENOENT: no such file or directory, stat './F1040EZ.pdf'
+    at Object.p2jerror (C:\Users\gorel\Documents\Projects\k-chat-pdf\server\node_modules\pdf2json\lib\pdfjs-code.js:206:8)
+    at fi.loadPDF (C:\Users\gorel\Documents\Projects\k-chat-pdf\server\node_modules\pdf2json\pdfparser.js:226:13)
+    at fileToJson (C:\Users\gorel\Documents\Projects\k-chat-pdf\server\src\controllers\ia.controller.ts:48:15)
+    at Layer.handle [as handle_request] (C:\Users\gorel\Documents\Projects\k-chat-pdf\server\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\gorel\Documents\Projects\k-chat-pdf\server\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\gorel\Documents\Projects\k-chat-pdf\server\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\gorel\Documents\Projects\k-chat-pdf\server\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\gorel\Documents\Projects\k-chat-pdf\server\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\gorel\Documents\Projects\k-chat-pdf\server\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\gorel\Documents\Projects\k-chat-pdf\server\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\gorel\Documents\Projects\k-chat-pdf\server\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\gorel\Documents\Projects\k-chat-pdf\server\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\gorel\Documents\Projects\k-chat-pdf\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\gorel\Documents\Projects\k-chat-pdf\server\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\gorel\Documents\Projects\k-chat-pdf\server\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\gorel\Documents\Projects\k-chat-pdf\server\node_modules\express\lib\router\index.js:335:12)
+2024-09-06 16:01:47 error: uncaughtException: Load Failed: http://localhost:5210/public/1725652907485.pdf - Error: ENOENT: no such file or directory, stat 'http://localhost:5210/public/1725652907485.pdf'
+Error: Load Failed: http://localhost:5210/public/1725652907485.pdf - Error: ENOENT: no such file or directory, stat 'http://localhost:5210/public/1725652907485.pdf'
+    at Object.p2jerror (C:\Users\gorel\Documents\Projects\k-chat-pdf\server\node_modules\pdf2json\lib\pdfjs-code.js:206:8)
+    at fi.loadPDF (C:\Users\gorel\Documents\Projects\k-chat-pdf\server\node_modules\pdf2json\pdfparser.js:226:13)
+    at C:\Users\gorel\Documents\Projects\k-chat-pdf\server\src\controllers\ia.controller.ts:44:27
+    at FSReqCallback.oncomplete (node:fs:192:23)
+2024-09-06 16:22:50 error: uncaughtException: Cannot set headers after they are sent to the client
+Error [ERR_HTTP_HEADERS_SENT]: Cannot set headers after they are sent to the client
+    at new NodeError (node:internal/errors:405:5)
+    at ServerResponse.setHeader (node:_http_outgoing:648:11)
+    at ServerResponse.header (C:\Users\gorel\Documents\Projects\k-chat-pdf\server\node_modules\express\lib\response.js:771:10)
+    at ServerResponse.send (C:\Users\gorel\Documents\Projects\k-chat-pdf\server\node_modules\express\lib\response.js:170:12)
+    at ServerResponse.json (C:\Users\gorel\Documents\Projects\k-chat-pdf\server\node_modules\express\lib\response.js:267:15)
+    at fi.<anonymous> (C:\Users\gorel\Documents\Projects\k-chat-pdf\server\src\controllers\ia.controller.ts:51:37)
+    at fi.emit (node:events:529:35)
+    at fi.emit (node:domain:489:12)
+    at fi.onPDFJSParseDataReady (C:\Users\gorel\Documents\Projects\k-chat-pdf\server\node_modules\pdf2json\pdfparser.js:117:9)
+    at ci.<anonymous> (C:\Users\gorel\Documents\Projects\k-chat-pdf\server\node_modules\pdf2json\pdfparser.js:139:9)
+    at ci.emit (node:events:529:35)
+    at ci.emit (node:domain:489:12)
+    at C:\Users\gorel\Documents\Projects\k-chat-pdf\server\node_modules\pdf2json\lib\pdf.js:187:31
+    at processTicksAndRejections (node:internal/process/task_queues:77:11)

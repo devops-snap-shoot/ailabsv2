@@ -1,0 +1,1 @@
+2022-09-28 11:01:17 error: [GET] /api/clients/getClients >> StatusCode:: 401, Message:: Wrong authentication token

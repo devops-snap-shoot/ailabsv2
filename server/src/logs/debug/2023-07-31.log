@@ -1,0 +1,19 @@
+2023-07-31 14:58:39 info: =================================
+2023-07-31 14:58:39 info: ======= ENV: development =======
+2023-07-31 14:58:39 info: 🚀 App listening on the port 5211
+2023-07-31 14:58:39 info: =================================
+2023-07-31 15:20:32 error: [POST] /api/login >> StatusCode:: 500, Message:: connection timed out
+2023-07-31 15:20:32 info: [0mPOST /api/login [31m500[0m 30036.185 ms - 34[0m
+2023-07-31 15:21:30 error: [POST] /api/login >> StatusCode:: 500, Message:: connection timed out
+2023-07-31 15:21:30 info: [0mPOST /api/login [31m500[0m 30009.850 ms - 34[0m
+2023-07-31 15:23:45 info: [0mPOST /api/ia/chat [33m400[0m 138.906 ms - 50[0m
+2023-07-31 15:24:27 info: [0mPOST /api/ia/chat [33m400[0m 129.146 ms - 50[0m
+2023-07-31 15:25:58 info: =================================
+2023-07-31 15:25:58 info: ======= ENV: development =======
+2023-07-31 15:25:58 info: 🚀 App listening on the port 5211
+2023-07-31 15:25:58 info: =================================
+2023-07-31 15:26:30 info: [0mPOST /api/ia/chat [33m400[0m 625.983 ms - 49[0m
+2023-07-31 15:27:17 info: [0mPOST /api/ia/chat [33m400[0m 582.255 ms - 49[0m
+2023-07-31 15:27:30 info: [0mPOST /api/ia/chat [33m400[0m 578.111 ms - 49[0m
+2023-07-31 15:29:18 info: [0mPOST /api/ia/upload_pdf [32m200[0m 5014.902 ms - 55[0m
+2023-07-31 15:29:52 info: [0mPOST /api/ia/chat [32m200[0m 14717.549 ms - -[0m

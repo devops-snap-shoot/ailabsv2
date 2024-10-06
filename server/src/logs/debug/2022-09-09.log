@@ -1,0 +1,8 @@
+2022-09-09 16:17:46 info: =================================
+2022-09-09 16:17:46 info: ======= ENV: development =======
+2022-09-09 16:17:46 info: 🚀 App listening on the port 5103
+2022-09-09 16:17:46 info: =================================
+2022-09-09 17:09:17 info: [0mPOST /api/logout [32m200[0m 131.735 ms - 403[0m
+2022-09-09 17:09:29 info: [0mPOST /api/login [32m200[0m 155.764 ms - 585[0m
+2022-09-09 17:09:31 info: [0mGET /api/clients/getClients [32m200[0m 155.044 ms - 704[0m
+2022-09-09 17:09:38 info: [0mGET /api/orders/getWorkOrders [32m201[0m 149.699 ms - 40[0m

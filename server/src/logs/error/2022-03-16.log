@@ -1,0 +1,21 @@
+2022-03-16 09:49:21 error: uncaughtException: listen EADDRINUSE: address already in use :::5000
+Error: listen EADDRINUSE: address already in use :::5000
+    at Server.setupListenHandle [as _listen2] (net.js:1331:16)
+    at listenInCluster (net.js:1379:12)
+    at Server.listen (net.js:1465:7)
+    at Function.listen (C:\Users\gorel\Documents\KauelWorks\teleton_motion_tracker\server\node_modules\express\lib\application.js:618:24)
+    at App.listen (C:\Users\gorel\Documents\KauelWorks\teleton_motion_tracker\server\src\app.ts:48:18)
+    at startServer (C:\Users\gorel\Documents\KauelWorks\teleton_motion_tracker\server\src\server.ts:17:9)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+2022-03-16 12:36:48 error: [POST] /auth/login >> StatusCode:: 400, Message:: email must be an email, password must be a string
+2022-03-16 12:37:35 error: [POST] /auth/login >> StatusCode:: 400, Message:: email must be an email, password must be a string
+2022-03-16 12:38:19 error: [POST] /auth/login >> StatusCode:: 400, Message:: email must be an email, password must be a string
+2022-03-16 12:38:22 error: [POST] /auth/login >> StatusCode:: 400, Message:: email must be an email, password must be a string
+2022-03-16 12:38:23 error: [POST] /auth/login >> StatusCode:: 400, Message:: email must be an email, password must be a string
+2022-03-16 12:38:24 error: [POST] /auth/login >> StatusCode:: 400, Message:: email must be an email, password must be a string
+2022-03-16 12:38:25 error: [POST] /auth/login >> StatusCode:: 400, Message:: email must be an email, password must be a string
+2022-03-16 12:41:45 error: [POST] /auth/login >> StatusCode:: 400, Message:: email must be an email, password must be a string
+2022-03-16 12:42:11 error: [POST] /auth/login >> StatusCode:: 400, Message:: email must be an email, password must be a string
+2022-03-16 12:42:22 error: [POST] /auth/login >> StatusCode:: 400, Message:: email must be an email, password must be a string
+2022-03-16 16:17:41 error: [GET] / >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\KauelWorks\teleton_motion_tracker\client\build\index.html'
+2022-03-16 16:17:41 error: [GET] /favicon.ico >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\KauelWorks\teleton_motion_tracker\client\build\index.html'

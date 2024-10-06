@@ -1,0 +1,29 @@
+2023-07-04 13:30:55 error: uncaughtException: Cannot read properties of undefined (reading 'data')
+TypeError: Cannot read properties of undefined (reading 'data')
+    at /home/kauel/imkchat/server/src/controllers/ia.controller.ts:36:61
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-07-04 13:34:25 error: uncaughtException: Cannot read properties of undefined (reading 'data')
+TypeError: Cannot read properties of undefined (reading 'data')
+    at /home/kauel/imkchat/server/src/controllers/ia.controller.ts:37:61
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-07-04 13:47:24 error: uncaughtException: Cannot read properties of undefined (reading 'data')
+TypeError: Cannot read properties of undefined (reading 'data')
+    at /home/kauel/imkchat/server/src/controllers/ia.controller.ts:36:61
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-07-04 13:48:01 error: uncaughtException: Cannot read properties of undefined (reading 'data')
+TypeError: Cannot read properties of undefined (reading 'data')
+    at /home/kauel/imkchat/server/src/controllers/ia.controller.ts:37:61
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-07-04 13:48:54 error: uncaughtException: Cannot read properties of undefined (reading 'data')
+TypeError: Cannot read properties of undefined (reading 'data')
+    at /home/kauel/imkchat/server/src/controllers/ia.controller.ts:38:61
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-07-04 23:00:26 error: uncaughtException: Cannot read properties of undefined (reading 'data')
+TypeError: Cannot read properties of undefined (reading 'data')
+    at /home/kauel/imkchat/server/src/controllers/ia.controller.ts:76:57
+2023-07-04 23:02:36 error: uncaughtException: Cannot read properties of undefined (reading 'data')
+TypeError: Cannot read properties of undefined (reading 'data')
+    at /home/kauel/imkchat/server/src/controllers/ia.controller.ts:77:57
+2023-07-04 23:06:57 error: uncaughtException: Cannot read properties of undefined (reading 'data')
+TypeError: Cannot read properties of undefined (reading 'data')
+    at /home/kauel/imkchat/server/src/controllers/ia.controller.ts:79:57

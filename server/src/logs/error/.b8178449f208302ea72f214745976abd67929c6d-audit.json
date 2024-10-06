@@ -1,0 +1,24 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "/home/kauel/imkchat-app-dev/imkchat/server/src/logs/error/.b8178449f208302ea72f214745976abd67929c6d-audit.json",
+    "files": [
+        {
+            "date": 1697490806850,
+            "name": "/home/kauel/imkchat-app-dev/imkchat/server/src/logs/error/2023-10-16.log",
+            "hash": "48bcf24ac5631bcd069b2527e0e57478"
+        },
+        {
+            "date": 1697663288365,
+            "name": "/home/kauel/imkchat-app-dev/imkchat/server/src/logs/error/2023-10-18.log",
+            "hash": "8118442f305cb68d67f1139a24bf7022"
+        },
+        {
+            "date": 1697716829126,
+            "name": "/home/kauel/imkchat-app-dev/imkchat/server/src/logs/error/2023-10-19.log",
+            "hash": "ce9c363a3b012df56d20d28c231682a7"
+        }
+    ]
+}

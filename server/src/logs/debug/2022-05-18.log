@@ -1,0 +1,139 @@
+2022-05-18 10:53:44 info: =================================
+2022-05-18 10:53:44 info: ======= ENV: development =======
+2022-05-18 10:53:44 info: 🚀 App listening on the port 5100
+2022-05-18 10:53:44 info: =================================
+2022-05-18 10:54:48 info: =================================
+2022-05-18 10:54:48 info: ======= ENV: development =======
+2022-05-18 10:54:48 info: 🚀 App listening on the port 5100
+2022-05-18 10:54:48 info: =================================
+2022-05-18 11:01:19 info: [0mPOST /api/auth/login [32m200[0m 173.480 ms - 651[0m
+2022-05-18 11:20:27 info: =================================
+2022-05-18 11:20:27 info: ======= ENV: development =======
+2022-05-18 11:20:27 info: 🚀 App listening on the port 5100
+2022-05-18 11:20:27 info: =================================
+2022-05-18 11:22:43 info: =================================
+2022-05-18 11:22:43 info: ======= ENV: development =======
+2022-05-18 11:22:43 info: 🚀 App listening on the port 5100
+2022-05-18 11:22:43 info: =================================
+2022-05-18 11:24:08 info: =================================
+2022-05-18 11:24:08 info: ======= ENV: development =======
+2022-05-18 11:24:08 info: 🚀 App listening on the port 5100
+2022-05-18 11:24:08 info: =================================
+2022-05-18 11:28:44 info: =================================
+2022-05-18 11:28:44 info: ======= ENV: development =======
+2022-05-18 11:28:44 info: 🚀 App listening on the port 5100
+2022-05-18 11:28:44 info: =================================
+2022-05-18 11:29:12 info: =================================
+2022-05-18 11:29:12 info: ======= ENV: development =======
+2022-05-18 11:29:12 info: 🚀 App listening on the port 5100
+2022-05-18 11:29:12 info: =================================
+2022-05-18 11:40:02 info: [0mPOST /api/auth/login [32m200[0m 159.461 ms - 651[0m
+2022-05-18 11:46:50 info: =================================
+2022-05-18 11:46:50 info: ======= ENV: development =======
+2022-05-18 11:46:50 info: 🚀 App listening on the port 5100
+2022-05-18 11:46:50 info: =================================
+2022-05-18 11:54:27 info: =================================
+2022-05-18 11:54:27 info: ======= ENV: development =======
+2022-05-18 11:54:27 info: 🚀 App listening on the port 5100
+2022-05-18 11:54:27 info: =================================
+2022-05-18 11:54:45 info: [0mPOST /api/auth/login [32m200[0m 189.599 ms - 651[0m
+2022-05-18 11:54:45 error: [GET] /api/roles/getRoles >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Tesso\PDG_APP\APP\sac-client\build\index.html'
+2022-05-18 11:55:12 info: =================================
+2022-05-18 11:55:12 info: ======= ENV: development =======
+2022-05-18 11:55:12 info: 🚀 App listening on the port 5100
+2022-05-18 11:55:12 info: =================================
+2022-05-18 11:55:20 info: [0mPOST /api/auth/login [32m200[0m 173.389 ms - 651[0m
+2022-05-18 11:55:20 error: [GET] /api/roles/getRoles >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Tesso\PDG_APP\APP\sac-client\build\index.html'
+2022-05-18 11:56:31 info: =================================
+2022-05-18 11:56:31 info: ======= ENV: development =======
+2022-05-18 11:56:31 info: 🚀 App listening on the port 5100
+2022-05-18 11:56:31 info: =================================
+2022-05-18 11:56:35 info: [0mPOST /api/auth/login [32m200[0m 167.043 ms - 651[0m
+2022-05-18 11:56:35 error: [GET] /api/roles/getRoles >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Tesso\PDG_APP\APP\sac-client\build\index.html'
+2022-05-18 11:56:39 info: [0mPOST /api/auth/login [32m200[0m 138.062 ms - 651[0m
+2022-05-18 11:56:39 error: [GET] /api/roles/getRoles >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Tesso\PDG_APP\APP\sac-client\build\index.html'
+2022-05-18 12:01:32 info: =================================
+2022-05-18 12:01:32 info: ======= ENV: development =======
+2022-05-18 12:01:32 info: 🚀 App listening on the port 5100
+2022-05-18 12:01:32 info: =================================
+2022-05-18 12:01:46 info: [0mPOST /api/auth/login [32m200[0m 158.915 ms - 651[0m
+2022-05-18 12:04:42 info: =================================
+2022-05-18 12:04:42 info: ======= ENV: development =======
+2022-05-18 12:04:42 info: 🚀 App listening on the port 5100
+2022-05-18 12:04:42 info: =================================
+2022-05-18 12:04:45 info: [0mPOST /api/auth/login [32m200[0m 163.781 ms - 651[0m
+2022-05-18 12:09:20 info: [0mPOST /api/auth/login [32m200[0m 134.562 ms - 651[0m
+2022-05-18 12:09:34 info: [0mPOST /api/auth/login [32m200[0m 129.159 ms - 651[0m
+2022-05-18 12:10:48 info: =================================
+2022-05-18 12:10:48 info: ======= ENV: development =======
+2022-05-18 12:10:48 info: 🚀 App listening on the port 5100
+2022-05-18 12:10:48 info: =================================
+2022-05-18 12:10:53 info: [0mPOST /api/auth/login [32m200[0m 164.044 ms - 651[0m
+2022-05-18 12:11:05 info: [0mPOST /api/auth/login [32m200[0m 149.862 ms - 651[0m
+2022-05-18 12:12:13 info: =================================
+2022-05-18 12:12:13 info: ======= ENV: development =======
+2022-05-18 12:12:13 info: 🚀 App listening on the port 5100
+2022-05-18 12:12:13 info: =================================
+2022-05-18 12:12:19 info: [0mPOST /api/auth/login [32m200[0m 180.823 ms - 651[0m
+2022-05-18 12:13:21 info: =================================
+2022-05-18 12:13:21 info: ======= ENV: development =======
+2022-05-18 12:13:21 info: 🚀 App listening on the port 5100
+2022-05-18 12:13:21 info: =================================
+2022-05-18 12:13:26 info: [0mPOST /api/auth/login [32m200[0m 164.786 ms - 651[0m
+2022-05-18 12:23:44 info: =================================
+2022-05-18 12:23:44 info: ======= ENV: development =======
+2022-05-18 12:23:44 info: 🚀 App listening on the port 5100
+2022-05-18 12:23:44 info: =================================
+2022-05-18 12:23:49 info: [0mPOST /api/auth/login [32m200[0m 174.594 ms - 651[0m
+2022-05-18 12:24:33 info: =================================
+2022-05-18 12:24:33 info: ======= ENV: development =======
+2022-05-18 12:24:33 info: 🚀 App listening on the port 5100
+2022-05-18 12:24:33 info: =================================
+2022-05-18 12:24:37 info: [0mPOST /api/auth/login [32m200[0m 163.692 ms - 651[0m
+2022-05-18 12:24:37 info: [0mGET /api/roles/getRoles [32m200[0m 75.432 ms - 581[0m
+2022-05-18 12:25:57 info: =================================
+2022-05-18 12:25:57 info: ======= ENV: development =======
+2022-05-18 12:25:57 info: 🚀 App listening on the port 5100
+2022-05-18 12:25:57 info: =================================
+2022-05-18 12:26:07 info: [0mPOST /api/auth/login [32m200[0m 161.565 ms - 651[0m
+2022-05-18 12:26:07 info: [0mGET /api/roles/getRoles [32m200[0m 78.242 ms - 581[0m
+2022-05-18 12:27:21 info: =================================
+2022-05-18 12:27:21 info: ======= ENV: development =======
+2022-05-18 12:27:21 info: 🚀 App listening on the port 5100
+2022-05-18 12:27:21 info: =================================
+2022-05-18 12:27:39 info: [0mPOST /api/auth/login [32m200[0m 166.122 ms - 651[0m
+2022-05-18 12:27:40 info: [0mGET /api/roles/getRoles [32m200[0m 78.059 ms - 581[0m
+2022-05-18 14:38:26 info: [0mPOST /api/auth/login [32m200[0m 159.763 ms - 651[0m
+2022-05-18 14:38:27 info: [0mGET /api/roles/getRoles [36m304[0m 82.383 ms - -[0m
+2022-05-18 14:39:52 info: [0mPOST /api/auth/login [32m200[0m 128.438 ms - 651[0m
+2022-05-18 14:39:52 info: [0mGET /api/roles/getRoles [36m304[0m 81.791 ms - -[0m
+2022-05-18 14:56:06 info: [0mPOST /api/auth/login [32m200[0m 131.565 ms - 651[0m
+2022-05-18 14:56:06 info: [0mGET /api/roles/getRoles [36m304[0m 86.632 ms - -[0m
+2022-05-18 15:04:41 info: [0mPOST /api/auth/login [32m200[0m 136.158 ms - 651[0m
+2022-05-18 15:04:42 info: [0mGET /api/roles/getRoles [36m304[0m 73.139 ms - -[0m
+2022-05-18 15:08:25 info: [0mPOST /api/auth/login [32m200[0m 132.700 ms - 651[0m
+2022-05-18 15:08:25 info: [0mGET /api/roles/getRoles [36m304[0m 75.382 ms - -[0m
+2022-05-18 15:11:09 info: [0mPOST /api/auth/login [32m200[0m 142.328 ms - 651[0m
+2022-05-18 15:11:09 info: [0mGET /api/roles/getRoles [36m304[0m 76.414 ms - -[0m
+2022-05-18 15:47:18 info: [0mPOST /api/auth/login [32m200[0m 139.422 ms - 651[0m
+2022-05-18 15:47:19 info: [0mGET /api/roles/getRoles [36m304[0m 73.385 ms - -[0m
+2022-05-18 15:53:49 info: [0mPOST /api/auth/login [32m200[0m 136.385 ms - 651[0m
+2022-05-18 15:53:49 info: [0mGET /api/roles/getRoles [36m304[0m 78.781 ms - -[0m
+2022-05-18 15:54:34 info: [0mPOST /api/auth/login [32m200[0m 150.171 ms - 651[0m
+2022-05-18 15:54:34 info: [0mGET /api/roles/getRoles [36m304[0m 76.736 ms - -[0m
+2022-05-18 17:43:49 info: [0mPOST /api/auth/login [32m200[0m 150.251 ms - 651[0m
+2022-05-18 17:43:49 info: [0mGET /api/roles/getRoles [36m304[0m 81.222 ms - -[0m
+2022-05-18 19:22:38 info: [0mPOST /api/auth/login [32m200[0m 132.015 ms - 651[0m
+2022-05-18 19:22:38 info: [0mGET /api/roles/getRoles [36m304[0m 78.282 ms - -[0m
+2022-05-18 19:42:01 info: [0mPOST /api/auth/login [32m200[0m 159.045 ms - 651[0m
+2022-05-18 19:42:01 info: [0mGET /api/roles/getRoles [36m304[0m 77.261 ms - -[0m
+2022-05-18 20:03:17 info: [0mPOST /api/auth/login [32m200[0m 142.082 ms - 651[0m
+2022-05-18 20:03:17 info: [0mGET /api/roles/getRoles [36m304[0m 75.140 ms - -[0m
+2022-05-18 20:09:05 info: [0mPOST /api/auth/login [32m200[0m 154.548 ms - 651[0m
+2022-05-18 20:09:05 info: [0mGET /api/roles/getRoles [36m304[0m 77.460 ms - -[0m
+2022-05-18 20:12:14 info: [0mPOST /api/auth/login [32m200[0m 153.279 ms - 651[0m
+2022-05-18 20:12:14 info: [0mGET /api/roles/getRoles [36m304[0m 86.852 ms - -[0m
+2022-05-18 20:26:44 info: [0mPOST /api/auth/login [32m200[0m 142.211 ms - 651[0m
+2022-05-18 20:26:45 info: [0mGET /api/roles/getRoles [36m304[0m 78.303 ms - -[0m
+2022-05-18 20:30:19 info: [0mPOST /api/auth/login [32m200[0m 135.815 ms - 651[0m
+2022-05-18 20:30:19 info: [0mGET /api/roles/getRoles [36m304[0m 78.433 ms - -[0m

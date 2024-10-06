@@ -1,0 +1,29 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "C:\\Users\\gorel\\Documents\\KauelWorks\\Ionic-Boilerplate\\server\\src\\logs\\debug\\.1989039ebca974f426d71f59811842cd1c47a0e4-audit.json",
+    "files": [
+        {
+            "date": 1666806101121,
+            "name": "C:\\Users\\gorel\\Documents\\KauelWorks\\Ionic-Boilerplate\\server\\src\\logs\\debug\\2022-10-26.log",
+            "hash": "73da29a155e5d58120432def713f61cb"
+        },
+        {
+            "date": 1666867205395,
+            "name": "C:\\Users\\gorel\\Documents\\KauelWorks\\Ionic-Boilerplate\\server\\src\\logs\\debug\\2022-10-27.log",
+            "hash": "8b2ed9900790fdffc9e2af3af77da375"
+        },
+        {
+            "date": 1667397446507,
+            "name": "C:\\Users\\gorel\\Documents\\KauelWorks\\Ionic-Boilerplate\\server\\src\\logs\\debug\\2022-11-02.log",
+            "hash": "460308dc2f9e7fc72843ec7dd473e549"
+        },
+        {
+            "date": 1667480718064,
+            "name": "C:\\Users\\gorel\\Documents\\KauelWorks\\Ionic-Boilerplate\\server\\src\\logs\\debug\\2022-11-03.log",
+            "hash": "bcb733a4d3425e2cf4c35e1c1938bc7d"
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+2022-05-24 13:36:53 error: [POST] /api/auth/login >> StatusCode:: 409, Message:: Contraseña incorrecta
+2022-05-24 13:36:55 error: [POST] /api/auth/login >> StatusCode:: 409, Message:: Contraseña incorrecta
+2022-05-24 13:38:56 error: [POST] /api/auth/login >> StatusCode:: 409, Message:: Contraseña incorrecta
+2022-05-24 13:40:19 error: [POST] /api/auth/login >> StatusCode:: 409, Message:: Contraseña incorrecta
+2022-05-24 13:40:24 error: [POST] /api/auth/login >> StatusCode:: 409, Message:: Contraseña incorrecta
+2022-05-24 16:43:23 error: [POST] /api/auth/login >> StatusCode:: 409, Message:: Contraseña incorrecta
+2022-05-24 17:22:51 error: [POST] /api/auth/login >> StatusCode:: 409, Message:: Contraseña incorrecta

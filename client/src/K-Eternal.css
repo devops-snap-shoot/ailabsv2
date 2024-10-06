@@ -1,0 +1,442 @@
+@font-face {
+    font-family: "Montserrat";
+    src: url(./static/Montserrat-Regular.ttf);
+}
+
+@font-face {
+    font-family: "Poppins";
+    src: url(./static/Poppins-Regular.ttf);
+}
+
+@font-face {
+    font-family: "Manrope";
+    src: url(./static/Manrope-Regular.ttf);
+}
+
+@font-face {
+    font-family: "Inter";
+    src: url(./static/Inter-Regular.ttf);
+}
+
+ion-grid, ion-row, ion-col {
+    padding: 0px;
+}
+
+/*  */
+
+ion-popover {
+    --width: auto;
+    --min-width: 200px;
+}
+
+/*  */
+
+.eye-button {
+    --color: #333A4D !important;
+}
+
+.full-display {
+    height: 100%;
+    width: 100%;
+}
+
+.to-click {
+    cursor: pointer;
+}
+
+.bg-container {
+    background-color: var(--k-eternal-bg);
+}
+
+.text-align-center {
+    text-align: center;
+}
+
+.padding-30 {
+    padding: 30px;
+}
+
+.padding-left-120 {
+    padding-left: 120px;
+}
+
+.container-navbar {
+    padding-left: 120px;
+}
+
+.margin-top-10 {
+    margin-top: 10px !important;
+}
+
+/* SMARTPHONE */
+
+
+
+/* CHAT */
+
+.chatUser-keternal {
+    padding: 18.35px 24px;
+    border-radius: 20px;
+    background-color: #ABC2D499;
+    color: #FFFFFF;
+}
+
+.chatBot-keternal {
+    padding: 18.35px 24px;
+    border-radius: 20px;
+    background-color: #F4F4FB;
+    color: #333A4D;
+}
+
+.chatMain {
+    padding-top: 0px;
+    height: 100%;
+    overflow-y: auto;
+}
+
+.chatContainer {
+    box-sizing: border-box;
+    /* border: 1px solid #FFFFFF; */
+    /* border-radius: 20px; */
+    position: relative;
+    flex: auto;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 0px;
+    padding-left: 4px;
+    padding-right: 5px;
+}
+
+.chatContainerHeight {
+    height: 60vh;
+}
+
+.chatContainerMobileWithAvatar {
+    height: 45vh;
+}
+
+.chatContainerMobileWithOutAvatar {
+    height: 70vh;
+}
+
+.chatContainerData {
+    overflow-y: auto;
+    /* height: 100%; */
+    padding: 0px 5px;
+}
+
+
+#container-avatar {
+    max-height: 60vh;
+}
+#content-avatar {
+    max-height: 60vh;
+}
+.chatBot-keternal-padding {
+    margin-right: 25%;
+}
+.chatUser-keternal-padding {
+    margin-left: 25%;
+}
+
+@media screen and (max-width: 767px) {
+    /* .listContainer {
+        display: none;
+    } */
+    .chatContainer {
+        max-height: 45vh;
+    }
+    #container-avatar {
+        height: 25vh;
+    }
+    #content-avatar {
+        height: 25vh;
+    }
+    .chatBot-keternal {
+        padding: 10px 15px;
+    }
+    .chatUser-keternal {
+        padding: 10px 15px;
+    }
+    .chatBot-keternal-padding {
+        margin-right: 10%;
+    }
+    .chatUser-keternal-padding {
+        margin-left: 10%;
+    }
+}
+
+.copy-icon {
+    /* position: absolute;
+    top: 16px;
+    right: 16px;
+    cursor: pointer;
+    max-width: 674px; */
+    --background: transparentize(100);
+    --background-hover: #FFFFFF;
+    --box-shadow:none;
+}
+
+.chatUser {
+    padding: 5px 10px 0px 20px;
+    /* visibility: hidden; */
+}
+
+.userIdentificator {
+    display: table-cell;
+    background-color: #0078AB;
+    width: 51px;
+    height: 43px;
+    text-align: center;
+    vertical-align: middle;
+    font-size: 19px;
+    color: #fff;
+    margin: 0px;
+    border-radius: 99px 99px 0px 99px;
+}
+
+.messageText {
+    margin: 0px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    /* font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    display: flex;
+    align-items: center;
+    color: #232323;
+    margin-left: 16px;
+    white-space: pre-line;
+    text-align: justify; */
+}
+
+.chatBot {
+    padding: 5px 10px 0px 20px;
+    box-sizing: border-box;
+    background: #E8E8E8;
+    /* visibility: hidden; */
+}
+
+.botIdentificator {
+    display: table-cell;
+    background-color: #FF5500;
+    width: 51px;
+    height: 43px;
+    text-align: center;
+    vertical-align: middle;
+    font-size: 19px;
+    color: #fff;
+    margin: 0px;
+    border-radius: 99px 99px 0px 99px;
+}
+
+.textContainer {
+    margin-top: 28px;
+    height: 52px;
+    position: relative;
+    /* max-width: 674px; */
+    flex: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.textItem {
+    box-sizing: border-box;
+    position: relative;
+    width: 100%;
+    min-height: 66.53px;
+    background: transparent;
+    border: 1px solid #5E6F9D;
+    border-radius: 20px;
+    padding-right: 120px;
+    padding-left: 16px;
+}
+
+.textItemInputs {
+    width: 100%;
+    font-size: 18px;
+    font-weight: 400;
+    font-family: 'Poppins';
+    border-color: transparent;
+    --height: 24px;
+    overflow-y: none;
+    text-decoration: none !important;
+    --highlight-color-focused: none;
+}
+
+.native-textarea {
+    padding-bottom: 0px !important;
+}
+
+ion-input.has-focus {
+    border: transparent;
+    outline: none;
+}
+
+.voiceMessageButton {
+    position: absolute;
+    width: 102px;
+    height: 56px;
+    right: 110px;
+    top: 0px;
+    /* background: linear-gradient(90deg, #FF5500 0%, #FF4500 100%); */
+    box-shadow: 0px 4px 20px rgba(255, 198, 0, 0.1);
+    border-radius: 99px;
+    cursor: pointer;
+}
+
+.sendMessageButton {
+    position: absolute;
+    width: 102px;
+    height: 56px;
+    right: 0px;
+    top: 0px;
+    /* background: linear-gradient(90deg, #FF5500 0%, #FF4500 100%); */
+    box-shadow: 0px 4px 20px rgba(255, 198, 0, 0.1);
+    border-radius: 99px;
+    cursor: pointer;
+}
+
+#avatar-avatar-canvas {
+    position: absolute;
+    top: 0px;
+    border-radius: 20px;
+}
+
+.home-toolbar {
+    padding-right: 30px;
+}
+
+.home-toolbar-button-active {
+    --box-shadow: 4px 6px 6px 1px rgba(0, 0, 0, 0.2) !important;
+    height: 50px !important;
+    width: 50px !important;
+    --border-radius: 20px !important;
+    margin-left: 20px !important;
+    --background: var(--k-eternal-inputs-bg) !important;
+}
+
+.home-toolbar-button-inactive {
+    --box-shadow: 4px 6px 6px 1px rgba(0, 0, 0, 0.2) !important;
+    height: 50px !important;
+    width: 50px !important;
+    --border-radius: 20px !important;
+    margin-left: 20px !important;
+}
+
+/* NAVBAR */
+
+.navBar {
+    position: absolute;
+    z-index: 1000;
+    left: 0px;
+    top: 0px;
+    height: 100vh;
+    min-width: 108px;
+    background-color: var(--k-eternal-navbar-bg);
+}
+
+.navBar-container {
+    padding: 30px;
+    width: 100%;
+}
+
+.navBar-button {
+    height: 48px !important;
+    min-width: 48px !important;
+    --padding-start: 0px !important;
+    --padding-end: 0px !important;
+}
+
+ion-text {
+    color: var(--k-eternal-button);
+}
+
+.login-component {
+    margin-top: 50px;
+    border-radius: 8px;
+    background-color: #FFFFFF;
+}
+
+p.title-login {
+    font-size: 22px;
+    font-weight: 700;
+    font-family: 'Poppins';
+    text-align: center;
+}
+
+p.label-input-k-eternal {
+    margin: 19px 0px;
+    font-family: 'Inter';
+    font-weight: 700;
+    size: 16px;
+}
+
+input.input-k-eternal {
+    width: 100%;
+    height: 51px;
+    border-radius: 4px;
+    border: 1px #CBD5E1 solid;
+    background-color: #F5F7F9;
+}
+
+button.login-button {
+    border-radius: 4px;
+    padding: 9px 14px;
+    text-align: center;
+    gap: 10px;
+    /* background-color: var(--ion-color-primary); */
+    font-family: 'Poppins';
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 18px;
+    color: #FFFFFF;
+    width: 100%;
+    margin-top: 60px;
+}
+
+button.restore-password-button {
+    border-radius: 4px;
+    padding: 9px 14px;
+    text-align: center;
+    gap: 10px;
+    /* background-color: var(--ion-color-primary); */
+    font-family: 'Poppins';
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 18px;
+    color: #FFFFFF;
+    width: 100%;
+    margin-top: 10px;
+}
+
+button.DEFAULT {
+    background-color: var(--ion-color-primary);
+}
+
+button.K-ETERNAL {
+    background-color: var(--k-eternal-button);
+}
+
+button.K-ETERNAL-RESTORE-PASSWORD {
+    background-color: var(--k-eternal-button-second);
+}
+
+button.MEGALABS {
+    background-color: #4294886b;
+}
+
+/* SCROLLBAR */
+.chatMain::-webkit-scrollbar {
+    width: 12px;               /* width of the entire scrollbar */
+}
+
+.chatMain::-webkit-scrollbar-track {
+    background: transparent;        /* color of the tracking area */
+}
+
+.chatMain::-webkit-scrollbar-thumb {
+    background-color: var(--k-eternal-navbar-bg);    /* color of the scroll thumb */
+    border-radius: 20px;       /* roundness of the scroll thumb */
+    /* border: 3px solid orange; */  /* creates padding around scroll thumb */
+}  

@@ -1,0 +1,7 @@
+{
+  "name": "imKchat",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

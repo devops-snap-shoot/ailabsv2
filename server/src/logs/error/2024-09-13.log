@@ -1,0 +1,11 @@
+2024-09-13 01:25:12 error: uncaughtException: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/cachedContents: [503 Service Unavailable] The service is currently unavailable.
+Error: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/cachedContents: [503 Service Unavailable] The service is currently unavailable.
+    at handleResponseNotOk (C:\Users\gorel\Documents\Projects\k-chat-pdf\server\node_modules\@google\generative-ai\dist\server\index.js:129:11)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async makeRequest (C:\Users\gorel\Documents\Projects\k-chat-pdf\server\node_modules\@google\generative-ai\dist\server\index.js:102:9)
+    at async GoogleAICacheManager.list (C:\Users\gorel\Documents\Projects\k-chat-pdf\server\node_modules\@google\generative-ai\dist\server\index.js:505:26)
+    at async deleteAllCacheList (C:\Users\gorel\Documents\Projects\k-chat-pdf\server\src\controllers\ia.controller.ts:475:24)
+2024-09-13 02:35:55 error: uncaughtException: Cannot read properties of undefined (reading 'tastes')
+TypeError: Cannot read properties of undefined (reading 'tastes')
+    at newContextData (C:\Users\gorel\Documents\Projects\k-chat-pdf\server\src\controllers\ia.controller.ts:526:36)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)

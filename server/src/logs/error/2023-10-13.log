@@ -1,0 +1,10 @@
+2023-10-13 09:10:16 error: [POST] /api/organization/createOrg >> StatusCode:: 401, Message:: Wrong authentication token
+2023-10-13 09:11:22 error: [GET] /api/login >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Kauel_USA\imKchat\app\client\build\index.html'
+2023-10-13 10:15:58 error: [POST] /api/users/createUser >> StatusCode:: 401, Message:: Wrong authentication token
+2023-10-13 15:13:29 error: [POST] /api/login >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading 'toString')
+2023-10-13 15:14:30 error: [POST] /api/login >> StatusCode:: 410, Message:: organization not user
+2023-10-13 15:15:01 error: [POST] /api/login >> StatusCode:: 500, Message:: Cannot read properties of null (reading '_id')
+2023-10-13 15:15:05 error: [POST] /api/login >> StatusCode:: 500, Message:: Cannot read properties of null (reading '_id')
+2023-10-13 15:15:57 error: [POST] /api/login >> StatusCode:: 500, Message:: Cannot read properties of null (reading '_id')
+2023-10-13 15:16:48 error: [POST] /api/login >> StatusCode:: 410, Message:: organization not user
+2023-10-13 15:17:01 error: [POST] /api/login >> StatusCode:: 410, Message:: organization not user

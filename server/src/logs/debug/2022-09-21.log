@@ -1,0 +1,208 @@
+2022-09-21 00:18:10 info: [0mPOST /api/clients/editClient [32m200[0m 205.285 ms - 416[0m
+2022-09-21 00:18:18 info: =================================
+2022-09-21 00:18:18 info: ======= ENV: development =======
+2022-09-21 00:18:18 info: 🚀 App listening on the port 5103
+2022-09-21 00:18:18 info: =================================
+2022-09-21 00:19:52 info: [0mGET /api/clients/getClients [32m200[0m 196.259 ms - -[0m
+2022-09-21 00:20:54 info: [0mPOST /api/clients/editClient [32m200[0m 218.663 ms - 674[0m
+2022-09-21 00:22:31 info: =================================
+2022-09-21 00:22:31 info: ======= ENV: development =======
+2022-09-21 00:22:31 info: 🚀 App listening on the port 5103
+2022-09-21 00:22:31 info: =================================
+2022-09-21 00:23:52 info: [0mGET /api/clients/getClients [32m200[0m 175.768 ms - -[0m
+2022-09-21 00:23:55 info: [0mGET /api/clients/getClients [32m200[0m 176.338 ms - -[0m
+2022-09-21 00:23:58 info: [0mGET /api/orders/getWorkOrders [32m201[0m 243.559 ms - -[0m
+2022-09-21 00:24:00 info: [0mGET /api/clients/getClients [36m304[0m 167.774 ms - -[0m
+2022-09-21 00:24:43 info: [0mPOST /api/clients/editClient [32m200[0m 202.011 ms - 401[0m
+2022-09-21 00:27:19 info: [0mPOST /api/clients/editClient [32m200[0m 167.201 ms - 400[0m
+2022-09-21 00:28:02 info: [0mGET /api/orders/getWorkOrders [32m201[0m 247.250 ms - -[0m
+2022-09-21 00:29:09 info: [0mGET /api/clients/getClients [32m200[0m 155.339 ms - -[0m
+2022-09-21 00:29:51 info: [0mGET /api/clients/getClients [36m304[0m 154.513 ms - -[0m
+2022-09-21 00:30:54 info: [0mGET /api/clients/getClients [36m304[0m 154.643 ms - -[0m
+2022-09-21 00:31:07 info: [0mGET /api/clients/getClients [36m304[0m 161.833 ms - -[0m
+2022-09-21 00:31:28 info: [0mGET /api/clients/getClients [36m304[0m 153.177 ms - -[0m
+2022-09-21 00:31:34 info: [0mGET /api/clients/getClients [32m200[0m 155.865 ms - -[0m
+2022-09-21 00:33:04 info: [0mGET /api/clients/getClients [36m304[0m 147.041 ms - -[0m
+2022-09-21 00:33:46 info: [0mGET /api/clients/getClients [36m304[0m 150.920 ms - -[0m
+2022-09-21 00:34:15 info: [0mGET /api/users/getUsers [36m304[0m 153.910 ms - -[0m
+2022-09-21 00:34:18 info: [0mGET /api/clients/getClients [36m304[0m 151.480 ms - -[0m
+2022-09-21 00:34:28 info: [0mGET /api/clients/getClients [36m304[0m 159.887 ms - -[0m
+2022-09-21 00:34:31 info: [0mGET /api/orders/getWorkOrders [32m201[0m 236.509 ms - -[0m
+2022-09-21 00:37:35 info: [0mGET /api/clients/getClients [36m304[0m 149.311 ms - -[0m
+2022-09-21 00:37:39 info: [0mGET /api/users/getUsers [36m304[0m 153.184 ms - -[0m
+2022-09-21 00:37:48 info: [0mGET /api/orders/getWorkOrders [32m201[0m 237.298 ms - -[0m
+2022-09-21 00:38:14 info: [0mGET /api/users/getUsers [36m304[0m 150.198 ms - -[0m
+2022-09-21 00:38:29 info: [0mGET /api/orders/getWorkOrders [32m201[0m 234.302 ms - -[0m
+2022-09-21 00:44:49 info: [0mGET /api/orders/getWorkOrders [32m201[0m 240.157 ms - -[0m
+2022-09-21 00:44:49 info: [0mGET /api/clients/getClients [36m304[0m 147.939 ms - -[0m
+2022-09-21 00:44:59 info: [0mGET /api/orders/getNumberWorkOrders [32m201[0m 151.357 ms - 49[0m
+2022-09-21 00:45:01 info: [0mGET /api/users/getSupervisores [36m304[0m 158.497 ms - -[0m
+2022-09-21 00:45:15 info: [0mGET /api/users/getOperadores [36m304[0m 151.745 ms - -[0m
+2022-09-21 00:47:57 info: [0mGET /api/clients/getClients [36m304[0m 149.365 ms - -[0m
+2022-09-21 00:54:43 info: [0mGET /api/clients/getClients [36m304[0m 154.538 ms - -[0m
+2022-09-21 00:54:46 info: [0mGET /api/clients/getClients [36m304[0m 155.713 ms - -[0m
+2022-09-21 00:54:56 info: [0mGET /api/orders/getWorkOrders [32m201[0m 233.862 ms - -[0m
+2022-09-21 00:54:57 info: [0mGET /api/clients/getClients [36m304[0m 152.531 ms - -[0m
+2022-09-21 00:54:58 info: [0mGET /api/orders/getNumberWorkOrders [32m201[0m 145.691 ms - 49[0m
+2022-09-21 00:54:58 info: [0mGET /api/users/getSupervisores [36m304[0m 149.337 ms - -[0m
+2022-09-21 00:54:59 info: [0mGET /api/users/getOperadores [36m304[0m 149.121 ms - -[0m
+2022-09-21 00:55:02 info: [0mGET /api/clients/getClients [36m304[0m 162.185 ms - -[0m
+2022-09-21 00:56:56 info: [0mGET /api/clients/getClients [36m304[0m 150.681 ms - -[0m
+2022-09-21 00:57:25 info: [0mGET /api/clients/getClients [36m304[0m 146.671 ms - -[0m
+2022-09-21 01:02:40 info: [0mGET /api/clients/getClients [36m304[0m 181.513 ms - -[0m
+2022-09-21 01:04:07 info: [0mGET /api/clients/getClients [32m200[0m 161.076 ms - -[0m
+2022-09-21 01:06:35 info: [0mGET /api/clients/getClients [36m304[0m 151.383 ms - -[0m
+2022-09-21 01:08:19 info: =================================
+2022-09-21 01:08:19 info: ======= ENV: development =======
+2022-09-21 01:08:19 info: 🚀 App listening on the port 5103
+2022-09-21 01:08:19 info: =================================
+2022-09-21 01:08:46 info: =================================
+2022-09-21 01:08:46 info: ======= ENV: development =======
+2022-09-21 01:08:46 info: 🚀 App listening on the port 5103
+2022-09-21 01:08:46 info: =================================
+2022-09-21 01:14:34 info: =================================
+2022-09-21 01:14:34 info: ======= ENV: development =======
+2022-09-21 01:14:34 info: 🚀 App listening on the port 5103
+2022-09-21 01:14:34 info: =================================
+2022-09-21 01:15:09 info: =================================
+2022-09-21 01:15:09 info: ======= ENV: development =======
+2022-09-21 01:15:09 info: 🚀 App listening on the port 5103
+2022-09-21 01:15:09 info: =================================
+2022-09-21 09:40:00 info: =================================
+2022-09-21 09:40:00 info: ======= ENV: development =======
+2022-09-21 09:40:00 info: 🚀 App listening on the port 5103
+2022-09-21 09:40:00 info: =================================
+2022-09-21 09:41:19 info: [0mGET /api/clients/getClients [32m200[0m 171.505 ms - -[0m
+2022-09-21 09:41:25 info: [0mGET /api/clients/getClients [32m200[0m 160.940 ms - -[0m
+2022-09-21 09:49:27 info: [0mGET /api/users/getUsers [36m304[0m 182.234 ms - -[0m
+2022-09-21 09:49:29 info: [0mGET /api/clients/getClients [36m304[0m 149.294 ms - -[0m
+2022-09-21 10:14:07 info: [0mGET /api/clients/getClients [36m304[0m 162.358 ms - -[0m
+2022-09-21 10:14:08 info: [0mGET /api/clients/getClients [36m304[0m 154.016 ms - -[0m
+2022-09-21 10:21:40 info: [0mPOST /api/clients/getClientById [32m200[0m 251.192 ms - 522[0m
+2022-09-21 10:21:47 info: [0mGET /api/orders/getWorkOrders [32m201[0m 273.304 ms - -[0m
+2022-09-21 10:21:48 info: [0mGET /api/clients/getClients [36m304[0m 154.026 ms - -[0m
+2022-09-21 10:21:49 info: [0mGET /api/orders/getNumberWorkOrders [32m201[0m 151.554 ms - 49[0m
+2022-09-21 10:21:49 info: [0mGET /api/users/getSupervisores [36m304[0m 154.494 ms - -[0m
+2022-09-21 10:21:49 info: [0mGET /api/users/getOperadores [36m304[0m 160.131 ms - -[0m
+2022-09-21 10:26:42 info: [0mGET /api/orders/getWorkOrders [32m201[0m 234.437 ms - -[0m
+2022-09-21 10:26:43 info: [0mGET /api/clients/getClients [36m304[0m 156.294 ms - -[0m
+2022-09-21 10:34:23 info: [0mGET /api/clients/getClients [36m304[0m 157.338 ms - -[0m
+2022-09-21 10:35:30 info: [0mGET /api/clients/getClients [32m200[0m 149.737 ms - -[0m
+2022-09-21 10:41:43 info: =================================
+2022-09-21 10:41:43 info: ======= ENV: development =======
+2022-09-21 10:41:43 info: 🚀 App listening on the port 5103
+2022-09-21 10:41:43 info: =================================
+2022-09-21 10:42:40 info: =================================
+2022-09-21 10:42:40 info: ======= ENV: development =======
+2022-09-21 10:42:40 info: 🚀 App listening on the port 5103
+2022-09-21 10:42:40 info: =================================
+2022-09-21 10:45:41 info: =================================
+2022-09-21 10:45:41 info: ======= ENV: development =======
+2022-09-21 10:45:41 info: 🚀 App listening on the port 5103
+2022-09-21 10:45:41 info: =================================
+2022-09-21 11:18:49 info: =================================
+2022-09-21 11:18:49 info: ======= ENV: development =======
+2022-09-21 11:18:49 info: 🚀 App listening on the port 5103
+2022-09-21 11:18:49 info: =================================
+2022-09-21 11:19:28 info: [0mGET /api/clients/getClients [32m200[0m 190.583 ms - -[0m
+2022-09-21 11:19:52 info: [0mPOST / [33m404[0m 44.078 ms - 140[0m
+2022-09-21 11:20:31 info: [0mGET /api/clients/getClients [36m304[0m 150.737 ms - -[0m
+2022-09-21 11:20:51 info: [0mPOST /api/contratos [33m404[0m 3.627 ms - 153[0m
+2022-09-21 11:24:40 info: =================================
+2022-09-21 11:24:40 info: ======= ENV: development =======
+2022-09-21 11:24:40 info: 🚀 App listening on the port 5103
+2022-09-21 11:24:40 info: =================================
+2022-09-21 11:24:45 info: [0mPOST /api/contratos [33m404[0m 47.849 ms - 153[0m
+2022-09-21 11:25:04 info: [0mGET /api/clients/getClients [36m304[0m 159.085 ms - -[0m
+2022-09-21 11:27:09 info: =================================
+2022-09-21 11:27:09 info: ======= ENV: development =======
+2022-09-21 11:27:09 info: 🚀 App listening on the port 5103
+2022-09-21 11:27:09 info: =================================
+2022-09-21 11:27:21 info: [0mPOST /api/contratos/guardarContrato [32m200[0m 211.163 ms - 412[0m
+2022-09-21 11:33:21 info: [0mPOST /api/contratos/guardarContrato [32m200[0m 175.968 ms - 418[0m
+2022-09-21 11:44:02 info: =================================
+2022-09-21 11:44:02 info: ======= ENV: development =======
+2022-09-21 11:44:02 info: 🚀 App listening on the port 5103
+2022-09-21 11:44:02 info: =================================
+2022-09-21 11:44:32 info: [0mPOST /api/contratos/guardarContrato [32m200[0m 185.769 ms - 31[0m
+2022-09-21 11:45:05 info: =================================
+2022-09-21 11:45:05 info: ======= ENV: development =======
+2022-09-21 11:45:05 info: 🚀 App listening on the port 5103
+2022-09-21 11:45:05 info: =================================
+2022-09-21 11:46:22 info: [0mPOST /api/contratos/guardarContrato [32m200[0m 197.353 ms - 31[0m
+2022-09-21 11:47:48 info: =================================
+2022-09-21 11:47:48 info: ======= ENV: development =======
+2022-09-21 11:47:48 info: 🚀 App listening on the port 5103
+2022-09-21 11:47:48 info: =================================
+2022-09-21 11:48:07 info: [0mPOST /api/contratos/guardarContrato [32m200[0m 342.295 ms - 413[0m
+2022-09-21 11:49:22 info: =================================
+2022-09-21 11:49:22 info: ======= ENV: development =======
+2022-09-21 11:49:22 info: 🚀 App listening on the port 5103
+2022-09-21 11:49:22 info: =================================
+2022-09-21 11:49:48 info: [0mPOST /api/contratos/guardarContrato [32m200[0m 375.435 ms - 413[0m
+2022-09-21 11:50:46 info: =================================
+2022-09-21 11:50:46 info: ======= ENV: development =======
+2022-09-21 11:50:46 info: 🚀 App listening on the port 5103
+2022-09-21 11:50:46 info: =================================
+2022-09-21 11:52:22 info: =================================
+2022-09-21 11:52:22 info: ======= ENV: development =======
+2022-09-21 11:52:22 info: 🚀 App listening on the port 5103
+2022-09-21 11:52:22 info: =================================
+2022-09-21 11:52:30 info: [0mGET /api/clients/getClients [32m200[0m 264.805 ms - -[0m
+2022-09-21 11:55:15 info: =================================
+2022-09-21 11:55:15 info: ======= ENV: development =======
+2022-09-21 11:55:15 info: 🚀 App listening on the port 5103
+2022-09-21 11:55:15 info: =================================
+2022-09-21 11:55:20 info: [0mGET /api/clients/getClients [36m304[0m 260.000 ms - -[0m
+2022-09-21 11:56:07 info: [0mGET /api/clients/getClients [36m304[0m 241.874 ms - -[0m
+2022-09-21 11:58:26 info: =================================
+2022-09-21 11:58:26 info: ======= ENV: development =======
+2022-09-21 11:58:26 info: 🚀 App listening on the port 5103
+2022-09-21 11:58:26 info: =================================
+2022-09-21 11:58:31 info: [0mGET /api/clients/getClients [36m304[0m 263.436 ms - -[0m
+2022-09-21 11:59:00 info: [0mGET /api/clients/getClients [36m304[0m 240.813 ms - -[0m
+2022-09-21 12:01:27 info: =================================
+2022-09-21 12:01:27 info: ======= ENV: development =======
+2022-09-21 12:01:27 info: 🚀 App listening on the port 5103
+2022-09-21 12:01:27 info: =================================
+2022-09-21 12:02:49 info: =================================
+2022-09-21 12:02:49 info: ======= ENV: development =======
+2022-09-21 12:02:49 info: 🚀 App listening on the port 5103
+2022-09-21 12:02:49 info: =================================
+2022-09-21 12:03:11 info: [0mPOST /api/contratos/guardarContrato [32m200[0m 461.836 ms - 411[0m
+2022-09-21 12:03:30 info: [0mGET /api/clients/getClients [32m200[0m 251.461 ms - -[0m
+2022-09-21 12:06:03 info: =================================
+2022-09-21 12:06:03 info: ======= ENV: development =======
+2022-09-21 12:06:03 info: 🚀 App listening on the port 5103
+2022-09-21 12:06:03 info: =================================
+2022-09-21 12:06:32 info: [0mGET /api/clients/getClients [36m304[0m 244.317 ms - -[0m
+2022-09-21 12:06:33 info: [0mGET /api/orders/getWorkOrders [32m201[0m 255.125 ms - -[0m
+2022-09-21 12:08:27 info: =================================
+2022-09-21 12:08:27 info: ======= ENV: development =======
+2022-09-21 12:08:27 info: 🚀 App listening on the port 5103
+2022-09-21 12:08:27 info: =================================
+2022-09-21 12:08:31 info: [0mGET /api/clients/getClients [36m304[0m 284.131 ms - -[0m
+2022-09-21 12:09:40 info: =================================
+2022-09-21 12:09:40 info: ======= ENV: development =======
+2022-09-21 12:09:40 info: 🚀 App listening on the port 5103
+2022-09-21 12:09:40 info: =================================
+2022-09-21 12:09:57 info: [0mGET /api/clients/getClients [32m200[0m 262.226 ms - -[0m
+2022-09-21 12:16:54 info: [0mGET /api/clients/getClients [36m304[0m 244.165 ms - -[0m
+2022-09-21 12:31:05 info: [0mGET /api/clients/getClients [36m304[0m 246.242 ms - -[0m
+2022-09-21 12:34:37 info: [0mGET /api/clients/getClients [32m200[0m 226.290 ms - -[0m
+2022-09-21 12:35:24 info: [0mPOST /api/clients/getClientById [32m200[0m 201.285 ms - 548[0m
+2022-09-21 12:35:28 info: [0mGET /api/clients/getClients [36m304[0m 232.086 ms - -[0m
+2022-09-21 12:35:32 info: [0mGET /api/orders/getWorkOrders [32m201[0m 240.865 ms - -[0m
+2022-09-21 12:35:41 info: [0mGET /api/users/getUsers [36m304[0m 148.501 ms - -[0m
+2022-09-21 19:01:45 info: =================================
+2022-09-21 19:01:45 info: ======= ENV: development =======
+2022-09-21 19:01:45 info: 🚀 App listening on the port 5103
+2022-09-21 19:01:45 info: =================================
+2022-09-21 19:04:15 info: [0mGET /api/clients/getClients [32m200[0m 254.222 ms - -[0m
+2022-09-21 19:04:20 info: [0mGET /api/clients/getClients [36m304[0m 232.011 ms - -[0m
+2022-09-21 19:05:03 info: [0mGET /api/orders/getWorkOrders [32m201[0m 247.460 ms - -[0m
+2022-09-21 19:05:07 info: [0mGET /api/clients/getClients [36m304[0m 235.696 ms - -[0m
+2022-09-21 19:05:07 info: [0mGET /api/orders/getNumberWorkOrders [32m201[0m 149.210 ms - 49[0m
+2022-09-21 19:05:07 info: [0mGET /api/users/getSupervisores [36m304[0m 147.176 ms - -[0m
+2022-09-21 19:05:08 info: [0mGET /api/users/getOperadores [36m304[0m 150.486 ms - -[0m
+2022-09-21 19:05:15 info: [0mGET /api/users/getUsers [36m304[0m 155.136 ms - -[0m

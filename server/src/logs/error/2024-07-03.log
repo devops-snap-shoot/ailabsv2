@@ -1,0 +1,27 @@
+2024-07-03 18:21:20 error: uncaughtException: ⨯ Unable to compile TypeScript:
+src/services/auth.service.ts(72,81): error TS1135: Argument expression expected.
+src/services/auth.service.ts(72,82): error TS1005: ',' expected.
+src/services/auth.service.ts(98,1): error TS1128: Declaration or statement expected.
+
+TSError: ⨯ Unable to compile TypeScript:
+src/services/auth.service.ts(72,81): error TS1135: Argument expression expected.
+src/services/auth.service.ts(72,82): error TS1005: ',' expected.
+src/services/auth.service.ts(98,1): error TS1128: Declaration or statement expected.
+
+    at createTSError (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\src\index.ts:750:12)
+    at reportTSError (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\src\index.ts:754:19)
+    at C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\src\index.ts:1216:34
+    at Object.compile (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\src\index.ts:1243:30)
+    at Module.m._compile (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\src\index.ts:1370:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\src\index.ts:1374:12)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (C:\Users\gorel\Documents\Projects\imkchat\server\src\controllers\auth.controller.ts:5:1)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module.m._compile (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\src\index.ts:1371:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\src\index.ts:1374:12)
+2024-07-03 21:06:15 error: [POST] /api/login >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading 'toString')

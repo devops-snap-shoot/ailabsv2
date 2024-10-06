@@ -1,0 +1,198 @@
+2022-05-25 21:22:45 error: uncaughtException: listen EADDRINUSE: address already in use :::5100
+Error: listen EADDRINUSE: address already in use :::5100
+    at Server.setupListenHandle [as _listen2] (net.js:1331:16)
+    at listenInCluster (net.js:1379:12)
+    at Server.listen (net.js:1465:7)
+    at Function.listen (C:\Users\gorel\Documents\Tesso\Sigma\APP\server\node_modules\express\lib\application.js:618:24)
+    at App.listen (C:\Users\gorel\Documents\Tesso\Sigma\APP\server\src\app.ts:43:18)
+    at startServer (C:\Users\gorel\Documents\Tesso\Sigma\APP\server\src\server.ts:33:9)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+2022-05-25 21:25:16 error: uncaughtException: listen EADDRINUSE: address already in use :::5100
+Error: listen EADDRINUSE: address already in use :::5100
+    at Server.setupListenHandle [as _listen2] (net.js:1331:16)
+    at listenInCluster (net.js:1379:12)
+    at Server.listen (net.js:1465:7)
+    at Function.listen (C:\Users\gorel\Documents\Tesso\Sigma\APP\server\node_modules\express\lib\application.js:618:24)
+    at App.listen (C:\Users\gorel\Documents\Tesso\Sigma\APP\server\src\app.ts:43:18)
+    at startServer (C:\Users\gorel\Documents\Tesso\Sigma\APP\server\src\server.ts:33:9)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+2022-05-25 22:47:17 error: uncaughtException: listen EADDRINUSE: address already in use :::5100
+Error: listen EADDRINUSE: address already in use :::5100
+    at Server.setupListenHandle [as _listen2] (net.js:1331:16)
+    at listenInCluster (net.js:1379:12)
+    at Server.listen (net.js:1465:7)
+    at Function.listen (C:\Users\gorel\Documents\Tesso\Sigma\APP\server\node_modules\express\lib\application.js:618:24)
+    at App.listen (C:\Users\gorel\Documents\Tesso\Sigma\APP\server\src\app.ts:43:18)
+    at startServer (C:\Users\gorel\Documents\Tesso\Sigma\APP\server\src\server.ts:33:9)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+2022-05-25 22:50:19 error: uncaughtException: listen EADDRINUSE: address already in use :::5100
+Error: listen EADDRINUSE: address already in use :::5100
+    at Server.setupListenHandle [as _listen2] (net.js:1331:16)
+    at listenInCluster (net.js:1379:12)
+    at Server.listen (net.js:1465:7)
+    at Function.listen (C:\Users\gorel\Documents\Tesso\Sigma\APP\server\node_modules\express\lib\application.js:618:24)
+    at App.listen (C:\Users\gorel\Documents\Tesso\Sigma\APP\server\src\app.ts:43:18)
+    at startServer (C:\Users\gorel\Documents\Tesso\Sigma\APP\server\src\server.ts:33:9)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+2022-05-25 22:52:11 error: uncaughtException: listen EADDRINUSE: address already in use :::5100
+Error: listen EADDRINUSE: address already in use :::5100
+    at Server.setupListenHandle [as _listen2] (net.js:1331:16)
+    at listenInCluster (net.js:1379:12)
+    at Server.listen (net.js:1465:7)
+    at Function.listen (C:\Users\gorel\Documents\Tesso\Sigma\APP\server\node_modules\express\lib\application.js:618:24)
+    at App.listen (C:\Users\gorel\Documents\Tesso\Sigma\APP\server\src\app.ts:43:18)
+    at startServer (C:\Users\gorel\Documents\Tesso\Sigma\APP\server\src\server.ts:33:9)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+2022-05-25 22:53:35 error: uncaughtException: listen EADDRINUSE: address already in use :::5100
+Error: listen EADDRINUSE: address already in use :::5100
+    at Server.setupListenHandle [as _listen2] (net.js:1331:16)
+    at listenInCluster (net.js:1379:12)
+    at Server.listen (net.js:1465:7)
+    at Function.listen (C:\Users\gorel\Documents\Tesso\Sigma\APP\server\node_modules\express\lib\application.js:618:24)
+    at App.listen (C:\Users\gorel\Documents\Tesso\Sigma\APP\server\src\app.ts:43:18)
+    at startServer (C:\Users\gorel\Documents\Tesso\Sigma\APP\server\src\server.ts:33:9)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+2022-05-25 22:55:31 error: uncaughtException: listen EADDRINUSE: address already in use :::5100
+Error: listen EADDRINUSE: address already in use :::5100
+    at Server.setupListenHandle [as _listen2] (net.js:1331:16)
+    at listenInCluster (net.js:1379:12)
+    at Server.listen (net.js:1465:7)
+    at Function.listen (C:\Users\gorel\Documents\Tesso\Sigma\APP\server\node_modules\express\lib\application.js:618:24)
+    at App.listen (C:\Users\gorel\Documents\Tesso\Sigma\APP\server\src\app.ts:43:18)
+    at startServer (C:\Users\gorel\Documents\Tesso\Sigma\APP\server\src\server.ts:33:9)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+2022-05-25 22:56:33 error: uncaughtException: listen EADDRINUSE: address already in use :::5100
+Error: listen EADDRINUSE: address already in use :::5100
+    at Server.setupListenHandle [as _listen2] (net.js:1331:16)
+    at listenInCluster (net.js:1379:12)
+    at Server.listen (net.js:1465:7)
+    at Function.listen (C:\Users\gorel\Documents\Tesso\Sigma\APP\server\node_modules\express\lib\application.js:618:24)
+    at App.listen (C:\Users\gorel\Documents\Tesso\Sigma\APP\server\src\app.ts:43:18)
+    at startServer (C:\Users\gorel\Documents\Tesso\Sigma\APP\server\src\server.ts:33:9)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+2022-05-25 22:58:59 error: uncaughtException: listen EADDRINUSE: address already in use :::5100
+Error: listen EADDRINUSE: address already in use :::5100
+    at Server.setupListenHandle [as _listen2] (net.js:1331:16)
+    at listenInCluster (net.js:1379:12)
+    at Server.listen (net.js:1465:7)
+    at Function.listen (C:\Users\gorel\Documents\Tesso\Sigma\APP\server\node_modules\express\lib\application.js:618:24)
+    at App.listen (C:\Users\gorel\Documents\Tesso\Sigma\APP\server\src\app.ts:43:18)
+    at startServer (C:\Users\gorel\Documents\Tesso\Sigma\APP\server\src\server.ts:33:9)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+2022-05-25 23:02:33 error: uncaughtException: listen EADDRINUSE: address already in use :::5100
+Error: listen EADDRINUSE: address already in use :::5100
+    at Server.setupListenHandle [as _listen2] (net.js:1331:16)
+    at listenInCluster (net.js:1379:12)
+    at Server.listen (net.js:1465:7)
+    at Function.listen (C:\Users\gorel\Documents\Tesso\Sigma\APP\server\node_modules\express\lib\application.js:618:24)
+    at App.listen (C:\Users\gorel\Documents\Tesso\Sigma\APP\server\src\app.ts:43:18)
+    at startServer (C:\Users\gorel\Documents\Tesso\Sigma\APP\server\src\server.ts:33:9)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+2022-05-25 23:04:15 error: uncaughtException: listen EADDRINUSE: address already in use :::5100
+Error: listen EADDRINUSE: address already in use :::5100
+    at Server.setupListenHandle [as _listen2] (net.js:1331:16)
+    at listenInCluster (net.js:1379:12)
+    at Server.listen (net.js:1465:7)
+    at Function.listen (C:\Users\gorel\Documents\Tesso\Sigma\APP\server\node_modules\express\lib\application.js:618:24)
+    at App.listen (C:\Users\gorel\Documents\Tesso\Sigma\APP\server\src\app.ts:43:18)
+    at startServer (C:\Users\gorel\Documents\Tesso\Sigma\APP\server\src\server.ts:33:9)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+2022-05-25 23:04:50 error: uncaughtException: listen EADDRINUSE: address already in use :::5100
+Error: listen EADDRINUSE: address already in use :::5100
+    at Server.setupListenHandle [as _listen2] (net.js:1331:16)
+    at listenInCluster (net.js:1379:12)
+    at Server.listen (net.js:1465:7)
+    at Function.listen (C:\Users\gorel\Documents\Tesso\Sigma\APP\server\node_modules\express\lib\application.js:618:24)
+    at App.listen (C:\Users\gorel\Documents\Tesso\Sigma\APP\server\src\app.ts:43:18)
+    at startServer (C:\Users\gorel\Documents\Tesso\Sigma\APP\server\src\server.ts:33:9)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+2022-05-25 23:05:21 error: uncaughtException: listen EADDRINUSE: address already in use :::5100
+Error: listen EADDRINUSE: address already in use :::5100
+    at Server.setupListenHandle [as _listen2] (net.js:1331:16)
+    at listenInCluster (net.js:1379:12)
+    at Server.listen (net.js:1465:7)
+    at Function.listen (C:\Users\gorel\Documents\Tesso\Sigma\APP\server\node_modules\express\lib\application.js:618:24)
+    at App.listen (C:\Users\gorel\Documents\Tesso\Sigma\APP\server\src\app.ts:43:18)
+    at startServer (C:\Users\gorel\Documents\Tesso\Sigma\APP\server\src\server.ts:33:9)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+2022-05-25 23:07:06 error: uncaughtException: listen EADDRINUSE: address already in use :::5100
+Error: listen EADDRINUSE: address already in use :::5100
+    at Server.setupListenHandle [as _listen2] (net.js:1331:16)
+    at listenInCluster (net.js:1379:12)
+    at Server.listen (net.js:1465:7)
+    at Function.listen (C:\Users\gorel\Documents\Tesso\Sigma\APP\server\node_modules\express\lib\application.js:618:24)
+    at App.listen (C:\Users\gorel\Documents\Tesso\Sigma\APP\server\src\app.ts:43:18)
+    at startServer (C:\Users\gorel\Documents\Tesso\Sigma\APP\server\src\server.ts:33:9)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+2022-05-25 23:07:40 error: uncaughtException: listen EADDRINUSE: address already in use :::5100
+Error: listen EADDRINUSE: address already in use :::5100
+    at Server.setupListenHandle [as _listen2] (net.js:1331:16)
+    at listenInCluster (net.js:1379:12)
+    at Server.listen (net.js:1465:7)
+    at Function.listen (C:\Users\gorel\Documents\Tesso\Sigma\APP\server\node_modules\express\lib\application.js:618:24)
+    at App.listen (C:\Users\gorel\Documents\Tesso\Sigma\APP\server\src\app.ts:43:18)
+    at startServer (C:\Users\gorel\Documents\Tesso\Sigma\APP\server\src\server.ts:33:9)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+2022-05-25 23:09:22 error: uncaughtException: listen EADDRINUSE: address already in use :::5100
+Error: listen EADDRINUSE: address already in use :::5100
+    at Server.setupListenHandle [as _listen2] (net.js:1331:16)
+    at listenInCluster (net.js:1379:12)
+    at Server.listen (net.js:1465:7)
+    at Function.listen (C:\Users\gorel\Documents\Tesso\Sigma\APP\server\node_modules\express\lib\application.js:618:24)
+    at App.listen (C:\Users\gorel\Documents\Tesso\Sigma\APP\server\src\app.ts:43:18)
+    at startServer (C:\Users\gorel\Documents\Tesso\Sigma\APP\server\src\server.ts:33:9)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+2022-05-25 23:10:29 error: uncaughtException: listen EADDRINUSE: address already in use :::5100
+Error: listen EADDRINUSE: address already in use :::5100
+    at Server.setupListenHandle [as _listen2] (net.js:1331:16)
+    at listenInCluster (net.js:1379:12)
+    at Server.listen (net.js:1465:7)
+    at Function.listen (C:\Users\gorel\Documents\Tesso\Sigma\APP\server\node_modules\express\lib\application.js:618:24)
+    at App.listen (C:\Users\gorel\Documents\Tesso\Sigma\APP\server\src\app.ts:43:18)
+    at startServer (C:\Users\gorel\Documents\Tesso\Sigma\APP\server\src\server.ts:33:9)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+2022-05-25 23:12:46 error: uncaughtException: listen EADDRINUSE: address already in use :::5100
+Error: listen EADDRINUSE: address already in use :::5100
+    at Server.setupListenHandle [as _listen2] (net.js:1331:16)
+    at listenInCluster (net.js:1379:12)
+    at Server.listen (net.js:1465:7)
+    at Function.listen (C:\Users\gorel\Documents\Tesso\Sigma\APP\server\node_modules\express\lib\application.js:618:24)
+    at App.listen (C:\Users\gorel\Documents\Tesso\Sigma\APP\server\src\app.ts:43:18)
+    at startServer (C:\Users\gorel\Documents\Tesso\Sigma\APP\server\src\server.ts:22:9)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+2022-05-25 23:15:14 error: uncaughtException: listen EADDRINUSE: address already in use :::5100
+Error: listen EADDRINUSE: address already in use :::5100
+    at Server.setupListenHandle [as _listen2] (net.js:1331:16)
+    at listenInCluster (net.js:1379:12)
+    at Server.listen (net.js:1465:7)
+    at Function.listen (C:\Users\gorel\Documents\Tesso\Sigma\APP\server\node_modules\express\lib\application.js:618:24)
+    at App.listen (C:\Users\gorel\Documents\Tesso\Sigma\APP\server\src\app.ts:43:18)
+    at startServer (C:\Users\gorel\Documents\Tesso\Sigma\APP\server\src\server.ts:33:9)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+2022-05-25 23:15:36 error: uncaughtException: listen EADDRINUSE: address already in use :::5100
+Error: listen EADDRINUSE: address already in use :::5100
+    at Server.setupListenHandle [as _listen2] (net.js:1331:16)
+    at listenInCluster (net.js:1379:12)
+    at Server.listen (net.js:1465:7)
+    at Function.listen (C:\Users\gorel\Documents\Tesso\Sigma\APP\server\node_modules\express\lib\application.js:618:24)
+    at App.listen (C:\Users\gorel\Documents\Tesso\Sigma\APP\server\src\app.ts:43:18)
+    at startServer (C:\Users\gorel\Documents\Tesso\Sigma\APP\server\src\server.ts:31:9)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+2022-05-25 23:15:51 error: uncaughtException: listen EADDRINUSE: address already in use :::5100
+Error: listen EADDRINUSE: address already in use :::5100
+    at Server.setupListenHandle [as _listen2] (net.js:1331:16)
+    at listenInCluster (net.js:1379:12)
+    at Server.listen (net.js:1465:7)
+    at Function.listen (C:\Users\gorel\Documents\Tesso\Sigma\APP\server\node_modules\express\lib\application.js:618:24)
+    at App.listen (C:\Users\gorel\Documents\Tesso\Sigma\APP\server\src\app.ts:45:18)
+    at startServer (C:\Users\gorel\Documents\Tesso\Sigma\APP\server\src\server.ts:21:9)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+2022-05-25 23:16:53 error: uncaughtException: listen EADDRINUSE: address already in use :::5100
+Error: listen EADDRINUSE: address already in use :::5100
+    at Server.setupListenHandle [as _listen2] (net.js:1331:16)
+    at listenInCluster (net.js:1379:12)
+    at Server.listen (net.js:1465:7)
+    at Function.listen (C:\Users\gorel\Documents\Tesso\Sigma\APP\server\node_modules\express\lib\application.js:618:24)
+    at App.listen (C:\Users\gorel\Documents\Tesso\Sigma\APP\server\src\app.ts:45:18)
+    at startServer (C:\Users\gorel\Documents\Tesso\Sigma\APP\server\src\server.ts:21:9)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)

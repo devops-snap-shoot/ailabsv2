@@ -1,0 +1,2 @@
+2024-07-12 18:49:11 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-12 18:49:11 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'

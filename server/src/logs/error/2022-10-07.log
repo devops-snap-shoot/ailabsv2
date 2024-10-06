@@ -1,0 +1,3 @@
+2022-10-07 18:38:49 error: [GET] /api/templates/getTemplates >> StatusCode:: 401, Message:: Wrong authentication token
+2022-10-07 18:38:59 error: [GET] /api/orders/getWorkOrders >> StatusCode:: 401, Message:: Wrong authentication token
+2022-10-07 18:39:00 error: [GET] /api/clients/getClients >> StatusCode:: 401, Message:: Wrong authentication token

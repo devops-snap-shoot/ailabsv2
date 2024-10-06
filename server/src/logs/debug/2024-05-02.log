@@ -1,0 +1,98 @@
+2024-05-02 15:17:06 info: =================================
+2024-05-02 15:17:06 info: ======= ENV: development =======
+2024-05-02 15:17:06 info: 🚀 App listening on the port 5210
+2024-05-02 15:17:06 info: =================================
+2024-05-02 15:17:17 info: [0mGET /api/veify-token/ [32m200[0m 12.284 ms - 874[0m
+2024-05-02 15:17:17 info: [0mGET /api/veify-token/ [36m304[0m 4.740 ms - -[0m
+2024-05-02 15:17:36 info: [0mGET /api/veify-token/ [36m304[0m 2.741 ms - -[0m
+2024-05-02 15:18:05 info: [0mGET /api/veify-token/ [36m304[0m 3.620 ms - -[0m
+2024-05-02 15:19:19 info: [0mGET /api/veify-token/ [36m304[0m 2.949 ms - -[0m
+2024-05-02 15:19:19 info: [0mGET /api/veify-token/ [36m304[0m 2.284 ms - -[0m
+2024-05-02 15:19:41 info: [0mGET /api/veify-token/ [36m304[0m 1.769 ms - -[0m
+2024-05-02 15:20:13 info: [0mGET /api/veify-token/ [36m304[0m 1.655 ms - -[0m
+2024-05-02 15:21:03 info: [0mGET /api/veify-token/ [36m304[0m 1.727 ms - -[0m
+2024-05-02 15:22:54 info: [0mGET /api/veify-token/ [36m304[0m 1.430 ms - -[0m
+2024-05-02 15:22:54 info: [0mGET /api/veify-token/ [36m304[0m 1.461 ms - -[0m
+2024-05-02 15:23:25 info: [0mGET /api/veify-token/ [36m304[0m 1.737 ms - -[0m
+2024-05-02 15:23:25 info: [0mGET /api/veify-token/ [36m304[0m 2.284 ms - -[0m
+2024-05-02 15:23:46 info: [0mGET /api/veify-token/ [36m304[0m 2.101 ms - -[0m
+2024-05-02 15:23:56 info: [0mGET /api/veify-token/ [36m304[0m 2.794 ms - -[0m
+2024-05-02 15:23:56 info: [0mGET /api/veify-token/ [36m304[0m 1.335 ms - -[0m
+2024-05-02 15:24:00 info: [0mGET /api/veify-token/ [36m304[0m 2.353 ms - -[0m
+2024-05-02 15:38:21 info: [0mOPTIONS /api/login [32m200[0m 0.390 ms - 0[0m
+2024-05-02 15:38:21 info: [0mPOST /api/login [32m200[0m 513.871 ms - -[0m
+2024-05-02 15:38:21 info: [0mGET /api/organization/getOrganizations [32m200[0m 86.349 ms - 979[0m
+2024-05-02 15:38:22 info: [0mGET /api/organization/getOrganizations [36m304[0m 78.919 ms - -[0m
+2024-05-02 15:38:22 info: [0mGET /api/roles/getRoles [32m200[0m 155.705 ms - -[0m
+2024-05-02 15:38:22 info: [0mGET /api/users/getUsers [32m200[0m 170.516 ms - -[0m
+2024-05-02 15:38:22 info: [0mGET /api/roles/getRoles [36m304[0m 153.872 ms - -[0m
+2024-05-02 15:38:22 info: [0mGET /api/users/getUsers [36m304[0m 163.514 ms - -[0m
+2024-05-02 15:38:22 info: [0mGET /api/files/getFiles [32m200[0m 566.355 ms - -[0m
+2024-05-02 15:42:28 info: [0mOPTIONS /api/files/updateFileById [32m200[0m 0.162 ms - 0[0m
+2024-05-02 15:42:30 info: [0mPOST /api/files/updateFileById [32m200[0m 1229.375 ms - -[0m
+2024-05-02 15:42:30 info: [0mGET /api/files/getFiles [32m200[0m 559.767 ms - -[0m
+2024-05-02 15:50:23 info: [0mOPTIONS /api/login [32m200[0m 0.135 ms - 0[0m
+2024-05-02 15:50:24 info: [0mPOST /api/login [32m200[0m 284.788 ms - -[0m
+2024-05-02 15:50:24 info: [0mGET /api/organization/getOrganizations [36m304[0m 86.909 ms - -[0m
+2024-05-02 15:50:24 info: [0mGET /api/roles/getRoles [36m304[0m 158.785 ms - -[0m
+2024-05-02 15:50:24 info: [0mGET /api/organization/getOrganizations [36m304[0m 73.314 ms - -[0m
+2024-05-02 15:50:24 info: [0mGET /api/organization/getOrganizations [36m304[0m 72.850 ms - -[0m
+2024-05-02 15:50:24 info: [0mGET /api/roles/getRoles [36m304[0m 150.822 ms - -[0m
+2024-05-02 15:50:24 info: [0mGET /api/users/getUsers [36m304[0m 167.379 ms - -[0m
+2024-05-02 15:50:24 info: [0mGET /api/users/getUsers [36m304[0m 162.287 ms - -[0m
+2024-05-02 15:50:24 info: [0mGET /api/roles/getRoles [36m304[0m 168.463 ms - -[0m
+2024-05-02 15:52:34 info: =================================
+2024-05-02 15:52:34 info: ======= ENV: development =======
+2024-05-02 15:52:34 info: 🚀 App listening on the port 5210
+2024-05-02 15:52:34 info: =================================
+2024-05-02 16:00:32 info: [0mGET /api/veify-token/ [32m200[0m 13.341 ms - 874[0m
+2024-05-02 16:00:32 info: [0mGET /api/veify-token/ [36m304[0m 3.954 ms - -[0m
+2024-05-02 16:03:06 info: [0mGET /api/veify-token/ [36m304[0m 2.004 ms - -[0m
+2024-05-02 16:03:06 info: [0mGET /api/veify-token/ [36m304[0m 1.601 ms - -[0m
+2024-05-02 16:19:45 info: [0mOPTIONS /api/login [32m200[0m 0.699 ms - 0[0m
+2024-05-02 16:19:46 info: [0mPOST /api/login [32m200[0m 321.850 ms - -[0m
+2024-05-02 16:19:46 info: [0mGET /api/organization/getOrganizations [36m304[0m 74.638 ms - -[0m
+2024-05-02 16:19:46 info: [0mGET /api/organization/getOrganizations [36m304[0m 78.396 ms - -[0m
+2024-05-02 16:19:46 info: [0mGET /api/users/getUsers [32m200[0m 163.193 ms - -[0m
+2024-05-02 16:19:46 info: [0mGET /api/roles/getRoles [32m200[0m 168.089 ms - -[0m
+2024-05-02 16:19:46 info: [0mGET /api/users/getUsers [36m304[0m 150.954 ms - -[0m
+2024-05-02 16:19:46 info: [0mGET /api/roles/getRoles [36m304[0m 147.086 ms - -[0m
+2024-05-02 16:19:46 info: [0mGET /api/files/getFiles [32m200[0m 572.046 ms - -[0m
+2024-05-02 16:20:21 info: [0mOPTIONS /api/files/updateFileById [32m200[0m 0.193 ms - 0[0m
+2024-05-02 16:20:22 info: [0mPOST /api/files/updateFileById [32m200[0m 1341.310 ms - 721[0m
+2024-05-02 16:20:23 info: [0mGET /api/files/getFiles [32m200[0m 537.392 ms - -[0m
+2024-05-02 16:20:30 info: [0mOPTIONS /api/files/updateFileById [32m200[0m 0.177 ms - 0[0m
+2024-05-02 16:20:31 info: [0mPOST /api/files/updateFileById [32m200[0m 1061.478 ms - -[0m
+2024-05-02 16:20:31 info: [0mGET /api/files/getFiles [32m200[0m 578.046 ms - -[0m
+2024-05-02 16:20:36 info: [0mPOST /api/files/updateFileById [32m200[0m 2090.021 ms - -[0m
+2024-05-02 16:20:36 info: [0mGET /api/files/getFiles [32m200[0m 562.648 ms - -[0m
+2024-05-02 16:58:03 info: =================================
+2024-05-02 16:58:03 info: ======= ENV: development =======
+2024-05-02 16:58:03 info: 🚀 App listening on the port 5210
+2024-05-02 16:58:03 info: =================================
+2024-05-02 17:04:25 info: [0mGET /api/veify-token/ [32m200[0m 9.663 ms - 874[0m
+2024-05-02 17:04:25 info: [0mGET /api/veify-token/ [36m304[0m 3.235 ms - -[0m
+2024-05-02 17:09:51 info: [0mGET /api/veify-token/ [36m304[0m 2.333 ms - -[0m
+2024-05-02 17:09:51 info: [0mGET /api/veify-token/ [36m304[0m 2.264 ms - -[0m
+2024-05-02 17:10:42 info: [0mGET /api/veify-token/ [36m304[0m 2.187 ms - -[0m
+2024-05-02 17:11:03 info: [0mGET /api/veify-token/ [36m304[0m 3.402 ms - -[0m
+2024-05-02 17:11:55 info: [0mGET /api/veify-token/ [36m304[0m 2.158 ms - -[0m
+2024-05-02 17:14:39 info: [0mOPTIONS /api/login [32m200[0m 0.309 ms - 0[0m
+2024-05-02 17:14:40 info: [0mPOST /api/login [32m200[0m 472.515 ms - -[0m
+2024-05-02 17:14:40 info: [0mGET /api/organization/getOrganizations [36m304[0m 75.189 ms - -[0m
+2024-05-02 17:14:40 info: [0mGET /api/roles/getRoles [32m200[0m 152.798 ms - -[0m
+2024-05-02 17:14:40 info: [0mGET /api/users/getUsers [32m200[0m 170.773 ms - -[0m
+2024-05-02 17:14:40 info: [0mGET /api/organization/getOrganizations [36m304[0m 86.425 ms - -[0m
+2024-05-02 17:14:40 info: [0mGET /api/roles/getRoles [36m304[0m 162.264 ms - -[0m
+2024-05-02 17:14:40 info: [0mGET /api/users/getUsers [36m304[0m 155.172 ms - -[0m
+2024-05-02 17:14:40 info: [0mGET /api/files/getFiles [32m200[0m 578.519 ms - -[0m
+2024-05-02 17:15:11 info: [0mGET /api/organization/getOrganizations [36m304[0m 108.963 ms - -[0m
+2024-05-02 17:15:11 info: [0mGET /api/users/getUsers [36m304[0m 185.389 ms - -[0m
+2024-05-02 17:15:11 info: [0mGET /api/veify-token/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NDliM2M3MTNmZjY4NjUyYWI3MzFmMTMiLCJpYXQiOjE3MTQ2ODQ0ODAsImV4cCI6MTcxNDc3MDg4MH0.PDqWCPPo1wXB8lFHUmsI0Y-Zt5U1FAEH3W7Ov1cS-7Q [32m200[0m 192.843 ms - 505[0m
+2024-05-02 17:15:11 info: [0mGET /api/roles/getRoles [36m304[0m 184.389 ms - -[0m
+2024-05-02 17:15:11 info: [0mGET /api/organization/getOrganizations [36m304[0m 102.732 ms - -[0m
+2024-05-02 17:15:11 info: [0mGET /api/users/getUsers [32m200[0m 159.295 ms - -[0m
+2024-05-02 17:15:11 info: [0mGET /api/roles/getRoles [36m304[0m 157.814 ms - -[0m
+2024-05-02 17:15:11 info: [0mGET /api/users/getUsers [36m304[0m 159.313 ms - -[0m
+2024-05-02 17:15:11 info: [0mGET /api/files/getFiles [32m200[0m 634.121 ms - -[0m
+2024-05-02 17:15:12 info: [0mGET /api/files/getFiles [36m304[0m 527.813 ms - -[0m

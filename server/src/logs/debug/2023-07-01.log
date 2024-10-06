@@ -1,0 +1,120 @@
+2023-07-01 08:07:31 info: =================================
+2023-07-01 08:07:31 info: ======= ENV: development =======
+2023-07-01 08:07:31 info: 🚀 App listening on the port 5210
+2023-07-01 08:07:31 info: =================================
+2023-07-01 08:39:48 info: [0mPOST /api/forgot-password [32m200[0m 3051.549 ms - 446[0m
+2023-07-01 08:42:34 info: =================================
+2023-07-01 08:42:34 info: ======= ENV: development =======
+2023-07-01 08:42:34 info: 🚀 App listening on the port 5210
+2023-07-01 08:42:34 info: =================================
+2023-07-01 08:42:49 info: [0mPOST /api/forgot-password [32m200[0m 2655.033 ms - 446[0m
+2023-07-01 08:43:59 info: =================================
+2023-07-01 08:43:59 info: ======= ENV: development =======
+2023-07-01 08:43:59 info: 🚀 App listening on the port 5210
+2023-07-01 08:43:59 info: =================================
+2023-07-01 08:45:02 info: =================================
+2023-07-01 08:45:02 info: ======= ENV: development =======
+2023-07-01 08:45:02 info: 🚀 App listening on the port 5210
+2023-07-01 08:45:02 info: =================================
+2023-07-01 08:45:53 info: =================================
+2023-07-01 08:45:53 info: ======= ENV: development =======
+2023-07-01 08:45:53 info: 🚀 App listening on the port 5210
+2023-07-01 08:45:53 info: =================================
+2023-07-01 08:46:14 info: =================================
+2023-07-01 08:46:14 info: ======= ENV: development =======
+2023-07-01 08:46:14 info: 🚀 App listening on the port 5210
+2023-07-01 08:46:14 info: =================================
+2023-07-01 08:46:46 info: [0mPOST /api/login [32m200[0m 285.376 ms - -[0m
+2023-07-01 08:55:11 info: [0mPOST /api/login [32m200[0m 206.449 ms - -[0m
+2023-07-01 09:13:36 info: [0mGET / [32m200[0m 7.462 ms - 872[0m
+2023-07-01 09:13:36 info: [0mGET /static/css/main.7f3b4889.css [32m200[0m 2.947 ms - -[0m
+2023-07-01 09:13:36 info: [0mGET /static/js/main.2f1c17ea.js [32m200[0m 4.708 ms - -[0m
+2023-07-01 09:13:36 info: [0mGET /static/js/22.86674b8c.chunk.js [32m200[0m 2.129 ms - 864[0m
+2023-07-01 09:13:36 info: [0mGET /assets/images/Imkchat_logo.svg [32m200[0m 19.329 ms - -[0m
+2023-07-01 09:13:37 info: [0mGET /manifest.json [32m200[0m 19.552 ms - 433[0m
+2023-07-01 09:13:37 info: [0mGET /static/media/OpenSans-Regular.9a6cfa5890d7f3eef585.ttf [32m200[0m 5.899 ms - -[0m
+2023-07-01 09:13:37 info: [0mGET /static/js/344.af5e8bf1.chunk.js [32m200[0m 10.713 ms - -[0m
+2023-07-01 09:13:37 info: [0mGET /static/js/225.ccf05236.chunk.js [32m200[0m 9.477 ms - -[0m
+2023-07-01 09:13:37 info: [0mGET /assets/icon/fabicon.webp [32m200[0m 30.402 ms - 630[0m
+2023-07-01 09:13:38 info: [0mGET /img/icons/close.svg [32m200[0m 10.556 ms - 343[0m
+2023-07-01 09:13:51 info: [0mPOST /api/login [32m200[0m 227.137 ms - -[0m
+2023-07-01 09:13:51 info: [0mGET /img/icons/favorite.svg [32m200[0m 18.462 ms - 522[0m
+2023-07-01 09:13:51 info: [0mGET /img/icons/trash.svg [32m200[0m 24.574 ms - 420[0m
+2023-07-01 09:13:51 info: [0mGET /assets/icon/user.svg [32m200[0m 22.426 ms - -[0m
+2023-07-01 09:13:51 info: [0mGET /assets/icon/logout.svg [32m200[0m 21.382 ms - -[0m
+2023-07-01 09:13:51 info: [0mGET /assets/images/upload-cloud.svg [32m200[0m 25.133 ms - -[0m
+2023-07-01 09:13:51 info: [0mGET /assets/icon/right-send-arrow.svg [32m200[0m 16.882 ms - 311[0m
+2023-07-01 09:13:51 info: [0mGET /assets/icon/copy.svg [32m200[0m 24.610 ms - -[0m
+2023-07-01 09:13:51 info: [0mGET /assets/images/Imkchat_logo_white.svg [32m200[0m 20.834 ms - -[0m
+2023-07-01 09:18:10 info: =================================
+2023-07-01 09:18:10 info: ======= ENV: development =======
+2023-07-01 09:18:10 info: 🚀 App listening on the port 5210
+2023-07-01 09:18:10 info: =================================
+2023-07-01 09:18:24 info: [0mGET / [32m200[0m 8.186 ms - 872[0m
+2023-07-01 09:18:25 info: [0mGET /static/css/main.7f3b4889.css [32m200[0m 2.604 ms - -[0m
+2023-07-01 09:18:25 info: [0mGET /static/js/main.5a0193ff.js [32m200[0m 6.304 ms - -[0m
+2023-07-01 09:18:26 info: [0mGET /static/js/22.86674b8c.chunk.js [32m200[0m 1.452 ms - 864[0m
+2023-07-01 09:18:26 info: [0mGET /assets/images/Imkchat_logo.svg [36m304[0m 1.245 ms - -[0m
+2023-07-01 09:18:26 info: [0mGET /static/media/OpenSans-Regular.9a6cfa5890d7f3eef585.ttf [32m200[0m 3.133 ms - -[0m
+2023-07-01 09:18:26 info: [0mGET /static/js/344.af5e8bf1.chunk.js [32m200[0m 1.527 ms - -[0m
+2023-07-01 09:18:26 info: [0mGET /static/js/186.ac7a64c2.chunk.js [32m200[0m 1.504 ms - -[0m
+2023-07-01 09:18:26 info: [0mGET /static/js/225.ccf05236.chunk.js [32m200[0m 2.237 ms - -[0m
+2023-07-01 09:18:47 info: [0mGET /login [32m200[0m 3.797 ms - 872[0m
+2023-07-01 09:18:47 info: [0mGET /static/css/main.7f3b4889.css [36m304[0m 1.683 ms - -[0m
+2023-07-01 09:18:47 info: [0mGET /static/js/main.5a0193ff.js [36m304[0m 1.193 ms - -[0m
+2023-07-01 09:18:48 info: [0mGET /assets/images/Imkchat_logo.svg [36m304[0m 2.110 ms - -[0m
+2023-07-01 09:18:48 info: [0mGET /static/js/22.86674b8c.chunk.js [36m304[0m 1.153 ms - -[0m
+2023-07-01 09:18:48 info: [0mGET /static/js/344.af5e8bf1.chunk.js [36m304[0m 1.948 ms - -[0m
+2023-07-01 09:18:48 info: [0mGET /static/js/186.ac7a64c2.chunk.js [36m304[0m 2.412 ms - -[0m
+2023-07-01 09:18:48 info: [0mGET /assets/icon/fabicon.webp [36m304[0m 0.995 ms - -[0m
+2023-07-01 09:18:48 info: [0mGET /static/js/225.ccf05236.chunk.js [36m304[0m 2.565 ms - -[0m
+2023-07-01 09:18:50 info: [0mGET /img/icons/close.svg [36m304[0m 1.042 ms - -[0m
+2023-07-01 09:18:59 error: [POST] /api/login >> StatusCode:: 410, Message:: Email gonzalo.orellana@kauel.com  not found
+2023-07-01 09:18:59 info: [0mPOST /api/login [33m410[0m 145.654 ms - 57[0m
+2023-07-01 09:19:07 info: [0mPOST /api/login [32m200[0m 215.790 ms - -[0m
+2023-07-01 09:19:08 info: [0mGET /assets/icon/user.svg [36m304[0m 0.938 ms - -[0m
+2023-07-01 09:19:08 info: [0mGET /assets/icon/logout.svg [36m304[0m 2.273 ms - -[0m
+2023-07-01 09:19:08 info: [0mGET /assets/icon/copy.svg [36m304[0m 0.979 ms - -[0m
+2023-07-01 09:19:08 info: [0mGET /assets/images/upload-cloud.svg [36m304[0m 0.861 ms - -[0m
+2023-07-01 09:19:08 info: [0mGET /assets/icon/right-send-arrow.svg [36m304[0m 1.297 ms - -[0m
+2023-07-01 09:19:08 info: [0mGET /assets/images/Imkchat_logo_white.svg [36m304[0m 1.677 ms - -[0m
+2023-07-01 09:20:08 info: =================================
+2023-07-01 09:20:08 info: ======= ENV: development =======
+2023-07-01 09:20:08 info: 🚀 App listening on the port 5210
+2023-07-01 09:20:08 info: =================================
+2023-07-01 09:20:49 info: [0mGET /home [32m200[0m 8.821 ms - 872[0m
+2023-07-01 09:20:49 info: [0mGET /static/css/main.6044cb0e.css [32m200[0m 5.040 ms - -[0m
+2023-07-01 09:20:49 info: [0mGET /static/js/main.5a0193ff.js [32m200[0m 5.702 ms - -[0m
+2023-07-01 09:20:49 info: [0mGET /assets/images/Imkchat_logo.svg [36m304[0m 3.956 ms - -[0m
+2023-07-01 09:20:49 info: [0mGET /static/js/22.86674b8c.chunk.js [32m200[0m 1.937 ms - 864[0m
+2023-07-01 09:20:49 info: [0mGET /assets/images/upload-cloud.svg [36m304[0m 1.078 ms - -[0m
+2023-07-01 09:20:49 info: [0mGET /assets/icon/copy.svg [36m304[0m 2.823 ms - -[0m
+2023-07-01 09:20:49 info: [0mGET /assets/icon/right-send-arrow.svg [36m304[0m 4.470 ms - -[0m
+2023-07-01 09:20:49 info: [0mGET /assets/images/Imkchat_logo_white.svg [36m304[0m 1.426 ms - -[0m
+2023-07-01 09:20:49 info: [0mGET /assets/icon/user.svg [36m304[0m 2.504 ms - -[0m
+2023-07-01 09:20:49 info: [0mGET /assets/icon/logout.svg [36m304[0m 2.733 ms - -[0m
+2023-07-01 09:20:49 info: [0mGET /static/media/OpenSans-Regular.9a6cfa5890d7f3eef585.ttf [32m200[0m 1.798 ms - -[0m
+2023-07-01 09:20:49 info: [0mGET /manifest.json [36m304[0m 1.153 ms - -[0m
+2023-07-01 09:20:49 info: [0mGET /assets/icon/fabicon.webp [32m200[0m 21.285 ms - 630[0m
+2023-07-01 09:20:49 info: [0mGET /img/icons/favorite.svg [36m304[0m 1.690 ms - -[0m
+2023-07-01 09:20:49 info: [0mGET /img/icons/trash.svg [36m304[0m 3.966 ms - -[0m
+2023-07-01 09:20:49 info: [0mGET /static/js/344.af5e8bf1.chunk.js [32m200[0m 4.685 ms - -[0m
+2023-07-01 09:20:49 info: [0mGET /static/js/225.ccf05236.chunk.js [32m200[0m 4.180 ms - -[0m
+2023-07-01 09:21:27 info: [0mGET /img/icons/close.svg [36m304[0m 1.195 ms - -[0m
+2023-07-01 09:21:45 info: [0mPOST /api/forgot-password [32m200[0m 2953.279 ms - 446[0m
+2023-07-01 09:21:46 info: [0mGET /img/icons/green-check.svg [32m200[0m 7.671 ms - 559[0m
+2023-07-01 09:56:40 info: =================================
+2023-07-01 09:56:40 info: ======= ENV: development =======
+2023-07-01 09:56:40 info: 🚀 App listening on the port 5210
+2023-07-01 09:56:40 info: =================================
+2023-07-01 10:03:55 info: [0mGET /login [32m200[0m 9.021 ms - 872[0m
+2023-07-01 10:03:55 info: [0mGET /static/css/main.66da890e.css [32m200[0m 16.896 ms - -[0m
+2023-07-01 10:03:56 info: [0mGET /static/js/main.fa078eac.js [32m200[0m 18.392 ms - -[0m
+2023-07-01 10:03:56 info: [0mGET /assets/images/Imkchat_logo.svg [36m304[0m 1.316 ms - -[0m
+2023-07-01 10:03:56 info: [0mGET /static/js/22.86674b8c.chunk.js [32m200[0m 3.178 ms - 864[0m
+2023-07-01 10:03:56 info: [0mGET /static/media/OpenSans-Regular.9a6cfa5890d7f3eef585.ttf [32m200[0m 2.061 ms - -[0m
+2023-07-01 10:03:56 info: [0mGET /assets/icon/fabicon.webp [36m304[0m 1.054 ms - -[0m
+2023-07-01 10:03:56 info: [0mGET /static/js/344.af5e8bf1.chunk.js [32m200[0m 1.757 ms - -[0m
+2023-07-01 10:03:56 info: [0mGET /static/js/186.ac7a64c2.chunk.js [32m200[0m 3.540 ms - -[0m
+2023-07-01 10:03:56 info: [0mGET /static/js/225.ccf05236.chunk.js [32m200[0m 2.122 ms - -[0m
+2023-07-01 10:03:57 info: [0mGET /img/icons/close.svg [36m304[0m 1.238 ms - -[0m

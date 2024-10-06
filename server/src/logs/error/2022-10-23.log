@@ -1,0 +1,172 @@
+2022-10-23 20:52:59 error: [GET] /favicon.ico >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Tesso\DemocraciaOnline\democracia_online\client\build\index.html'
+2022-10-23 20:53:38 error: [GET] /api/users/getUsers >> StatusCode:: 401, Message:: Wrong authentication token
+2022-10-23 20:53:38 error: [GET] /api/users/getUsers >> StatusCode:: 401, Message:: Wrong authentication token
+2022-10-23 20:53:41 error: [GET] /api/users/getUsers >> StatusCode:: 401, Message:: Wrong authentication token
+2022-10-23 20:57:23 error: [GET] /api/users/getUsers >> StatusCode:: 401, Message:: Wrong authentication token
+2022-10-23 20:57:23 error: [GET] /api/users/getUsers >> StatusCode:: 401, Message:: Wrong authentication token
+2022-10-23 21:21:55 error: uncaughtException: Cannot find module '@/organizations.model'
+Require stack:
+- C:\Users\gorel\Documents\Tesso\DemocraciaOnline\democracia_online\server\src\services\accessControl.service.ts
+- C:\Users\gorel\Documents\Tesso\DemocraciaOnline\democracia_online\server\src\middlewares\permission.middleware.ts
+- C:\Users\gorel\Documents\Tesso\DemocraciaOnline\democracia_online\server\src\routes\organizations.route.ts
+- C:\Users\gorel\Documents\Tesso\DemocraciaOnline\democracia_online\server\src\routes\index.route.ts
+- C:\Users\gorel\Documents\Tesso\DemocraciaOnline\democracia_online\server\src\app.ts
+- C:\Users\gorel\Documents\Tesso\DemocraciaOnline\democracia_online\server\src\server.ts
+Error: Cannot find module '@/organizations.model'
+Require stack:
+- C:\Users\gorel\Documents\Tesso\DemocraciaOnline\democracia_online\server\src\services\accessControl.service.ts
+- C:\Users\gorel\Documents\Tesso\DemocraciaOnline\democracia_online\server\src\middlewares\permission.middleware.ts
+- C:\Users\gorel\Documents\Tesso\DemocraciaOnline\democracia_online\server\src\routes\organizations.route.ts
+- C:\Users\gorel\Documents\Tesso\DemocraciaOnline\democracia_online\server\src\routes\index.route.ts
+- C:\Users\gorel\Documents\Tesso\DemocraciaOnline\democracia_online\server\src\app.ts
+- C:\Users\gorel\Documents\Tesso\DemocraciaOnline\democracia_online\server\src\server.ts
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:902:15)
+    at Function.Module._resolveFilename.sharedData.moduleResolveFilenameHook.installedValue (C:\Users\gorel\Documents\Tesso\DemocraciaOnline\democracia_online\server\node_modules\@cspotcode\source-map-support\source-map-support.js:679:30)
+    at Function.Module._resolveFilename (C:\Users\gorel\Documents\Tesso\DemocraciaOnline\democracia_online\server\node_modules\tsconfig-paths\lib\register.js:75:40)
+    at Function.Module._load (internal/modules/cjs/loader.js:746:27)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:93:18)
+    at Object.<anonymous> (C:\Users\gorel\Documents\Tesso\DemocraciaOnline\democracia_online\server\src\services\accessControl.service.ts:11:1)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Module.m._compile (C:\Users\gorel\Documents\Tesso\DemocraciaOnline\democracia_online\server\node_modules\ts-node\src\index.ts:1371:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\gorel\Documents\Tesso\DemocraciaOnline\democracia_online\server\node_modules\ts-node\src\index.ts:1374:12)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:93:18)
+    at Object.<anonymous> (C:\Users\gorel\Documents\Tesso\DemocraciaOnline\democracia_online\server\src\middlewares\permission.middleware.ts:2:1)
+2022-10-23 21:37:37 error: uncaughtException: Cannot find module '@/organizations.model'
+Require stack:
+- C:\Users\gorel\Documents\Tesso\DemocraciaOnline\democracia_online\server\src\services\accessControl.service.ts
+- C:\Users\gorel\Documents\Tesso\DemocraciaOnline\democracia_online\server\src\middlewares\permission.middleware.ts
+- C:\Users\gorel\Documents\Tesso\DemocraciaOnline\democracia_online\server\src\routes\organizations.route.ts
+- C:\Users\gorel\Documents\Tesso\DemocraciaOnline\democracia_online\server\src\routes\index.route.ts
+- C:\Users\gorel\Documents\Tesso\DemocraciaOnline\democracia_online\server\src\app.ts
+- C:\Users\gorel\Documents\Tesso\DemocraciaOnline\democracia_online\server\src\server.ts
+Error: Cannot find module '@/organizations.model'
+Require stack:
+- C:\Users\gorel\Documents\Tesso\DemocraciaOnline\democracia_online\server\src\services\accessControl.service.ts
+- C:\Users\gorel\Documents\Tesso\DemocraciaOnline\democracia_online\server\src\middlewares\permission.middleware.ts
+- C:\Users\gorel\Documents\Tesso\DemocraciaOnline\democracia_online\server\src\routes\organizations.route.ts
+- C:\Users\gorel\Documents\Tesso\DemocraciaOnline\democracia_online\server\src\routes\index.route.ts
+- C:\Users\gorel\Documents\Tesso\DemocraciaOnline\democracia_online\server\src\app.ts
+- C:\Users\gorel\Documents\Tesso\DemocraciaOnline\democracia_online\server\src\server.ts
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:902:15)
+    at Function.Module._resolveFilename.sharedData.moduleResolveFilenameHook.installedValue (C:\Users\gorel\Documents\Tesso\DemocraciaOnline\democracia_online\server\node_modules\@cspotcode\source-map-support\source-map-support.js:679:30)
+    at Function.Module._resolveFilename (C:\Users\gorel\Documents\Tesso\DemocraciaOnline\democracia_online\server\node_modules\tsconfig-paths\lib\register.js:75:40)
+    at Function.Module._load (internal/modules/cjs/loader.js:746:27)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:93:18)
+    at Object.<anonymous> (C:\Users\gorel\Documents\Tesso\DemocraciaOnline\democracia_online\server\src\services\accessControl.service.ts:11:1)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Module.m._compile (C:\Users\gorel\Documents\Tesso\DemocraciaOnline\democracia_online\server\node_modules\ts-node\src\index.ts:1371:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\gorel\Documents\Tesso\DemocraciaOnline\democracia_online\server\node_modules\ts-node\src\index.ts:1374:12)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:93:18)
+    at Object.<anonymous> (C:\Users\gorel\Documents\Tesso\DemocraciaOnline\democracia_online\server\src\middlewares\permission.middleware.ts:2:1)
+2022-10-23 21:47:48 error: uncaughtException: Cannot find module '@/organizations.model'
+Require stack:
+- C:\Users\gorel\Documents\Tesso\DemocraciaOnline\democracia_online\server\src\services\accessControl.service.ts
+- C:\Users\gorel\Documents\Tesso\DemocraciaOnline\democracia_online\server\src\middlewares\permission.middleware.ts
+- C:\Users\gorel\Documents\Tesso\DemocraciaOnline\democracia_online\server\src\routes\organizations.route.ts
+- C:\Users\gorel\Documents\Tesso\DemocraciaOnline\democracia_online\server\src\routes\index.route.ts
+- C:\Users\gorel\Documents\Tesso\DemocraciaOnline\democracia_online\server\src\app.ts
+- C:\Users\gorel\Documents\Tesso\DemocraciaOnline\democracia_online\server\src\server.ts
+Error: Cannot find module '@/organizations.model'
+Require stack:
+- C:\Users\gorel\Documents\Tesso\DemocraciaOnline\democracia_online\server\src\services\accessControl.service.ts
+- C:\Users\gorel\Documents\Tesso\DemocraciaOnline\democracia_online\server\src\middlewares\permission.middleware.ts
+- C:\Users\gorel\Documents\Tesso\DemocraciaOnline\democracia_online\server\src\routes\organizations.route.ts
+- C:\Users\gorel\Documents\Tesso\DemocraciaOnline\democracia_online\server\src\routes\index.route.ts
+- C:\Users\gorel\Documents\Tesso\DemocraciaOnline\democracia_online\server\src\app.ts
+- C:\Users\gorel\Documents\Tesso\DemocraciaOnline\democracia_online\server\src\server.ts
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:902:15)
+    at Function.Module._resolveFilename.sharedData.moduleResolveFilenameHook.installedValue (C:\Users\gorel\Documents\Tesso\DemocraciaOnline\democracia_online\server\node_modules\@cspotcode\source-map-support\source-map-support.js:679:30)
+    at Function.Module._resolveFilename (C:\Users\gorel\Documents\Tesso\DemocraciaOnline\democracia_online\server\node_modules\tsconfig-paths\lib\register.js:75:40)
+    at Function.Module._load (internal/modules/cjs/loader.js:746:27)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:93:18)
+    at Object.<anonymous> (C:\Users\gorel\Documents\Tesso\DemocraciaOnline\democracia_online\server\src\services\accessControl.service.ts:11:1)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Module.m._compile (C:\Users\gorel\Documents\Tesso\DemocraciaOnline\democracia_online\server\node_modules\ts-node\src\index.ts:1371:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\gorel\Documents\Tesso\DemocraciaOnline\democracia_online\server\node_modules\ts-node\src\index.ts:1374:12)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:93:18)
+    at Object.<anonymous> (C:\Users\gorel\Documents\Tesso\DemocraciaOnline\democracia_online\server\src\middlewares\permission.middleware.ts:2:1)
+2022-10-23 21:50:04 error: uncaughtException: Cannot find module '@/organizations.model'
+Require stack:
+- C:\Users\gorel\Documents\Tesso\DemocraciaOnline\democracia_online\server\src\services\accessControl.service.ts
+- C:\Users\gorel\Documents\Tesso\DemocraciaOnline\democracia_online\server\src\middlewares\permission.middleware.ts
+- C:\Users\gorel\Documents\Tesso\DemocraciaOnline\democracia_online\server\src\routes\organizations.route.ts
+- C:\Users\gorel\Documents\Tesso\DemocraciaOnline\democracia_online\server\src\routes\index.route.ts
+- C:\Users\gorel\Documents\Tesso\DemocraciaOnline\democracia_online\server\src\app.ts
+- C:\Users\gorel\Documents\Tesso\DemocraciaOnline\democracia_online\server\src\server.ts
+Error: Cannot find module '@/organizations.model'
+Require stack:
+- C:\Users\gorel\Documents\Tesso\DemocraciaOnline\democracia_online\server\src\services\accessControl.service.ts
+- C:\Users\gorel\Documents\Tesso\DemocraciaOnline\democracia_online\server\src\middlewares\permission.middleware.ts
+- C:\Users\gorel\Documents\Tesso\DemocraciaOnline\democracia_online\server\src\routes\organizations.route.ts
+- C:\Users\gorel\Documents\Tesso\DemocraciaOnline\democracia_online\server\src\routes\index.route.ts
+- C:\Users\gorel\Documents\Tesso\DemocraciaOnline\democracia_online\server\src\app.ts
+- C:\Users\gorel\Documents\Tesso\DemocraciaOnline\democracia_online\server\src\server.ts
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:902:15)
+    at Function.Module._resolveFilename.sharedData.moduleResolveFilenameHook.installedValue (C:\Users\gorel\Documents\Tesso\DemocraciaOnline\democracia_online\server\node_modules\@cspotcode\source-map-support\source-map-support.js:679:30)
+    at Function.Module._resolveFilename (C:\Users\gorel\Documents\Tesso\DemocraciaOnline\democracia_online\server\node_modules\tsconfig-paths\lib\register.js:75:40)
+    at Function.Module._load (internal/modules/cjs/loader.js:746:27)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:93:18)
+    at Object.<anonymous> (C:\Users\gorel\Documents\Tesso\DemocraciaOnline\democracia_online\server\src\services\accessControl.service.ts:11:1)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Module.m._compile (C:\Users\gorel\Documents\Tesso\DemocraciaOnline\democracia_online\server\node_modules\ts-node\src\index.ts:1371:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\gorel\Documents\Tesso\DemocraciaOnline\democracia_online\server\node_modules\ts-node\src\index.ts:1374:12)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:93:18)
+    at Object.<anonymous> (C:\Users\gorel\Documents\Tesso\DemocraciaOnline\democracia_online\server\src\middlewares\permission.middleware.ts:2:1)
+2022-10-23 21:54:49 error: uncaughtException: Cannot find module '@/organizations.model'
+Require stack:
+- C:\Users\gorel\Documents\Tesso\DemocraciaOnline\democracia_online\server\src\services\accessControl.service.ts
+- C:\Users\gorel\Documents\Tesso\DemocraciaOnline\democracia_online\server\src\middlewares\permission.middleware.ts
+- C:\Users\gorel\Documents\Tesso\DemocraciaOnline\democracia_online\server\src\routes\organizations.route.ts
+- C:\Users\gorel\Documents\Tesso\DemocraciaOnline\democracia_online\server\src\routes\index.route.ts
+- C:\Users\gorel\Documents\Tesso\DemocraciaOnline\democracia_online\server\src\app.ts
+- C:\Users\gorel\Documents\Tesso\DemocraciaOnline\democracia_online\server\src\server.ts
+Error: Cannot find module '@/organizations.model'
+Require stack:
+- C:\Users\gorel\Documents\Tesso\DemocraciaOnline\democracia_online\server\src\services\accessControl.service.ts
+- C:\Users\gorel\Documents\Tesso\DemocraciaOnline\democracia_online\server\src\middlewares\permission.middleware.ts
+- C:\Users\gorel\Documents\Tesso\DemocraciaOnline\democracia_online\server\src\routes\organizations.route.ts
+- C:\Users\gorel\Documents\Tesso\DemocraciaOnline\democracia_online\server\src\routes\index.route.ts
+- C:\Users\gorel\Documents\Tesso\DemocraciaOnline\democracia_online\server\src\app.ts
+- C:\Users\gorel\Documents\Tesso\DemocraciaOnline\democracia_online\server\src\server.ts
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:902:15)
+    at Function.Module._resolveFilename.sharedData.moduleResolveFilenameHook.installedValue (C:\Users\gorel\Documents\Tesso\DemocraciaOnline\democracia_online\server\node_modules\@cspotcode\source-map-support\source-map-support.js:679:30)
+    at Function.Module._resolveFilename (C:\Users\gorel\Documents\Tesso\DemocraciaOnline\democracia_online\server\node_modules\tsconfig-paths\lib\register.js:75:40)
+    at Function.Module._load (internal/modules/cjs/loader.js:746:27)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:93:18)
+    at Object.<anonymous> (C:\Users\gorel\Documents\Tesso\DemocraciaOnline\democracia_online\server\src\services\accessControl.service.ts:11:1)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Module.m._compile (C:\Users\gorel\Documents\Tesso\DemocraciaOnline\democracia_online\server\node_modules\ts-node\src\index.ts:1371:23)
+    at Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\gorel\Documents\Tesso\DemocraciaOnline\democracia_online\server\node_modules\ts-node\src\index.ts:1374:12)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:12)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:93:18)
+    at Object.<anonymous> (C:\Users\gorel\Documents\Tesso\DemocraciaOnline\democracia_online\server\src\middlewares\permission.middleware.ts:2:1)
+2022-10-23 23:36:20 error: [POST] /api/login >> StatusCode:: 409, Message:: Email  no encontrado
+2022-10-23 23:37:16 error: [POST] /api/login >> StatusCode:: 409, Message:: Email  no encontrado
+2022-10-23 23:37:22 error: [POST] /api/login >> StatusCode:: 409, Message:: Email a@a.cl no encontrado
+2022-10-23 23:37:30 error: [POST] /api/login >> StatusCode:: 409, Message:: Email a no encontrado
+2022-10-23 23:37:39 error: [POST] /api/login >> StatusCode:: 409, Message:: Email a@a.cl no encontrado
+2022-10-23 23:37:49 error: [POST] /api/login >> StatusCode:: 409, Message:: Contraseña incorrecta

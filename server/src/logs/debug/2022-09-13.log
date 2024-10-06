@@ -1,0 +1,172 @@
+2022-09-13 08:35:24 info: =================================
+2022-09-13 08:35:24 info: ======= ENV: development =======
+2022-09-13 08:35:24 info: 🚀 App listening on the port 5103
+2022-09-13 08:35:24 info: =================================
+2022-09-13 11:00:51 error: [POST] /api/login >> StatusCode:: 409, Message:: Email a@a.cl no encontrado
+2022-09-13 11:00:51 info: [0mPOST /api/login [33m409[0m 178.871 ms - 40[0m
+2022-09-13 11:02:08 error: [POST] /api/login >> StatusCode:: 409, Message:: Email a@a.cl no encontrado
+2022-09-13 11:02:08 info: [0mPOST /api/login [33m409[0m 73.487 ms - 40[0m
+2022-09-13 11:02:20 error: [POST] /api/login >> StatusCode:: 409, Message:: Email a@a.cl no encontrado
+2022-09-13 11:02:20 info: [0mPOST /api/login [33m409[0m 85.030 ms - 40[0m
+2022-09-13 11:02:30 error: [POST] /api/login >> StatusCode:: 409, Message:: Contraseña incorrecta
+2022-09-13 11:02:30 info: [0mPOST /api/login [33m409[0m 139.013 ms - 36[0m
+2022-09-13 11:02:41 info: [0mPOST /api/login [32m200[0m 150.577 ms - 585[0m
+2022-09-13 11:02:43 info: [0mGET /api/clients/getClients [32m200[0m 166.609 ms - 704[0m
+2022-09-13 11:02:59 info: [0mGET /api/orders/getWorkOrders [32m201[0m 153.707 ms - 40[0m
+2022-09-13 11:47:10 info: [0mGET /api/users/getUsers [32m200[0m 179.090 ms - -[0m
+2022-09-13 12:36:27 info: [0mGET /api/clients/getClients [32m200[0m 171.547 ms - 704[0m
+2022-09-13 13:09:02 info: [0mGET /api/clients/getClients [36m304[0m 202.886 ms - -[0m
+2022-09-13 13:11:56 info: [0mGET /api/clients/getClients [36m304[0m 153.602 ms - -[0m
+2022-09-13 13:11:57 info: [0mGET /api/users/getUsers [36m304[0m 169.782 ms - -[0m
+2022-09-13 13:13:20 info: [0mPOST /api/users/createUser [32m201[0m 338.307 ms - 443[0m
+2022-09-13 13:13:21 info: [0mGET /api/users/getUsers [32m200[0m 148.362 ms - -[0m
+2022-09-13 13:13:30 info: [0mPOST /api/users/getUserById [32m200[0m 170.161 ms - 369[0m
+2022-09-13 13:13:34 info: [0mPOST /api/users/getUserById [32m200[0m 172.746 ms - 369[0m
+2022-09-13 13:13:42 info: [0mGET /api/clients/getClients [36m304[0m 152.427 ms - -[0m
+2022-09-13 13:13:46 error: [POST] /api/users/getUserById >> StatusCode:: 404, Message:: Ususario no encontrado
+2022-09-13 13:13:46 info: [0mPOST /api/users/getUserById [33m404[0m 160.960 ms - 36[0m
+2022-09-13 13:13:55 info: [0mGET /api/users/getUsers [36m304[0m 169.244 ms - -[0m
+2022-09-13 13:22:49 info: [0mGET /api/clients/getClients [36m304[0m 150.112 ms - -[0m
+2022-09-13 13:23:53 error: [POST] /api/users/getUserById >> StatusCode:: 404, Message:: Ususario no encontrado
+2022-09-13 13:23:53 info: [0mPOST /api/users/getUserById [33m404[0m 160.861 ms - 36[0m
+2022-09-13 13:24:36 info: [0mGET /api/clients/getClients [36m304[0m 159.823 ms - -[0m
+2022-09-13 14:02:29 info: [0mGET /api/clients/getClients [36m304[0m 157.621 ms - -[0m
+2022-09-13 14:02:33 info: [0mPOST /api/clients/getClientById [32m200[0m 167.462 ms - 355[0m
+2022-09-13 14:06:24 info: [0mPOST /api/clients/getClientById [32m200[0m 155.354 ms - 355[0m
+2022-09-13 14:06:36 info: [0mPOST /api/clients/getClientById [32m200[0m 168.067 ms - 375[0m
+2022-09-13 14:06:43 info: [0mPOST /api/clients/getClientById [32m200[0m 147.851 ms - 355[0m
+2022-09-13 14:06:48 info: [0mPOST /api/clients/getClientById [32m200[0m 152.519 ms - 375[0m
+2022-09-13 14:07:01 info: [0mPOST /api/clients/getClientById [32m200[0m 150.186 ms - 375[0m
+2022-09-13 14:07:10 info: [0mPOST /api/clients/getClientById [32m200[0m 163.822 ms - 355[0m
+2022-09-13 14:07:12 error: [POST] /api/clients/getClientById >> StatusCode:: 400, Message:: Se requiere un ID
+2022-09-13 14:07:12 info: [0mPOST /api/clients/getClientById [33m400[0m 91.913 ms - 31[0m
+2022-09-13 14:08:04 error: [POST] /api/clients/getClientById >> StatusCode:: 400, Message:: Se requiere un ID
+2022-09-13 14:08:04 info: [0mPOST /api/clients/getClientById [33m400[0m 91.557 ms - 31[0m
+2022-09-13 14:08:10 info: [0mPOST /api/clients/getClientById [32m200[0m 151.449 ms - 355[0m
+2022-09-13 14:08:31 info: [0mPOST /api/clients/getClientById [32m200[0m 202.677 ms - 355[0m
+2022-09-13 14:08:33 error: [POST] /api/clients/getClientById >> StatusCode:: 400, Message:: Se requiere un ID
+2022-09-13 14:08:33 info: [0mPOST /api/clients/getClientById [33m400[0m 77.577 ms - 31[0m
+2022-09-13 14:08:36 info: [0mPOST /api/clients/getClientById [32m200[0m 183.904 ms - 355[0m
+2022-09-13 14:08:38 error: [POST] /api/clients/getClientById >> StatusCode:: 400, Message:: Se requiere un ID
+2022-09-13 14:08:38 info: [0mPOST /api/clients/getClientById [33m400[0m 78.590 ms - 31[0m
+2022-09-13 14:08:50 info: [0mGET /api/clients/getClients [36m304[0m 180.373 ms - -[0m
+2022-09-13 14:08:51 info: [0mGET /api/users/getUsers [36m304[0m 151.477 ms - -[0m
+2022-09-13 14:08:55 info: [0mPOST /api/users/getUserById [32m200[0m 153.919 ms - 364[0m
+2022-09-13 14:10:58 error: [POST] /api/clients/getClientById >> StatusCode:: 400, Message:: Se requiere un ID
+2022-09-13 14:10:58 info: [0mPOST /api/clients/getClientById [33m400[0m 80.548 ms - 31[0m
+2022-09-13 14:11:01 info: [0mPOST /api/clients/getClientById [32m200[0m 151.935 ms - 375[0m
+2022-09-13 14:11:05 error: [POST] /api/clients/getClientById >> StatusCode:: 400, Message:: Se requiere un ID
+2022-09-13 14:11:05 info: [0mPOST /api/clients/getClientById [33m400[0m 77.812 ms - 31[0m
+2022-09-13 14:11:08 info: [0mPOST /api/clients/getClientById [32m200[0m 150.102 ms - 375[0m
+2022-09-13 14:11:20 info: [0mPOST /api/clients/getClientById [32m200[0m 157.062 ms - 375[0m
+2022-09-13 14:11:25 info: [0mPOST /api/clients/getClientById [32m200[0m 163.154 ms - 355[0m
+2022-09-13 16:40:41 info: [0mGET /api/clients/getClients [36m304[0m 164.763 ms - -[0m
+2022-09-13 16:40:47 info: [0mPOST /api/clients/getClientById [32m200[0m 162.338 ms - 355[0m
+2022-09-13 16:41:02 info: [0mPOST /api/clients/createClient [32m201[0m 181.653 ms - 370[0m
+2022-09-13 16:41:10 info: [0mPOST /api/clients/getClientById [32m200[0m 152.466 ms - 355[0m
+2022-09-13 16:41:20 info: [0mPOST /api/clients/createClient [32m201[0m 162.416 ms - 355[0m
+2022-09-13 16:41:29 info: [0mGET /api/clients/getClients [32m200[0m 154.411 ms - -[0m
+2022-09-13 17:12:51 info: =================================
+2022-09-13 17:12:51 info: ======= ENV: development =======
+2022-09-13 17:12:51 info: 🚀 App listening on the port 5103
+2022-09-13 17:12:51 info: =================================
+2022-09-13 17:20:03 info: [0mGET /api/clients/getClients [32m200[0m 184.561 ms - -[0m
+2022-09-13 17:20:07 info: [0mPOST /api/clients/deleteClient [32m200[0m 203.515 ms - 355[0m
+2022-09-13 17:20:10 info: [0mGET /api/clients/getClients [32m200[0m 158.157 ms - -[0m
+2022-09-13 17:20:15 info: [0mPOST /api/clients/deleteClient [32m200[0m 159.688 ms - 370[0m
+2022-09-13 17:20:19 info: [0mGET /api/clients/getClients [32m200[0m 166.236 ms - 704[0m
+2022-09-13 17:30:18 info: [0mPOST /api/clients/getClientById [32m200[0m 153.481 ms - 375[0m
+2022-09-13 17:30:37 info: [0mPOST /api/clients/editClient [32m200[0m 166.241 ms - 375[0m
+2022-09-13 17:30:43 info: [0mGET /api/clients/getClients [32m200[0m 152.001 ms - 704[0m
+2022-09-13 17:30:46 info: [0mPOST /api/clients/getClientById [32m200[0m 162.095 ms - 375[0m
+2022-09-13 17:30:48 info: [0mPOST /api/clients/getClientById [32m200[0m 156.424 ms - 355[0m
+2022-09-13 17:33:39 info: [0mPOST /api/clients/getClientById [32m200[0m 162.637 ms - 355[0m
+2022-09-13 17:33:53 info: [0mPOST /api/clients/editClient [32m200[0m 167.059 ms - 355[0m
+2022-09-13 17:33:55 info: [0mPOST /api/clients/getClientById [32m200[0m 151.906 ms - 355[0m
+2022-09-13 17:34:21 info: [0mPOST /api/clients/getClientById [32m200[0m 159.805 ms - 355[0m
+2022-09-13 17:34:23 info: [0mPOST /api/clients/getClientById [32m200[0m 154.457 ms - 375[0m
+2022-09-13 17:35:11 info: [0mPOST /api/clients/getClientById [32m200[0m 151.424 ms - 375[0m
+2022-09-13 17:35:25 info: [0mPOST /api/clients/editClient [32m200[0m 159.952 ms - 375[0m
+2022-09-13 17:35:27 info: [0mPOST /api/clients/getClientById [32m200[0m 155.248 ms - 355[0m
+2022-09-13 17:35:30 info: [0mPOST /api/clients/getClientById [32m200[0m 147.600 ms - 445[0m
+2022-09-13 17:35:58 info: [0mGET /api/clients/getClients [32m200[0m 153.379 ms - 774[0m
+2022-09-13 17:35:59 info: [0mGET /api/users/getUsers [36m304[0m 148.727 ms - -[0m
+2022-09-13 17:36:31 info: [0mGET /api/users/getUsers [36m304[0m 156.409 ms - -[0m
+2022-09-13 17:55:12 info: [0mPOST /api/clients/getClientById [32m200[0m 174.413 ms - 445[0m
+2022-09-13 17:55:36 info: [0mGET /api/orders/getWorkOrders [32m201[0m 151.436 ms - 40[0m
+2022-09-13 17:55:42 info: [0mGET /api/clients/getClients [36m304[0m 153.071 ms - -[0m
+2022-09-13 17:55:45 info: [0mGET /api/users/getUsers [36m304[0m 154.156 ms - -[0m
+2022-09-13 17:57:07 info: [0mGET /api/clients/getClients [36m304[0m 161.812 ms - -[0m
+2022-09-13 17:57:09 info: [0mGET /api/users/getUsers [36m304[0m 154.461 ms - -[0m
+2022-09-13 17:57:50 info: [0mGET /api/users/getUsers [36m304[0m 157.593 ms - -[0m
+2022-09-13 17:58:08 info: [0mGET /api/users/getUsers [36m304[0m 154.452 ms - -[0m
+2022-09-13 18:05:20 info: [0mPOST /api/users/getUserById [32m200[0m 151.978 ms - 369[0m
+2022-09-13 18:05:31 info: [0mGET /api/clients/getClients [36m304[0m 154.744 ms - -[0m
+2022-09-13 18:05:42 info: [0mPOST /api/clients/getClientById [32m200[0m 155.477 ms - 355[0m
+2022-09-13 18:05:48 info: [0mPOST /api/clients/getClientById [32m200[0m 158.773 ms - 355[0m
+2022-09-13 18:05:51 info: [0mPOST /api/clients/getClientById [32m200[0m 153.726 ms - 445[0m
+2022-09-13 18:06:40 info: =================================
+2022-09-13 18:06:40 info: ======= ENV: development =======
+2022-09-13 18:06:40 info: 🚀 App listening on the port 5103
+2022-09-13 18:06:40 info: =================================
+2022-09-13 18:08:05 info: [0mGET /api/clients/getClients [36m304[0m 160.856 ms - -[0m
+2022-09-13 18:08:23 info: [0mPOST /api/clients/createClient [32m201[0m 200.460 ms - 390[0m
+2022-09-13 18:08:27 info: [0mGET /api/clients/getClients [32m200[0m 157.491 ms - -[0m
+2022-09-13 18:08:35 info: [0mPOST /api/clients/deleteClient [32m200[0m 165.952 ms - 390[0m
+2022-09-13 18:10:17 info: [0mGET /api/clients/getClients [32m200[0m 151.454 ms - 774[0m
+2022-09-13 18:10:43 info: [0mPOST /api/clients/createClient [32m201[0m 161.735 ms - 390[0m
+2022-09-13 18:10:47 info: [0mGET /api/clients/getClients [32m200[0m 152.471 ms - -[0m
+2022-09-13 18:10:51 info: [0mPOST /api/clients/deleteClient [32m200[0m 151.156 ms - 390[0m
+2022-09-13 18:10:56 info: [0mGET /api/clients/getClients [32m200[0m 150.888 ms - 774[0m
+2022-09-13 18:11:10 info: [0mGET /api/clients/getClients [36m304[0m 153.606 ms - -[0m
+2022-09-13 18:16:33 info: =================================
+2022-09-13 18:16:33 info: ======= ENV: development =======
+2022-09-13 18:16:33 info: 🚀 App listening on the port 5103
+2022-09-13 18:16:33 info: =================================
+2022-09-13 18:17:19 info: [0mPOST /api/clients/createClient [32m201[0m 201.495 ms - 439[0m
+2022-09-13 18:17:28 info: [0mGET /api/clients/getClients [32m200[0m 159.185 ms - -[0m
+2022-09-13 18:17:40 info: [0mGET /api/clients/getClients [36m304[0m 156.742 ms - -[0m
+2022-09-13 18:18:41 info: =================================
+2022-09-13 18:18:41 info: ======= ENV: development =======
+2022-09-13 18:18:41 info: 🚀 App listening on the port 5103
+2022-09-13 18:18:41 info: =================================
+2022-09-13 18:19:11 info: =================================
+2022-09-13 18:19:11 info: ======= ENV: development =======
+2022-09-13 18:19:11 info: 🚀 App listening on the port 5103
+2022-09-13 18:19:11 info: =================================
+2022-09-13 18:19:14 info: [0mPOST /api/clients/deleteClient [32m200[0m 182.399 ms - 439[0m
+2022-09-13 18:19:16 info: [0mGET /api/clients/getClients [32m200[0m 152.566 ms - 774[0m
+2022-09-13 18:20:00 info: [0mPOST /api/clients/createClient [32m201[0m 196.687 ms - 428[0m
+2022-09-13 18:20:09 info: [0mGET /api/clients/getClients [32m200[0m 162.286 ms - -[0m
+2022-09-13 18:20:52 info: [0mGET /api/clients/getClients [36m304[0m 161.607 ms - -[0m
+2022-09-13 18:21:18 info: [0mPOST /api/clients/createClient [32m201[0m 158.150 ms - 386[0m
+2022-09-13 18:27:57 info: =================================
+2022-09-13 18:27:57 info: ======= ENV: development =======
+2022-09-13 18:27:57 info: 🚀 App listening on the port 5103
+2022-09-13 18:27:57 info: =================================
+2022-09-13 18:28:05 info: [0mGET /api/clients/getClients [32m200[0m 161.884 ms - -[0m
+2022-09-13 18:28:34 info: [0mPOST /api/clients/createClient [32m201[0m 209.243 ms - 399[0m
+2022-09-13 18:32:13 info: [0mGET /api/clients/getClients [32m200[0m 157.641 ms - -[0m
+2022-09-13 18:32:18 info: [0mPOST /api/clients/deleteClient [32m200[0m 175.999 ms - 399[0m
+2022-09-13 18:32:19 info: [0mGET /api/clients/getClients [32m200[0m 154.097 ms - -[0m
+2022-09-13 18:32:22 info: [0mPOST /api/clients/deleteClient [32m200[0m 165.572 ms - 386[0m
+2022-09-13 18:32:23 info: [0mGET /api/clients/getClients [32m200[0m 152.354 ms - -[0m
+2022-09-13 18:32:25 info: [0mPOST /api/clients/deleteClient [32m200[0m 155.453 ms - 428[0m
+2022-09-13 18:32:26 info: [0mGET /api/clients/getClients [32m200[0m 155.869 ms - 774[0m
+2022-09-13 18:32:57 info: [0mPOST /api/clients/createClient [32m201[0m 172.125 ms - 415[0m
+2022-09-13 18:32:58 info: [0mGET /api/clients/getClients [32m200[0m 147.985 ms - -[0m
+2022-09-13 18:33:40 info: [0mGET /api/clients/getClients [36m304[0m 154.084 ms - -[0m
+2022-09-13 18:34:28 info: [0mPOST /api/clients/createClient [32m201[0m 156.606 ms - 419[0m
+2022-09-13 18:34:29 info: [0mGET /api/clients/getClients [32m200[0m 148.798 ms - -[0m
+2022-09-13 18:34:29 info: [0mGET /api/clients/getClients [36m304[0m 152.610 ms - -[0m
+2022-09-13 18:34:35 info: [0mPOST /api/clients/getClientById [32m200[0m 154.409 ms - 419[0m
+2022-09-13 18:34:38 info: [0mPOST /api/clients/getClientById [32m200[0m 157.989 ms - 355[0m
+2022-09-13 18:34:52 info: [0mPOST /api/clients/editClient [32m200[0m 177.393 ms - 355[0m
+2022-09-13 18:34:53 info: [0mGET /api/clients/getClients [32m200[0m 149.621 ms - -[0m
+2022-09-13 18:34:53 info: [0mGET /api/clients/getClients [36m304[0m 150.834 ms - -[0m
+2022-09-13 18:34:56 info: [0mPOST /api/clients/getClientById [32m200[0m 156.079 ms - 415[0m
+2022-09-13 18:35:00 info: [0mPOST /api/clients/getClientById [32m200[0m 151.161 ms - 419[0m
+2022-09-13 18:35:07 info: [0mPOST /api/clients/editClient [32m200[0m 169.370 ms - 419[0m
+2022-09-13 18:35:08 info: [0mGET /api/clients/getClients [32m200[0m 156.673 ms - -[0m
+2022-09-13 18:35:08 info: [0mGET /api/clients/getClients [36m304[0m 146.735 ms - -[0m
+2022-09-13 18:35:17 info: [0mGET /api/clients/getClients [36m304[0m 153.705 ms - -[0m

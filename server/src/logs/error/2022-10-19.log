@@ -1,0 +1,24 @@
+2022-10-19 08:15:45 error: [GET] /users/getUsers >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Tesso\DemocraciaOnline\democracia_online\client\build\index.html'
+2022-10-19 08:15:54 error: [GET] /users/getUsers >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Tesso\DemocraciaOnline\democracia_online\client\build\index.html'
+2022-10-19 08:16:54 error: [GET] /users/getUsers >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Tesso\DemocraciaOnline\democracia_online\client\build\index.html'
+2022-10-19 08:16:55 error: [GET] /users/getUsers >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Tesso\DemocraciaOnline\democracia_online\client\build\index.html'
+2022-10-19 08:16:59 error: [GET] /users/getUsers >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Tesso\DemocraciaOnline\democracia_online\client\build\index.html'
+2022-10-19 08:48:23 error: [GET] /users/getUsers >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Tesso\DemocraciaOnline\democracia_online\client\build\index.html'
+2022-10-19 08:53:38 error: [GET] /users/getUsers >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Tesso\DemocraciaOnline\democracia_online\client\build\index.html'
+2022-10-19 08:53:40 error: [GET] /users/getUsers >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Tesso\DemocraciaOnline\democracia_online\client\build\index.html'
+2022-10-19 08:53:52 error: [GET] /users/getUsers >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Tesso\DemocraciaOnline\democracia_online\client\build\index.html'
+2022-10-19 08:57:58 error: [GET] /users/getUsers >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Tesso\DemocraciaOnline\democracia_online\client\build\index.html'
+2022-10-19 09:02:39 error: [GET] /users/getUsers >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Tesso\DemocraciaOnline\democracia_online\client\build\index.html'
+2022-10-19 13:05:16 error: [GET] /api/users/getUsers >> StatusCode:: 401, Message:: Wrong authentication token
+2022-10-19 13:05:24 error: [GET] /api/users/getUsers >> StatusCode:: 401, Message:: Wrong authentication token
+2022-10-19 13:05:24 error: [GET] /api/users/getUsers >> StatusCode:: 401, Message:: Wrong authentication token
+2022-10-19 15:17:58 error: [GET] /api/users/getUsers >> StatusCode:: 401, Message:: Wrong authentication token
+2022-10-19 15:17:58 error: [GET] /api/users/getUsers >> StatusCode:: 401, Message:: Wrong authentication token
+2022-10-19 15:51:04 error: [GET] /api/users/getUsers >> StatusCode:: 401, Message:: Wrong authentication token
+2022-10-19 15:51:04 error: [GET] /api/users/getUsers >> StatusCode:: 401, Message:: Wrong authentication token
+2022-10-19 20:32:50 error: [GET] /api/users/getUsers >> StatusCode:: 401, Message:: Wrong authentication token
+2022-10-19 20:32:52 error: [GET] /api/users/getUsers >> StatusCode:: 401, Message:: Wrong authentication token
+2022-10-19 20:32:52 error: [GET] /api/users/getUsers >> StatusCode:: 401, Message:: Wrong authentication token
+2022-10-19 22:27:34 error: [GET] /api/users/getUsers >> StatusCode:: 401, Message:: Wrong authentication token
+2022-10-19 22:27:34 error: [GET] /api/users/getUsers >> StatusCode:: 401, Message:: Wrong authentication token
+2022-10-19 22:27:36 error: [GET] /api/users/getUsers >> StatusCode:: 401, Message:: Wrong authentication token

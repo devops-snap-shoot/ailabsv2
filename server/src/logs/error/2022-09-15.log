@@ -1,0 +1,3 @@
+2022-09-15 14:16:59 error: [POST] /api/orders/saveOrder >> StatusCode:: 500, Message:: document must have an _id before saving
+2022-09-15 14:17:56 error: [POST] /api/orders/saveOrder >> StatusCode:: 500, Message:: document must have an _id before saving
+2022-09-15 14:26:34 error: [POST] /api/orders/saveOrder >> StatusCode:: 500, Message:: WorkOrder validation failed: contrato.0: Cast to [ObjectId] failed for value "[{}]" (type string) at path "contrato.0"

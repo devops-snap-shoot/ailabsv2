@@ -1,0 +1,14 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "C:\\Users\\gorel\\Documents\\Tesso\\Taxi-City\\taxicity_app\\server\\src\\logs\\error\\.632faa8f67f0ab34bf1e5d72cbd41d0777f0d372-audit.json",
+    "files": [
+        {
+            "date": 1658295106406,
+            "name": "C:\\Users\\gorel\\Documents\\Tesso\\Taxi-City\\taxicity_app\\server\\src\\logs\\error\\2022-07-20.log",
+            "hash": "bf1fc9242f40550d84bb0c181bbfe62a"
+        }
+    ]
+}

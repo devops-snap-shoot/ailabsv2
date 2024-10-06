@@ -1,0 +1,851 @@
+2024-04-29 11:14:24 info: =================================
+2024-04-29 11:14:24 info: ======= ENV: development =======
+2024-04-29 11:14:24 info: 🚀 App listening on the port 5210
+2024-04-29 11:14:24 info: =================================
+2024-04-29 11:14:36 info: =================================
+2024-04-29 11:14:36 info: ======= ENV: development =======
+2024-04-29 11:14:36 info: 🚀 App listening on the port 5210
+2024-04-29 11:14:36 info: =================================
+2024-04-29 11:14:36 info: [0mGET /api/veify-token/ [32m200[0m 57.368 ms - 874[0m
+2024-04-29 11:14:36 info: [0mGET /api/veify-token/ [36m304[0m 65.819 ms - -[0m
+2024-04-29 11:14:37 info: [0mGET /api/organization/getOrganizations [32m200[0m 992.961 ms - 745[0m
+2024-04-29 11:14:37 info: [0mGET /api/users/getUsers [32m200[0m 1452.032 ms - -[0m
+2024-04-29 11:14:37 info: [0mGET /api/roles/getRoles [32m200[0m 1413.710 ms - -[0m
+2024-04-29 11:14:37 info: [0mGET /api/files/getFiles [32m200[0m 1805.655 ms - -[0m
+2024-04-29 11:15:30 info: =================================
+2024-04-29 11:15:30 info: ======= ENV: development =======
+2024-04-29 11:15:30 info: 🚀 App listening on the port 5210
+2024-04-29 11:15:30 info: =================================
+2024-04-29 11:15:46 info: =================================
+2024-04-29 11:15:46 info: ======= ENV: development =======
+2024-04-29 11:15:46 info: 🚀 App listening on the port 5210
+2024-04-29 11:15:46 info: =================================
+2024-04-29 11:35:14 info: =================================
+2024-04-29 11:35:14 info: ======= ENV: development =======
+2024-04-29 11:35:14 info: 🚀 App listening on the port 5210
+2024-04-29 11:35:14 info: =================================
+2024-04-29 11:35:36 info: [0mOPTIONS /api/login [32m200[0m 1.444 ms - 0[0m
+2024-04-29 11:35:36 error: [POST] /api/login >> StatusCode:: 409, Message:: Wrong password
+2024-04-29 11:35:36 info: [0mPOST /api/login [33m409[0m 565.320 ms - 28[0m
+2024-04-29 11:35:45 info: [0mOPTIONS /api/login [32m200[0m 0.151 ms - 0[0m
+2024-04-29 11:35:45 error: [POST] /api/login >> StatusCode:: 409, Message:: Wrong password
+2024-04-29 11:35:45 info: [0mPOST /api/login [33m409[0m 296.912 ms - 28[0m
+2024-04-29 11:35:50 info: [0mOPTIONS /api/login [32m200[0m 0.136 ms - 0[0m
+2024-04-29 11:35:50 info: [0mPOST /api/login [32m200[0m 309.578 ms - -[0m
+2024-04-29 11:35:51 info: [0mGET /api/organization/getOrganizations [36m304[0m 83.484 ms - -[0m
+2024-04-29 11:35:51 info: [0mGET /api/users/getUsers [32m200[0m 178.586 ms - -[0m
+2024-04-29 11:35:51 info: [0mGET /api/roles/getRoles [32m200[0m 174.457 ms - -[0m
+2024-04-29 11:36:05 info: [0mOPTIONS /api/files/updateFileById [32m200[0m 0.185 ms - 0[0m
+2024-04-29 11:36:05 info: [0mPOST /api/files/updateFileById [32m200[0m 113.980 ms - -[0m
+2024-04-29 11:36:06 info: [0mGET /api/files/getFiles [32m200[0m 695.399 ms - -[0m
+2024-04-29 11:36:24 info: [0mOPTIONS /api/files/updateFileById [32m200[0m 0.224 ms - 0[0m
+2024-04-29 11:36:24 info: [0mOPTIONS /api/ia/chat [32m200[0m 0.486 ms - 0[0m
+2024-04-29 11:36:24 info: [0mPOST /api/files/updateFileById [32m200[0m 96.725 ms - -[0m
+2024-04-29 11:36:24 info: [0mPOST /api/ia/chat [33m400[0m 127.055 ms - -[0m
+2024-04-29 11:36:24 info: [0mPOST /api/files/updateFileById [32m200[0m 110.530 ms - -[0m
+2024-04-29 11:36:24 info: [0mGET /api/files/getFiles [32m200[0m 564.978 ms - -[0m
+2024-04-29 11:36:25 info: [0mGET /api/files/getFiles [32m200[0m 627.432 ms - -[0m
+2024-04-29 11:59:19 info: [0mGET /api/veify-token/ [36m304[0m 4.617 ms - -[0m
+2024-04-29 11:59:19 info: [0mGET /api/veify-token/ [36m304[0m 2.014 ms - -[0m
+2024-04-29 11:59:19 info: [0mGET /api/organization/getOrganizations [36m304[0m 84.297 ms - -[0m
+2024-04-29 11:59:19 info: [0mGET /api/users/getUsers [36m304[0m 160.844 ms - -[0m
+2024-04-29 11:59:19 info: [0mGET /api/roles/getRoles [36m304[0m 168.067 ms - -[0m
+2024-04-29 11:59:20 info: [0mGET /api/files/getFiles [36m304[0m 570.761 ms - -[0m
+2024-04-29 12:02:33 info: [0mGET /api/files/getFiles [36m304[0m 550.650 ms - -[0m
+2024-04-29 12:02:34 info: [0mGET /api/files/getFiles [36m304[0m 686.582 ms - -[0m
+2024-04-29 12:08:43 info: [0mGET /api/veify-token/ [36m304[0m 1.843 ms - -[0m
+2024-04-29 12:08:43 info: [0mGET /api/veify-token/ [36m304[0m 1.706 ms - -[0m
+2024-04-29 12:08:44 info: [0mGET /api/organization/getOrganizations [36m304[0m 74.814 ms - -[0m
+2024-04-29 12:08:44 info: [0mGET /api/users/getUsers [36m304[0m 162.911 ms - -[0m
+2024-04-29 12:08:44 info: [0mGET /api/roles/getRoles [36m304[0m 163.024 ms - -[0m
+2024-04-29 12:08:44 info: [0mGET /api/files/getFiles [36m304[0m 665.946 ms - -[0m
+2024-04-29 12:09:29 info: [0mGET /api/veify-token/ [36m304[0m 2.679 ms - -[0m
+2024-04-29 12:09:29 info: [0mGET /api/veify-token/ [36m304[0m 2.111 ms - -[0m
+2024-04-29 12:09:29 info: [0mGET /api/organization/getOrganizations [36m304[0m 83.076 ms - -[0m
+2024-04-29 12:09:29 info: [0mGET /api/users/getUsers [36m304[0m 170.455 ms - -[0m
+2024-04-29 12:09:29 info: [0mGET /api/roles/getRoles [36m304[0m 171.801 ms - -[0m
+2024-04-29 12:09:29 info: [0mGET /api/files/getFiles [36m304[0m 568.700 ms - -[0m
+2024-04-29 12:12:16 info: [0mGET /api/files/getFiles [36m304[0m 574.162 ms - -[0m
+2024-04-29 12:12:16 info: [0mGET /api/files/getFiles [36m304[0m 539.562 ms - -[0m
+2024-04-29 12:13:22 info: [0mGET /api/files/getFiles [36m304[0m 649.108 ms - -[0m
+2024-04-29 12:13:23 info: [0mGET /api/files/getFiles [36m304[0m 555.971 ms - -[0m
+2024-04-29 12:13:54 info: [0mOPTIONS /api/files/updateFileById [32m200[0m 0.483 ms - 0[0m
+2024-04-29 12:13:54 info: [0mPOST /api/files/updateFileById [32m200[0m 117.691 ms - -[0m
+2024-04-29 12:13:55 info: [0mGET /api/files/getFiles [32m200[0m 1368.569 ms - -[0m
+2024-04-29 12:17:29 info: =================================
+2024-04-29 12:17:29 info: ======= ENV: development =======
+2024-04-29 12:17:29 info: 🚀 App listening on the port 5210
+2024-04-29 12:17:29 info: =================================
+2024-04-29 12:17:36 info: [0mOPTIONS /api/files/updateFileById [32m200[0m 1.671 ms - 0[0m
+2024-04-29 12:17:37 info: [0mPOST /api/files/updateFileById [32m200[0m 315.601 ms - -[0m
+2024-04-29 12:17:37 info: [0mGET /api/files/getFiles [32m200[0m 619.657 ms - -[0m
+2024-04-29 12:29:24 info: =================================
+2024-04-29 12:29:24 info: ======= ENV: development =======
+2024-04-29 12:29:24 info: 🚀 App listening on the port 5210
+2024-04-29 12:29:24 info: =================================
+2024-04-29 12:29:37 info: [0mGET /api/veify-token/ [32m200[0m 37.919 ms - 874[0m
+2024-04-29 12:29:37 info: [0mGET /api/veify-token/ [36m304[0m 6.349 ms - -[0m
+2024-04-29 12:30:12 info: [0mOPTIONS /api/login [32m200[0m 0.539 ms - 0[0m
+2024-04-29 12:30:13 info: [0mPOST /api/login [32m200[0m 504.439 ms - -[0m
+2024-04-29 12:30:13 info: [0mGET /api/organization/getOrganizations [32m200[0m 99.994 ms - 745[0m
+2024-04-29 12:30:13 info: [0mGET /api/roles/getRoles [32m200[0m 162.985 ms - -[0m
+2024-04-29 12:30:13 info: [0mGET /api/users/getUsers [32m200[0m 186.044 ms - -[0m
+2024-04-29 12:30:13 info: [0mGET /api/organization/getOrganizations [36m304[0m 94.285 ms - -[0m
+2024-04-29 12:30:13 info: [0mGET /api/roles/getRoles [36m304[0m 175.775 ms - -[0m
+2024-04-29 12:30:13 info: [0mGET /api/users/getUsers [36m304[0m 209.224 ms - -[0m
+2024-04-29 12:30:13 info: [0mGET /api/files/getFiles [32m200[0m 650.828 ms - -[0m
+2024-04-29 12:30:23 info: [0mOPTIONS /api/files/updateFileById [32m200[0m 0.158 ms - 0[0m
+2024-04-29 12:30:24 info: [0mPOST /api/files/updateFileById [32m200[0m 993.676 ms - -[0m
+2024-04-29 12:30:24 info: [0mGET /api/files/getFiles [32m200[0m 626.264 ms - -[0m
+2024-04-29 12:35:38 info: =================================
+2024-04-29 12:35:38 info: ======= ENV: development =======
+2024-04-29 12:35:38 info: 🚀 App listening on the port 5210
+2024-04-29 12:35:38 info: =================================
+2024-04-29 12:35:46 info: [0mOPTIONS /api/files/updateFileById [32m200[0m 1.823 ms - 0[0m
+2024-04-29 12:35:47 info: [0mPOST /api/files/updateFileById [32m200[0m 1072.952 ms - -[0m
+2024-04-29 12:35:49 info: [0mGET /api/files/getFiles [32m200[0m 2049.484 ms - -[0m
+2024-04-29 12:36:11 info: =================================
+2024-04-29 12:36:11 info: ======= ENV: development =======
+2024-04-29 12:36:11 info: 🚀 App listening on the port 5210
+2024-04-29 12:36:11 info: =================================
+2024-04-29 12:36:15 info: [0mOPTIONS /api/files/updateFileById [32m200[0m 1.233 ms - 0[0m
+2024-04-29 12:36:17 info: [0mPOST /api/files/updateFileById [32m200[0m 1655.999 ms - -[0m
+2024-04-29 12:36:17 info: [0mGET /api/files/getFiles [32m200[0m 594.079 ms - -[0m
+2024-04-29 12:43:08 info: =================================
+2024-04-29 12:43:08 info: ======= ENV: development =======
+2024-04-29 12:43:08 info: 🚀 App listening on the port 5210
+2024-04-29 12:43:08 info: =================================
+2024-04-29 12:43:17 info: [0mGET /api/files/getFiles [32m200[0m 686.929 ms - -[0m
+2024-04-29 12:43:19 info: [0mGET /api/files/getFiles [36m304[0m 2106.744 ms - -[0m
+2024-04-29 12:43:25 info: [0mOPTIONS /api/files/updateFileById [32m200[0m 0.332 ms - 0[0m
+2024-04-29 12:43:26 info: [0mPOST /api/files/updateFileById [32m200[0m 1004.163 ms - -[0m
+2024-04-29 12:43:27 info: [0mGET /api/files/getFiles [32m200[0m 735.668 ms - -[0m
+2024-04-29 12:46:46 info: =================================
+2024-04-29 12:46:46 info: ======= ENV: development =======
+2024-04-29 12:46:46 info: 🚀 App listening on the port 5210
+2024-04-29 12:46:46 info: =================================
+2024-04-29 12:46:50 info: [0mOPTIONS /api/files/updateFileById [32m200[0m 1.677 ms - 0[0m
+2024-04-29 12:46:52 info: [0mPOST /api/files/updateFileById [32m200[0m 1987.035 ms - -[0m
+2024-04-29 12:46:53 info: [0mGET /api/files/getFiles [32m200[0m 586.430 ms - -[0m
+2024-04-29 12:50:03 info: =================================
+2024-04-29 12:50:03 info: ======= ENV: development =======
+2024-04-29 12:50:03 info: 🚀 App listening on the port 5210
+2024-04-29 12:50:03 info: =================================
+2024-04-29 12:50:10 info: [0mOPTIONS /api/files/updateFileById [32m200[0m 1.729 ms - 0[0m
+2024-04-29 12:50:11 info: [0mPOST /api/files/updateFileById [32m200[0m 1005.989 ms - -[0m
+2024-04-29 12:50:12 info: [0mGET /api/files/getFiles [32m200[0m 645.437 ms - -[0m
+2024-04-29 12:50:26 info: [0mOPTIONS /api/files/updateFileById [32m200[0m 0.157 ms - 0[0m
+2024-04-29 12:50:26 info: [0mOPTIONS /api/ia/chat [32m200[0m 0.124 ms - 0[0m
+2024-04-29 12:50:26 info: [0mPOST /api/ia/chat [33m400[0m 89.007 ms - -[0m
+2024-04-29 12:50:27 info: [0mPOST /api/files/updateFileById [32m200[0m 846.980 ms - -[0m
+2024-04-29 12:50:27 info: [0mPOST /api/files/updateFileById [32m200[0m 820.281 ms - -[0m
+2024-04-29 12:50:28 info: [0mGET /api/files/getFiles [32m200[0m 582.622 ms - -[0m
+2024-04-29 12:50:28 info: [0mGET /api/files/getFiles [32m200[0m 607.233 ms - -[0m
+2024-04-29 12:53:58 info: [0mOPTIONS /api/files/updateFileById [32m200[0m 0.187 ms - 0[0m
+2024-04-29 12:54:00 info: [0mPOST /api/files/updateFileById [32m200[0m 1961.449 ms - -[0m
+2024-04-29 12:54:00 info: [0mGET /api/files/getFiles [32m200[0m 615.525 ms - -[0m
+2024-04-29 12:54:12 info: [0mOPTIONS /api/files/updateFileById [32m200[0m 0.139 ms - 0[0m
+2024-04-29 12:54:12 info: [0mOPTIONS /api/ia/chat [32m200[0m 0.304 ms - 0[0m
+2024-04-29 12:54:12 info: [0mPOST /api/ia/chat [33m400[0m 137.728 ms - -[0m
+2024-04-29 12:54:14 info: [0mPOST /api/files/updateFileById [32m200[0m 1795.428 ms - -[0m
+2024-04-29 12:54:14 info: [0mPOST /api/files/updateFileById [32m200[0m 1841.615 ms - -[0m
+2024-04-29 12:54:15 info: [0mGET /api/files/getFiles [32m200[0m 619.222 ms - -[0m
+2024-04-29 12:54:15 info: [0mGET /api/files/getFiles [36m304[0m 522.873 ms - -[0m
+2024-04-29 12:54:42 info: =================================
+2024-04-29 12:54:42 info: ======= ENV: development =======
+2024-04-29 12:54:42 info: 🚀 App listening on the port 5210
+2024-04-29 12:54:42 info: =================================
+2024-04-29 12:54:49 info: [0mOPTIONS /api/files/updateFileById [32m200[0m 2.301 ms - 0[0m
+2024-04-29 12:54:49 info: [0mOPTIONS /api/ia/chat [32m200[0m 0.441 ms - 0[0m
+2024-04-29 12:54:49 info: [0mPOST /api/ia/chat [33m400[0m 110.761 ms - -[0m
+2024-04-29 12:54:50 info: [0mPOST /api/files/updateFileById [32m200[0m 1815.081 ms - -[0m
+2024-04-29 12:54:51 info: [0mPOST /api/files/updateFileById [32m200[0m 1859.293 ms - -[0m
+2024-04-29 12:54:51 info: [0mGET /api/files/getFiles [32m200[0m 618.028 ms - -[0m
+2024-04-29 12:54:52 info: [0mGET /api/files/getFiles [36m304[0m 617.362 ms - -[0m
+2024-04-29 12:55:11 info: [0mOPTIONS /api/files/updateFileById [32m200[0m 0.214 ms - 0[0m
+2024-04-29 12:55:11 info: [0mPOST /api/files/updateFileById [32m200[0m 870.999 ms - -[0m
+2024-04-29 12:55:12 info: [0mGET /api/files/getFiles [32m200[0m 592.209 ms - -[0m
+2024-04-29 12:55:23 info: [0mOPTIONS /api/files/updateFileById [32m200[0m 0.349 ms - 0[0m
+2024-04-29 12:55:23 info: [0mOPTIONS /api/ia/chat [32m200[0m 0.177 ms - 0[0m
+2024-04-29 12:55:23 info: [0mPOST /api/ia/chat [33m400[0m 87.092 ms - -[0m
+2024-04-29 12:55:23 info: [0mPOST /api/files/updateFileById [32m200[0m 804.199 ms - -[0m
+2024-04-29 12:55:23 info: [0mPOST /api/files/updateFileById [32m200[0m 797.482 ms - -[0m
+2024-04-29 12:55:24 info: [0mGET /api/files/getFiles [32m200[0m 585.358 ms - -[0m
+2024-04-29 12:55:24 info: [0mGET /api/files/getFiles [36m304[0m 537.458 ms - -[0m
+2024-04-29 12:57:27 info: =================================
+2024-04-29 12:57:27 info: ======= ENV: development =======
+2024-04-29 12:57:27 info: 🚀 App listening on the port 5210
+2024-04-29 12:57:27 info: =================================
+2024-04-29 12:57:31 info: [0mOPTIONS /api/files/updateFileById [32m200[0m 1.230 ms - 0[0m
+2024-04-29 12:57:31 info: [0mOPTIONS /api/ia/chat [32m200[0m 0.249 ms - 0[0m
+2024-04-29 12:57:32 info: [0mPOST /api/ia/chat [33m400[0m 97.633 ms - -[0m
+2024-04-29 12:57:32 info: [0mPOST /api/files/updateFileById [32m200[0m 913.806 ms - -[0m
+2024-04-29 12:57:33 info: [0mGET /api/files/getFiles [32m200[0m 593.814 ms - -[0m
+2024-04-29 12:58:20 info: =================================
+2024-04-29 12:58:20 info: ======= ENV: development =======
+2024-04-29 12:58:20 info: 🚀 App listening on the port 5210
+2024-04-29 12:58:20 info: =================================
+2024-04-29 12:58:28 info: [0mGET /api/veify-token/ [36m304[0m 12.665 ms - -[0m
+2024-04-29 12:58:28 info: [0mGET /api/veify-token/ [36m304[0m 3.180 ms - -[0m
+2024-04-29 12:58:28 info: [0mGET /api/organization/getOrganizations [36m304[0m 88.412 ms - -[0m
+2024-04-29 12:58:28 info: [0mGET /api/users/getUsers [32m200[0m 178.425 ms - -[0m
+2024-04-29 12:58:28 info: [0mGET /api/roles/getRoles [32m200[0m 170.800 ms - -[0m
+2024-04-29 12:58:28 info: [0mGET /api/files/getFiles [32m200[0m 569.091 ms - -[0m
+2024-04-29 12:58:33 info: [0mOPTIONS /api/files/updateFileById [32m200[0m 0.439 ms - 0[0m
+2024-04-29 12:58:34 info: [0mPOST /api/files/updateFileById [32m200[0m 933.487 ms - -[0m
+2024-04-29 12:58:36 info: [0mGET /api/files/getFiles [32m200[0m 2099.054 ms - -[0m
+2024-04-29 12:58:42 info: [0mOPTIONS /api/files/updateFileById [32m200[0m 0.365 ms - 0[0m
+2024-04-29 12:58:42 info: [0mOPTIONS /api/ia/chat [32m200[0m 0.363 ms - 0[0m
+2024-04-29 12:58:42 info: [0mPOST /api/ia/chat [33m400[0m 102.431 ms - -[0m
+2024-04-29 12:58:43 info: [0mPOST /api/files/updateFileById [32m200[0m 817.765 ms - -[0m
+2024-04-29 12:58:43 info: [0mGET /api/files/getFiles [32m200[0m 573.919 ms - -[0m
+2024-04-29 12:59:15 info: [0mGET /api/veify-token/ [36m304[0m 1.261 ms - -[0m
+2024-04-29 12:59:15 info: [0mGET /api/veify-token/ [36m304[0m 1.681 ms - -[0m
+2024-04-29 12:59:15 info: [0mGET /api/organization/getOrganizations [36m304[0m 83.406 ms - -[0m
+2024-04-29 12:59:15 info: [0mGET /api/roles/getRoles [36m304[0m 149.910 ms - -[0m
+2024-04-29 12:59:15 info: [0mGET /api/users/getUsers [36m304[0m 162.173 ms - -[0m
+2024-04-29 12:59:16 info: [0mGET /api/files/getFiles [32m200[0m 611.801 ms - -[0m
+2024-04-29 12:59:21 info: [0mOPTIONS /api/files/updateFileById [32m200[0m 0.220 ms - 0[0m
+2024-04-29 12:59:23 info: [0mPOST /api/files/updateFileById [32m200[0m 2115.628 ms - -[0m
+2024-04-29 12:59:24 info: [0mGET /api/files/getFiles [32m200[0m 640.056 ms - -[0m
+2024-04-29 12:59:36 info: [0mOPTIONS /api/files/updateFileById [32m200[0m 0.228 ms - 0[0m
+2024-04-29 12:59:36 info: [0mOPTIONS /api/ia/chat [32m200[0m 0.146 ms - 0[0m
+2024-04-29 12:59:36 info: [0mPOST /api/ia/chat [33m400[0m 107.314 ms - -[0m
+2024-04-29 12:59:37 info: [0mPOST /api/files/updateFileById [32m200[0m 1761.335 ms - -[0m
+2024-04-29 12:59:38 info: [0mGET /api/files/getFiles [32m200[0m 657.606 ms - -[0m
+2024-04-29 13:03:49 info: [0mGET /api/veify-token/ [36m304[0m 2.415 ms - -[0m
+2024-04-29 13:03:49 info: [0mGET /api/veify-token/ [36m304[0m 3.422 ms - -[0m
+2024-04-29 13:03:49 info: [0mGET /api/organization/getOrganizations [36m304[0m 79.165 ms - -[0m
+2024-04-29 13:03:49 info: [0mGET /api/users/getUsers [36m304[0m 162.070 ms - -[0m
+2024-04-29 13:03:49 info: [0mGET /api/roles/getRoles [36m304[0m 158.967 ms - -[0m
+2024-04-29 13:03:50 info: [0mGET /api/files/getFiles [32m200[0m 582.154 ms - -[0m
+2024-04-29 13:03:52 info: [0mOPTIONS /api/files/updateFileById [32m200[0m 0.358 ms - 0[0m
+2024-04-29 13:03:53 info: [0mPOST /api/files/updateFileById [32m200[0m 1022.210 ms - -[0m
+2024-04-29 13:03:55 info: [0mGET /api/files/getFiles [32m200[0m 2004.270 ms - -[0m
+2024-04-29 13:05:35 info: =================================
+2024-04-29 13:05:35 info: ======= ENV: development =======
+2024-04-29 13:05:35 info: 🚀 App listening on the port 5210
+2024-04-29 13:05:35 info: =================================
+2024-04-29 13:05:35 info: [0mGET /api/veify-token/ [36m304[0m 12.248 ms - -[0m
+2024-04-29 13:05:35 info: [0mGET /api/veify-token/ [36m304[0m 4.037 ms - -[0m
+2024-04-29 13:05:37 info: [0mGET /api/organization/getOrganizations [36m304[0m 1122.174 ms - -[0m
+2024-04-29 13:05:37 info: [0mGET /api/users/getUsers [36m304[0m 1474.848 ms - -[0m
+2024-04-29 13:05:37 info: [0mGET /api/roles/getRoles [36m304[0m 1477.296 ms - -[0m
+2024-04-29 13:05:38 info: [0mGET /api/files/getFiles [32m200[0m 1989.785 ms - -[0m
+2024-04-29 13:05:47 info: [0mOPTIONS /api/files/updateFileById [32m200[0m 0.744 ms - 0[0m
+2024-04-29 13:05:49 info: [0mPOST /api/files/updateFileById [32m200[0m 2057.084 ms - -[0m
+2024-04-29 13:05:49 info: [0mGET /api/files/getFiles [32m200[0m 588.236 ms - -[0m
+2024-04-29 13:07:43 info: =================================
+2024-04-29 13:07:43 info: ======= ENV: development =======
+2024-04-29 13:07:43 info: 🚀 App listening on the port 5210
+2024-04-29 13:07:43 info: =================================
+2024-04-29 13:08:40 info: [0mGET /api/veify-token/ [36m304[0m 12.914 ms - -[0m
+2024-04-29 13:08:40 info: [0mGET /api/veify-token/ [36m304[0m 3.920 ms - -[0m
+2024-04-29 13:08:40 info: [0mGET /api/organization/getOrganizations [36m304[0m 148.780 ms - -[0m
+2024-04-29 13:08:41 info: [0mGET /api/roles/getRoles [32m200[0m 221.923 ms - -[0m
+2024-04-29 13:08:41 info: [0mGET /api/users/getUsers [32m200[0m 242.446 ms - -[0m
+2024-04-29 13:08:41 info: [0mGET /api/files/getFiles [32m200[0m 624.544 ms - -[0m
+2024-04-29 13:08:47 info: [0mOPTIONS /api/files/updateFileById [32m200[0m 0.798 ms - 0[0m
+2024-04-29 13:08:48 info: [0mPOST /api/files/updateFileById [32m200[0m 1003.124 ms - -[0m
+2024-04-29 13:08:49 info: [0mGET /api/files/getFiles [32m200[0m 556.508 ms - -[0m
+2024-04-29 13:09:12 info: [0mOPTIONS /api/files/updateFileById [32m200[0m 0.146 ms - 0[0m
+2024-04-29 13:09:12 info: [0mOPTIONS /api/ia/chat [32m200[0m 0.266 ms - 0[0m
+2024-04-29 13:09:12 info: [0mPOST /api/ia/chat [33m400[0m 74.678 ms - -[0m
+2024-04-29 13:09:13 info: [0mPOST /api/files/updateFileById [32m200[0m 810.934 ms - -[0m
+2024-04-29 13:09:14 info: [0mGET /api/files/getFiles [32m200[0m 869.981 ms - -[0m
+2024-04-29 13:10:06 info: [0mGET /api/veify-token/ [36m304[0m 4.074 ms - -[0m
+2024-04-29 13:10:06 info: [0mGET /api/veify-token/ [36m304[0m 2.519 ms - -[0m
+2024-04-29 13:10:06 info: [0mGET /api/organization/getOrganizations [36m304[0m 176.405 ms - -[0m
+2024-04-29 13:10:06 info: [0mGET /api/users/getUsers [36m304[0m 271.686 ms - -[0m
+2024-04-29 13:10:06 info: [0mGET /api/roles/getRoles [36m304[0m 263.741 ms - -[0m
+2024-04-29 13:10:07 info: [0mGET /api/files/getFiles [36m304[0m 555.302 ms - -[0m
+2024-04-29 13:10:11 info: [0mOPTIONS /api/files/updateFileById [32m200[0m 0.185 ms - 0[0m
+2024-04-29 13:10:12 info: [0mPOST /api/files/updateFileById [32m200[0m 1307.043 ms - -[0m
+2024-04-29 13:10:13 info: [0mGET /api/files/getFiles [32m200[0m 564.953 ms - -[0m
+2024-04-29 13:10:30 info: [0mOPTIONS /api/files/updateFileById [32m200[0m 0.180 ms - 0[0m
+2024-04-29 13:10:30 info: [0mOPTIONS /api/ia/chat [32m200[0m 0.212 ms - 0[0m
+2024-04-29 13:10:30 info: [0mPOST /api/ia/chat [33m400[0m 61.370 ms - -[0m
+2024-04-29 13:10:31 info: [0mPOST /api/files/updateFileById [32m200[0m 1106.274 ms - -[0m
+2024-04-29 13:10:33 info: [0mGET /api/files/getFiles [32m200[0m 1913.948 ms - -[0m
+2024-04-29 13:12:25 info: [0mGET /api/files/getFiles [32m200[0m 532.460 ms - -[0m
+2024-04-29 13:12:26 info: [0mGET /api/files/getFiles [36m304[0m 558.590 ms - -[0m
+2024-04-29 13:12:47 info: [0mGET /api/veify-token/ [36m304[0m 2.288 ms - -[0m
+2024-04-29 13:12:47 info: [0mGET /api/veify-token/ [36m304[0m 1.879 ms - -[0m
+2024-04-29 13:12:47 info: [0mGET /api/organization/getOrganizations [36m304[0m 79.891 ms - -[0m
+2024-04-29 13:12:47 info: [0mGET /api/users/getUsers [36m304[0m 174.799 ms - -[0m
+2024-04-29 13:12:47 info: [0mGET /api/roles/getRoles [36m304[0m 176.336 ms - -[0m
+2024-04-29 13:12:48 info: [0mGET /api/files/getFiles [36m304[0m 656.005 ms - -[0m
+2024-04-29 13:12:56 info: [0mOPTIONS /api/files/updateFileById [32m200[0m 0.298 ms - 0[0m
+2024-04-29 13:12:57 info: [0mPOST /api/files/updateFileById [32m200[0m 1280.534 ms - -[0m
+2024-04-29 13:12:58 info: [0mGET /api/files/getFiles [32m200[0m 602.698 ms - -[0m
+2024-04-29 13:13:11 info: [0mOPTIONS /api/files/updateFileById [32m200[0m 0.308 ms - 0[0m
+2024-04-29 13:13:11 info: [0mOPTIONS /api/ia/chat [32m200[0m 0.199 ms - 0[0m
+2024-04-29 13:13:12 info: [0mPOST /api/files/updateFileById [32m200[0m 1167.352 ms - -[0m
+2024-04-29 13:13:14 info: [0mGET /api/files/getFiles [32m200[0m 1340.239 ms - -[0m
+2024-04-29 13:13:14 info: [0mPOST /api/ia/chat [32m200[0m 2828.853 ms - -[0m
+2024-04-29 13:13:15 info: [0mPOST /api/files/updateFileById [32m200[0m 1089.377 ms - -[0m
+2024-04-29 13:13:16 info: [0mGET /api/files/getFiles [32m200[0m 556.830 ms - -[0m
+2024-04-29 13:14:03 info: [0mOPTIONS /api/files/updateFileById [32m200[0m 0.229 ms - 0[0m
+2024-04-29 13:14:03 info: [0mOPTIONS /api/ia/chat [32m200[0m 0.212 ms - 0[0m
+2024-04-29 13:14:04 info: [0mPOST /api/files/updateFileById [32m200[0m 1137.778 ms - -[0m
+2024-04-29 13:14:05 info: [0mPOST /api/ia/chat [32m200[0m 1633.576 ms - -[0m
+2024-04-29 13:14:05 info: [0mGET /api/files/getFiles [32m200[0m 597.307 ms - -[0m
+2024-04-29 13:14:06 info: [0mPOST /api/files/updateFileById [32m200[0m 1141.115 ms - -[0m
+2024-04-29 13:14:07 info: [0mGET /api/files/getFiles [32m200[0m 806.774 ms - -[0m
+2024-04-29 13:14:31 info: [0mOPTIONS /api/ia/chat [32m200[0m 0.135 ms - 0[0m
+2024-04-29 13:14:31 info: [0mOPTIONS /api/files/updateFileById [32m200[0m 0.087 ms - 0[0m
+2024-04-29 13:14:32 info: [0mPOST /api/files/updateFileById [32m200[0m 1167.034 ms - -[0m
+2024-04-29 13:14:33 info: [0mGET /api/files/getFiles [32m200[0m 571.140 ms - -[0m
+2024-04-29 13:14:33 info: [0mPOST /api/ia/chat [32m200[0m 2524.606 ms - -[0m
+2024-04-29 13:14:35 info: [0mPOST /api/files/updateFileById [32m200[0m 1084.183 ms - -[0m
+2024-04-29 13:14:36 info: [0mGET /api/files/getFiles [32m200[0m 1146.979 ms - -[0m
+2024-04-29 13:15:12 info: [0mGET /api/veify-token/ [36m304[0m 5.709 ms - -[0m
+2024-04-29 13:15:12 info: [0mGET /api/veify-token/ [36m304[0m 2.417 ms - -[0m
+2024-04-29 13:15:13 info: [0mGET /api/organization/getOrganizations [36m304[0m 75.957 ms - -[0m
+2024-04-29 13:15:13 info: [0mGET /api/users/getUsers [36m304[0m 155.681 ms - -[0m
+2024-04-29 13:15:13 info: [0mGET /api/roles/getRoles [36m304[0m 155.298 ms - -[0m
+2024-04-29 13:15:13 info: [0mGET /api/files/getFiles [32m200[0m 578.580 ms - -[0m
+2024-04-29 13:15:16 info: [0mOPTIONS /api/files/updateFileById [32m200[0m 0.227 ms - 0[0m
+2024-04-29 13:15:17 info: [0mPOST /api/files/updateFileById [32m200[0m 898.037 ms - -[0m
+2024-04-29 13:15:18 info: [0mGET /api/files/getFiles [32m200[0m 552.898 ms - -[0m
+2024-04-29 13:15:33 info: [0mOPTIONS /api/files/updateFileById [32m200[0m 0.214 ms - 0[0m
+2024-04-29 13:15:33 info: [0mOPTIONS /api/ia/chat [32m200[0m 0.186 ms - 0[0m
+2024-04-29 13:15:34 info: [0mPOST /api/files/updateFileById [32m200[0m 930.351 ms - -[0m
+2024-04-29 13:15:35 info: [0mGET /api/files/getFiles [32m200[0m 788.501 ms - -[0m
+2024-04-29 13:15:37 info: [0mPOST /api/ia/chat [32m200[0m 4003.096 ms - -[0m
+2024-04-29 13:15:38 info: [0mPOST /api/files/updateFileById [32m200[0m 815.161 ms - -[0m
+2024-04-29 13:15:39 info: [0mGET /api/files/getFiles [32m200[0m 1007.654 ms - -[0m
+2024-04-29 13:16:32 info: [0mOPTIONS /api/files/updateFileById [32m200[0m 0.183 ms - 0[0m
+2024-04-29 13:16:34 info: [0mPOST /api/files/updateFileById [32m200[0m 2078.687 ms - 484[0m
+2024-04-29 13:16:34 info: [0mGET /api/files/getFiles [32m200[0m 635.202 ms - -[0m
+2024-04-29 13:16:45 info: [0mOPTIONS /api/files/updateFileById [32m200[0m 0.408 ms - 0[0m
+2024-04-29 13:16:45 info: [0mOPTIONS /api/ia/chat [32m200[0m 0.124 ms - 0[0m
+2024-04-29 13:16:47 info: [0mPOST /api/ia/chat [32m200[0m 1603.119 ms - -[0m
+2024-04-29 13:16:47 info: [0mPOST /api/files/updateFileById [32m200[0m 2304.945 ms - 566[0m
+2024-04-29 13:16:48 info: [0mGET /api/files/getFiles [32m200[0m 660.964 ms - -[0m
+2024-04-29 13:16:49 info: [0mPOST /api/files/updateFileById [32m200[0m 2349.831 ms - 708[0m
+2024-04-29 13:16:50 info: [0mGET /api/files/getFiles [36m304[0m 942.508 ms - -[0m
+2024-04-29 13:17:39 info: [0mOPTIONS /api/files/updateFileById [32m200[0m 0.210 ms - 0[0m
+2024-04-29 13:17:39 info: [0mOPTIONS /api/ia/chat [32m200[0m 0.100 ms - 0[0m
+2024-04-29 13:17:41 info: [0mPOST /api/files/updateFileById [32m200[0m 2243.761 ms - 814[0m
+2024-04-29 13:17:41 info: [0mPOST /api/ia/chat [32m200[0m 2242.937 ms - -[0m
+2024-04-29 13:17:43 info: [0mGET /api/files/getFiles [32m200[0m 1928.934 ms - -[0m
+2024-04-29 13:17:43 info: [0mPOST /api/files/updateFileById [32m200[0m 2467.442 ms - 1021[0m
+2024-04-29 13:17:44 info: [0mGET /api/files/getFiles [32m200[0m 536.139 ms - -[0m
+2024-04-29 13:17:59 info: [0mOPTIONS /api/files/updateFileById [32m200[0m 0.472 ms - 0[0m
+2024-04-29 13:18:00 info: [0mPOST /api/files/updateFileById [32m200[0m 1176.189 ms - 319[0m
+2024-04-29 13:18:00 info: [0mGET /api/files/getFiles [32m200[0m 567.506 ms - -[0m
+2024-04-29 13:18:10 info: [0mOPTIONS /api/files/updateFileById [32m200[0m 0.182 ms - 0[0m
+2024-04-29 13:18:12 info: [0mPOST /api/files/updateFileById [32m200[0m 1761.461 ms - -[0m
+2024-04-29 13:18:13 info: [0mGET /api/files/getFiles [32m200[0m 588.751 ms - -[0m
+2024-04-29 13:21:18 info: [0mGET /api/veify-token/ [36m304[0m 4.320 ms - -[0m
+2024-04-29 13:21:18 info: [0mGET /api/veify-token/ [36m304[0m 2.051 ms - -[0m
+2024-04-29 13:21:18 info: [0mGET /api/organization/getOrganizations [36m304[0m 73.790 ms - -[0m
+2024-04-29 13:21:18 info: [0mGET /api/users/getUsers [36m304[0m 153.307 ms - -[0m
+2024-04-29 13:21:18 info: [0mGET /api/roles/getRoles [36m304[0m 153.235 ms - -[0m
+2024-04-29 13:21:19 info: [0mGET /api/files/getFiles [32m200[0m 556.400 ms - -[0m
+2024-04-29 13:22:28 info: [0mGET /api/veify-token/ [36m304[0m 1.148 ms - -[0m
+2024-04-29 13:22:28 info: [0mGET /api/veify-token/ [36m304[0m 1.354 ms - -[0m
+2024-04-29 13:22:40 info: [0mOPTIONS /api/login [32m200[0m 0.193 ms - 0[0m
+2024-04-29 13:22:40 info: [0mPOST /api/login [32m200[0m 311.805 ms - -[0m
+2024-04-29 13:22:40 info: [0mGET /api/organization/getOrganizations [36m304[0m 78.011 ms - -[0m
+2024-04-29 13:22:40 info: [0mGET /api/users/getUsers [36m304[0m 158.631 ms - -[0m
+2024-04-29 13:22:40 info: [0mGET /api/roles/getRoles [36m304[0m 155.497 ms - -[0m
+2024-04-29 13:22:40 info: [0mGET /api/organization/getOrganizations [36m304[0m 78.953 ms - -[0m
+2024-04-29 13:22:41 info: [0mGET /api/roles/getRoles [36m304[0m 146.699 ms - -[0m
+2024-04-29 13:22:41 info: [0mGET /api/users/getUsers [36m304[0m 156.299 ms - -[0m
+2024-04-29 13:22:41 info: [0mGET /api/files/getFiles [36m304[0m 543.030 ms - -[0m
+2024-04-29 13:25:00 info: [0mOPTIONS /api/login [32m200[0m 0.172 ms - 0[0m
+2024-04-29 13:25:01 info: [0mPOST /api/login [32m200[0m 277.548 ms - -[0m
+2024-04-29 13:25:01 info: [0mGET /api/organization/getOrganizations [36m304[0m 71.884 ms - -[0m
+2024-04-29 13:25:01 info: [0mGET /api/roles/getRoles [36m304[0m 148.737 ms - -[0m
+2024-04-29 13:25:01 info: [0mGET /api/organization/getOrganizations [36m304[0m 77.145 ms - -[0m
+2024-04-29 13:25:01 info: [0mGET /api/users/getUsers [36m304[0m 160.092 ms - -[0m
+2024-04-29 13:25:01 info: [0mGET /api/organization/getOrganizations [36m304[0m 78.574 ms - -[0m
+2024-04-29 13:25:01 info: [0mGET /api/roles/getRoles [36m304[0m 151.739 ms - -[0m
+2024-04-29 13:25:01 info: [0mGET /api/users/getUsers [36m304[0m 209.671 ms - -[0m
+2024-04-29 13:25:01 info: [0mGET /api/roles/getRoles [36m304[0m 210.552 ms - -[0m
+2024-04-29 13:25:54 info: [0mGET /api/veify-token/ [36m304[0m 1.931 ms - -[0m
+2024-04-29 13:25:54 info: [0mGET /api/veify-token/ [36m304[0m 1.301 ms - -[0m
+2024-04-29 13:26:05 info: [0mOPTIONS /api/login [32m200[0m 2.000 ms - 0[0m
+2024-04-29 13:26:05 info: [0mPOST /api/login [32m200[0m 273.322 ms - -[0m
+2024-04-29 13:26:06 info: [0mGET /api/organization/getOrganizations [36m304[0m 73.803 ms - -[0m
+2024-04-29 13:26:06 info: [0mGET /api/roles/getRoles [36m304[0m 139.176 ms - -[0m
+2024-04-29 13:26:06 info: [0mGET /api/users/getUsers [36m304[0m 157.827 ms - -[0m
+2024-04-29 13:26:06 info: [0mGET /api/organization/getOrganizations [36m304[0m 83.828 ms - -[0m
+2024-04-29 13:26:06 info: [0mGET /api/roles/getRoles [36m304[0m 147.455 ms - -[0m
+2024-04-29 13:26:06 info: [0mGET /api/users/getUsers [36m304[0m 160.035 ms - -[0m
+2024-04-29 13:26:06 info: [0mGET /api/files/getFiles [36m304[0m 584.798 ms - -[0m
+2024-04-29 13:27:28 info: [0mOPTIONS /api/ia/upload_pdf [32m200[0m 0.203 ms - 0[0m
+2024-04-29 13:27:43 info: [0mPOST /api/ia/upload_pdf [32m200[0m 14558.794 ms - 327[0m
+2024-04-29 13:27:44 info: [0mOPTIONS /api/files/updateFileById [32m200[0m 0.100 ms - 0[0m
+2024-04-29 13:27:44 info: [0mPOST /api/files/updateFileById [33m400[0m 159.356 ms - 26[0m
+2024-04-29 13:27:45 info: [0mGET /api/files/getFiles [32m200[0m 1483.203 ms - -[0m
+2024-04-29 13:33:56 info: [0mGET /api/veify-token/ [36m304[0m 5.630 ms - -[0m
+2024-04-29 13:33:56 info: [0mGET /api/veify-token/ [36m304[0m 2.521 ms - -[0m
+2024-04-29 13:33:57 info: [0mGET /api/organization/getOrganizations [36m304[0m 81.041 ms - -[0m
+2024-04-29 13:33:57 info: [0mGET /api/roles/getRoles [36m304[0m 154.307 ms - -[0m
+2024-04-29 13:33:57 info: [0mGET /api/users/getUsers [36m304[0m 170.970 ms - -[0m
+2024-04-29 13:33:57 info: [0mGET /api/files/getFiles [32m200[0m 789.554 ms - -[0m
+2024-04-29 13:34:25 info: [0mGET /api/veify-token/ [36m304[0m 1.632 ms - -[0m
+2024-04-29 13:34:25 info: [0mGET /api/veify-token/ [36m304[0m 1.593 ms - -[0m
+2024-04-29 13:34:25 info: [0mGET /api/organization/getOrganizations [36m304[0m 86.452 ms - -[0m
+2024-04-29 13:34:26 info: [0mGET /api/roles/getRoles [36m304[0m 173.151 ms - -[0m
+2024-04-29 13:34:26 info: [0mGET /api/users/getUsers [36m304[0m 271.282 ms - -[0m
+2024-04-29 13:34:26 info: [0mGET /api/files/getFiles [32m200[0m 650.457 ms - -[0m
+2024-04-29 13:34:50 info: [0mOPTIONS /api/files/updateFileById [32m200[0m 0.249 ms - 0[0m
+2024-04-29 13:34:52 info: [0mPOST /api/files/updateFileById [32m200[0m 2092.274 ms - 1021[0m
+2024-04-29 13:34:53 info: [0mGET /api/files/getFiles [32m200[0m 751.783 ms - -[0m
+2024-04-29 13:34:57 info: [0mGET /api/veify-token/ [36m304[0m 1.908 ms - -[0m
+2024-04-29 13:34:57 info: [0mGET /api/veify-token/ [36m304[0m 1.884 ms - -[0m
+2024-04-29 13:34:58 info: [0mGET /api/organization/getOrganizations [36m304[0m 77.747 ms - -[0m
+2024-04-29 13:34:58 info: [0mGET /api/users/getUsers [36m304[0m 163.488 ms - -[0m
+2024-04-29 13:34:58 info: [0mGET /api/roles/getRoles [36m304[0m 159.062 ms - -[0m
+2024-04-29 13:34:58 info: [0mGET /api/files/getFiles [36m304[0m 696.884 ms - -[0m
+2024-04-29 13:35:13 info: [0mGET /api/veify-token/ [36m304[0m 2.205 ms - -[0m
+2024-04-29 13:35:13 info: [0mGET /api/veify-token/ [36m304[0m 1.950 ms - -[0m
+2024-04-29 13:35:13 info: [0mGET /api/organization/getOrganizations [36m304[0m 91.787 ms - -[0m
+2024-04-29 13:35:13 info: [0mGET /api/roles/getRoles [36m304[0m 170.063 ms - -[0m
+2024-04-29 13:35:13 info: [0mGET /api/users/getUsers [36m304[0m 194.178 ms - -[0m
+2024-04-29 13:35:16 info: [0mGET /api/files/getFiles [32m200[0m 2498.812 ms - -[0m
+2024-04-29 13:35:22 info: [0mOPTIONS /api/files/updateFileById [32m200[0m 0.351 ms - 0[0m
+2024-04-29 13:35:27 info: [0mPOST /api/files/updateFileById [32m200[0m 5225.817 ms - 329[0m
+2024-04-29 13:35:28 info: [0mGET /api/files/getFiles [32m200[0m 909.884 ms - -[0m
+2024-04-29 13:35:40 info: [0mOPTIONS /api/files/updateFileById [32m200[0m 0.165 ms - 0[0m
+2024-04-29 13:35:40 info: [0mOPTIONS /api/ia/chat [32m200[0m 0.188 ms - 0[0m
+2024-04-29 13:35:41 info: [0mPOST /api/ia/chat [33m400[0m 50.435 ms - -[0m
+2024-04-29 13:35:46 info: [0mPOST /api/files/updateFileById [32m200[0m 5346.801 ms - 394[0m
+2024-04-29 13:35:47 info: [0mGET /api/files/getFiles [32m200[0m 646.084 ms - -[0m
+2024-04-29 14:23:28 info: [0mGET /api/veify-token/ [36m304[0m 6.433 ms - -[0m
+2024-04-29 14:23:28 info: [0mGET /api/veify-token/ [36m304[0m 2.524 ms - -[0m
+2024-04-29 14:23:28 info: [0mGET /api/organization/getOrganizations [36m304[0m 99.433 ms - -[0m
+2024-04-29 14:23:28 info: [0mGET /api/users/getUsers [36m304[0m 196.403 ms - -[0m
+2024-04-29 14:23:28 info: [0mGET /api/roles/getRoles [36m304[0m 196.564 ms - -[0m
+2024-04-29 14:23:29 info: [0mGET /api/files/getFiles [36m304[0m 797.404 ms - -[0m
+2024-04-29 14:24:07 info: [0mGET /api/veify-token/ [36m304[0m 1.637 ms - -[0m
+2024-04-29 14:24:07 info: [0mGET /api/veify-token/ [36m304[0m 1.642 ms - -[0m
+2024-04-29 14:24:08 info: [0mGET /api/organization/getOrganizations [36m304[0m 74.070 ms - -[0m
+2024-04-29 14:24:08 info: [0mGET /api/users/getUsers [36m304[0m 161.219 ms - -[0m
+2024-04-29 14:24:08 info: [0mGET /api/roles/getRoles [36m304[0m 156.783 ms - -[0m
+2024-04-29 14:24:08 info: [0mGET /api/files/getFiles [32m200[0m 714.457 ms - -[0m
+2024-04-29 14:24:15 info: [0mOPTIONS /api/files/updateFileById [32m200[0m 0.292 ms - 0[0m
+2024-04-29 14:24:21 info: [0mPOST /api/files/updateFileById [32m200[0m 5369.628 ms - 394[0m
+2024-04-29 14:24:21 info: [0mGET /api/files/getFiles [32m200[0m 624.411 ms - -[0m
+2024-04-29 14:24:35 info: [0mOPTIONS /api/files/updateFileById [32m200[0m 0.139 ms - 0[0m
+2024-04-29 14:24:35 info: [0mOPTIONS /api/ia/chat [32m200[0m 0.239 ms - 0[0m
+2024-04-29 14:24:37 info: [0mPOST /api/ia/chat [32m200[0m 1866.395 ms - 121[0m
+2024-04-29 14:24:40 info: [0mPOST /api/files/updateFileById [32m200[0m 4731.460 ms - 460[0m
+2024-04-29 14:24:42 info: [0mGET /api/files/getFiles [32m200[0m 1877.052 ms - -[0m
+2024-04-29 14:24:47 info: [0mPOST /api/files/updateFileById [32m200[0m 9674.941 ms - 577[0m
+2024-04-29 14:24:49 info: [0mGET /api/files/getFiles [36m304[0m 2324.242 ms - -[0m
+2024-04-29 14:28:41 info: =================================
+2024-04-29 14:28:41 info: ======= ENV: development =======
+2024-04-29 14:28:41 info: 🚀 App listening on the port 5210
+2024-04-29 14:28:41 info: =================================
+2024-04-29 14:28:50 info: [0mOPTIONS /api/files/updateFileById [32m200[0m 2.018 ms - 0[0m
+2024-04-29 14:28:51 info: [0mPOST /api/files/updateFileById [32m200[0m 1868.928 ms - 1021[0m
+2024-04-29 14:28:52 info: [0mGET /api/files/getFiles [32m200[0m 668.910 ms - -[0m
+2024-04-29 14:30:40 info: =================================
+2024-04-29 14:30:40 info: ======= ENV: development =======
+2024-04-29 14:30:40 info: 🚀 App listening on the port 5210
+2024-04-29 14:30:40 info: =================================
+2024-04-29 14:30:44 info: [0mOPTIONS /api/files/updateFileById [32m200[0m 2.187 ms - 0[0m
+2024-04-29 14:30:45 info: [0mPOST /api/files/updateFileById [32m200[0m 1275.263 ms - 319[0m
+2024-04-29 14:30:46 info: [0mGET /api/files/getFiles [32m200[0m 598.820 ms - -[0m
+2024-04-29 14:30:55 info: [0mOPTIONS /api/files/updateFileById [32m200[0m 0.220 ms - 0[0m
+2024-04-29 14:30:57 info: [0mPOST /api/files/updateFileById [32m200[0m 2455.208 ms - 535[0m
+2024-04-29 14:30:58 info: [0mGET /api/files/getFiles [32m200[0m 553.317 ms - -[0m
+2024-04-29 14:33:43 info: =================================
+2024-04-29 14:33:43 info: ======= ENV: development =======
+2024-04-29 14:33:43 info: 🚀 App listening on the port 5210
+2024-04-29 14:33:43 info: =================================
+2024-04-29 14:34:40 info: [0mOPTIONS /api/files/updateFileById [32m200[0m 1.396 ms - 0[0m
+2024-04-29 14:34:41 info: [0mPOST /api/files/updateFileById [32m200[0m 1440.097 ms - 379[0m
+2024-04-29 14:34:42 info: [0mGET /api/files/getFiles [32m200[0m 831.912 ms - -[0m
+2024-04-29 14:34:59 info: [0mOPTIONS /api/files/updateFileById [32m200[0m 0.213 ms - 0[0m
+2024-04-29 14:34:59 info: [0mOPTIONS /api/ia/chat [32m200[0m 0.113 ms - 0[0m
+2024-04-29 14:35:01 info: [0mPOST /api/ia/chat [32m200[0m 2306.668 ms - -[0m
+2024-04-29 14:35:01 info: [0mPOST /api/files/updateFileById [32m200[0m 2365.978 ms - 467[0m
+2024-04-29 14:35:02 info: [0mGET /api/files/getFiles [32m200[0m 687.942 ms - -[0m
+2024-04-29 14:35:02 info: [0mPOST /api/files/updateFileById [32m200[0m 1133.817 ms - 720[0m
+2024-04-29 14:35:03 info: [0mGET /api/files/getFiles [36m304[0m 546.001 ms - -[0m
+2024-04-29 14:35:21 info: [0mOPTIONS /api/files/updateFileById [32m200[0m 0.418 ms - 0[0m
+2024-04-29 14:35:22 info: [0mPOST /api/files/updateFileById [32m200[0m 996.587 ms - -[0m
+2024-04-29 14:35:23 info: [0mGET /api/files/getFiles [32m200[0m 566.836 ms - -[0m
+2024-04-29 14:35:49 info: [0mOPTIONS /api/files/updateFileById [32m200[0m 0.269 ms - 0[0m
+2024-04-29 14:35:49 info: [0mOPTIONS /api/ia/chat [32m200[0m 0.224 ms - 0[0m
+2024-04-29 14:35:51 info: [0mPOST /api/ia/chat [32m200[0m 2513.047 ms - -[0m
+2024-04-29 14:35:51 info: [0mPOST /api/files/updateFileById [32m200[0m 2569.154 ms - -[0m
+2024-04-29 14:35:52 info: [0mGET /api/files/getFiles [32m200[0m 629.458 ms - -[0m
+2024-04-29 14:35:52 info: [0mPOST /api/files/updateFileById [32m200[0m 898.863 ms - -[0m
+2024-04-29 14:35:53 info: [0mGET /api/files/getFiles [36m304[0m 568.505 ms - -[0m
+2024-04-29 14:38:47 info: [0mGET /api/veify-token/ [36m304[0m 7.675 ms - -[0m
+2024-04-29 14:38:47 info: [0mGET /api/veify-token/ [36m304[0m 2.972 ms - -[0m
+2024-04-29 14:38:47 info: [0mGET /api/organization/getOrganizations [36m304[0m 97.597 ms - -[0m
+2024-04-29 14:38:47 info: [0mGET /api/roles/getRoles [32m200[0m 159.647 ms - -[0m
+2024-04-29 14:38:47 info: [0mGET /api/users/getUsers [32m200[0m 182.786 ms - -[0m
+2024-04-29 14:38:48 info: [0mGET /api/files/getFiles [32m200[0m 654.321 ms - -[0m
+2024-04-29 14:39:10 info: [0mGET /api/veify-token/ [36m304[0m 1.984 ms - -[0m
+2024-04-29 14:39:10 info: [0mGET /api/veify-token/ [36m304[0m 1.570 ms - -[0m
+2024-04-29 14:39:10 info: [0mGET /api/organization/getOrganizations [36m304[0m 82.679 ms - -[0m
+2024-04-29 14:39:10 info: [0mGET /api/users/getUsers [36m304[0m 156.462 ms - -[0m
+2024-04-29 14:39:10 info: [0mGET /api/roles/getRoles [36m304[0m 165.776 ms - -[0m
+2024-04-29 14:39:10 info: [0mGET /api/files/getFiles [36m304[0m 638.523 ms - -[0m
+2024-04-29 14:40:03 info: [0mGET /api/veify-token/ [36m304[0m 2.049 ms - -[0m
+2024-04-29 14:40:03 info: [0mGET /api/veify-token/ [36m304[0m 1.798 ms - -[0m
+2024-04-29 14:40:03 info: [0mGET /api/organization/getOrganizations [36m304[0m 86.537 ms - -[0m
+2024-04-29 14:40:03 info: [0mGET /api/users/getUsers [36m304[0m 167.720 ms - -[0m
+2024-04-29 14:40:03 info: [0mGET /api/roles/getRoles [36m304[0m 162.025 ms - -[0m
+2024-04-29 14:40:04 info: [0mGET /api/files/getFiles [32m200[0m 647.777 ms - -[0m
+2024-04-29 14:45:24 info: =================================
+2024-04-29 14:45:24 info: ======= ENV: development =======
+2024-04-29 14:45:24 info: 🚀 App listening on the port 5210
+2024-04-29 14:45:24 info: =================================
+2024-04-29 14:49:27 info: [0mOPTIONS /api/files/updateFileById [32m200[0m 2.389 ms - 0[0m
+2024-04-29 14:49:30 info: [0mPOST /api/files/updateFileById [32m200[0m 3446.660 ms - -[0m
+2024-04-29 14:49:31 info: [0mGET /api/files/getFiles [32m200[0m 568.338 ms - -[0m
+2024-04-29 14:49:56 info: [0mOPTIONS /api/files/updateFileById [32m200[0m 0.418 ms - 0[0m
+2024-04-29 14:49:56 info: [0mOPTIONS /api/ia/chat [32m200[0m 0.148 ms - 0[0m
+2024-04-29 14:49:58 info: [0mPOST /api/ia/chat [32m200[0m 2663.225 ms - 480[0m
+2024-04-29 14:49:59 info: [0mPOST /api/files/updateFileById [32m200[0m 3659.432 ms - -[0m
+2024-04-29 14:50:00 info: [0mGET /api/files/getFiles [32m200[0m 626.343 ms - -[0m
+2024-04-29 14:50:02 info: [0mPOST /api/files/updateFileById [32m200[0m 3259.331 ms - -[0m
+2024-04-29 14:50:02 info: [0mGET /api/files/getFiles [36m304[0m 672.217 ms - -[0m
+2024-04-29 14:50:22 info: [0mOPTIONS /api/files/updateFileById [32m200[0m 0.210 ms - 0[0m
+2024-04-29 14:50:23 info: [0mPOST /api/files/updateFileById [32m200[0m 1223.820 ms - -[0m
+2024-04-29 14:50:24 info: [0mGET /api/files/getFiles [32m200[0m 692.742 ms - -[0m
+2024-04-29 14:50:45 info: [0mOPTIONS /api/files/updateFileById [32m200[0m 0.275 ms - 0[0m
+2024-04-29 14:50:45 info: [0mOPTIONS /api/ia/chat [32m200[0m 0.197 ms - 0[0m
+2024-04-29 14:50:48 info: [0mPOST /api/ia/chat [32m200[0m 2813.361 ms - -[0m
+2024-04-29 14:50:48 info: [0mPOST /api/files/updateFileById [32m200[0m 2904.099 ms - -[0m
+2024-04-29 14:50:48 info: [0mGET /api/files/getFiles [32m200[0m 603.077 ms - -[0m
+2024-04-29 14:50:49 info: [0mPOST /api/files/updateFileById [32m200[0m 1176.746 ms - -[0m
+2024-04-29 14:50:49 info: [0mGET /api/files/getFiles [36m304[0m 552.964 ms - -[0m
+2024-04-29 14:51:02 info: [0mOPTIONS /api/files/updateFileById [32m200[0m 0.186 ms - 0[0m
+2024-04-29 14:51:02 info: [0mOPTIONS /api/ia/chat [32m200[0m 0.232 ms - 0[0m
+2024-04-29 14:51:04 info: [0mPOST /api/ia/chat [32m200[0m 1575.468 ms - -[0m
+2024-04-29 14:51:04 info: [0mPOST /api/files/updateFileById [32m200[0m 1625.713 ms - -[0m
+2024-04-29 14:51:05 info: [0mGET /api/files/getFiles [32m200[0m 598.062 ms - -[0m
+2024-04-29 14:51:05 info: [0mPOST /api/files/updateFileById [32m200[0m 1192.048 ms - -[0m
+2024-04-29 14:51:06 info: [0mGET /api/files/getFiles [36m304[0m 668.892 ms - -[0m
+2024-04-29 14:51:21 info: [0mOPTIONS /api/files/updateFileById [32m200[0m 0.219 ms - 0[0m
+2024-04-29 14:51:22 info: [0mPOST /api/files/updateFileById [32m200[0m 1043.631 ms - -[0m
+2024-04-29 14:51:22 info: [0mGET /api/files/getFiles [32m200[0m 594.247 ms - -[0m
+2024-04-29 14:52:36 info: [0mOPTIONS /api/files/updateFileById [32m200[0m 0.208 ms - 0[0m
+2024-04-29 14:52:38 info: [0mPOST /api/files/updateFileById [32m200[0m 2038.640 ms - -[0m
+2024-04-29 14:52:39 info: [0mGET /api/files/getFiles [32m200[0m 862.349 ms - -[0m
+2024-04-29 14:55:45 info: =================================
+2024-04-29 14:55:45 info: ======= ENV: development =======
+2024-04-29 14:55:45 info: 🚀 App listening on the port 5210
+2024-04-29 14:55:45 info: =================================
+2024-04-29 14:55:54 info: [0mOPTIONS /api/files/updateFileById [32m200[0m 2.731 ms - 0[0m
+2024-04-29 14:55:56 info: [0mPOST /api/files/updateFileById [32m200[0m 1871.132 ms - 564[0m
+2024-04-29 14:55:56 info: [0mGET /api/files/getFiles [32m200[0m 632.992 ms - -[0m
+2024-04-29 14:56:03 info: [0mOPTIONS /api/files/updateFileById [32m200[0m 0.220 ms - 0[0m
+2024-04-29 14:56:03 info: [0mOPTIONS /api/ia/chat [32m200[0m 0.101 ms - 0[0m
+2024-04-29 14:56:04 info: [0mPOST /api/ia/chat [32m200[0m 1529.378 ms - -[0m
+2024-04-29 14:56:04 info: [0mPOST /api/files/updateFileById [32m200[0m 1681.084 ms - 633[0m
+2024-04-29 14:56:05 info: [0mGET /api/files/getFiles [32m200[0m 661.457 ms - -[0m
+2024-04-29 14:56:06 info: [0mPOST /api/files/updateFileById [32m200[0m 1699.019 ms - 731[0m
+2024-04-29 14:56:06 info: [0mGET /api/files/getFiles [32m200[0m 564.135 ms - -[0m
+2024-04-29 14:56:26 info: [0mOPTIONS /api/files/updateFileById [32m200[0m 0.462 ms - 0[0m
+2024-04-29 14:56:26 info: [0mOPTIONS /api/ia/chat [32m200[0m 0.363 ms - 0[0m
+2024-04-29 14:56:29 info: [0mPOST /api/ia/chat [32m200[0m 3358.267 ms - -[0m
+2024-04-29 14:56:29 info: [0mPOST /api/files/updateFileById [32m200[0m 3500.151 ms - 823[0m
+2024-04-29 14:56:30 info: [0mGET /api/files/getFiles [32m200[0m 584.230 ms - -[0m
+2024-04-29 14:56:31 info: [0mPOST /api/files/updateFileById [32m200[0m 1647.576 ms - -[0m
+2024-04-29 14:56:31 info: [0mGET /api/files/getFiles [32m200[0m 584.318 ms - -[0m
+2024-04-29 14:57:05 info: [0mGET /api/veify-token/ [36m304[0m 6.175 ms - -[0m
+2024-04-29 14:57:05 info: [0mGET /api/veify-token/ [36m304[0m 2.359 ms - -[0m
+2024-04-29 14:57:05 info: [0mGET /api/organization/getOrganizations [36m304[0m 95.720 ms - -[0m
+2024-04-29 14:57:05 info: [0mGET /api/users/getUsers [32m200[0m 199.155 ms - -[0m
+2024-04-29 14:57:05 info: [0mGET /api/roles/getRoles [32m200[0m 197.574 ms - -[0m
+2024-04-29 14:57:06 info: [0mGET /api/files/getFiles [32m200[0m 703.712 ms - -[0m
+2024-04-29 15:00:19 info: [0mOPTIONS /api/files/updateFileById [32m200[0m 0.179 ms - 0[0m
+2024-04-29 15:00:20 info: [0mPOST /api/files/updateFileById [32m200[0m 1278.028 ms - -[0m
+2024-04-29 15:00:21 info: [0mGET /api/files/getFiles [32m200[0m 557.127 ms - -[0m
+2024-04-29 15:00:32 info: [0mOPTIONS /api/files/updateFileById [32m200[0m 0.280 ms - 0[0m
+2024-04-29 15:00:35 info: [0mPOST /api/files/updateFileById [32m200[0m 2908.814 ms - -[0m
+2024-04-29 15:00:36 info: [0mGET /api/files/getFiles [32m200[0m 604.724 ms - -[0m
+2024-04-29 15:00:44 info: [0mOPTIONS /api/files/updateFileById [32m200[0m 0.272 ms - 0[0m
+2024-04-29 15:00:49 info: [0mOPTIONS /api/files/updateFileById [32m200[0m 0.185 ms - 0[0m
+2024-04-29 15:00:50 info: [0mPOST /api/files/updateFileById [32m200[0m 6282.734 ms - -[0m
+2024-04-29 15:00:51 info: [0mGET /api/files/getFiles [32m200[0m 738.853 ms - -[0m
+2024-04-29 15:00:52 info: [0mPOST /api/files/updateFileById [32m200[0m 2080.515 ms - -[0m
+2024-04-29 15:00:52 info: [0mGET /api/files/getFiles [32m200[0m 651.679 ms - -[0m
+2024-04-29 15:00:57 info: [0mOPTIONS /api/files/updateFileById [32m200[0m 0.226 ms - 0[0m
+2024-04-29 15:00:58 info: [0mPOST /api/files/updateFileById [32m200[0m 1259.259 ms - -[0m
+2024-04-29 15:00:59 info: [0mGET /api/files/getFiles [32m200[0m 713.878 ms - -[0m
+2024-04-29 15:01:18 info: [0mOPTIONS /api/files/updateFileById [32m200[0m 0.175 ms - 0[0m
+2024-04-29 15:01:18 info: [0mOPTIONS /api/ia/chat [32m200[0m 0.204 ms - 0[0m
+2024-04-29 15:01:20 info: [0mPOST /api/ia/chat [32m200[0m 2148.741 ms - -[0m
+2024-04-29 15:01:20 info: [0mPOST /api/files/updateFileById [32m200[0m 2316.579 ms - -[0m
+2024-04-29 15:01:21 info: [0mGET /api/files/getFiles [32m200[0m 595.977 ms - -[0m
+2024-04-29 15:01:22 info: [0mPOST /api/files/updateFileById [32m200[0m 1268.024 ms - -[0m
+2024-04-29 15:01:22 info: [0mGET /api/files/getFiles [32m200[0m 553.901 ms - -[0m
+2024-04-29 15:02:23 info: [0mOPTIONS /api/files/updateFileById [32m200[0m 0.143 ms - 0[0m
+2024-04-29 15:02:23 info: [0mOPTIONS /api/ia/chat [32m200[0m 0.216 ms - 0[0m
+2024-04-29 15:02:27 info: [0mPOST /api/ia/chat [32m200[0m 4485.631 ms - -[0m
+2024-04-29 15:02:27 info: [0mPOST /api/files/updateFileById [32m200[0m 4648.088 ms - -[0m
+2024-04-29 15:02:28 info: [0mGET /api/files/getFiles [32m200[0m 568.276 ms - -[0m
+2024-04-29 15:02:29 info: [0mPOST /api/files/updateFileById [32m200[0m 1379.422 ms - -[0m
+2024-04-29 15:02:29 info: [0mGET /api/files/getFiles [32m200[0m 577.249 ms - -[0m
+2024-04-29 15:13:07 info: [0mGET /api/veify-token/ [32m200[0m 5.875 ms - 874[0m
+2024-04-29 15:13:07 info: [0mGET /api/veify-token/ [36m304[0m 2.260 ms - -[0m
+2024-04-29 15:13:07 info: [0mOPTIONS /api/files/getFilesByUserId [32m200[0m 0.227 ms - 0[0m
+2024-04-29 15:13:08 info: [0mGET /api/roles/getRolesById/organization/652934c5aaf7a00a88749e47 [32m200[0m 102.451 ms - 826[0m
+2024-04-29 15:13:08 info: [0mPOST /api/files/getFilesByUserId [32m200[0m 393.240 ms - -[0m
+2024-04-29 15:13:21 info: [0mOPTIONS /api/login [32m200[0m 0.128 ms - 0[0m
+2024-04-29 15:13:21 info: [0mPOST /api/login [32m200[0m 299.034 ms - 939[0m
+2024-04-29 15:13:21 info: [0mGET /api/roles/getRolesById/organization/652934c5aaf7a00a88749e47 [36m304[0m 87.314 ms - -[0m
+2024-04-29 15:13:22 info: [0mGET /api/users/getUsersByCompany/652934c5aaf7a00a88749e47 [32m200[0m 161.763 ms - -[0m
+2024-04-29 15:16:00 info: [0mOPTIONS /api/ia/upload_pdf [32m200[0m 0.216 ms - 0[0m
+2024-04-29 15:16:01 info: [0mPOST /api/ia/upload_pdf [32m200[0m 1290.784 ms - 323[0m
+2024-04-29 15:16:02 info: [0mOPTIONS /api/files/getFilesByUserId [32m200[0m 0.175 ms - 0[0m
+2024-04-29 15:16:02 info: [0mOPTIONS /api/files/updateFileById [32m200[0m 0.185 ms - 0[0m
+2024-04-29 15:16:02 info: [0mPOST /api/files/updateFileById [33m400[0m 76.167 ms - 26[0m
+2024-04-29 15:16:03 info: [0mPOST /api/files/getFilesByUserId [32m200[0m 357.939 ms - -[0m
+2024-04-29 15:17:29 info: [0mOPTIONS /api/files/updateFileById [32m200[0m 0.166 ms - 0[0m
+2024-04-29 15:17:30 info: [0mPOST /api/files/updateFileById [32m200[0m 1216.341 ms - 313[0m
+2024-04-29 15:17:30 info: [0mOPTIONS /api/files/getFilesByUserId [32m200[0m 0.129 ms - 0[0m
+2024-04-29 15:17:30 info: [0mPOST /api/files/getFilesByUserId [32m200[0m 368.596 ms - -[0m
+2024-04-29 15:17:44 info: [0mOPTIONS /api/files/updateFileById [32m200[0m 0.123 ms - 0[0m
+2024-04-29 15:17:44 info: [0mOPTIONS /api/ia/chat [32m200[0m 0.130 ms - 0[0m
+2024-04-29 15:17:50 info: [0mPOST /api/ia/chat [32m200[0m 5194.827 ms - -[0m
+2024-04-29 15:17:50 info: [0mOPTIONS /api/files/updateFileById [32m200[0m 0.293 ms - 0[0m
+2024-04-29 15:17:50 info: [0mPOST /api/files/updateFileById [32m200[0m 5331.843 ms - 410[0m
+2024-04-29 15:17:50 info: [0mOPTIONS /api/files/getFilesByUserId [32m200[0m 0.274 ms - 0[0m
+2024-04-29 15:17:50 info: [0mPOST /api/files/getFilesByUserId [32m200[0m 362.828 ms - -[0m
+2024-04-29 15:17:51 info: [0mPOST /api/files/updateFileById [32m200[0m 1106.330 ms - -[0m
+2024-04-29 15:17:51 info: [0mPOST /api/files/getFilesByUserId [32m200[0m 420.124 ms - -[0m
+2024-04-29 15:19:00 info: [0mOPTIONS /api/files/updateFileById [32m200[0m 0.153 ms - 0[0m
+2024-04-29 15:19:02 info: [0mPOST /api/files/updateFileById [32m200[0m 2394.485 ms - -[0m
+2024-04-29 15:19:02 info: [0mOPTIONS /api/files/getFilesByUserId [32m200[0m 0.215 ms - 0[0m
+2024-04-29 15:19:02 info: [0mPOST /api/files/getFilesByUserId [32m200[0m 415.776 ms - -[0m
+2024-04-29 15:19:07 info: [0mOPTIONS /api/files/updateFileById [32m200[0m 0.160 ms - 0[0m
+2024-04-29 15:19:08 info: [0mPOST /api/files/updateFileById [32m200[0m 1078.380 ms - -[0m
+2024-04-29 15:19:08 info: [0mOPTIONS /api/files/getFilesByUserId [32m200[0m 0.152 ms - 0[0m
+2024-04-29 15:19:08 info: [0mPOST /api/files/getFilesByUserId [32m200[0m 372.486 ms - -[0m
+2024-04-29 15:19:37 info: [0mOPTIONS /api/files/updateFileById [32m200[0m 0.104 ms - 0[0m
+2024-04-29 15:19:40 info: [0mPOST /api/files/updateFileById [32m200[0m 2666.478 ms - -[0m
+2024-04-29 15:19:40 info: [0mOPTIONS /api/files/getFilesByUserId [32m200[0m 1.724 ms - 0[0m
+2024-04-29 15:19:40 info: [0mPOST /api/files/getFilesByUserId [32m200[0m 538.317 ms - -[0m
+2024-04-29 15:19:42 info: [0mOPTIONS /api/files/updateFileById [32m200[0m 0.249 ms - 0[0m
+2024-04-29 15:19:44 info: [0mPOST /api/files/updateFileById [32m200[0m 1243.454 ms - -[0m
+2024-04-29 15:19:44 info: [0mPOST /api/files/getFilesByUserId [32m200[0m 380.744 ms - -[0m
+2024-04-29 15:25:41 info: =================================
+2024-04-29 15:25:41 info: ======= ENV: development =======
+2024-04-29 15:25:41 info: 🚀 App listening on the port 5210
+2024-04-29 15:25:41 info: =================================
+2024-04-29 15:26:05 info: [0mOPTIONS /api/ia/upload_pdf [32m200[0m 2.400 ms - 0[0m
+2024-04-29 15:26:07 info: [0mPOST /api/ia/upload_pdf [32m200[0m 1926.717 ms - 333[0m
+2024-04-29 15:26:08 info: [0mOPTIONS /api/files/getFilesByUserId [32m200[0m 1.750 ms - 0[0m
+2024-04-29 15:26:08 info: [0mOPTIONS /api/files/updateFileById [32m200[0m 0.178 ms - 0[0m
+2024-04-29 15:26:09 info: [0mPOST /api/files/updateFileById [33m400[0m 93.176 ms - 26[0m
+2024-04-29 15:26:09 info: [0mPOST /api/files/getFilesByUserId [32m200[0m 478.407 ms - -[0m
+2024-04-29 15:28:12 info: =================================
+2024-04-29 15:28:12 info: ======= ENV: development =======
+2024-04-29 15:28:12 info: 🚀 App listening on the port 5210
+2024-04-29 15:28:12 info: =================================
+2024-04-29 15:28:21 info: [0mGET /api/veify-token/ [36m304[0m 12.217 ms - -[0m
+2024-04-29 15:28:21 info: [0mGET /api/veify-token/ [36m304[0m 4.318 ms - -[0m
+2024-04-29 15:28:21 info: [0mOPTIONS /api/files/getFilesByUserId [32m200[0m 1.570 ms - 0[0m
+2024-04-29 15:28:21 info: [0mGET /api/roles/getRolesById/organization/652934c5aaf7a00a88749e47 [36m304[0m 111.695 ms - -[0m
+2024-04-29 15:28:21 info: [0mGET /api/users/getUsersByCompany/652934c5aaf7a00a88749e47 [36m304[0m 168.777 ms - -[0m
+2024-04-29 15:28:21 info: [0mPOST /api/files/getFilesByUserId [32m200[0m 462.297 ms - -[0m
+2024-04-29 15:28:25 info: [0mOPTIONS /api/files/updateFileById [32m200[0m 0.193 ms - 0[0m
+2024-04-29 15:28:27 info: [0mPOST /api/files/updateFileById [32m200[0m 1774.668 ms - 323[0m
+2024-04-29 15:28:27 info: [0mOPTIONS /api/files/getFilesByUserId [32m200[0m 0.455 ms - 0[0m
+2024-04-29 15:28:27 info: [0mPOST /api/files/getFilesByUserId [32m200[0m 377.908 ms - -[0m
+2024-04-29 15:28:42 info: [0mOPTIONS /api/ia/upload_pdf [32m200[0m 0.150 ms - 0[0m
+2024-04-29 15:28:44 info: [0mPOST /api/ia/upload_pdf [32m200[0m 1537.508 ms - 327[0m
+2024-04-29 15:28:45 info: [0mOPTIONS /api/files/getFilesByUserId [32m200[0m 0.134 ms - 0[0m
+2024-04-29 15:28:45 info: [0mOPTIONS /api/files/updateFileById [32m200[0m 0.136 ms - 0[0m
+2024-04-29 15:28:45 info: [0mPOST /api/files/getFilesByUserId [32m200[0m 435.687 ms - -[0m
+2024-04-29 15:29:24 info: =================================
+2024-04-29 15:29:24 info: ======= ENV: development =======
+2024-04-29 15:29:24 info: 🚀 App listening on the port 5210
+2024-04-29 15:29:24 info: =================================
+2024-04-29 15:29:53 info: =================================
+2024-04-29 15:29:53 info: ======= ENV: development =======
+2024-04-29 15:29:53 info: 🚀 App listening on the port 5210
+2024-04-29 15:29:53 info: =================================
+2024-04-29 15:29:55 info: [0mGET /api/veify-token/ [36m304[0m 18.295 ms - -[0m
+2024-04-29 15:29:55 info: [0mGET /api/veify-token/ [36m304[0m 6.407 ms - -[0m
+2024-04-29 15:29:56 info: [0mOPTIONS /api/files/getFilesByUserId [32m200[0m 0.783 ms - 0[0m
+2024-04-29 15:29:56 info: [0mGET /api/roles/getRolesById/organization/652934c5aaf7a00a88749e47 [36m304[0m 75.275 ms - -[0m
+2024-04-29 15:29:56 info: [0mGET /api/users/getUsersByCompany/652934c5aaf7a00a88749e47 [36m304[0m 220.315 ms - -[0m
+2024-04-29 15:29:56 info: [0mPOST /api/files/getFilesByUserId [32m200[0m 416.458 ms - -[0m
+2024-04-29 15:30:06 info: [0mOPTIONS /api/ia/upload_pdf [32m200[0m 0.502 ms - 0[0m
+2024-04-29 15:30:09 info: [0mPOST /api/ia/upload_pdf [32m200[0m 2194.520 ms - 359[0m
+2024-04-29 15:30:10 info: [0mOPTIONS /api/files/getFilesByUserId [32m200[0m 0.168 ms - 0[0m
+2024-04-29 15:30:10 info: [0mOPTIONS /api/files/updateFileById [32m200[0m 0.128 ms - 0[0m
+2024-04-29 15:30:10 info: [0mPOST /api/files/updateFileById [33m400[0m 93.201 ms - 26[0m
+2024-04-29 15:30:10 info: [0mPOST /api/files/getFilesByUserId [32m200[0m 407.531 ms - -[0m
+2024-04-29 15:32:12 info: =================================
+2024-04-29 15:32:12 info: ======= ENV: development =======
+2024-04-29 15:32:12 info: 🚀 App listening on the port 5210
+2024-04-29 15:32:12 info: =================================
+2024-04-29 15:32:20 info: [0mGET /api/veify-token/ [36m304[0m 15.182 ms - -[0m
+2024-04-29 15:32:20 info: [0mGET /api/veify-token/ [36m304[0m 3.050 ms - -[0m
+2024-04-29 15:32:20 info: [0mOPTIONS /api/files/getFilesByUserId [32m200[0m 1.367 ms - 0[0m
+2024-04-29 15:32:20 info: [0mGET /api/roles/getRolesById/organization/652934c5aaf7a00a88749e47 [36m304[0m 86.167 ms - -[0m
+2024-04-29 15:32:20 info: [0mGET /api/users/getUsersByCompany/652934c5aaf7a00a88749e47 [36m304[0m 164.239 ms - -[0m
+2024-04-29 15:32:21 info: [0mPOST /api/files/getFilesByUserId [32m200[0m 436.784 ms - -[0m
+2024-04-29 15:32:32 info: [0mOPTIONS /api/ia/upload_pdf [32m200[0m 0.187 ms - 0[0m
+2024-04-29 15:32:34 info: [0mPOST /api/ia/upload_pdf [32m200[0m 2296.861 ms - 353[0m
+2024-04-29 15:32:36 info: [0mOPTIONS /api/files/getFilesByUserId [32m200[0m 0.197 ms - 0[0m
+2024-04-29 15:32:36 info: [0mOPTIONS /api/files/updateFileById [32m200[0m 0.128 ms - 0[0m
+2024-04-29 15:32:36 info: [0mPOST /api/files/getFilesByUserId [32m200[0m 398.251 ms - -[0m
+2024-04-29 15:35:12 info: [0mOPTIONS /api/files/updateFileById [32m200[0m 0.270 ms - 0[0m
+2024-04-29 15:35:14 info: [0mPOST /api/files/updateFileById [32m200[0m 2009.599 ms - 349[0m
+2024-04-29 15:35:14 info: [0mOPTIONS /api/files/getFilesByUserId [32m200[0m 0.564 ms - 0[0m
+2024-04-29 15:35:14 info: [0mPOST /api/files/getFilesByUserId [32m200[0m 351.453 ms - -[0m
+2024-04-29 15:35:17 info: [0mOPTIONS /api/files/updateFileById [32m200[0m 0.216 ms - 0[0m
+2024-04-29 15:35:19 info: [0mPOST /api/files/updateFileById [32m200[0m 1968.091 ms - 343[0m
+2024-04-29 15:35:19 info: [0mOPTIONS /api/files/getFilesByUserId [32m200[0m 0.122 ms - 0[0m
+2024-04-29 15:35:20 info: [0mPOST /api/files/getFilesByUserId [32m200[0m 438.954 ms - -[0m
+2024-04-29 15:35:31 info: [0mOPTIONS /api/files/updateFileById [32m200[0m 0.150 ms - 0[0m
+2024-04-29 15:35:31 info: [0mOPTIONS /api/ia/chat [32m200[0m 0.172 ms - 0[0m
+2024-04-29 15:35:34 info: [0mPOST /api/ia/chat [32m200[0m 3701.404 ms - -[0m
+2024-04-29 15:35:35 info: [0mPOST /api/files/updateFileById [32m200[0m 3814.325 ms - 424[0m
+2024-04-29 15:35:35 info: [0mOPTIONS /api/files/getFilesByUserId [32m200[0m 0.178 ms - 0[0m
+2024-04-29 15:35:35 info: [0mPOST /api/files/getFilesByUserId [32m200[0m 362.072 ms - -[0m
+2024-04-29 15:35:36 info: [0mPOST /api/files/updateFileById [32m200[0m 2009.910 ms - -[0m
+2024-04-29 15:35:37 info: [0mPOST /api/files/getFilesByUserId [32m200[0m 354.595 ms - -[0m
+2024-04-29 15:35:45 info: [0mPOST /api/files/updateFileById [0m-[0m - ms - -[0m
+2024-04-29 15:35:50 info: [0mGET /api/veify-token/ [36m304[0m 7.603 ms - -[0m
+2024-04-29 15:35:50 info: [0mGET /api/veify-token/ [36m304[0m 1.596 ms - -[0m
+2024-04-29 15:35:50 info: [0mOPTIONS /api/files/getFilesByUserId [32m200[0m 0.169 ms - 0[0m
+2024-04-29 15:35:50 info: [0mGET /api/roles/getRolesById/organization/652934c5aaf7a00a88749e47 [36m304[0m 79.348 ms - -[0m
+2024-04-29 15:35:50 info: [0mGET /api/users/getUsersByCompany/652934c5aaf7a00a88749e47 [36m304[0m 159.827 ms - -[0m
+2024-04-29 15:35:50 info: [0mPOST /api/files/getFilesByUserId [32m200[0m 356.519 ms - -[0m
+2024-04-29 15:35:56 info: [0mOPTIONS /api/files/updateFileById [32m200[0m 0.104 ms - 0[0m
+2024-04-29 15:35:58 info: [0mPOST /api/files/updateFileById [32m200[0m 1849.206 ms - -[0m
+2024-04-29 15:35:58 info: [0mOPTIONS /api/files/getFilesByUserId [32m200[0m 0.130 ms - 0[0m
+2024-04-29 15:35:58 info: [0mPOST /api/files/getFilesByUserId [32m200[0m 381.140 ms - -[0m
+2024-04-29 15:36:04 info: [0mGET /api/veify-token/ [36m304[0m 1.163 ms - -[0m
+2024-04-29 15:36:04 info: [0mGET /api/veify-token/ [36m304[0m 1.276 ms - -[0m
+2024-04-29 15:36:04 info: [0mOPTIONS /api/files/getFilesByUserId [32m200[0m 0.133 ms - 0[0m
+2024-04-29 15:36:04 info: [0mGET /api/roles/getRolesById/organization/652934c5aaf7a00a88749e47 [36m304[0m 89.230 ms - -[0m
+2024-04-29 15:36:04 info: [0mGET /api/users/getUsersByCompany/652934c5aaf7a00a88749e47 [36m304[0m 158.497 ms - -[0m
+2024-04-29 15:36:04 info: [0mPOST /api/files/getFilesByUserId [32m200[0m 377.636 ms - -[0m
+2024-04-29 15:36:08 info: [0mOPTIONS /api/files/updateFileById [32m200[0m 0.141 ms - 0[0m
+2024-04-29 15:36:09 info: [0mPOST /api/files/updateFileById [32m200[0m 1799.963 ms - 349[0m
+2024-04-29 15:36:09 info: [0mOPTIONS /api/files/getFilesByUserId [32m200[0m 0.252 ms - 0[0m
+2024-04-29 15:36:10 info: [0mPOST /api/files/getFilesByUserId [32m200[0m 381.777 ms - -[0m
+2024-04-29 15:46:08 info: =================================
+2024-04-29 15:46:08 info: ======= ENV: development =======
+2024-04-29 15:46:08 info: 🚀 App listening on the port 5210
+2024-04-29 15:46:08 info: =================================
+2024-04-29 15:46:11 info: [0mGET /api/veify-token/ [36m304[0m 14.393 ms - -[0m
+2024-04-29 15:46:11 info: [0mGET /api/veify-token/ [36m304[0m 4.177 ms - -[0m
+2024-04-29 15:46:11 info: [0mOPTIONS /api/files/getFilesByUserId [32m200[0m 1.044 ms - 0[0m
+2024-04-29 15:46:11 info: [0mGET /api/roles/getRolesById/organization/652934c5aaf7a00a88749e47 [36m304[0m 82.587 ms - -[0m
+2024-04-29 15:46:11 info: [0mGET /api/users/getUsersByCompany/652934c5aaf7a00a88749e47 [36m304[0m 170.836 ms - -[0m
+2024-04-29 15:46:12 info: [0mPOST /api/files/getFilesByUserId [32m200[0m 385.281 ms - -[0m
+2024-04-29 15:46:20 info: [0mOPTIONS /api/files/deleteFile [32m200[0m 0.163 ms - 0[0m
+2024-04-29 15:46:20 info: [0mPOST /api/files/deleteFile [33m400[0m 101.985 ms - -[0m
+2024-04-29 15:50:16 info: =================================
+2024-04-29 15:50:16 info: ======= ENV: development =======
+2024-04-29 15:50:16 info: 🚀 App listening on the port 5210
+2024-04-29 15:50:16 info: =================================
+2024-04-29 15:50:17 info: [0mGET /api/veify-token/ [36m304[0m 9.856 ms - -[0m
+2024-04-29 15:50:17 info: [0mGET /api/veify-token/ [36m304[0m 6.023 ms - -[0m
+2024-04-29 15:50:17 info: [0mOPTIONS /api/files/getFilesByUserId [32m200[0m 1.282 ms - 0[0m
+2024-04-29 15:50:18 info: [0mGET /api/roles/getRolesById/organization/652934c5aaf7a00a88749e47 [36m304[0m 485.153 ms - -[0m
+2024-04-29 15:50:18 info: [0mGET /api/users/getUsersByCompany/652934c5aaf7a00a88749e47 [36m304[0m 561.274 ms - -[0m
+2024-04-29 15:50:18 info: [0mPOST /api/files/getFilesByUserId [32m200[0m 691.572 ms - -[0m
+2024-04-29 15:50:21 info: [0mOPTIONS /api/files/deleteFile [32m200[0m 0.465 ms - 0[0m
+2024-04-29 15:50:21 info: [0mPOST /api/files/deleteFile [32m200[0m 191.088 ms - 30[0m
+2024-04-29 15:50:21 info: [0mPOST /api/files/getFilesByUserId [32m200[0m 382.790 ms - -[0m
+2024-04-29 15:50:33 info: [0mOPTIONS /api/files/deleteFile [32m200[0m 0.122 ms - 0[0m
+2024-04-29 15:50:33 info: [0mPOST /api/files/deleteFile [32m200[0m 131.588 ms - 30[0m
+2024-04-29 15:50:33 info: [0mOPTIONS /api/files/getFilesByUserId [32m200[0m 0.459 ms - 0[0m
+2024-04-29 15:50:33 info: [0mPOST /api/files/getFilesByUserId [32m200[0m 422.107 ms - -[0m
+2024-04-29 15:50:37 info: [0mPOST /api/files/deleteFile [32m200[0m 143.450 ms - 30[0m
+2024-04-29 15:50:37 info: [0mPOST /api/files/getFilesByUserId [32m200[0m 371.748 ms - -[0m
+2024-04-29 15:50:39 info: [0mOPTIONS /api/files/deleteFile [32m200[0m 0.184 ms - 0[0m
+2024-04-29 15:50:39 info: [0mPOST /api/files/deleteFile [32m200[0m 131.758 ms - 30[0m
+2024-04-29 15:50:39 info: [0mOPTIONS /api/files/getFilesByUserId [32m200[0m 0.139 ms - 0[0m
+2024-04-29 15:50:39 info: [0mPOST /api/files/getFilesByUserId [32m200[0m 370.783 ms - -[0m
+2024-04-29 15:50:40 info: [0mPOST /api/files/deleteFile [32m200[0m 135.623 ms - 30[0m
+2024-04-29 15:50:41 info: [0mPOST /api/files/getFilesByUserId [32m200[0m 375.259 ms - -[0m
+2024-04-29 15:51:03 info: [0mOPTIONS /api/ia/upload_pdf [32m200[0m 0.180 ms - 0[0m
+2024-04-29 15:51:05 info: [0mPOST /api/ia/upload_pdf [32m200[0m 2110.116 ms - 391[0m
+2024-04-29 15:51:06 info: [0mOPTIONS /api/files/getFilesByUserId [32m200[0m 0.102 ms - 0[0m
+2024-04-29 15:51:06 info: [0mOPTIONS /api/files/updateFileById [32m200[0m 0.267 ms - 0[0m
+2024-04-29 15:51:07 info: [0mPOST /api/files/getFilesByUserId [32m200[0m 386.633 ms - -[0m
+2024-04-29 15:51:20 info: [0mOPTIONS /api/files/updateFileById [32m200[0m 0.213 ms - 0[0m
+2024-04-29 15:51:23 info: [0mPOST /api/files/updateFileById [32m200[0m 2692.936 ms - -[0m
+2024-04-29 15:51:23 info: [0mOPTIONS /api/files/getFilesByUserId [32m200[0m 0.239 ms - 0[0m
+2024-04-29 15:51:23 info: [0mPOST /api/files/getFilesByUserId [32m200[0m 381.268 ms - -[0m
+2024-04-29 15:51:25 info: [0mOPTIONS /api/files/updateFileById [32m200[0m 0.229 ms - 0[0m
+2024-04-29 15:51:27 info: [0mPOST /api/files/updateFileById [32m200[0m 1801.896 ms - 381[0m
+2024-04-29 15:51:28 info: [0mPOST /api/files/getFilesByUserId [32m200[0m 468.439 ms - -[0m
+2024-04-29 15:53:13 info: =================================
+2024-04-29 15:53:13 info: ======= ENV: development =======
+2024-04-29 15:53:13 info: 🚀 App listening on the port 5210
+2024-04-29 15:53:13 info: =================================
+2024-04-29 15:53:44 info: [0mOPTIONS /api/ia/upload_pdf [32m200[0m 1.782 ms - 0[0m
+2024-04-29 15:53:47 info: [0mPOST /api/ia/upload_pdf [32m200[0m 2791.086 ms - 345[0m
+2024-04-29 15:53:48 info: [0mOPTIONS /api/files/getFilesByUserId [32m200[0m 0.127 ms - 0[0m
+2024-04-29 15:53:48 info: [0mOPTIONS /api/files/updateFileById [32m200[0m 0.167 ms - 0[0m
+2024-04-29 15:53:48 info: [0mPOST /api/files/getFilesByUserId [32m200[0m 407.914 ms - -[0m
+2024-04-29 15:55:01 info: =================================
+2024-04-29 15:55:01 info: ======= ENV: development =======
+2024-04-29 15:55:01 info: 🚀 App listening on the port 5210
+2024-04-29 15:55:01 info: =================================
+2024-04-29 15:55:06 info: [0mGET /api/veify-token/ [36m304[0m 14.103 ms - -[0m
+2024-04-29 15:55:06 info: [0mGET /api/veify-token/ [36m304[0m 9.349 ms - -[0m
+2024-04-29 15:55:06 info: [0mOPTIONS /api/files/getFilesByUserId [32m200[0m 0.422 ms - 0[0m
+2024-04-29 15:55:06 info: [0mGET /api/roles/getRolesById/organization/652934c5aaf7a00a88749e47 [36m304[0m 83.634 ms - -[0m
+2024-04-29 15:55:07 info: [0mGET /api/users/getUsersByCompany/652934c5aaf7a00a88749e47 [36m304[0m 165.316 ms - -[0m
+2024-04-29 15:55:07 info: [0mPOST /api/files/getFilesByUserId [32m200[0m 432.563 ms - -[0m
+2024-04-29 15:55:14 info: [0mOPTIONS /api/files/deleteFile [32m200[0m 0.157 ms - 0[0m
+2024-04-29 15:55:14 info: [0mPOST /api/files/deleteFile [32m200[0m 183.115 ms - 30[0m
+2024-04-29 15:55:14 info: [0mOPTIONS /api/files/getFilesByUserId [32m200[0m 0.164 ms - 0[0m
+2024-04-29 15:55:15 info: [0mPOST /api/files/getFilesByUserId [32m200[0m 493.597 ms - -[0m
+2024-04-29 15:55:17 info: [0mPOST /api/files/deleteFile [32m200[0m 178.797 ms - 30[0m
+2024-04-29 15:55:17 info: [0mPOST /api/files/getFilesByUserId [32m200[0m 425.909 ms - -[0m
+2024-04-29 15:55:23 info: [0mGET /api/veify-token/ [36m304[0m 3.490 ms - -[0m
+2024-04-29 15:55:23 info: [0mGET /api/veify-token/ [36m304[0m 1.569 ms - -[0m
+2024-04-29 15:55:23 info: [0mOPTIONS /api/files/getFilesByUserId [32m200[0m 0.185 ms - 0[0m
+2024-04-29 15:55:23 info: [0mGET /api/roles/getRolesById/organization/652934c5aaf7a00a88749e47 [36m304[0m 207.100 ms - -[0m
+2024-04-29 15:55:23 info: [0mGET /api/users/getUsersByCompany/652934c5aaf7a00a88749e47 [36m304[0m 166.513 ms - -[0m
+2024-04-29 15:55:23 info: [0mPOST /api/files/getFilesByUserId [32m200[0m 359.088 ms - -[0m
+2024-04-29 15:55:36 info: [0mOPTIONS /api/ia/upload_pdf [32m200[0m 0.281 ms - 0[0m
+2024-04-29 15:55:38 info: [0mPOST /api/ia/upload_pdf [32m200[0m 1920.106 ms - 404[0m
+2024-04-29 15:55:39 info: [0mOPTIONS /api/files/getFilesByUserId [32m200[0m 0.106 ms - 0[0m
+2024-04-29 15:55:39 info: [0mOPTIONS /api/files/updateFileById [32m200[0m 0.118 ms - 0[0m
+2024-04-29 15:55:39 info: [0mPOST /api/files/getFilesByUserId [32m200[0m 384.948 ms - -[0m
+2024-04-29 15:56:04 info: [0mOPTIONS /api/files/updateFileById [32m200[0m 0.179 ms - 0[0m
+2024-04-29 15:56:07 info: [0mPOST /api/files/updateFileById [32m200[0m 2864.276 ms - -[0m
+2024-04-29 15:56:07 info: [0mOPTIONS /api/files/getFilesByUserId [32m200[0m 0.196 ms - 0[0m
+2024-04-29 15:56:07 info: [0mPOST /api/files/getFilesByUserId [32m200[0m 375.850 ms - -[0m
+2024-04-29 15:56:09 info: [0mOPTIONS /api/files/updateFileById [32m200[0m 0.219 ms - 0[0m
+2024-04-29 15:56:11 info: [0mPOST /api/files/updateFileById [32m200[0m 1999.734 ms - 394[0m
+2024-04-29 15:56:12 info: [0mPOST /api/files/getFilesByUserId [32m200[0m 356.959 ms - -[0m
+2024-04-29 15:59:35 info: [0mOPTIONS /api/files/getFilesByUserId [32m200[0m 0.172 ms - 0[0m
+2024-04-29 15:59:35 info: [0mOPTIONS /api/files/getFilesByUserId [32m200[0m 0.123 ms - 0[0m
+2024-04-29 15:59:35 info: [0mPOST /api/files/getFilesByUserId [32m200[0m 381.191 ms - -[0m
+2024-04-29 15:59:35 info: [0mPOST /api/files/getFilesByUserId [32m200[0m 364.386 ms - -[0m
+2024-04-29 15:59:36 info: [0mGET /api/files/getFiles [32m200[0m 650.555 ms - -[0m
+2024-04-29 15:59:36 info: [0mGET /api/files/getFiles [36m304[0m 483.589 ms - -[0m
+2024-04-29 15:59:46 info: [0mOPTIONS /api/files/deleteFile [32m200[0m 0.095 ms - 0[0m
+2024-04-29 15:59:46 info: [0mPOST /api/files/deleteFile [32m200[0m 157.179 ms - 30[0m
+2024-04-29 15:59:46 info: [0mOPTIONS /api/files/getFilesByUserId [32m200[0m 0.118 ms - 0[0m
+2024-04-29 15:59:47 info: [0mPOST /api/files/getFilesByUserId [32m200[0m 367.111 ms - -[0m
+2024-04-29 16:02:41 info: [0mOPTIONS /api/ia/upload_pdf [32m200[0m 0.155 ms - 0[0m
+2024-04-29 16:02:44 info: [0mPOST /api/ia/upload_pdf [32m200[0m 2771.539 ms - 366[0m
+2024-04-29 16:02:45 info: [0mOPTIONS /api/files/getFilesByUserId [32m200[0m 0.154 ms - 0[0m
+2024-04-29 16:02:45 info: [0mOPTIONS /api/files/updateFileById [32m200[0m 0.153 ms - 0[0m
+2024-04-29 16:02:46 info: [0mPOST /api/files/getFilesByUserId [32m200[0m 362.320 ms - -[0m
+2024-04-29 16:02:54 info: [0mOPTIONS /api/files/deleteFile [32m200[0m 0.121 ms - 0[0m
+2024-04-29 16:02:55 info: [0mPOST /api/files/deleteFile [32m200[0m 166.875 ms - 30[0m
+2024-04-29 16:02:55 info: [0mOPTIONS /api/files/getFilesByUserId [32m200[0m 0.195 ms - 0[0m
+2024-04-29 16:02:55 info: [0mPOST /api/files/getFilesByUserId [32m200[0m 399.734 ms - -[0m
+2024-04-29 16:03:07 info: [0mOPTIONS /api/files/updateFileById [32m200[0m 0.229 ms - 0[0m
+2024-04-29 16:03:09 info: [0mPOST /api/files/updateFileById [32m200[0m 2563.717 ms - -[0m
+2024-04-29 16:03:09 info: [0mOPTIONS /api/files/getFilesByUserId [32m200[0m 0.146 ms - 0[0m
+2024-04-29 16:03:10 info: [0mPOST /api/files/getFilesByUserId [32m200[0m 373.130 ms - -[0m

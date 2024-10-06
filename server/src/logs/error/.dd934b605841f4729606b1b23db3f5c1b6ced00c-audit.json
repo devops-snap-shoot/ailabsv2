@@ -1,0 +1,25 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "C:\\Users\\kauelasus\\Documents\\Trabajo\\ImKChat\\imkchat\\server\\src\\logs\\error\\.dd934b605841f4729606b1b23db3f5c1b6ced00c-audit.json",
+    "files": [
+        {
+<<<<<<< HEAD
+            "date": 1694806479124,
+            "name": "C:\\Users\\kauelasus\\Documents\\Trabajo\\ImKChat\\imkchat\\server\\src\\logs\\error\\2023-09-15.log",
+            "hash": "c38561fb2fec46c2a90d1a1810190688"
+=======
+            "date": 1696944798738,
+            "name": "C:\\Users\\kauelasus\\Documents\\Trabajo\\ImKChat\\imkchat\\server\\src\\logs\\error\\2023-10-10.log",
+            "hash": "2f143161e64b3ab2677fd53277fb615a"
+        },
+        {
+            "date": 1697018581265,
+            "name": "C:\\Users\\kauelasus\\Documents\\Trabajo\\ImKChat\\imkchat\\server\\src\\logs\\error\\2023-10-11.log",
+            "hash": "8b2a4fb63f20edd31f8f4b166494995c"
+>>>>>>> 8a20477c2a828163b203127da2aa6ffa1d59ba9c
+        }
+    ]
+}

@@ -1,0 +1,159 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "C:\\Users\\gorel\\Documents\\Tesso\\Ecos_Integridad\\ecos_integridad\\server\\src\\logs\\error\\.e7c25dbbd61c45466a2d04767c6f17c64138591a-audit.json",
+    "files": [
+        {
+            "date": 1661432665970,
+            "name": "C:\\Users\\gorel\\Documents\\Tesso\\Ecos_Integridad\\ecos_integridad\\server\\src\\logs\\error\\2022-08-25.log",
+            "hash": "1ca7c19c0d5d3bb4223e98df33f3f36b"
+        },
+        {
+            "date": 1662222388499,
+            "name": "C:\\Users\\gorel\\Documents\\Tesso\\Ecos_Integridad\\ecos_integridad\\server\\src\\logs\\error\\2022-09-03.log",
+            "hash": "294011e016e748b9bd3c3c17975ae60c"
+        },
+        {
+            "date": 1662487462184,
+            "name": "C:\\Users\\gorel\\Documents\\Tesso\\Ecos_Integridad\\ecos_integridad\\server\\src\\logs\\error\\2022-09-06.log",
+            "hash": "7b7025c0445647ab59f7d762757ae93c"
+        },
+        {
+            "date": 1662557231333,
+            "name": "C:\\Users\\gorel\\Documents\\Tesso\\Ecos_Integridad\\ecos_integridad\\server\\src\\logs\\error\\2022-09-07.log",
+            "hash": "f9efc63be1808f6639b341ad2d83bb3e"
+        },
+        {
+            "date": 1662751062512,
+            "name": "C:\\Users\\gorel\\Documents\\Tesso\\Ecos_Integridad\\ecos_integridad\\server\\src\\logs\\error\\2022-09-09.log",
+            "hash": "20203913680f863f95eb138a3fb7aea5"
+        },
+        {
+            "date": 1662904553912,
+            "name": "C:\\Users\\gorel\\Documents\\Tesso\\Ecos_Integridad\\ecos_integridad\\server\\src\\logs\\error\\2022-09-11.log",
+            "hash": "725f8184ea5d13f81b2821070c63d039"
+        },
+        {
+            "date": 1663068920874,
+            "name": "C:\\Users\\gorel\\Documents\\Tesso\\Ecos_Integridad\\ecos_integridad\\server\\src\\logs\\error\\2022-09-13.log",
+            "hash": "7af02c59fda2532e846263038a0d57ad"
+        },
+        {
+            "date": 1663159234473,
+            "name": "C:\\Users\\gorel\\Documents\\Tesso\\Ecos_Integridad\\ecos_integridad\\server\\src\\logs\\error\\2022-09-14.log",
+            "hash": "d216affc6256327c3ed5cdbe8b69c0bc"
+        },
+        {
+            "date": 1663252353529,
+            "name": "C:\\Users\\gorel\\Documents\\Tesso\\Ecos_Integridad\\ecos_integridad\\server\\src\\logs\\error\\2022-09-15.log",
+            "hash": "e87c8955694fb2ea517b2917b666a926"
+        },
+        {
+            "date": 1663714404298,
+            "name": "C:\\Users\\gorel\\Documents\\Tesso\\Ecos_Integridad\\ecos_integridad\\server\\src\\logs\\error\\2022-09-20.log",
+            "hash": "6ae9f8fc3590a9907db9b31ede79bd70"
+        },
+        {
+            "date": 1663730294355,
+            "name": "C:\\Users\\gorel\\Documents\\Tesso\\Ecos_Integridad\\ecos_integridad\\server\\src\\logs\\error\\2022-09-21.log",
+            "hash": "30eeb016150ed22ee1ce8ae1896e242b"
+        },
+        {
+            "date": 1663849601079,
+            "name": "C:\\Users\\gorel\\Documents\\Tesso\\Ecos_Integridad\\ecos_integridad\\server\\src\\logs\\error\\2022-09-22.log",
+            "hash": "5b3366f0d6abe78adc5ca62bf884655a"
+        },
+        {
+            "date": 1663962635839,
+            "name": "C:\\Users\\gorel\\Documents\\Tesso\\Ecos_Integridad\\ecos_integridad\\server\\src\\logs\\error\\2022-09-23.log",
+            "hash": "6ead65c3dd695f3cb9d5dc382e33a908"
+        },
+        {
+            "date": 1664279896259,
+            "name": "C:\\Users\\gorel\\Documents\\Tesso\\Ecos_Integridad\\ecos_integridad\\server\\src\\logs\\error\\2022-09-27.log",
+            "hash": "621d98fde3aa1035b99fd73af14bce8a"
+        },
+        {
+            "date": 1664334394252,
+            "name": "C:\\Users\\gorel\\Documents\\Tesso\\Ecos_Integridad\\ecos_integridad\\server\\src\\logs\\error\\2022-09-28.log",
+            "hash": "d3545ab3a2c4f915e4a314c9f7c0203a"
+        },
+        {
+            "date": 1664447884413,
+            "name": "C:\\Users\\gorel\\Documents\\Tesso\\Ecos_Integridad\\ecos_integridad\\server\\src\\logs\\error\\2022-09-29.log",
+            "hash": "d840f768fa688c6b0ef8f94b8ba4e5aa"
+        },
+        {
+            "date": 1664572485404,
+            "name": "C:\\Users\\gorel\\Documents\\Tesso\\Ecos_Integridad\\ecos_integridad\\server\\src\\logs\\error\\2022-09-30.log",
+            "hash": "21ed68e262f920e58a39f5625d7bbc49"
+        },
+        {
+            "date": 1664599246803,
+            "name": "C:\\Users\\gorel\\Documents\\Tesso\\Ecos_Integridad\\ecos_integridad\\server\\src\\logs\\error\\2022-10-01.log",
+            "hash": "290143849136477a0dbd33f57ee42f4a"
+        },
+        {
+            "date": 1664825874012,
+            "name": "C:\\Users\\gorel\\Documents\\Tesso\\Ecos_Integridad\\ecos_integridad\\server\\src\\logs\\error\\2022-10-03.log",
+            "hash": "876849a806b9e983f2b2ca56b607ffae"
+        },
+        {
+            "date": 1664912656219,
+            "name": "C:\\Users\\gorel\\Documents\\Tesso\\Ecos_Integridad\\ecos_integridad\\server\\src\\logs\\error\\2022-10-04.log",
+            "hash": "372d8c634ada5d66f5a8fe976c137242"
+        },
+        {
+            "date": 1664970918917,
+            "name": "C:\\Users\\gorel\\Documents\\Tesso\\Ecos_Integridad\\ecos_integridad\\server\\src\\logs\\error\\2022-10-05.log",
+            "hash": "d62f4e8495a082088c9101fbe04f5d5d"
+        },
+        {
+            "date": 1665078188404,
+            "name": "C:\\Users\\gorel\\Documents\\Tesso\\Ecos_Integridad\\ecos_integridad\\server\\src\\logs\\error\\2022-10-06.log",
+            "hash": "2ed2c3f40dc84be48c0e839545b421f2"
+        },
+        {
+            "date": 1665136751193,
+            "name": "C:\\Users\\gorel\\Documents\\Tesso\\Ecos_Integridad\\ecos_integridad\\server\\src\\logs\\error\\2022-10-07.log",
+            "hash": "1a9a49658f9c729cf3c94278c34ea30c"
+        },
+        {
+            "date": 1665219004749,
+            "name": "C:\\Users\\gorel\\Documents\\Tesso\\Ecos_Integridad\\ecos_integridad\\server\\src\\logs\\error\\2022-10-08.log",
+            "hash": "c306923290003ba5b1b71cfdcde48216"
+        },
+        {
+            "date": 1665444553160,
+            "name": "C:\\Users\\gorel\\Documents\\Tesso\\Ecos_Integridad\\ecos_integridad\\server\\src\\logs\\error\\2022-10-10.log",
+            "hash": "3a47d121b73ece2634093b6bbb107aa0"
+        },
+        {
+            "date": 1665486898304,
+            "name": "C:\\Users\\gorel\\Documents\\Tesso\\Ecos_Integridad\\ecos_integridad\\server\\src\\logs\\error\\2022-10-11.log",
+            "hash": "7a5ad0f1c5babeb4e3c22d88de4793a2"
+        },
+        {
+            "date": 1665582164805,
+            "name": "C:\\Users\\gorel\\Documents\\Tesso\\Ecos_Integridad\\ecos_integridad\\server\\src\\logs\\error\\2022-10-12.log",
+            "hash": "0d40ab538dc989e7e525eee8db346f5f"
+        },
+        {
+            "date": 1665760775931,
+            "name": "C:\\Users\\gorel\\Documents\\Tesso\\Ecos_Integridad\\ecos_integridad\\server\\src\\logs\\error\\2022-10-14.log",
+            "hash": "b4177ca0e0e821140a598d6c881e26c8"
+        },
+        {
+            "date": 1666015307616,
+            "name": "C:\\Users\\gorel\\Documents\\Tesso\\Ecos_Integridad\\ecos_integridad\\server\\src\\logs\\error\\2022-10-17.log",
+            "hash": "b1bba1360507154731556063eedbbc74"
+        },
+        {
+            "date": 1666087389140,
+            "name": "C:\\Users\\gorel\\Documents\\Tesso\\Ecos_Integridad\\ecos_integridad\\server\\src\\logs\\error\\2022-10-18.log",
+            "hash": "52a0c432977f3c12b6f05e9e81db589f"
+        }
+    ]
+}

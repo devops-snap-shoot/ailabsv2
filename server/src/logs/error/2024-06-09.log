@@ -1,0 +1,22 @@
+2024-06-09 20:22:33 error: uncaughtException: require() of ES Module C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\chatgpt\build\index.js from C:\Users\gorel\Documents\Projects\imkchat\server\src\controllers\ia.controller.ts not supported.
+Instead change the require of index.js in C:\Users\gorel\Documents\Projects\imkchat\server\src\controllers\ia.controller.ts to a dynamic import() which is available in all CommonJS modules.
+Error [ERR_REQUIRE_ESM]: require() of ES Module C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\chatgpt\build\index.js from C:\Users\gorel\Documents\Projects\imkchat\server\src\controllers\ia.controller.ts not supported.
+Instead change the require of index.js in C:\Users\gorel\Documents\Projects\imkchat\server\src\controllers\ia.controller.ts to a dynamic import() which is available in all CommonJS modules.
+    at require.extensions.<computed> [as .js] (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:729:20)
+    at Object.<anonymous> (C:\Users\gorel\Documents\Projects\imkchat\server\src\controllers\ia.controller.ts:10:19)
+    at m._compile (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:735:29)
+    at require.extensions.<computed> [as .ts] (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:737:16)
+    at Object.<anonymous> (C:\Users\gorel\Documents\Projects\imkchat\server\src\routes\ia.route.ts:5:54)
+    at m._compile (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:735:29)
+    at require.extensions.<computed> [as .ts] (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:737:16)
+    at Object.<anonymous> (C:\Users\gorel\Documents\Projects\imkchat\server\src\routes\index.route.ts:7:49)
+    at m._compile (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:735:29)
+    at require.extensions.<computed> [as .ts] (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:737:16)
+    at Object.<anonymous> (C:\Users\gorel\Documents\Projects\imkchat\server\src\app.ts:21:52)
+    at m._compile (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:735:29)
+    at require.extensions.<computed> [as .ts] (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:737:16)
+    at Object.<anonymous> (C:\Users\gorel\Documents\Projects\imkchat\server\src\server.ts:5:44)
+    at m._compile (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:735:29)
+    at require.extensions.<computed> [as .ts] (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:737:16)
+    at main (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\bin.js:238:16)
+    at Object.<anonymous> (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\bin.js:351:5)

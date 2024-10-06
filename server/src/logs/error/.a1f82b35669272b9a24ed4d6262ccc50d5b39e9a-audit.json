@@ -1,0 +1,99 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "C:\\Users\\gorel\\Documents\\Projects\\k-chat-pdf\\server\\src\\logs\\error\\.a1f82b35669272b9a24ed4d6262ccc50d5b39e9a-audit.json",
+    "files": [
+        {
+            "date": 1722274356646,
+            "name": "C:\\Users\\gorel\\Documents\\Projects\\k-chat-pdf\\server\\src\\logs\\error\\2024-07-29.log",
+            "hash": "5d907461474d1788008377e98db9cb93"
+        },
+        {
+            "date": 1722336385021,
+            "name": "C:\\Users\\gorel\\Documents\\Projects\\k-chat-pdf\\server\\src\\logs\\error\\2024-07-30.log",
+            "hash": "386f7d0b964f9cd5b69e974f5462c3ee"
+        },
+        {
+            "date": 1722728676672,
+            "name": "C:\\Users\\gorel\\Documents\\Projects\\k-chat-pdf\\server\\src\\logs\\error\\2024-08-03.log",
+            "hash": "01d6ddec945e00d9afa3c9389dd27142"
+        },
+        {
+            "date": 1723054583203,
+            "name": "C:\\Users\\gorel\\Documents\\Projects\\k-chat-pdf\\server\\src\\logs\\error\\2024-08-07.log",
+            "hash": "d39de060fb85ef7628b6c7212c174297"
+        },
+        {
+            "date": 1723118146874,
+            "name": "C:\\Users\\gorel\\Documents\\Projects\\k-chat-pdf\\server\\src\\logs\\error\\2024-08-08.log",
+            "hash": "7243d7e696fbf8caeb37112b3e2eb2b8"
+        },
+        {
+            "date": 1723384215665,
+            "name": "C:\\Users\\gorel\\Documents\\Projects\\k-chat-pdf\\server\\src\\logs\\error\\2024-08-11.log",
+            "hash": "3ecc7f04a0f607d64615acb818d6dd78"
+        },
+        {
+            "date": 1723460209842,
+            "name": "C:\\Users\\gorel\\Documents\\Projects\\k-chat-pdf\\server\\src\\logs\\error\\2024-08-12.log",
+            "hash": "34394be7a65aa7129e718ef6fca5c0ab"
+        },
+        {
+            "date": 1723558672478,
+            "name": "C:\\Users\\gorel\\Documents\\Projects\\k-chat-pdf\\server\\src\\logs\\error\\2024-08-13.log",
+            "hash": "8620933bfd6541fb2232945d2632541b"
+        },
+        {
+            "date": 1723662945927,
+            "name": "C:\\Users\\gorel\\Documents\\Projects\\k-chat-pdf\\server\\src\\logs\\error\\2024-08-14.log",
+            "hash": "6d058aa7d849ce9b13d4177a5bb6d744"
+        },
+        {
+            "date": 1723711827974,
+            "name": "C:\\Users\\gorel\\Documents\\Projects\\k-chat-pdf\\server\\src\\logs\\error\\2024-08-15.log",
+            "hash": "682496a7d044731b22f5f21069c4a8be"
+        },
+        {
+            "date": 1723808692427,
+            "name": "C:\\Users\\gorel\\Documents\\Projects\\k-chat-pdf\\server\\src\\logs\\error\\2024-08-16.log",
+            "hash": "f49c241c855548185e2281bffccb0fa9"
+        },
+        {
+            "date": 1724338900324,
+            "name": "C:\\Users\\gorel\\Documents\\Projects\\k-chat-pdf\\server\\src\\logs\\error\\2024-08-22.log",
+            "hash": "acf9971015fdbe6438bcc938338099d8"
+        },
+        {
+            "date": 1724928236607,
+            "name": "C:\\Users\\gorel\\Documents\\Projects\\k-chat-pdf\\server\\src\\logs\\error\\2024-08-29.log",
+            "hash": "a608db5f81a71c26b4224e00084f7909"
+        },
+        {
+            "date": 1725556822058,
+            "name": "C:\\Users\\gorel\\Documents\\Projects\\k-chat-pdf\\server\\src\\logs\\error\\2024-09-05.log",
+            "hash": "d9c115225c0e561fd6ef7e19f72cab74"
+        },
+        {
+            "date": 1725652517787,
+            "name": "C:\\Users\\gorel\\Documents\\Projects\\k-chat-pdf\\server\\src\\logs\\error\\2024-09-06.log",
+            "hash": "16f74208fe097a0162f4d732360fed75"
+        },
+        {
+            "date": 1726143398895,
+            "name": "C:\\Users\\gorel\\Documents\\Projects\\k-chat-pdf\\server\\src\\logs\\error\\2024-09-12.log",
+            "hash": "62cccbe996302e862b06e940dbaa0e9f"
+        },
+        {
+            "date": 1726197028371,
+            "name": "C:\\Users\\gorel\\Documents\\Projects\\k-chat-pdf\\server\\src\\logs\\error\\2024-09-13.log",
+            "hash": "d08f55a55f0321d7d2d323b1a53dc185"
+        },
+        {
+            "date": 1727362821824,
+            "name": "C:\\Users\\gorel\\Documents\\Projects\\k-chat-pdf\\server\\src\\logs\\error\\2024-09-26.log",
+            "hash": "c0701d9a0c9dc08c54dd49974ce7aa99"
+        }
+    ]
+}

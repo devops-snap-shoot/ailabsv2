@@ -1,0 +1,109 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "C:\\Users\\gorel\\Documents\\KauelWorks\\teleton_motion_tracker\\server\\src\\logs\\error\\.cd8bbf6564b30bf41ba7c26c1985f14af5c633b9-audit.json",
+    "files": [
+        {
+            "date": 1644411334046,
+            "name": "C:\\Users\\gorel\\Documents\\KauelWorks\\teleton_motion_tracker\\server\\src\\logs\\error\\2022-02-09.log",
+            "hash": "b14950ceb302ed46b7b67cdea044699c"
+        },
+        {
+            "date": 1644499525618,
+            "name": "C:\\Users\\gorel\\Documents\\KauelWorks\\teleton_motion_tracker\\server\\src\\logs\\error\\2022-02-10.log",
+            "hash": "f195372d053fdefd234601a393ca36bd"
+        },
+        {
+            "date": 1645624981090,
+            "name": "C:\\Users\\gorel\\Documents\\KauelWorks\\teleton_motion_tracker\\server\\src\\logs\\error\\2022-02-23.log",
+            "hash": "d7c15a1672048d8861094101359f6bc5"
+        },
+        {
+            "date": 1646083506372,
+            "name": "C:\\Users\\gorel\\Documents\\KauelWorks\\teleton_motion_tracker\\server\\src\\logs\\error\\2022-02-28.log",
+            "hash": "5e0d9a17d802e26e832ba5310b9ccf75"
+        },
+        {
+            "date": 1646104033036,
+            "name": "C:\\Users\\gorel\\Documents\\KauelWorks\\teleton_motion_tracker\\server\\src\\logs\\error\\2022-03-01.log",
+            "hash": "de96362cd8cc974df14b15a6c088c593"
+        },
+        {
+            "date": 1646340596250,
+            "name": "C:\\Users\\gorel\\Documents\\KauelWorks\\teleton_motion_tracker\\server\\src\\logs\\error\\2022-03-03.log",
+            "hash": "31f2cfc090e6b79e2407c3cba849df4e"
+        },
+        {
+            "date": 1646391069019,
+            "name": "C:\\Users\\gorel\\Documents\\KauelWorks\\teleton_motion_tracker\\server\\src\\logs\\error\\2022-03-04.log",
+            "hash": "ae8a0260ca24dd3026ce11808da95a9b"
+        },
+        {
+            "date": 1646775769864,
+            "name": "C:\\Users\\gorel\\Documents\\KauelWorks\\teleton_motion_tracker\\server\\src\\logs\\error\\2022-03-08.log",
+            "hash": "08cfcf26e05b6a69d941bc194eb98df9"
+        },
+        {
+            "date": 1646834823302,
+            "name": "C:\\Users\\gorel\\Documents\\KauelWorks\\teleton_motion_tracker\\server\\src\\logs\\error\\2022-03-09.log",
+            "hash": "9aae8951c0619e0805e9dec95da1c190"
+        },
+        {
+            "date": 1647004764780,
+            "name": "C:\\Users\\gorel\\Documents\\KauelWorks\\teleton_motion_tracker\\server\\src\\logs\\error\\2022-03-11.log",
+            "hash": "bc77324ce31150fbd7cc7c454d1baec0"
+        },
+        {
+            "date": 1647246828962,
+            "name": "C:\\Users\\gorel\\Documents\\KauelWorks\\teleton_motion_tracker\\server\\src\\logs\\error\\2022-03-14.log",
+            "hash": "aaf7db7a82fcb2a31ce0e6073868d540"
+        },
+        {
+            "date": 1647369579106,
+            "name": "C:\\Users\\gorel\\Documents\\KauelWorks\\teleton_motion_tracker\\server\\src\\logs\\error\\2022-03-15.log",
+            "hash": "b844f136fe27e72c0171cd08108cb5e0"
+        },
+        {
+            "date": 1647434957414,
+            "name": "C:\\Users\\gorel\\Documents\\KauelWorks\\teleton_motion_tracker\\server\\src\\logs\\error\\2022-03-16.log",
+            "hash": "aa673e5ac6fcbbe31f800bab01942357"
+        },
+        {
+            "date": 1647534754719,
+            "name": "C:\\Users\\gorel\\Documents\\KauelWorks\\teleton_motion_tracker\\server\\src\\logs\\error\\2022-03-17.log",
+            "hash": "89f21bc2f23ff121b629685583a10d3f"
+        },
+        {
+            "date": 1648030227800,
+            "name": "C:\\Users\\gorel\\Documents\\KauelWorks\\teleton_motion_tracker\\server\\src\\logs\\error\\2022-03-23.log",
+            "hash": "26f7335bd5a9b25f68a265e08a712633"
+        },
+        {
+            "date": 1648113669386,
+            "name": "C:\\Users\\gorel\\Documents\\KauelWorks\\teleton_motion_tracker\\server\\src\\logs\\error\\2022-03-24.log",
+            "hash": "e8fc7dc19d9b6a3b31aea460b6a0f04b"
+        },
+        {
+            "date": 1648177896469,
+            "name": "C:\\Users\\gorel\\Documents\\KauelWorks\\teleton_motion_tracker\\server\\src\\logs\\error\\2022-03-25.log",
+            "hash": "4ba1b07fda93ef116eae75dd0360ba06"
+        },
+        {
+            "date": 1648579663601,
+            "name": "C:\\Users\\gorel\\Documents\\KauelWorks\\teleton_motion_tracker\\server\\src\\logs\\error\\2022-03-29.log",
+            "hash": "62c3b027fd16a717a79ce7924c48abdb"
+        },
+        {
+            "date": 1649089256955,
+            "name": "C:\\Users\\gorel\\Documents\\KauelWorks\\teleton_motion_tracker\\server\\src\\logs\\error\\2022-04-04.log",
+            "hash": "3c5369eddf8339223b86ff31b69c444a"
+        },
+        {
+            "date": 1649369762761,
+            "name": "C:\\Users\\gorel\\Documents\\KauelWorks\\teleton_motion_tracker\\server\\src\\logs\\error\\2022-04-07.log",
+            "hash": "526be3309501199bf2b9d87d681df8c7"
+        }
+    ]
+}

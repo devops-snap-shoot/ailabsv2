@@ -1,0 +1,50 @@
+2022-10-27 07:40:10 info: =================================
+2022-10-27 07:40:10 info: ======= ENV: development =======
+2022-10-27 07:40:10 info: 🚀 App listening on the port 5210
+2022-10-27 07:40:10 info: =================================
+2022-10-27 07:42:50 error: [GET] /main.d6264bd6c314067439f2.hot-update.json >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\KauelWorks\Ionic-Boilerplate\client\build\index.html'
+2022-10-27 07:42:50 info: [0mGET /main.d6264bd6c314067439f2.hot-update.json [33m404[0m 8.788 ms - 141[0m
+2022-10-27 08:08:51 info: [0mPOST /api/login [32m200[0m 258.262 ms - -[0m
+2022-10-27 08:43:38 info: [0mPOST /api/login [32m200[0m 227.269 ms - -[0m
+2022-10-27 08:47:06 info: [0mGET /api/users/getUsers [32m200[0m 153.267 ms - 445[0m
+2022-10-27 08:47:07 info: [0mGET /api/users/getUsers [36m304[0m 153.089 ms - -[0m
+2022-10-27 08:55:44 info: [0mGET /api/organizations/getOrganizations [0m-[0m - ms - -[0m
+2022-10-27 08:55:44 info: [0mGET /api/organizations/getOrganizations [0m-[0m - ms - -[0m
+2022-10-27 09:32:51 info: [0mGET /api/users/getUsers [36m304[0m 149.725 ms - -[0m
+2022-10-27 09:32:51 info: [0mGET /api/users/getUsers [36m304[0m 156.374 ms - -[0m
+2022-10-27 09:33:15 info: [0mGET /api/organizations/getOrganizations [0m-[0m - ms - -[0m
+2022-10-27 09:33:24 info: [0mGET /api/users/getUsers [36m304[0m 154.325 ms - -[0m
+2022-10-27 09:33:24 info: [0mGET /api/users/getUsers [36m304[0m 156.072 ms - -[0m
+2022-10-27 09:33:27 info: [0mGET /api/users/getUsers [36m304[0m 150.960 ms - -[0m
+2022-10-27 09:34:03 info: [0mGET /api/organizations/getOrganizations [0m-[0m - ms - -[0m
+2022-10-27 09:34:03 info: [0mGET /api/organizations/getOrganizations [0m-[0m - ms - -[0m
+2022-10-27 09:34:03 info: [0mGET /api/organizations/getOrganizations [0m-[0m - ms - -[0m
+2022-10-27 09:38:35 info: [0mGET /api/users/getUsers [36m304[0m 154.634 ms - -[0m
+2022-10-27 09:38:35 info: [0mGET /api/users/getUsers [36m304[0m 151.656 ms - -[0m
+2022-10-27 09:38:39 info: [0mGET /api/users/getUsers [36m304[0m 148.197 ms - -[0m
+2022-10-27 09:39:11 info: [0mPOST /api/login [32m200[0m 213.885 ms - -[0m
+2022-10-27 09:39:15 info: [0mGET /api/users/getUsers [32m200[0m 153.565 ms - 445[0m
+2022-10-27 09:39:15 info: [0mGET /api/users/getUsers [36m304[0m 149.066 ms - -[0m
+2022-10-27 09:39:18 info: [0mGET /api/users/getUsers [36m304[0m 150.823 ms - -[0m
+2022-10-27 09:42:46 info: [0mGET /api/users/getUsers [36m304[0m 159.222 ms - -[0m
+2022-10-27 09:42:46 info: [0mGET /api/users/getUsers [36m304[0m 155.659 ms - -[0m
+2022-10-27 09:42:49 info: [0mGET /api/users/getUsers [36m304[0m 146.091 ms - -[0m
+2022-10-27 09:42:51 info: [0mGET /api/users/getUsers [36m304[0m 156.309 ms - -[0m
+2022-10-27 09:43:19 info: [0mGET /api/users/getUsers [36m304[0m 151.385 ms - -[0m
+2022-10-27 09:43:19 info: [0mGET /api/users/getUsers [36m304[0m 146.616 ms - -[0m
+2022-10-27 09:43:22 info: [0mGET /api/users/getUsers [36m304[0m 156.197 ms - -[0m
+2022-10-27 09:44:12 info: [0mGET /api/organizations/getOrganizations [0m-[0m - ms - -[0m
+2022-10-27 09:44:12 info: [0mGET /api/organizations/getOrganizations [0m-[0m - ms - -[0m
+2022-10-27 09:44:12 info: [0mGET /api/organizations/getOrganizations [0m-[0m - ms - -[0m
+2022-10-27 09:44:16 info: [0mGET /api/users/getUsers [36m304[0m 146.087 ms - -[0m
+2022-10-27 09:44:17 info: [0mGET /api/users/getUsers [36m304[0m 166.056 ms - -[0m
+2022-10-27 09:46:40 info: [0mGET /api/organizations/getOrganizations [0m-[0m - ms - -[0m
+2022-10-27 09:46:40 info: [0mGET /api/organizations/getOrganizations [0m-[0m - ms - -[0m
+2022-10-27 09:47:55 info: =================================
+2022-10-27 09:47:55 info: ======= ENV: development =======
+2022-10-27 09:47:55 info: 🚀 App listening on the port 5210
+2022-10-27 09:47:55 info: =================================
+2022-10-27 10:38:05 info: [0mGET /api/users/getUsers [32m200[0m 187.109 ms - 445[0m
+2022-10-27 10:38:06 info: [0mGET /api/users/getUsers [36m304[0m 145.391 ms - -[0m
+2022-10-27 10:38:08 info: [0mGET /api/users/getUsers [36m304[0m 150.512 ms - -[0m
+2022-10-27 10:38:12 info: [0mGET /api/organizations/getOrganizations [0m-[0m - ms - -[0m

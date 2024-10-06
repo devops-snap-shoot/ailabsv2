@@ -1,0 +1,88 @@
+2023-10-18 21:08:12 info: =================================
+2023-10-18 21:08:12 info: ======= ENV: development =======
+2023-10-18 21:08:12 info: 🚀 App listening on the port 5211
+2023-10-18 21:08:12 info: =================================
+2023-10-18 21:24:04 info: =================================
+2023-10-18 21:24:04 info: ======= ENV: development =======
+2023-10-18 21:24:04 info: 🚀 App listening on the port 5211
+2023-10-18 21:24:04 info: =================================
+2023-10-18 21:44:51 info: =================================
+2023-10-18 21:44:51 info: ======= ENV: development =======
+2023-10-18 21:44:51 info: 🚀 App listening on the port 5211
+2023-10-18 21:44:51 info: =================================
+2023-10-18 21:46:52 info: =================================
+2023-10-18 21:46:52 info: ======= ENV: development =======
+2023-10-18 21:46:52 info: 🚀 App listening on the port 5211
+2023-10-18 21:46:52 info: =================================
+2023-10-18 18:58:28 info: =================================
+2023-10-18 18:58:28 info: ======= ENV: development =======
+2023-10-18 18:58:28 info: 🚀 App listening on the port 5210
+2023-10-18 18:58:28 info: =================================
+<<<<<<< HEAD
+2023-10-18 22:13:26 info: =================================
+2023-10-18 22:13:26 info: ======= ENV: development =======
+2023-10-18 22:13:26 info: 🚀 App listening on the port 5211
+2023-10-18 22:13:26 info: =================================
+2023-10-18 22:14:31 info: =================================
+2023-10-18 22:14:31 info: ======= ENV: development =======
+2023-10-18 22:14:31 info: 🚀 App listening on the port 5211
+2023-10-18 22:14:31 info: =================================
+2023-10-18 22:18:37 info: =================================
+2023-10-18 22:18:37 info: ======= ENV: development =======
+2023-10-18 22:18:37 info: 🚀 App listening on the port 5211
+2023-10-18 22:18:37 info: =================================
+=======
+2023-10-18 19:02:05 info: =================================
+2023-10-18 19:02:05 info: ======= ENV: development =======
+2023-10-18 19:02:05 info: 🚀 App listening on the port 5211
+2023-10-18 19:02:05 info: =================================
+2023-10-18 19:02:11 error: [POST] /api/login >> StatusCode:: 500, Message:: Cannot read properties of null (reading '_id')
+2023-10-18 19:02:11 info: [0mPOST /api/login [31m500[0m 90.394 ms - 60[0m
+2023-10-18 19:02:26 info: [0mPOST /api/login [32m200[0m 245.817 ms - -[0m
+2023-10-18 19:02:35 info: [0mOPTIONS /api/login [32m200[0m 0.309 ms - 0[0m
+2023-10-18 19:02:35 error: [POST] /api/login >> StatusCode:: 500, Message:: Cannot read properties of null (reading '_id')
+2023-10-18 19:02:35 info: [0mPOST /api/login [31m500[0m 266.334 ms - 60[0m
+2023-10-18 19:04:03 info: [0mOPTIONS /api/login [32m200[0m 0.118 ms - 0[0m
+2023-10-18 19:04:03 info: [0mPOST /api/login [32m200[0m 218.417 ms - -[0m
+2023-10-18 19:05:09 info: [0mOPTIONS /api/files/getFilesByUserId [32m200[0m 0.135 ms - 0[0m
+2023-10-18 19:05:09 info: [0mPOST /api/files/getFilesByUserId [32m200[0m 83.688 ms - 25[0m
+2023-10-18 19:05:09 info: [0mPOST /api/files/getFilesByUserId [32m200[0m 78.174 ms - 25[0m
+2023-10-18 19:05:30 info: [0mOPTIONS /api/login [32m200[0m 0.120 ms - 0[0m
+2023-10-18 19:05:30 info: [0mPOST /api/login [32m200[0m 219.457 ms - -[0m
+2023-10-18 19:05:30 info: [0mOPTIONS /api/files/getFilesByUserId [32m200[0m 0.241 ms - 0[0m
+2023-10-18 19:05:30 info: [0mPOST /api/files/getFilesByUserId [32m200[0m 78.175 ms - 25[0m
+2023-10-18 19:06:46 info: [0mGET / [32m200[0m 5.072 ms - 874[0m
+2023-10-18 19:06:46 info: [0mGET /static/css/main.788fd56b.css [32m200[0m 2.175 ms - -[0m
+2023-10-18 19:06:46 info: [0mGET /static/js/main.2a7a4eba.js [32m200[0m 2.868 ms - -[0m
+2023-10-18 19:06:46 info: [0mGET /static/css/main.788fd56b.css.map [32m200[0m 2.021 ms - -[0m
+2023-10-18 19:06:46 info: [0mGET /static/js/22.75550aa0.chunk.js [32m200[0m 3.349 ms - 869[0m
+2023-10-18 19:06:47 info: [0mGET /static/media/OpenSans-Regular.9a6cfa5890d7f3eef585.ttf [32m200[0m 4.827 ms - -[0m
+2023-10-18 19:06:47 info: [0mGET /assets/images/Imkchat_logo.svg [32m200[0m 27.221 ms - -[0m
+2023-10-18 19:06:47 info: [0mGET /static/js/22.75550aa0.chunk.js.map [32m200[0m 5.036 ms - -[0m
+2023-10-18 19:06:47 info: [0mGET /static/js/main.2a7a4eba.js.map [32m200[0m 8.714 ms - -[0m
+2023-10-18 19:06:47 info: [0mGET /manifest.json [32m200[0m 14.335 ms - 456[0m
+2023-10-18 19:06:47 info: [0mGET /assets/icon/fabicon.webp [32m200[0m 21.460 ms - 630[0m
+2023-10-18 19:06:47 info: [0mGET /static/js/344.1a498bff.chunk.js [32m200[0m 2.146 ms - -[0m
+2023-10-18 19:06:47 info: [0mGET /static/js/225.53d7024c.chunk.js [32m200[0m 2.083 ms - -[0m
+2023-10-18 19:06:47 info: [0mGET /static/js/344.1a498bff.chunk.js.map [32m200[0m 6.228 ms - -[0m
+2023-10-18 19:06:47 info: [0mGET /static/js/225.53d7024c.chunk.js.map [32m200[0m 5.261 ms - -[0m
+2023-10-18 19:06:52 info: [0mGET /img/icons/close.svg [32m200[0m 5.836 ms - 343[0m
+2023-10-18 19:08:47 info: [0mGET / [32m200[0m 1.852 ms - 874[0m
+2023-10-18 19:08:48 info: [0mGET /static/css/main.788fd56b.css [32m200[0m 3.209 ms - -[0m
+2023-10-18 19:08:48 info: [0mGET /static/js/main.3b0213ee.js [32m200[0m 2.236 ms - -[0m
+2023-10-18 19:08:48 info: [0mGET /static/css/main.788fd56b.css.map [32m200[0m 2.083 ms - -[0m
+2023-10-18 19:08:48 info: [0mGET /static/js/22.75550aa0.chunk.js [32m200[0m 2.242 ms - 869[0m
+2023-10-18 19:08:48 info: [0mGET /static/media/OpenSans-Regular.9a6cfa5890d7f3eef585.ttf [32m200[0m 4.249 ms - -[0m
+2023-10-18 19:08:48 info: [0mGET /assets/images/Imkchat_logo.svg [36m304[0m 2.395 ms - -[0m
+2023-10-18 19:08:48 info: [0mGET /static/js/main.3b0213ee.js.map [32m200[0m 5.887 ms - -[0m
+2023-10-18 19:08:48 info: [0mGET /static/js/344.1a498bff.chunk.js [32m200[0m 1.678 ms - -[0m
+2023-10-18 19:08:48 info: [0mGET /manifest.json [36m304[0m 1.413 ms - -[0m
+2023-10-18 19:08:48 info: [0mGET /static/js/225.53d7024c.chunk.js [32m200[0m 3.722 ms - -[0m
+2023-10-18 19:08:48 info: [0mGET /static/js/22.75550aa0.chunk.js.map [32m200[0m 2.466 ms - -[0m
+2023-10-18 19:08:48 info: [0mGET /static/js/344.1a498bff.chunk.js.map [32m200[0m 1.698 ms - -[0m
+2023-10-18 19:08:48 info: [0mGET /static/js/225.53d7024c.chunk.js.map [32m200[0m 3.693 ms - -[0m
+2023-10-18 19:14:21 info: [0mOPTIONS /api/files/getFilesByUserId [32m200[0m 0.373 ms - 0[0m
+2023-10-18 19:14:21 info: [0mPOST /api/files/getFilesByUserId [32m200[0m 78.618 ms - 25[0m
+2023-10-18 19:17:06 info: [0mOPTIONS /api/login [32m200[0m 0.132 ms - 0[0m
+2023-10-18 19:17:06 info: [0mPOST /api/login [32m200[0m 204.681 ms - -[0m
+>>>>>>> fd9d76cca6da3f8ea48e590dd83ab7dd0543f527

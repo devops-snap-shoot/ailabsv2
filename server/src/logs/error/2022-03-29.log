@@ -1,0 +1,2 @@
+2022-03-29 16:55:29 error: [POST] /users/ >> StatusCode:: 401, Message:: Wrong authentication token
+2022-03-29 16:55:43 error: [POST] /users/ >> StatusCode:: 500, Message:: Cannot read property '_id' of undefined

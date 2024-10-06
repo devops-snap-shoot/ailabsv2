@@ -1,0 +1,135 @@
+2022-09-07 10:27:15 info: =================================
+2022-09-07 10:27:15 info: ======= ENV: development =======
+2022-09-07 10:27:15 info: 🚀 App listening on the port 5103
+2022-09-07 10:27:15 info: =================================
+2022-09-07 10:30:59 info: =================================
+2022-09-07 10:30:59 info: ======= ENV: development =======
+2022-09-07 10:30:59 info: 🚀 App listening on the port 5103
+2022-09-07 10:30:59 info: =================================
+2022-09-07 10:31:57 info: [0mPOST /api/logout [32m200[0m 116.550 ms - 403[0m
+2022-09-07 10:32:10 info: [0mPOST /api/login [32m200[0m 135.098 ms - 585[0m
+2022-09-07 10:32:23 info: [0mGET /api/users/getUsers [36m304[0m 158.617 ms - -[0m
+2022-09-07 10:32:26 error: [GET] /api/clients/getClients >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Tesso\Ecos_Integridad\ecos_integridad\client\build\index.html'
+2022-09-07 10:32:26 info: [0mGET /api/clients/getClients [33m404[0m 5.063 ms - 151[0m
+2022-09-07 10:32:38 error: [POST] /api/clients/createClient >> StatusCode:: 500, Message:: Cliente validation failed: empresa: Cast to string failed for value "{
+  nombre: 'sdvsdvs',
+  run: 'sdcvsdc',
+  telefono: 'sdcsdc',
+  correo: 'sdcsdc',
+  location: { lat: 'sdcsdc', lng: 'sdcsdc' }
+}" (type Object) at path "empresa"
+2022-09-07 10:32:38 info: [0mPOST /api/clients/createClient [31m500[0m 102.959 ms - 255[0m
+2022-09-07 10:34:10 info: =================================
+2022-09-07 10:34:10 info: ======= ENV: development =======
+2022-09-07 10:34:10 info: 🚀 App listening on the port 5103
+2022-09-07 10:34:10 info: =================================
+2022-09-07 10:34:20 info: [0mPOST /api/clients/createClient [32m201[0m 229.305 ms - 342[0m
+2022-09-07 10:37:31 info: =================================
+2022-09-07 10:37:31 info: ======= ENV: development =======
+2022-09-07 10:37:31 info: 🚀 App listening on the port 5103
+2022-09-07 10:37:31 info: =================================
+2022-09-07 10:37:39 info: [0mPOST /api/login [32m200[0m 161.758 ms - 585[0m
+2022-09-07 10:37:42 error: [GET] /api/clients/getClients >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Tesso\Ecos_Integridad\ecos_integridad\client\build\index.html'
+2022-09-07 10:37:42 info: [0mGET /api/clients/getClients [33m404[0m 7.484 ms - 151[0m
+2022-09-07 10:43:02 info: =================================
+2022-09-07 10:43:02 info: ======= ENV: development =======
+2022-09-07 10:43:02 info: 🚀 App listening on the port 5103
+2022-09-07 10:43:02 info: =================================
+2022-09-07 11:19:28 info: [0mPOST /api/clients/createClient [32m201[0m 223.431 ms - 355[0m
+2022-09-07 11:20:18 error: [GET] /api/clients/getClients >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Tesso\Ecos_Integridad\ecos_integridad\client\build\index.html'
+2022-09-07 11:20:18 info: [0mGET /api/clients/getClients [33m404[0m 6.088 ms - 151[0m
+2022-09-07 11:21:07 error: [GET] /api/clients/getClients >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Tesso\Ecos_Integridad\ecos_integridad\client\build\index.html'
+2022-09-07 11:21:07 info: [0mGET /api/clients/getClients [33m404[0m 3.228 ms - 151[0m
+2022-09-07 11:22:04 info: =================================
+2022-09-07 11:22:04 info: ======= ENV: development =======
+2022-09-07 11:22:04 info: 🚀 App listening on the port 5103
+2022-09-07 11:22:04 info: =================================
+2022-09-07 11:22:07 info: [0mGET /api/clients/getClients [32m200[0m 156.316 ms - 357[0m
+2022-09-07 11:22:08 error: [GET] /assets/images/logo/no-logo.png >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Tesso\Ecos_Integridad\ecos_integridad\client\build\index.html'
+2022-09-07 11:22:08 info: [0mGET /assets/images/logo/no-logo.png [33m404[0m 4.079 ms - 151[0m
+2022-09-07 11:22:35 info: [0mGET /api/clients/getClients [36m304[0m 154.871 ms - -[0m
+2022-09-07 11:22:51 info: [0mGET /api/clients/getClients [36m304[0m 160.250 ms - -[0m
+2022-09-07 11:23:17 info: [0mGET /api/clients/getClients [36m304[0m 153.380 ms - -[0m
+2022-09-07 11:23:41 info: [0mPOST /api/users/getUserById [0m-[0m - ms - -[0m
+2022-09-07 11:23:41 error: [POST] /api/users/getUserById >> StatusCode:: 404, Message:: Ususario no encontrado
+2022-09-07 11:23:42 info: [0mGET /api/clients/getClients [36m304[0m 150.609 ms - -[0m
+2022-09-07 11:23:42 error: [GET] /assets/images/logo/no-logo.png >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Tesso\Ecos_Integridad\ecos_integridad\client\build\index.html'
+2022-09-07 11:23:42 info: [0mGET /assets/images/logo/no-logo.png [33m404[0m 2.214 ms - 151[0m
+2022-09-07 11:25:23 info: [0mGET /api/clients/getClients [36m304[0m 148.520 ms - -[0m
+2022-09-07 11:25:43 info: [0mGET /api/clients/getClients [36m304[0m 146.256 ms - -[0m
+2022-09-07 11:25:51 info: [0mGET /api/clients/getClients [36m304[0m 151.203 ms - -[0m
+2022-09-07 11:27:03 info: [0mGET /api/clients/getClients [36m304[0m 148.569 ms - -[0m
+2022-09-07 11:27:30 info: [0mGET /api/clients/getClients [36m304[0m 155.885 ms - -[0m
+2022-09-07 11:27:48 info: [0mGET /api/orders/getWorkOrders [32m201[0m 152.860 ms - 40[0m
+2022-09-07 11:29:01 info: [0mGET /api/clients/getClients [36m304[0m 149.102 ms - -[0m
+2022-09-07 11:29:40 info: [0mGET /api/clients/getClients [36m304[0m 150.850 ms - -[0m
+2022-09-07 11:29:52 info: [0mGET /api/clients/getClients [36m304[0m 154.976 ms - -[0m
+2022-09-07 17:15:30 info: =================================
+2022-09-07 17:15:30 info: ======= ENV: development =======
+2022-09-07 17:15:30 info: 🚀 App listening on the port 5103
+2022-09-07 17:15:30 info: =================================
+2022-09-07 17:17:13 info: [0mGET /api/users/getUsers [32m200[0m 269.447 ms - -[0m
+2022-09-07 17:17:15 info: [0mGET /api/clients/getClients [32m200[0m 322.715 ms - 357[0m
+2022-09-07 17:18:29 info: [0mGET /api/clients/getClients [36m304[0m 234.966 ms - -[0m
+2022-09-07 17:18:55 info: [0mGET /api/clients/getClients [36m304[0m 228.159 ms - -[0m
+2022-09-07 17:19:08 info: [0mGET /api/clients/getClients [36m304[0m 320.317 ms - -[0m
+2022-09-07 17:19:33 info: [0mGET /api/clients/getClients [32m200[0m 238.805 ms - 357[0m
+2022-09-07 17:20:55 info: [0mGET /api/clients/getClients [36m304[0m 231.577 ms - -[0m
+2022-09-07 17:21:14 info: [0mGET /api/clients/getClients [36m304[0m 313.978 ms - -[0m
+2022-09-07 17:30:39 info: [0mGET /api/clients/getClients [36m304[0m 236.185 ms - -[0m
+2022-09-07 17:31:59 info: [0mPOST /api/clients/createClient [32m201[0m 309.020 ms - 375[0m
+2022-09-07 17:32:07 info: [0mGET /api/clients/getClients [32m200[0m 315.426 ms - 704[0m
+2022-09-07 17:32:14 info: [0mGET /api/clients/getClients [36m304[0m 239.131 ms - -[0m
+2022-09-07 17:32:18 info: [0mGET /api/users/getUsers [36m304[0m 228.537 ms - -[0m
+2022-09-07 17:32:24 info: [0mGET /api/clients/getClients [36m304[0m 374.096 ms - -[0m
+2022-09-07 17:32:27 info: [0mGET /api/orders/getWorkOrders [32m201[0m 249.601 ms - 40[0m
+2022-09-07 17:32:37 info: [0mGET /api/clients/getClients [36m304[0m 237.577 ms - -[0m
+2022-09-07 17:32:42 info: [0mGET /api/orders/getWorkOrders [32m201[0m 316.906 ms - 40[0m
+2022-09-07 17:33:27 info: [0mGET /api/clients/getClients [36m304[0m 258.496 ms - -[0m
+2022-09-07 17:33:46 info: [0mGET /api/clients/getClients [36m304[0m 233.475 ms - -[0m
+2022-09-07 17:34:18 info: [0mGET /api/clients/getClients [36m304[0m 317.406 ms - -[0m
+2022-09-07 17:37:01 info: [0mGET /api/orders/getWorkOrders [32m201[0m 235.614 ms - 40[0m
+2022-09-07 18:09:23 info: =================================
+2022-09-07 18:09:23 info: ======= ENV: development =======
+2022-09-07 18:09:23 info: 🚀 App listening on the port 5103
+2022-09-07 18:09:23 info: =================================
+2022-09-07 18:54:34 info: =================================
+2022-09-07 18:54:34 info: ======= ENV: development =======
+2022-09-07 18:54:34 info: 🚀 App listening on the port 5103
+2022-09-07 18:54:34 info: =================================
+2022-09-07 19:01:00 info: [0mGET /api/clients/getClients [32m200[0m 197.035 ms - 704[0m
+2022-09-07 19:02:55 info: [0mGET /api/clients/getClients [36m304[0m 247.564 ms - -[0m
+2022-09-07 19:07:08 info: [0mGET /api/clients/getClients [36m304[0m 228.669 ms - -[0m
+2022-09-07 19:07:14 info: [0mGET /api/clients/getClients [36m304[0m 172.177 ms - -[0m
+2022-09-07 20:56:27 info: [0mGET /api/clients/getClients [36m304[0m 185.139 ms - -[0m
+2022-09-07 20:57:24 info: [0mGET /api/clients/getClients [36m304[0m 153.794 ms - -[0m
+2022-09-07 20:57:52 info: [0mGET /api/clients/getClients [36m304[0m 164.441 ms - -[0m
+2022-09-07 21:08:16 info: [0mGET /api/users/getUsers [36m304[0m 158.691 ms - -[0m
+2022-09-07 21:08:21 info: [0mGET /api/clients/getClients [36m304[0m 155.457 ms - -[0m
+2022-09-07 21:08:47 info: [0mGET /api/orders/getWorkOrders [32m201[0m 164.399 ms - 40[0m
+2022-09-07 21:31:01 info: [0mGET /api/clients/getClients [36m304[0m 178.334 ms - -[0m
+2022-09-07 21:32:59 info: [0mGET /api/clients/getClients [36m304[0m 158.735 ms - -[0m
+2022-09-07 21:33:23 info: [0mGET /api/clients/getClients [36m304[0m 163.790 ms - -[0m
+2022-09-07 21:34:31 info: [0mGET /api/clients/getClients [36m304[0m 157.790 ms - -[0m
+2022-09-07 21:42:56 info: [0mGET /api/clients/getClients [36m304[0m 154.808 ms - -[0m
+2022-09-07 21:43:12 info: [0mGET /api/clients/getClients [36m304[0m 165.367 ms - -[0m
+2022-09-07 21:43:54 info: [0mGET /api/clients/getClients [36m304[0m 182.550 ms - -[0m
+2022-09-07 21:44:21 info: [0mGET /api/clients/getClients [36m304[0m 155.061 ms - -[0m
+2022-09-07 21:49:12 info: [0mGET /api/clients/getClients [36m304[0m 182.462 ms - -[0m
+2022-09-07 22:04:36 info: [0mGET /api/clients/getClients [36m304[0m 154.554 ms - -[0m
+2022-09-07 22:06:32 info: [0mGET /api/clients/getClients [36m304[0m 156.449 ms - -[0m
+2022-09-07 22:07:05 info: [0mGET /api/clients/getClients [36m304[0m 165.572 ms - -[0m
+2022-09-07 22:07:07 error: [POST] /api/users/getUserById >> StatusCode:: 404, Message:: Ususario no encontrado
+2022-09-07 22:07:07 info: [0mPOST /api/users/getUserById [33m404[0m 232.945 ms - 36[0m
+2022-09-07 22:07:26 info: [0mGET /api/clients/getClients [36m304[0m 154.847 ms - -[0m
+2022-09-07 22:07:50 info: [0mGET /api/clients/getClients [36m304[0m 161.594 ms - -[0m
+2022-09-07 22:07:54 info: [0mGET /api/clients/getClients [36m304[0m 158.080 ms - -[0m
+2022-09-07 22:07:58 info: [0mGET /api/users/getUsers [36m304[0m 158.854 ms - -[0m
+2022-09-07 22:08:02 info: [0mPOST /api/users/getUserById [32m200[0m 165.169 ms - 365[0m
+2022-09-07 22:08:05 info: [0mPOST /api/users/editUser [32m200[0m 187.791 ms - 439[0m
+2022-09-07 22:08:06 info: [0mGET /api/users/getUsers [32m200[0m 168.235 ms - -[0m
+2022-09-07 22:08:26 info: [0mGET /api/clients/getClients [36m304[0m 155.871 ms - -[0m
+2022-09-07 22:08:30 info: [0mGET /api/users/getUsers [36m304[0m 150.295 ms - -[0m
+2022-09-07 22:08:41 info: [0mGET /api/users/getUsers [36m304[0m 158.321 ms - -[0m
+2022-09-07 22:08:44 info: [0mGET /api/users/getUsers [36m304[0m 156.055 ms - -[0m
+2022-09-07 22:08:55 info: [0mGET /api/users/getUsers [36m304[0m 155.055 ms - -[0m

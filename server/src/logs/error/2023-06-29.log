@@ -1,0 +1,207 @@
+2023-06-29 09:30:07 error: uncaughtException: Request failed with status code 404
+Error: Request failed with status code 404
+    at createError (C:\Users\gorel\Documents\Kauel_USA\imKchat\app\server\node_modules\axios\lib\core\createError.js:16:15)
+    at settle (C:\Users\gorel\Documents\Kauel_USA\imKchat\app\server\node_modules\axios\lib\core\settle.js:17:12)
+    at IncomingMessage.handleStreamEnd (C:\Users\gorel\Documents\Kauel_USA\imKchat\app\server\node_modules\axios\lib\adapters\http.js:269:11)
+    at IncomingMessage.emit (node:events:525:35)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21)
+2023-06-29 09:30:08 error: uncaughtException: Request failed with status code 404
+Error: Request failed with status code 404
+    at createError (C:\Users\gorel\Documents\Kauel_USA\imKchat\app\server\node_modules\axios\lib\core\createError.js:16:15)
+    at settle (C:\Users\gorel\Documents\Kauel_USA\imKchat\app\server\node_modules\axios\lib\core\settle.js:17:12)
+    at IncomingMessage.handleStreamEnd (C:\Users\gorel\Documents\Kauel_USA\imKchat\app\server\node_modules\axios\lib\adapters\http.js:269:11)
+    at IncomingMessage.emit (node:events:525:35)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21)
+2023-06-29 09:31:59 error: uncaughtException: Request failed with status code 404
+Error: Request failed with status code 404
+    at createError (C:\Users\gorel\Documents\Kauel_USA\imKchat\app\server\node_modules\axios\lib\core\createError.js:16:15)
+    at settle (C:\Users\gorel\Documents\Kauel_USA\imKchat\app\server\node_modules\axios\lib\core\settle.js:17:12)
+    at IncomingMessage.handleStreamEnd (C:\Users\gorel\Documents\Kauel_USA\imKchat\app\server\node_modules\axios\lib\adapters\http.js:269:11)
+    at IncomingMessage.emit (node:events:525:35)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21)
+2023-06-29 09:31:59 error: uncaughtException: Request failed with status code 404
+Error: Request failed with status code 404
+    at createError (C:\Users\gorel\Documents\Kauel_USA\imKchat\app\server\node_modules\axios\lib\core\createError.js:16:15)
+    at settle (C:\Users\gorel\Documents\Kauel_USA\imKchat\app\server\node_modules\axios\lib\core\settle.js:17:12)
+    at IncomingMessage.handleStreamEnd (C:\Users\gorel\Documents\Kauel_USA\imKchat\app\server\node_modules\axios\lib\adapters\http.js:269:11)
+    at IncomingMessage.emit (node:events:525:35)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21)
+2023-06-29 09:32:50 error: uncaughtException: Request failed with status code 404
+Error: Request failed with status code 404
+    at createError (C:\Users\gorel\Documents\Kauel_USA\imKchat\app\server\node_modules\axios\lib\core\createError.js:16:15)
+    at settle (C:\Users\gorel\Documents\Kauel_USA\imKchat\app\server\node_modules\axios\lib\core\settle.js:17:12)
+    at IncomingMessage.handleStreamEnd (C:\Users\gorel\Documents\Kauel_USA\imKchat\app\server\node_modules\axios\lib\adapters\http.js:269:11)
+    at IncomingMessage.emit (node:events:525:35)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21)
+2023-06-29 09:32:50 error: uncaughtException: Request failed with status code 404
+Error: Request failed with status code 404
+    at createError (C:\Users\gorel\Documents\Kauel_USA\imKchat\app\server\node_modules\axios\lib\core\createError.js:16:15)
+    at settle (C:\Users\gorel\Documents\Kauel_USA\imKchat\app\server\node_modules\axios\lib\core\settle.js:17:12)
+    at IncomingMessage.handleStreamEnd (C:\Users\gorel\Documents\Kauel_USA\imKchat\app\server\node_modules\axios\lib\adapters\http.js:269:11)
+    at IncomingMessage.emit (node:events:525:35)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21)
+2023-06-29 09:59:26 error: [POST] /api/ia/upload_pdf >> StatusCode:: 500, Message:: Data after transformation must be a string, an ArrayBuffer, a Buffer, or a Stream
+2023-06-29 10:00:38 error: [POST] /api/ia/upload_pdf >> StatusCode:: 500, Message:: Data after transformation must be a string, an ArrayBuffer, a Buffer, or a Stream
+2023-06-29 10:30:40 error: [POST] /api/ia/upload_pdf >> StatusCode:: 500, Message:: Data after transformation must be a string, an ArrayBuffer, a Buffer, or a Stream
+2023-06-29 11:35:31 error: [POST] /api/ia/upload_pdf >> StatusCode:: 500, Message:: Data after transformation must be a string, an ArrayBuffer, a Buffer, or a Stream
+2023-06-29 11:42:23 error: [POST] /api/ia/upload_pdf >> StatusCode:: 500, Message:: Data after transformation must be a string, an ArrayBuffer, a Buffer, or a Stream
+2023-06-29 12:26:18 error: [POST] /api/ia/upload_pdf >> StatusCode:: 500, Message:: Data after transformation must be a string, an ArrayBuffer, a Buffer, or a Stream
+2023-06-29 12:41:26 error: [POST] /api/ia/upload_pdf >> StatusCode:: 500, Message:: The "path" argument must be of type string or an instance of Buffer or URL. Received an instance of Object
+2023-06-29 12:47:13 error: [POST] /api/ia/upload_pdf >> StatusCode:: 500, Message:: The "path" argument must be of type string or an instance of Buffer or URL. Received an instance of Object
+2023-06-29 12:48:50 error: [POST] /api/ia/upload_pdf >> StatusCode:: 500, Message:: Data after transformation must be a string, an ArrayBuffer, a Buffer, or a Stream
+2023-06-29 12:49:32 error: [POST] /api/ia/upload_pdf >> StatusCode:: 500, Message:: Data after transformation must be a string, an ArrayBuffer, a Buffer, or a Stream
+2023-06-29 12:51:02 error: [POST] /api/ia/upload_pdf >> StatusCode:: 500, Message:: Data after transformation must be a string, an ArrayBuffer, a Buffer, or a Stream
+2023-06-29 12:51:26 error: [POST] /api/ia/upload_pdf >> StatusCode:: 500, Message:: Data after transformation must be a string, an ArrayBuffer, a Buffer, or a Stream
+2023-06-29 12:59:29 error: [POST] /api/ia/upload_pdf >> StatusCode:: 500, Message:: Data after transformation must be a string, an ArrayBuffer, a Buffer, or a Stream
+2023-06-29 13:09:07 error: [POST] /api/ia/upload_pdf >> StatusCode:: 500, Message:: Data after transformation must be a string, an ArrayBuffer, a Buffer, or a Stream
+2023-06-29 13:24:32 error: [POST] /api/ia/upload_pdf >> StatusCode:: 500, Message:: Data after transformation must be a string, an ArrayBuffer, a Buffer, or a Stream
+2023-06-29 13:25:29 error: [POST] /api/ia/upload_pdf >> StatusCode:: 500, Message:: Data after transformation must be a string, an ArrayBuffer, a Buffer, or a Stream
+2023-06-29 13:30:03 error: uncaughtException: ⨯ Unable to compile TypeScript:
+[96msrc/controllers/ia.controller.ts[0m:[93m34[0m:[93m21[0m - [91merror[0m[90m TS1005: [0m',' expected.
+
+[7m34[0m                     'Content-Type': 'multipart/form-data',
+[7m  [0m [91m                    ~~~~~~~~~~~~~~[0m
+
+TSError: ⨯ Unable to compile TypeScript:
+[96msrc/controllers/ia.controller.ts[0m:[93m34[0m:[93m21[0m - [91merror[0m[90m TS1005: [0m',' expected.
+
+[7m34[0m                     'Content-Type': 'multipart/form-data',
+[7m  [0m [91m                    ~~~~~~~~~~~~~~[0m
+
+    at createTSError (C:\Users\gorel\AppData\Roaming\npm\node_modules\ts-node\src\index.ts:750:12)
+    at reportTSError (C:\Users\gorel\AppData\Roaming\npm\node_modules\ts-node\src\index.ts:754:19)
+    at C:\Users\gorel\AppData\Roaming\npm\node_modules\ts-node\src\index.ts:1216:34
+    at Object.compile (C:\Users\gorel\AppData\Roaming\npm\node_modules\ts-node\src\index.ts:1243:30)
+    at Module.m._compile (C:\Users\gorel\AppData\Roaming\npm\node_modules\ts-node\src\index.ts:1370:30)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\gorel\AppData\Roaming\npm\node_modules\ts-node\src\index.ts:1374:12)
+    at Module.load (node:internal/modules/cjs/loader:1117:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:958:12)
+    at Module.require (node:internal/modules/cjs/loader:1141:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (C:\Users\gorel\Documents\Kauel_USA\imKchat\app\server\src\routes\ia.route.ts:2:1)
+    at Module._compile (node:internal/modules/cjs/loader:1254:14)
+    at Module.m._compile (C:\Users\gorel\AppData\Roaming\npm\node_modules\ts-node\src\index.ts:1371:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1308:10)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\gorel\AppData\Roaming\npm\node_modules\ts-node\src\index.ts:1374:12)
+2023-06-29 13:30:26 error: [POST] /api/ia/upload_pdf >> StatusCode:: 500, Message:: Data after transformation must be a string, an ArrayBuffer, a Buffer, or a Stream
+2023-06-29 15:05:00 error: [POST] /api/ia/upload_pdf >> StatusCode:: 500, Message:: Data after transformation must be a string, an ArrayBuffer, a Buffer, or a Stream
+2023-06-29 15:09:31 error: [POST] /api/ia/upload_pdf >> StatusCode:: 500, Message:: connect ETIMEDOUT 172.12.2.2:8000
+2023-06-29 15:11:12 error: [POST] /api/ia/upload_pdf >> StatusCode:: 500, Message:: connect ETIMEDOUT 172.12.2.2:8000
+2023-06-29 15:12:14 error: [POST] /api/ia/upload_pdf >> StatusCode:: 500, Message:: Request failed with status code 422
+2023-06-29 15:16:13 error: [POST] /api/ia/upload_pdf >> StatusCode:: 500, Message:: Request failed with status code 422
+2023-06-29 15:18:39 error: [POST] /api/ia/upload_pdf >> StatusCode:: 500, Message:: Request failed with status code 422
+2023-06-29 15:19:22 error: [POST] /api/ia/upload_pdf >> StatusCode:: 500, Message:: Request failed with status code 422
+2023-06-29 15:19:52 error: [POST] /api/ia/upload_pdf >> StatusCode:: 500, Message:: Request failed with status code 422
+2023-06-29 15:20:12 error: [POST] /api/ia/upload_pdf >> StatusCode:: 500, Message:: Request failed with status code 422
+2023-06-29 15:21:18 error: [POST] /api/ia/upload_pdf >> StatusCode:: 500, Message:: Request failed with status code 422
+2023-06-29 15:21:53 error: [POST] /api/ia/upload_pdf >> StatusCode:: 500, Message:: Request failed with status code 422
+2023-06-29 15:31:05 error: [POST] /api/ia/upload_pdf >> StatusCode:: 500, Message:: Request failed with status code 422
+2023-06-29 15:33:57 error: [POST] /api/ia/upload_pdf >> StatusCode:: 500, Message:: Request failed with status code 422
+2023-06-29 15:35:17 error: uncaughtException: Cannot read properties of undefined (reading 'data')
+TypeError: Cannot read properties of undefined (reading 'data')
+    at uploadPdf (C:\Users\gorel\Documents\Kauel_USA\imKchat\app\server\src\controllers\ia.controller.ts:45:51)
+    at Layer.handle [as handle_request] (C:\Users\gorel\Documents\Kauel_USA\imKchat\app\server\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\gorel\Documents\Kauel_USA\imKchat\app\server\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\gorel\Documents\Kauel_USA\imKchat\app\server\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\gorel\Documents\Kauel_USA\imKchat\app\server\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\gorel\Documents\Kauel_USA\imKchat\app\server\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\gorel\Documents\Kauel_USA\imKchat\app\server\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\gorel\Documents\Kauel_USA\imKchat\app\server\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\gorel\Documents\Kauel_USA\imKchat\app\server\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\gorel\Documents\Kauel_USA\imKchat\app\server\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\gorel\Documents\Kauel_USA\imKchat\app\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\gorel\Documents\Kauel_USA\imKchat\app\server\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\gorel\Documents\Kauel_USA\imKchat\app\server\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\gorel\Documents\Kauel_USA\imKchat\app\server\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\gorel\Documents\Kauel_USA\imKchat\app\server\node_modules\express\lib\router\index.js:275:10)
+    at C:\Users\gorel\Documents\Kauel_USA\imKchat\app\server\node_modules\express\lib\router\index.js:635:15
+2023-06-29 15:36:32 error: uncaughtException: Cannot read properties of undefined (reading 'data')
+TypeError: Cannot read properties of undefined (reading 'data')
+    at uploadPdf (C:\Users\gorel\Documents\Kauel_USA\imKchat\app\server\src\controllers\ia.controller.ts:52:51)
+    at Layer.handle [as handle_request] (C:\Users\gorel\Documents\Kauel_USA\imKchat\app\server\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\gorel\Documents\Kauel_USA\imKchat\app\server\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\gorel\Documents\Kauel_USA\imKchat\app\server\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\gorel\Documents\Kauel_USA\imKchat\app\server\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\gorel\Documents\Kauel_USA\imKchat\app\server\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\gorel\Documents\Kauel_USA\imKchat\app\server\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\gorel\Documents\Kauel_USA\imKchat\app\server\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\gorel\Documents\Kauel_USA\imKchat\app\server\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\gorel\Documents\Kauel_USA\imKchat\app\server\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\gorel\Documents\Kauel_USA\imKchat\app\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\gorel\Documents\Kauel_USA\imKchat\app\server\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\gorel\Documents\Kauel_USA\imKchat\app\server\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\gorel\Documents\Kauel_USA\imKchat\app\server\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\gorel\Documents\Kauel_USA\imKchat\app\server\node_modules\express\lib\router\index.js:275:10)
+    at C:\Users\gorel\Documents\Kauel_USA\imKchat\app\server\node_modules\express\lib\router\index.js:635:15
+2023-06-29 15:37:00 error: uncaughtException: Cannot read properties of undefined (reading 'data')
+TypeError: Cannot read properties of undefined (reading 'data')
+    at uploadPdf (C:\Users\gorel\Documents\Kauel_USA\imKchat\app\server\src\controllers\ia.controller.ts:52:51)
+    at Layer.handle [as handle_request] (C:\Users\gorel\Documents\Kauel_USA\imKchat\app\server\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\gorel\Documents\Kauel_USA\imKchat\app\server\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\gorel\Documents\Kauel_USA\imKchat\app\server\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\gorel\Documents\Kauel_USA\imKchat\app\server\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\gorel\Documents\Kauel_USA\imKchat\app\server\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\gorel\Documents\Kauel_USA\imKchat\app\server\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\gorel\Documents\Kauel_USA\imKchat\app\server\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\gorel\Documents\Kauel_USA\imKchat\app\server\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\gorel\Documents\Kauel_USA\imKchat\app\server\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\gorel\Documents\Kauel_USA\imKchat\app\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\gorel\Documents\Kauel_USA\imKchat\app\server\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\gorel\Documents\Kauel_USA\imKchat\app\server\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\gorel\Documents\Kauel_USA\imKchat\app\server\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\gorel\Documents\Kauel_USA\imKchat\app\server\node_modules\express\lib\router\index.js:275:10)
+    at C:\Users\gorel\Documents\Kauel_USA\imKchat\app\server\node_modules\express\lib\router\index.js:635:15
+2023-06-29 15:39:37 error: [POST] /api/ia/upload_pdf >> StatusCode:: 500, Message:: Request failed with status code 422
+2023-06-29 15:40:14 error: [POST] /api/ia/upload_pdf >> StatusCode:: 500, Message:: Request failed with status code 422
+2023-06-29 15:41:03 error: uncaughtException: Cannot read properties of undefined (reading 'data')
+TypeError: Cannot read properties of undefined (reading 'data')
+    at uploadPdf (C:\Users\gorel\Documents\Kauel_USA\imKchat\app\server\src\controllers\ia.controller.ts:52:51)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-06-29 15:42:30 error: uncaughtException: Cannot read properties of undefined (reading 'data')
+TypeError: Cannot read properties of undefined (reading 'data')
+    at C:\Users\gorel\Documents\Kauel_USA\imKchat\app\server\src\controllers\ia.controller.ts:43:57
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-06-29 16:24:20 error: uncaughtException: Cannot read properties of undefined (reading 'data')
+TypeError: Cannot read properties of undefined (reading 'data')
+    at C:\Users\gorel\Documents\Kauel_USA\imKchat\app\server\src\controllers\ia.controller.ts:37:57
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-06-29 16:25:18 error: uncaughtException: Cannot read properties of undefined (reading 'data')
+TypeError: Cannot read properties of undefined (reading 'data')
+    at C:\Users\gorel\Documents\Kauel_USA\imKchat\app\server\src\controllers\ia.controller.ts:37:57
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+2023-06-29 16:55:39 error: uncaughtException: Cannot read properties of undefined (reading 'data')
+TypeError: Cannot read properties of undefined (reading 'data')
+    at uploadPdf (C:\Users\gorel\Documents\Kauel_USA\imKchat\app\server\src\controllers\ia.controller.ts:49:51)
+    at Layer.handle [as handle_request] (C:\Users\gorel\Documents\Kauel_USA\imKchat\app\server\node_modules\express\lib\router\layer.js:95:5)
+    at next (C:\Users\gorel\Documents\Kauel_USA\imKchat\app\server\node_modules\express\lib\router\route.js:137:13)
+    at Route.dispatch (C:\Users\gorel\Documents\Kauel_USA\imKchat\app\server\node_modules\express\lib\router\route.js:112:3)
+    at Layer.handle [as handle_request] (C:\Users\gorel\Documents\Kauel_USA\imKchat\app\server\node_modules\express\lib\router\layer.js:95:5)
+    at C:\Users\gorel\Documents\Kauel_USA\imKchat\app\server\node_modules\express\lib\router\index.js:281:22
+    at Function.process_params (C:\Users\gorel\Documents\Kauel_USA\imKchat\app\server\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\gorel\Documents\Kauel_USA\imKchat\app\server\node_modules\express\lib\router\index.js:275:10)
+    at Function.handle (C:\Users\gorel\Documents\Kauel_USA\imKchat\app\server\node_modules\express\lib\router\index.js:174:3)
+    at router (C:\Users\gorel\Documents\Kauel_USA\imKchat\app\server\node_modules\express\lib\router\index.js:47:12)
+    at Layer.handle [as handle_request] (C:\Users\gorel\Documents\Kauel_USA\imKchat\app\server\node_modules\express\lib\router\layer.js:95:5)
+    at trim_prefix (C:\Users\gorel\Documents\Kauel_USA\imKchat\app\server\node_modules\express\lib\router\index.js:317:13)
+    at C:\Users\gorel\Documents\Kauel_USA\imKchat\app\server\node_modules\express\lib\router\index.js:284:7
+    at Function.process_params (C:\Users\gorel\Documents\Kauel_USA\imKchat\app\server\node_modules\express\lib\router\index.js:335:12)
+    at next (C:\Users\gorel\Documents\Kauel_USA\imKchat\app\server\node_modules\express\lib\router\index.js:275:10)
+    at C:\Users\gorel\Documents\Kauel_USA\imKchat\app\server\node_modules\express\lib\router\index.js:635:15
+2023-06-29 20:37:35 error: [POST] /api/login >> StatusCode:: 410, Message:: Email gonzalo.orellana@kauel.com  not found
+2023-06-29 22:26:21 error: uncaughtException: Cannot read properties of undefined (reading 'data')
+TypeError: Cannot read properties of undefined (reading 'data')
+    at C:\Users\gorel\Documents\Kauel_USA\imKchat\app\server\src\controllers\ia.controller.ts:36:61
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)

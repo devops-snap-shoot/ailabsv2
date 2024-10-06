@@ -1,0 +1,35 @@
+2022-05-22 12:26:59 info: [0mGET /api/users/getUsers [36m304[0m 584.489 ms - -[0m
+2022-05-22 12:27:04 info: =================================
+2022-05-22 12:27:04 info: ======= ENV: development =======
+2022-05-22 12:27:04 info: 🚀 App listening on the port 5100
+2022-05-22 12:27:04 info: =================================
+2022-05-22 12:27:54 info: [0mGET /api/users/getUsers [32m200[0m 180.839 ms - 454[0m
+2022-05-22 12:28:19 info: [0mPOST /api/auth/login [32m200[0m 165.114 ms - 593[0m
+2022-05-22 12:28:19 info: [0mGET /api/roles/getRoles [32m200[0m 76.128 ms - 581[0m
+2022-05-22 12:28:22 info: [0mGET /api/users/getUsers [36m304[0m 143.704 ms - -[0m
+2022-05-22 12:30:36 info: [0mGET /api/users/getUsers [36m304[0m 150.093 ms - -[0m
+2022-05-22 12:30:58 info: [0mGET /api/users/getUsers [36m304[0m 149.272 ms - -[0m
+2022-05-22 12:34:46 info: [0mGET /api/users/getUsers [36m304[0m 294.569 ms - -[0m
+2022-05-22 12:35:50 info: [0mGET /api/users/getUsers [36m304[0m 167.699 ms - -[0m
+2022-05-22 12:36:21 info: [0mGET /api/users/getUsers [36m304[0m 147.009 ms - -[0m
+2022-05-22 12:36:34 info: [0mGET /api/users/getUsers [36m304[0m 149.268 ms - -[0m
+2022-05-22 12:40:31 info: [0mGET /api/users/getUsers [36m304[0m 157.306 ms - -[0m
+2022-05-22 12:41:00 info: [0mGET /api/users/getUsers [36m304[0m 147.524 ms - -[0m
+2022-05-22 12:41:53 info: [0mGET /api/users/getUsers [36m304[0m 154.413 ms - -[0m
+2022-05-22 12:41:57 info: [0mGET /api/users/getUsers [36m304[0m 156.946 ms - -[0m
+2022-05-22 12:42:07 info: [0mGET /api/users/getUsers [36m304[0m 149.774 ms - -[0m
+2022-05-22 12:42:22 info: [0mGET /api/users/getUsers [36m304[0m 146.247 ms - -[0m
+2022-05-22 12:55:05 info: [0mGET /api/users/getUsers [36m304[0m 146.786 ms - -[0m
+2022-05-22 12:55:58 info: [0mGET /api/users/getUsers [36m304[0m 149.429 ms - -[0m
+2022-05-22 12:56:41 info: [0mGET /api/users/getUsers [36m304[0m 147.578 ms - -[0m
+2022-05-22 12:59:01 info: [0mGET /api/users/getUsers [36m304[0m 147.422 ms - -[0m
+2022-05-22 22:03:24 info: =================================
+2022-05-22 22:03:24 info: ======= ENV: development =======
+2022-05-22 22:03:24 info: 🚀 App listening on the port 5100
+2022-05-22 22:03:24 info: =================================
+2022-05-22 22:11:03 info: [0mPOST /api/auth/login [32m200[0m 181.803 ms - 593[0m
+2022-05-22 22:11:03 info: [0mGET /api/roles/getRoles [32m200[0m 78.755 ms - 581[0m
+2022-05-22 22:11:06 info: [0mGET /api/users/getUsers [32m200[0m 152.900 ms - 454[0m
+2022-05-22 22:11:39 info: [0mGET /api/users/getUsers [36m304[0m 148.000 ms - -[0m
+2022-05-22 22:11:50 info: [0mGET /api/users/getUsers [36m304[0m 152.385 ms - -[0m
+2022-05-22 22:13:12 info: [0mGET /api/users/getUsers [36m304[0m 142.820 ms - -[0m

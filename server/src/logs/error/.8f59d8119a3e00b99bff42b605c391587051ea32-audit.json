@@ -1,0 +1,45 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "/home/kauel/imkchat/server/src/logs/error/.8f59d8119a3e00b99bff42b605c391587051ea32-audit.json",
+    "files": [
+        {
+            "date": 1688398754802,
+            "name": "/home/kauel/imkchat/server/src/logs/error/2023-07-03.log",
+            "hash": "6c9156ac6c7c316077f2831329b2c403"
+        },
+        {
+            "date": 1688472011894,
+            "name": "/home/kauel/imkchat/server/src/logs/error/2023-07-04.log",
+            "hash": "19f863e458d040151855b19243b8637e"
+        },
+        {
+            "date": 1688567597538,
+            "name": "/home/kauel/imkchat/server/src/logs/error/2023-07-05.log",
+            "hash": "1bdaa1500a15e732340f44f93532ef4e"
+        },
+        {
+            "date": 1688642078233,
+            "name": "/home/kauel/imkchat/server/src/logs/error/2023-07-06.log",
+            "hash": "1f21683626ff29ef073340a4abd07216"
+        },
+        {
+<<<<<<< HEAD
+            "date": 1688993816471,
+            "name": "/home/kauel/imkchat/server/src/logs/error/2023-07-10.log",
+            "hash": "80a6393791aeb1a10a6e19adc7a1b61c"
+        },
+        {
+            "date": 1689088928685,
+            "name": "/home/kauel/imkchat/server/src/logs/error/2023-07-11.log",
+            "hash": "fe9c8646e9ca624eaf649771c48303b3"
+=======
+            "date": 1689088861654,
+            "name": "/home/kauel/imkchat/server/src/logs/error/2023-07-11.log",
+            "hash": "5a22709111a0deaaa6964c083eb7db2e"
+>>>>>>> dev
+        }
+    ]
+}

@@ -1,0 +1,9 @@
+2022-03-11 10:19:51 error: uncaughtException: listen EADDRINUSE: address already in use :::5000
+Error: listen EADDRINUSE: address already in use :::5000
+    at Server.setupListenHandle [as _listen2] (net.js:1331:16)
+    at listenInCluster (net.js:1379:12)
+    at Server.listen (net.js:1465:7)
+    at Function.listen (C:\Users\gorel\Documents\KauelWorks\teleton_motion_tracker\server\node_modules\express\lib\application.js:618:24)
+    at App.listen (C:\Users\gorel\Documents\KauelWorks\teleton_motion_tracker\server\src\app.ts:42:18)
+    at startServer (C:\Users\gorel\Documents\KauelWorks\teleton_motion_tracker\server\src\server.ts:17:9)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)

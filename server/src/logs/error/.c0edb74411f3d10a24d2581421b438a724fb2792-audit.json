@@ -1,0 +1,39 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "C:\\Users\\gorel\\Documents\\Tesso\\Sigma\\APP\\server\\src\\logs\\error\\.c0edb74411f3d10a24d2581421b438a724fb2792-audit.json",
+    "files": [
+        {
+            "date": 1653427153126,
+            "name": "C:\\Users\\gorel\\Documents\\Tesso\\Sigma\\APP\\server\\src\\logs\\error\\2022-05-24.log",
+            "hash": "ab79e8a1f598ebe91f66bd65f6f3e51c"
+        },
+        {
+            "date": 1653534946137,
+            "name": "C:\\Users\\gorel\\Documents\\Tesso\\Sigma\\APP\\server\\src\\logs\\error\\2022-05-25.log",
+            "hash": "386fb1bf1ac89f07ea7fa843ba1d1b9f"
+        },
+        {
+            "date": 1653537637209,
+            "name": "C:\\Users\\gorel\\Documents\\Tesso\\Sigma\\APP\\server\\src\\logs\\error\\2022-05-26.log",
+            "hash": "ac3694562c5c0921a8c27e512c907404"
+        },
+        {
+            "date": 1653872124544,
+            "name": "C:\\Users\\gorel\\Documents\\Tesso\\Sigma\\APP\\server\\src\\logs\\error\\2022-05-29.log",
+            "hash": "247c5393c6e9d17006ed56058c572688"
+        },
+        {
+            "date": 1653919348397,
+            "name": "C:\\Users\\gorel\\Documents\\Tesso\\Sigma\\APP\\server\\src\\logs\\error\\2022-05-30.log",
+            "hash": "955e68374bc2388d6825250e57b0ef43"
+        },
+        {
+            "date": 1653992728938,
+            "name": "C:\\Users\\gorel\\Documents\\Tesso\\Sigma\\APP\\server\\src\\logs\\error\\2022-05-31.log",
+            "hash": "cdb1ac59b2c5f30b84f81982460225e4"
+        }
+    ]
+}

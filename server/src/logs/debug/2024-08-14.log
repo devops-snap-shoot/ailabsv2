@@ -1,0 +1,281 @@
+2024-08-14 15:16:07 info: =================================
+2024-08-14 15:16:07 info: ======= ENV: development =======
+2024-08-14 15:16:07 info: 🚀 App listening on the port 5210
+2024-08-14 15:16:07 info: =================================
+2024-08-14 15:16:29 info: [0mGET /api/users/getUsers [32m200[0m 202.979 ms - -[0m
+2024-08-14 15:16:29 info: [0mGET /api/files/getFiles [36m304[0m 443.543 ms - -[0m
+2024-08-14 15:18:38 info: =================================
+2024-08-14 15:18:38 info: ======= ENV: development =======
+2024-08-14 15:18:38 info: 🚀 App listening on the port 5210
+2024-08-14 15:18:38 info: =================================
+2024-08-14 15:19:16 info: =================================
+2024-08-14 15:19:16 info: ======= ENV: development =======
+2024-08-14 15:19:16 info: 🚀 App listening on the port 5210
+2024-08-14 15:19:16 info: =================================
+2024-08-14 15:19:35 info: =================================
+2024-08-14 15:19:35 info: ======= ENV: development =======
+2024-08-14 15:19:35 info: 🚀 App listening on the port 5210
+2024-08-14 15:19:35 info: =================================
+2024-08-14 15:21:18 info: =================================
+2024-08-14 15:21:18 info: ======= ENV: development =======
+2024-08-14 15:21:18 info: 🚀 App listening on the port 5210
+2024-08-14 15:21:18 info: =================================
+2024-08-14 15:21:33 info: =================================
+2024-08-14 15:21:33 info: ======= ENV: development =======
+2024-08-14 15:21:33 info: 🚀 App listening on the port 5210
+2024-08-14 15:21:33 info: =================================
+2024-08-14 15:22:44 info: =================================
+2024-08-14 15:22:44 info: ======= ENV: development =======
+2024-08-14 15:22:44 info: 🚀 App listening on the port 5210
+2024-08-14 15:22:44 info: =================================
+2024-08-14 15:24:18 info: =================================
+2024-08-14 15:24:18 info: ======= ENV: development =======
+2024-08-14 15:24:18 info: 🚀 App listening on the port 5210
+2024-08-14 15:24:18 info: =================================
+2024-08-14 15:24:34 info: [0mOPTIONS /api/login [32m204[0m 0.928 ms - 0[0m
+2024-08-14 15:24:35 error: [POST] /api/login >> StatusCode:: 409, Message:: Wrong password
+2024-08-14 15:24:35 info: [0mPOST /api/login [33m409[0m 520.262 ms - 28[0m
+2024-08-14 15:24:51 info: [0mOPTIONS /api/forgot-password [32m204[0m 0.584 ms - 0[0m
+2024-08-14 15:24:53 info: [0mPOST /api/forgot-password [32m200[0m 2047.329 ms - 523[0m
+2024-08-14 15:25:33 info: [0mGET /api/users/getUsers [32m200[0m 154.595 ms - -[0m
+2024-08-14 15:25:33 info: [0mGET /api/files/getFiles [32m200[0m 425.909 ms - -[0m
+2024-08-14 15:25:41 info: [0mOPTIONS /api/reset-password [32m204[0m 0.227 ms - 0[0m
+2024-08-14 15:25:41 info: [0mPOST /api/reset-password [32m200[0m 134.153 ms - 527[0m
+2024-08-14 15:25:46 info: [0mOPTIONS /api/login [32m204[0m 0.195 ms - 0[0m
+2024-08-14 15:25:47 info: [0mPOST /api/login [32m200[0m 411.184 ms - -[0m
+2024-08-14 15:25:47 info: [0mGET /api/users/getUsers [32m200[0m 144.333 ms - -[0m
+2024-08-14 15:25:47 info: [0mGET /api/files/getFiles [32m200[0m 421.871 ms - -[0m
+2024-08-14 15:28:26 info: =================================
+2024-08-14 15:28:26 info: ======= ENV: development =======
+2024-08-14 15:28:26 info: 🚀 App listening on the port 5210
+2024-08-14 15:28:26 info: =================================
+2024-08-14 15:28:34 info: [0mOPTIONS /api/forgot-password [32m204[0m 2.977 ms - 0[0m
+2024-08-14 15:28:36 info: [0mPOST /api/forgot-password [32m200[0m 1538.925 ms - 523[0m
+2024-08-14 15:29:01 info: [0mGET /api/files/getFiles [32m200[0m 599.435 ms - -[0m
+2024-08-14 15:29:02 info: [0mGET /api/users/getUsers [0m-[0m - ms - -[0m
+2024-08-14 15:29:16 info: [0mGET /api/files/getFiles [36m304[0m 505.426 ms - -[0m
+2024-08-14 15:29:20 info: [0mGET /api/users/getUsers [32m200[0m 4640.758 ms - -[0m
+2024-08-14 15:30:09 info: =================================
+2024-08-14 15:30:09 info: ======= ENV: development =======
+2024-08-14 15:30:09 info: 🚀 App listening on the port 5210
+2024-08-14 15:30:09 info: =================================
+2024-08-14 16:06:43 info: =================================
+2024-08-14 16:06:43 info: ======= ENV: development =======
+2024-08-14 16:06:43 info: 🚀 App listening on the port 5210
+2024-08-14 16:06:43 info: =================================
+2024-08-14 16:07:11 info: [0mGET /api/files/getFiles [36m304[0m 1761.444 ms - -[0m
+2024-08-14 16:07:15 info: [0mGET /api/users/getUsers [36m304[0m 5472.239 ms - -[0m
+2024-08-14 16:24:30 info: =================================
+2024-08-14 16:24:30 info: ======= ENV: development =======
+2024-08-14 16:24:30 info: 🚀 App listening on the port 5210
+2024-08-14 16:24:30 info: =================================
+2024-08-14 16:25:31 info: [0mGET /api/files/getFiles [36m304[0m 519.659 ms - -[0m
+2024-08-14 16:25:34 info: [0mGET /api/users/getUsers [36m304[0m 2737.521 ms - -[0m
+2024-08-14 16:25:40 info: [0mOPTIONS /api/forgot-password [32m204[0m 0.509 ms - 0[0m
+2024-08-14 16:25:43 info: [0mPOST /api/forgot-password [32m200[0m 2236.049 ms - 523[0m
+2024-08-14 16:43:10 info: [0mOPTIONS /api/forgot-password [32m204[0m 0.135 ms - 0[0m
+2024-08-14 16:43:12 info: [0mPOST /api/forgot-password [32m200[0m 1727.259 ms - 619[0m
+2024-08-14 16:43:58 info: [0mGET /api/files/getFiles [32m200[0m 533.053 ms - -[0m
+2024-08-14 16:44:00 info: [0mGET /api/users/getUsers [32m200[0m 3017.464 ms - -[0m
+2024-08-14 16:44:04 info: [0mOPTIONS /api/reset-password [32m204[0m 0.139 ms - 0[0m
+2024-08-14 16:44:04 info: [0mPOST /api/reset-password [32m200[0m 137.507 ms - 697[0m
+2024-08-14 16:44:14 info: [0mOPTIONS /api/login [32m204[0m 0.140 ms - 0[0m
+2024-08-14 16:44:15 info: [0mPOST /api/login [32m200[0m 331.151 ms - -[0m
+2024-08-14 16:45:00 info: [0mGET /api/files/getFiles [36m304[0m 2210.640 ms - -[0m
+2024-08-14 16:45:00 info: [0mGET /api/files/getFiles [32m200[0m 2337.426 ms - -[0m
+2024-08-14 16:45:01 info: [0mGET /api/users/getUsers [32m200[0m 3056.490 ms - -[0m
+2024-08-14 16:45:01 info: [0mGET /api/files/getFiles [0m-[0m - ms - -[0m
+2024-08-14 16:45:01 info: [0mGET /api/users/getUsers [32m200[0m 2194.018 ms - -[0m
+2024-08-14 16:45:01 info: [0mGET /api/files/getFiles [36m304[0m 969.032 ms - -[0m
+2024-08-14 16:45:01 info: [0mGET /api/files/getFiles [36m304[0m 293.381 ms - -[0m
+2024-08-14 16:45:02 info: [0mGET /api/files/getFiles [32m200[0m 497.089 ms - -[0m
+2024-08-14 16:45:03 info: [0mGET /api/users/getUsers [36m304[0m 3106.378 ms - -[0m
+2024-08-14 16:45:04 info: [0mGET /api/users/getUsers [32m200[0m 3152.311 ms - -[0m
+2024-08-14 16:45:06 info: [0mGET /api/users/getUsers [36m304[0m 2871.727 ms - -[0m
+2024-08-14 16:45:12 info: [0mGET /api/files/getFiles [36m304[0m 490.694 ms - -[0m
+2024-08-14 16:45:15 info: [0mGET /api/users/getUsers [36m304[0m 3008.898 ms - -[0m
+2024-08-14 16:45:18 info: [0mOPTIONS /api/login [32m204[0m 0.514 ms - 0[0m
+2024-08-14 16:45:18 info: [0mPOST /api/login [32m200[0m 334.033 ms - -[0m
+2024-08-14 16:45:18 info: [0mOPTIONS /api/files/getFilesByUserId [32m204[0m 0.244 ms - 0[0m
+2024-08-14 16:45:18 info: [0mGET /api/roles/getRolesById/organization/652934c5aaf7a00a88749e47 [32m200[0m 74.234 ms - 826[0m
+2024-08-14 16:45:19 info: [0mPOST /api/files/getFilesByUserId [32m200[0m 407.304 ms - -[0m
+2024-08-14 16:49:33 info: =================================
+2024-08-14 16:49:33 info: ======= ENV: development =======
+2024-08-14 16:49:33 info: 🚀 App listening on the port 5210
+2024-08-14 16:49:33 info: =================================
+2024-08-14 16:49:39 info: [0mOPTIONS /api/login [32m204[0m 0.978 ms - 0[0m
+2024-08-14 16:49:40 info: [0mPOST /api/login [32m200[0m 364.893 ms - -[0m
+2024-08-14 16:49:40 info: [0mOPTIONS /api/files/getFilesByUserId [32m204[0m 0.295 ms - 0[0m
+2024-08-14 16:49:40 info: [0mPOST /api/files/getFilesByUserId [32m200[0m 74.541 ms - 25[0m
+2024-08-14 16:49:40 info: [0mGET /api/roles/getRolesById/organization/652934c5aaf7a00a88749e47 [36m304[0m 77.710 ms - -[0m
+2024-08-14 16:49:40 info: [0mPOST /api/files/getFilesByUserId [32m200[0m 68.654 ms - 25[0m
+2024-08-14 16:49:40 info: [0mGET /api/roles/getRolesById/organization/652934c5aaf7a00a88749e47 [36m304[0m 73.455 ms - -[0m
+2024-08-14 16:52:53 info: =================================
+2024-08-14 16:52:53 info: ======= ENV: development =======
+2024-08-14 16:52:53 info: 🚀 App listening on the port 5210
+2024-08-14 16:52:53 info: =================================
+2024-08-14 16:52:59 info: [0mOPTIONS /api/login [32m204[0m 0.938 ms - 0[0m
+2024-08-14 16:52:59 info: [0mPOST /api/login [32m200[0m 449.062 ms - -[0m
+2024-08-14 16:52:59 info: [0mOPTIONS /api/files/getFilesByUserId [32m204[0m 0.271 ms - 0[0m
+2024-08-14 16:52:59 error: [GET] /api/roles/getRolesById/organization/[object%20Object] >> StatusCode:: 500, Message:: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters
+2024-08-14 16:52:59 info: [0mGET /api/roles/getRolesById/organization/[object%20Object] [31m500[0m 5.667 ms - 101[0m
+2024-08-14 16:52:59 error: [GET] /api/roles/getRolesById/organization/[object%20Object] >> StatusCode:: 500, Message:: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters
+2024-08-14 16:52:59 info: [0mGET /api/roles/getRolesById/organization/[object%20Object] [31m500[0m 7.250 ms - 101[0m
+2024-08-14 16:52:59 info: [0mPOST /api/files/getFilesByUserId [32m200[0m 75.195 ms - 25[0m
+2024-08-14 16:52:59 info: [0mPOST /api/files/getFilesByUserId [32m200[0m 67.401 ms - 25[0m
+2024-08-14 16:59:12 info: [0mOPTIONS /api/files/getFilesByUserId [32m204[0m 0.178 ms - 0[0m
+2024-08-14 16:59:12 info: [0mOPTIONS /api/files/getFilesByUserId [32m204[0m 0.168 ms - 0[0m
+2024-08-14 16:59:12 error: [GET] /api/roles/getRolesById/organization/[object%20Object] >> StatusCode:: 500, Message:: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters
+2024-08-14 16:59:12 info: [0mGET /api/roles/getRolesById/organization/[object%20Object] [31m500[0m 6.920 ms - 101[0m
+2024-08-14 16:59:12 error: [GET] /api/roles/getRolesById/organization/[object%20Object] >> StatusCode:: 500, Message:: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters
+2024-08-14 16:59:12 info: [0mGET /api/roles/getRolesById/organization/[object%20Object] [31m500[0m 8.672 ms - 101[0m
+2024-08-14 16:59:12 info: [0mPOST /api/files/getFilesByUserId [32m200[0m 74.519 ms - 25[0m
+2024-08-14 16:59:12 info: [0mPOST /api/files/getFilesByUserId [32m200[0m 68.289 ms - 25[0m
+2024-08-14 16:59:12 info: [0mPOST /api/files/getFilesByUserId [32m200[0m 73.824 ms - 25[0m
+2024-08-14 16:59:12 info: [0mGET /api/files/getFiles [36m304[0m 498.720 ms - -[0m
+2024-08-14 16:59:13 info: [0mGET /api/files/getFiles [36m304[0m 475.526 ms - -[0m
+2024-08-14 16:59:13 info: [0mGET /api/files/getFiles [36m304[0m 476.248 ms - -[0m
+2024-08-14 16:59:15 info: [0mGET /api/users/getUsers [32m200[0m 3265.513 ms - -[0m
+2024-08-14 16:59:17 info: [0mGET /api/users/getUsers [36m304[0m 2456.428 ms - -[0m
+2024-08-14 16:59:21 info: [0mGET /api/users/getUsers [36m304[0m 3317.385 ms - -[0m
+2024-08-14 16:59:41 info: [0mOPTIONS /api/login [32m204[0m 0.546 ms - 0[0m
+2024-08-14 16:59:42 error: [POST] /api/login >> StatusCode:: 409, Message:: Wrong password
+2024-08-14 16:59:42 info: [0mPOST /api/login [33m409[0m 398.240 ms - 28[0m
+2024-08-14 16:59:48 info: [0mOPTIONS /api/login [32m204[0m 0.209 ms - 0[0m
+2024-08-14 16:59:48 error: [POST] /api/login >> StatusCode:: 409, Message:: Wrong password
+2024-08-14 16:59:48 info: [0mPOST /api/login [33m409[0m 345.949 ms - 28[0m
+2024-08-14 17:00:04 info: [0mOPTIONS /api/login [32m204[0m 0.138 ms - 0[0m
+2024-08-14 17:00:04 info: [0mPOST /api/login [32m200[0m 408.803 ms - -[0m
+2024-08-14 17:00:04 info: [0mOPTIONS /api/files/getFilesByUserId [32m204[0m 0.208 ms - 0[0m
+2024-08-14 17:00:04 error: [GET] /api/roles/getRolesById/organization/[object%20Object] >> StatusCode:: 500, Message:: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters
+2024-08-14 17:00:04 info: [0mGET /api/roles/getRolesById/organization/[object%20Object] [31m500[0m 5.381 ms - 101[0m
+2024-08-14 17:00:05 info: [0mPOST /api/files/getFilesByUserId [32m200[0m 601.560 ms - -[0m
+2024-08-14 17:04:20 info: [0mOPTIONS /api/files/getFilesByUserId [32m204[0m 0.341 ms - 0[0m
+2024-08-14 17:04:20 error: [GET] /api/roles/getRolesById/organization/[object%20Object] >> StatusCode:: 500, Message:: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters
+2024-08-14 17:04:20 info: [0mGET /api/roles/getRolesById/organization/[object%20Object] [31m500[0m 4.037 ms - 101[0m
+2024-08-14 17:04:20 info: [0mOPTIONS /api/files/getFilesByUserId [32m204[0m 0.205 ms - 0[0m
+2024-08-14 17:04:20 info: [0mOPTIONS /api/files/getFilesByUserId [32m204[0m 0.227 ms - 0[0m
+2024-08-14 17:04:20 error: [GET] /api/roles/getRolesById/organization/[object%20Object] >> StatusCode:: 500, Message:: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters
+2024-08-14 17:04:20 info: [0mGET /api/roles/getRolesById/organization/[object%20Object] [31m500[0m 6.307 ms - 101[0m
+2024-08-14 17:04:20 error: [GET] /api/roles/getRolesById/organization/[object%20Object] >> StatusCode:: 500, Message:: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters
+2024-08-14 17:04:20 info: [0mGET /api/roles/getRolesById/organization/[object%20Object] [31m500[0m 10.256 ms - 101[0m
+2024-08-14 17:04:20 info: [0mPOST /api/files/getFilesByUserId [32m200[0m 70.162 ms - 25[0m
+2024-08-14 17:04:20 info: [0mPOST /api/files/getFilesByUserId [32m200[0m 68.941 ms - 25[0m
+2024-08-14 17:04:20 info: [0mPOST /api/files/getFilesByUserId [32m200[0m 70.271 ms - 25[0m
+2024-08-14 17:04:20 info: [0mPOST /api/files/getFilesByUserId [32m200[0m 67.718 ms - 25[0m
+2024-08-14 17:04:20 info: [0mPOST /api/files/getFilesByUserId [32m200[0m 68.502 ms - 25[0m
+2024-08-14 17:04:20 error: [GET] /api/roles/getRolesById/organization/[object%20Object] >> StatusCode:: 500, Message:: Argument passed in must be a single String of 12 bytes or a string of 24 hex characters
+2024-08-14 17:04:20 info: [0mGET /api/roles/getRolesById/organization/[object%20Object] [31m500[0m 14.157 ms - 101[0m
+2024-08-14 17:04:20 info: [0mPOST /api/files/getFilesByUserId [32m200[0m 72.330 ms - 25[0m
+2024-08-14 17:05:05 info: [0mOPTIONS /api/files/getFilesByUserId [32m204[0m 0.199 ms - 0[0m
+2024-08-14 17:05:05 info: [0mOPTIONS /api/files/getFilesByUserId [32m204[0m 0.896 ms - 0[0m
+2024-08-14 17:05:05 info: [0mPOST /api/files/getFilesByUserId [32m200[0m 75.750 ms - 25[0m
+2024-08-14 17:05:05 info: [0mGET /api/roles/getRolesById/organization/652934c5aaf7a00a88749e47 [36m304[0m 82.488 ms - -[0m
+2024-08-14 17:05:05 info: [0mPOST /api/files/getFilesByUserId [32m200[0m 74.471 ms - 25[0m
+2024-08-14 17:05:05 info: [0mPOST /api/files/getFilesByUserId [32m200[0m 72.117 ms - 25[0m
+2024-08-14 17:05:05 info: [0mGET /api/roles/getRolesById/organization/652934c5aaf7a00a88749e47 [36m304[0m 72.316 ms - -[0m
+2024-08-14 17:05:15 info: [0mOPTIONS /api/files/getFilesByUserId [32m204[0m 1.472 ms - 0[0m
+2024-08-14 17:05:16 info: [0mPOST /api/files/getFilesByUserId [32m200[0m 71.561 ms - 25[0m
+2024-08-14 17:05:16 info: [0mGET /api/roles/getRolesById/organization/652934c5aaf7a00a88749e47 [32m200[0m 77.791 ms - 826[0m
+2024-08-14 17:05:16 info: [0mPOST /api/files/getFilesByUserId [32m200[0m 75.622 ms - 25[0m
+2024-08-14 17:05:16 info: [0mPOST /api/files/getFilesByUserId [32m200[0m 65.455 ms - 25[0m
+2024-08-14 17:05:16 info: [0mGET /api/roles/getRolesById/organization/652934c5aaf7a00a88749e47 [36m304[0m 73.074 ms - -[0m
+2024-08-14 17:06:38 info: [0mOPTIONS /api/login [32m204[0m 0.215 ms - 0[0m
+2024-08-14 17:06:39 info: [0mPOST /api/login [32m200[0m 404.100 ms - -[0m
+2024-08-14 17:06:39 info: [0mOPTIONS /api/files/getFilesByUserId [32m204[0m 0.163 ms - 0[0m
+2024-08-14 17:06:39 info: [0mPOST /api/files/getFilesByUserId [32m200[0m 68.608 ms - 25[0m
+2024-08-14 17:06:39 info: [0mGET /api/roles/getRolesById/organization/652934c5aaf7a00a88749e47 [36m304[0m 71.779 ms - -[0m
+2024-08-14 17:06:39 info: [0mPOST /api/files/getFilesByUserId [32m200[0m 65.734 ms - 25[0m
+2024-08-14 17:06:39 info: [0mGET /api/roles/getRolesById/organization/652934c5aaf7a00a88749e47 [36m304[0m 70.507 ms - -[0m
+2024-08-14 17:06:48 info: [0mOPTIONS /api/files/getFilesByUserId [32m204[0m 0.345 ms - 0[0m
+2024-08-14 17:06:48 info: [0mPOST /api/files/getFilesByUserId [32m200[0m 71.807 ms - 25[0m
+2024-08-14 17:06:48 info: [0mGET /api/roles/getRolesById/organization/652934c5aaf7a00a88749e47 [36m304[0m 77.146 ms - -[0m
+2024-08-14 17:06:52 info: [0mOPTIONS /api/login [32m204[0m 0.138 ms - 0[0m
+2024-08-14 17:06:53 info: [0mPOST /api/login [32m200[0m 446.900 ms - -[0m
+2024-08-14 17:06:53 info: [0mPOST /api/files/getFilesByUserId [32m200[0m 68.251 ms - 25[0m
+2024-08-14 17:06:53 info: [0mGET /api/roles/getRolesById/organization/652934c5aaf7a00a88749e47 [36m304[0m 72.434 ms - -[0m
+2024-08-14 17:07:29 info: [0mOPTIONS /api/files/getFilesByUserId [32m204[0m 0.254 ms - 0[0m
+2024-08-14 17:07:29 info: [0mPOST /api/files/getFilesByUserId [32m200[0m 73.133 ms - 25[0m
+2024-08-14 17:07:29 info: [0mGET /api/roles/getRolesById/organization/652934c5aaf7a00a88749e47 [36m304[0m 92.763 ms - -[0m
+2024-08-14 17:07:30 info: [0mOPTIONS /api/files/getFilesByUserId [32m204[0m 0.171 ms - 0[0m
+2024-08-14 17:07:30 info: [0mGET /api/roles/getRolesById/organization/652934c5aaf7a00a88749e47 [36m304[0m 70.977 ms - -[0m
+2024-08-14 17:07:30 info: [0mPOST /api/files/getFilesByUserId [32m200[0m 76.628 ms - 25[0m
+2024-08-14 17:07:39 info: [0mOPTIONS /api/files/getFilesByUserId [32m204[0m 0.247 ms - 0[0m
+2024-08-14 17:07:39 info: [0mPOST /api/files/getFilesByUserId [32m200[0m 70.115 ms - 25[0m
+2024-08-14 17:07:39 info: [0mGET /api/roles/getRolesById/organization/652934c5aaf7a00a88749e47 [36m304[0m 86.467 ms - -[0m
+2024-08-14 17:07:43 info: [0mOPTIONS /api/login [32m204[0m 0.213 ms - 0[0m
+2024-08-14 17:07:43 info: [0mPOST /api/login [32m200[0m 402.466 ms - -[0m
+2024-08-14 17:07:43 info: [0mPOST /api/files/getFilesByUserId [32m200[0m 69.791 ms - 25[0m
+2024-08-14 17:07:43 info: [0mGET /api/roles/getRolesById/organization/652934c5aaf7a00a88749e47 [36m304[0m 75.045 ms - -[0m
+2024-08-14 17:11:10 info: [0mOPTIONS /api/files/getFilesByUserId [32m204[0m 0.353 ms - 0[0m
+2024-08-14 17:11:10 info: [0mOPTIONS /api/files/getFilesByUserId [32m204[0m 0.286 ms - 0[0m
+2024-08-14 17:11:10 info: [0mPOST /api/files/getFilesByUserId [32m200[0m 73.560 ms - 25[0m
+2024-08-14 17:11:10 info: [0mGET /api/roles/getRolesById/organization/652934c5aaf7a00a88749e47 [36m304[0m 74.566 ms - -[0m
+2024-08-14 17:11:10 info: [0mPOST /api/files/getFilesByUserId [32m200[0m 69.143 ms - 25[0m
+2024-08-14 17:11:10 info: [0mGET /api/roles/getRolesById/organization/652934c5aaf7a00a88749e47 [36m304[0m 77.766 ms - -[0m
+2024-08-14 17:11:34 info: [0mOPTIONS /api/files/getFilesByUserId [32m204[0m 0.156 ms - 0[0m
+2024-08-14 17:11:34 info: [0mPOST /api/files/getFilesByUserId [32m200[0m 75.501 ms - 25[0m
+2024-08-14 17:11:34 info: [0mGET /api/roles/getRolesById/organization/652934c5aaf7a00a88749e47 [36m304[0m 74.681 ms - -[0m
+2024-08-14 17:11:37 info: [0mOPTIONS /api/login [32m204[0m 0.123 ms - 0[0m
+2024-08-14 17:11:38 info: [0mPOST /api/login [32m200[0m 400.613 ms - -[0m
+2024-08-14 17:11:38 info: [0mPOST /api/files/getFilesByUserId [32m200[0m 73.844 ms - 25[0m
+2024-08-14 17:11:38 info: [0mGET /api/roles/getRolesById/organization/652934c5aaf7a00a88749e47 [36m304[0m 73.931 ms - -[0m
+2024-08-14 17:11:38 info: [0mPOST /api/files/getFilesByUserId [32m200[0m 73.222 ms - 25[0m
+2024-08-14 17:11:38 info: [0mGET /api/roles/getRolesById/organization/652934c5aaf7a00a88749e47 [36m304[0m 72.635 ms - -[0m
+2024-08-14 17:17:48 info: =================================
+2024-08-14 17:17:48 info: ======= ENV: development =======
+2024-08-14 17:17:48 info: 🚀 App listening on the port 5210
+2024-08-14 17:17:48 info: =================================
+2024-08-14 17:17:48 info: [0mOPTIONS /api/files/getFilesByCompany [32m204[0m 6.549 ms - 0[0m
+2024-08-14 17:17:49 info: [0mPOST /api/files/getFilesByCompany [32m200[0m 1346.186 ms - 25[0m
+2024-08-14 17:17:49 info: [0mGET /api/roles/getRolesById/organization/652934c5aaf7a00a88749e47 [36m304[0m 1579.302 ms - -[0m
+2024-08-14 17:17:53 info: [0mOPTIONS /api/files/getFilesByCompany [32m204[0m 0.677 ms - 0[0m
+2024-08-14 17:17:54 info: [0mPOST /api/files/getFilesByCompany [32m200[0m 71.951 ms - 25[0m
+2024-08-14 17:17:54 info: [0mGET /api/roles/getRolesById/organization/652934c5aaf7a00a88749e47 [36m304[0m 87.195 ms - -[0m
+2024-08-14 17:17:55 info: [0mOPTIONS /api/login [32m204[0m 0.358 ms - 0[0m
+2024-08-14 17:17:56 info: [0mPOST /api/login [32m200[0m 421.029 ms - -[0m
+2024-08-14 17:17:56 info: [0mPOST /api/files/getFilesByCompany [32m200[0m 70.209 ms - 25[0m
+2024-08-14 17:17:56 info: [0mGET /api/roles/getRolesById/organization/652934c5aaf7a00a88749e47 [36m304[0m 71.975 ms - -[0m
+2024-08-14 17:20:00 info: [0mGET /api/roles/getRolesById/organization/652934c5aaf7a00a88749e47 [36m304[0m 81.461 ms - -[0m
+2024-08-14 17:20:00 info: [0mGET /api/roles/getRolesById/organization/652934c5aaf7a00a88749e47 [36m304[0m 82.196 ms - -[0m
+2024-08-14 17:20:01 info: [0mGET /api/roles/getRolesById/organization/652934c5aaf7a00a88749e47 [36m304[0m 74.627 ms - -[0m
+2024-08-14 17:20:01 info: [0mGET /api/roles/getRolesById/organization/652934c5aaf7a00a88749e47 [36m304[0m 83.339 ms - -[0m
+2024-08-14 17:20:07 info: [0mOPTIONS /api/login [32m204[0m 0.183 ms - 0[0m
+2024-08-14 17:20:07 info: [0mPOST /api/login [32m200[0m 412.391 ms - -[0m
+2024-08-14 17:20:07 info: [0mOPTIONS /api/files/getFilesByCompany [32m204[0m 0.189 ms - 0[0m
+2024-08-14 17:20:07 info: [0mPOST /api/files/getFilesByCompany [32m200[0m 65.658 ms - 25[0m
+2024-08-14 17:20:07 info: [0mGET /api/roles/getRolesById/organization/652934c5aaf7a00a88749e47 [36m304[0m 70.318 ms - -[0m
+2024-08-14 17:20:07 info: [0mPOST /api/files/getFilesByCompany [32m200[0m 65.130 ms - 25[0m
+2024-08-14 17:20:07 info: [0mGET /api/roles/getRolesById/organization/652934c5aaf7a00a88749e47 [36m304[0m 73.779 ms - -[0m
+2024-08-14 17:20:33 info: [0mOPTIONS /api/files/getFilesByCompany [32m204[0m 0.441 ms - 0[0m
+2024-08-14 17:20:33 info: [0mPOST /api/files/getFilesByCompany [32m200[0m 69.055 ms - 25[0m
+2024-08-14 17:20:33 info: [0mPOST /api/files/getFilesByCompany [32m200[0m 70.467 ms - 25[0m
+2024-08-14 17:20:39 info: [0mOPTIONS /api/login [32m204[0m 0.290 ms - 0[0m
+2024-08-14 17:20:40 info: [0mPOST /api/login [32m200[0m 407.148 ms - -[0m
+2024-08-14 17:20:40 info: [0mOPTIONS /api/files/getFilesByCompany [32m204[0m 0.207 ms - 0[0m
+2024-08-14 17:20:40 info: [0mPOST /api/files/getFilesByCompany [32m200[0m 67.852 ms - 25[0m
+2024-08-14 17:20:40 info: [0mGET /api/roles/getRolesById/organization/652934c5aaf7a00a88749e47 [36m304[0m 71.450 ms - -[0m
+2024-08-14 17:20:40 info: [0mPOST /api/files/getFilesByCompany [32m200[0m 66.937 ms - 25[0m
+2024-08-14 17:20:40 info: [0mGET /api/roles/getRolesById/organization/652934c5aaf7a00a88749e47 [36m304[0m 70.023 ms - -[0m
+2024-08-14 17:21:21 info: =================================
+2024-08-14 17:21:21 info: ======= ENV: development =======
+2024-08-14 17:21:21 info: 🚀 App listening on the port 5210
+2024-08-14 17:21:21 info: =================================
+2024-08-14 17:21:23 info: [0mOPTIONS /api/login [32m204[0m 1.002 ms - 0[0m
+2024-08-14 17:21:24 info: [0mPOST /api/login [32m200[0m 444.371 ms - -[0m
+2024-08-14 17:21:24 info: [0mOPTIONS /api/files/getFilesByCompany [32m204[0m 0.218 ms - 0[0m
+2024-08-14 17:21:24 info: [0mGET /api/roles/getRolesById/organization/652934c5aaf7a00a88749e47 [36m304[0m 80.591 ms - -[0m
+2024-08-14 17:21:24 info: [0mPOST /api/files/getFilesByCompany [32m200[0m 77.289 ms - 25[0m
+2024-08-14 17:21:24 info: [0mPOST /api/files/getFilesByCompany [32m200[0m 76.009 ms - 25[0m
+2024-08-14 17:21:24 info: [0mGET /api/roles/getRolesById/organization/652934c5aaf7a00a88749e47 [36m304[0m 86.960 ms - -[0m
+2024-08-14 17:21:53 info: [0mOPTIONS /api/login [32m204[0m 0.163 ms - 0[0m
+2024-08-14 17:21:53 info: [0mPOST /api/login [32m200[0m 418.292 ms - -[0m
+2024-08-14 17:21:53 info: [0mOPTIONS /api/files/getFilesByCompany [32m204[0m 0.190 ms - 0[0m
+2024-08-14 17:21:53 info: [0mGET /api/roles/getRolesById/organization/652934c5aaf7a00a88749e47 [36m304[0m 72.116 ms - -[0m
+2024-08-14 17:21:53 info: [0mGET /api/roles/getRolesById/organization/652934c5aaf7a00a88749e47 [36m304[0m 84.831 ms - -[0m
+2024-08-14 17:21:53 info: [0mPOST /api/files/getFilesByCompany [32m200[0m 420.618 ms - -[0m
+2024-08-14 17:21:54 info: [0mPOST /api/files/getFilesByCompany [32m200[0m 438.073 ms - -[0m
+2024-08-14 17:22:39 info: [0mOPTIONS /api/files/getFilesByCompany [32m204[0m 0.216 ms - 0[0m
+2024-08-14 17:22:39 info: [0mOPTIONS /api/files/getFilesByCompany [32m204[0m 0.472 ms - 0[0m
+2024-08-14 17:22:40 info: [0mPOST /api/files/getFilesByCompany [32m200[0m 513.701 ms - -[0m
+2024-08-14 17:22:40 info: [0mPOST /api/files/getFilesByCompany [32m200[0m 515.381 ms - -[0m

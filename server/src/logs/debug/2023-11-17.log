@@ -1,0 +1,24 @@
+2023-11-17 13:29:44 info: =================================
+2023-11-17 13:29:44 info: ======= ENV: development =======
+2023-11-17 13:29:44 info: 🚀 App listening on the port 5211
+2023-11-17 13:29:44 info: =================================
+2023-11-17 13:51:23 error: [POST] /api/login >> StatusCode:: 500, Message:: Cannot read properties of null (reading '_id')
+2023-11-17 13:51:23 info: [0mPOST /api/login [31m500[0m 625.087 ms - 60[0m
+2023-11-17 13:53:03 error: [POST] /api/login >> StatusCode:: 500, Message:: Cannot read properties of null (reading '_id')
+2023-11-17 13:53:03 info: [0mPOST /api/login [31m500[0m 83.542 ms - 60[0m
+2023-11-17 13:53:48 info: =================================
+2023-11-17 13:53:48 info: ======= ENV: development =======
+2023-11-17 13:53:48 info: 🚀 App listening on the port 5211
+2023-11-17 13:53:48 info: =================================
+2023-11-17 13:53:58 error: [POST] /api/login >> StatusCode:: 500, Message:: Cannot read properties of null (reading '_id')
+2023-11-17 13:53:58 info: [0mPOST /api/login [31m500[0m 125.391 ms - 60[0m
+2023-11-17 13:56:07 info: [0mPOST /api/login [32m200[0m 367.655 ms - -[0m
+2023-11-17 13:56:07 info: [0mPOST /api/files/getFilesByUserId [32m200[0m 81.468 ms - -[0m
+2023-11-17 14:13:35 error: [POST] /api/login >> StatusCode:: 500, Message:: Cannot read properties of null (reading '_id')
+2023-11-17 14:13:35 info: [0mPOST /api/login [31m500[0m 79.331 ms - 60[0m
+2023-11-17 14:14:05 info: [0mPOST /api/login [32m200[0m 298.773 ms - -[0m
+2023-11-17 14:14:05 info: [0mPOST /api/files/getFilesByUserId [32m200[0m 70.818 ms - -[0m
+2023-11-17 14:15:00 info: [0mPOST /api/files/getFilesByUserId [32m200[0m 87.417 ms - -[0m
+2023-11-17 14:15:00 info: [0mPOST /api/files/getFilesByUserId [32m200[0m 80.176 ms - -[0m
+2023-11-17 14:15:33 info: [0mPOST /api/login [32m200[0m 283.501 ms - -[0m
+2023-11-17 14:15:34 info: [0mPOST /api/files/getFilesByUserId [32m200[0m 77.580 ms - -[0m

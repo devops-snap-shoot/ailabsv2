@@ -1,0 +1,84 @@
+2022-10-19 08:15:45 error: [GET] /users/getUsers >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Tesso\DemocraciaOnline\democracia_online\client\build\index.html'
+2022-10-19 08:15:45 info: [0mGET /users/getUsers [33m404[0m 53.894 ms - 154[0m
+2022-10-19 08:15:50 info: =================================
+2022-10-19 08:15:50 info: ======= ENV: development =======
+2022-10-19 08:15:50 info: 🚀 App listening on the port 5110
+2022-10-19 08:15:50 info: =================================
+2022-10-19 08:15:54 error: [GET] /users/getUsers >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Tesso\DemocraciaOnline\democracia_online\client\build\index.html'
+2022-10-19 08:15:54 info: [0mGET /users/getUsers [33m404[0m 8.224 ms - 154[0m
+2022-10-19 08:16:54 error: [GET] /users/getUsers >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Tesso\DemocraciaOnline\democracia_online\client\build\index.html'
+2022-10-19 08:16:54 info: [0mGET /users/getUsers [33m404[0m 3.825 ms - 154[0m
+2022-10-19 08:16:55 error: [GET] /users/getUsers >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Tesso\DemocraciaOnline\democracia_online\client\build\index.html'
+2022-10-19 08:16:55 info: [0mGET /users/getUsers [33m404[0m 3.073 ms - 154[0m
+2022-10-19 08:16:59 error: [GET] /users/getUsers >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Tesso\DemocraciaOnline\democracia_online\client\build\index.html'
+2022-10-19 08:16:59 info: [0mGET /users/getUsers [33m404[0m 2.468 ms - 154[0m
+2022-10-19 08:48:23 error: [GET] /users/getUsers >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Tesso\DemocraciaOnline\democracia_online\client\build\index.html'
+2022-10-19 08:48:23 info: [0mGET /users/getUsers [33m404[0m 2.154 ms - 154[0m
+2022-10-19 08:53:38 error: [GET] /users/getUsers >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Tesso\DemocraciaOnline\democracia_online\client\build\index.html'
+2022-10-19 08:53:38 info: [0mGET /users/getUsers [33m404[0m 2.978 ms - 154[0m
+2022-10-19 08:53:40 error: [GET] /users/getUsers >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Tesso\DemocraciaOnline\democracia_online\client\build\index.html'
+2022-10-19 08:53:40 info: [0mGET /users/getUsers [33m404[0m 2.378 ms - 154[0m
+2022-10-19 08:53:52 error: [GET] /users/getUsers >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Tesso\DemocraciaOnline\democracia_online\client\build\index.html'
+2022-10-19 08:53:52 info: [0mGET /users/getUsers [33m404[0m 2.858 ms - 154[0m
+2022-10-19 08:57:58 error: [GET] /users/getUsers >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Tesso\DemocraciaOnline\democracia_online\client\build\index.html'
+2022-10-19 08:57:58 info: [0mGET /users/getUsers [33m404[0m 2.067 ms - 154[0m
+2022-10-19 09:02:39 error: [GET] /users/getUsers >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Tesso\DemocraciaOnline\democracia_online\client\build\index.html'
+2022-10-19 09:02:39 info: [0mGET /users/getUsers [33m404[0m 1.884 ms - 154[0m
+2022-10-19 09:04:44 info: [0mGET /api/users/getUsers [32m200[0m 155.922 ms - 406[0m
+2022-10-19 09:05:34 info: [0mGET /api/users/getUsers [36m304[0m 163.664 ms - -[0m
+2022-10-19 09:06:13 info: [0mGET /api/users/getUsers [36m304[0m 155.138 ms - -[0m
+2022-10-19 09:06:13 info: [0mGET /api/users/getUsers [36m304[0m 148.956 ms - -[0m
+2022-10-19 09:24:28 info: [0mGET /api/users/getUsers [36m304[0m 151.191 ms - -[0m
+2022-10-19 09:31:08 info: =================================
+2022-10-19 09:31:08 info: ======= ENV: development =======
+2022-10-19 09:31:08 info: 🚀 App listening on the port 5110
+2022-10-19 09:31:08 info: =================================
+2022-10-19 09:31:34 info: =================================
+2022-10-19 09:31:34 info: ======= ENV: development =======
+2022-10-19 09:31:34 info: 🚀 App listening on the port 5110
+2022-10-19 09:31:34 info: =================================
+2022-10-19 09:47:33 info: =================================
+2022-10-19 09:47:33 info: ======= ENV: development =======
+2022-10-19 09:47:33 info: 🚀 App listening on the port 5110
+2022-10-19 09:47:33 info: =================================
+2022-10-19 09:54:10 info: =================================
+2022-10-19 09:54:10 info: ======= ENV: development =======
+2022-10-19 09:54:10 info: 🚀 App listening on the port 5110
+2022-10-19 09:54:10 info: =================================
+2022-10-19 10:08:44 info: [0mGET /api/users/getUsers [32m200[0m 161.705 ms - 417[0m
+2022-10-19 10:48:47 info: [0mGET /api/users/getUsers [36m304[0m 152.109 ms - -[0m
+2022-10-19 10:50:06 info: [0mGET /api/users/getUsers [36m304[0m 147.013 ms - -[0m
+2022-10-19 13:05:16 error: [GET] /api/users/getUsers >> StatusCode:: 401, Message:: Wrong authentication token
+2022-10-19 13:05:16 info: [0mGET /api/users/getUsers [33m401[0m 130.721 ms - 40[0m
+2022-10-19 13:05:24 error: [GET] /api/users/getUsers >> StatusCode:: 401, Message:: Wrong authentication token
+2022-10-19 13:05:24 info: [0mGET /api/users/getUsers [33m401[0m 85.201 ms - 40[0m
+2022-10-19 13:05:24 error: [GET] /api/users/getUsers >> StatusCode:: 401, Message:: Wrong authentication token
+2022-10-19 13:05:24 info: [0mGET /api/users/getUsers [33m401[0m 82.298 ms - 40[0m
+2022-10-19 15:17:58 error: [GET] /api/users/getUsers >> StatusCode:: 401, Message:: Wrong authentication token
+2022-10-19 15:17:58 info: [0mGET /api/users/getUsers [33m401[0m 131.898 ms - 40[0m
+2022-10-19 15:17:58 error: [GET] /api/users/getUsers >> StatusCode:: 401, Message:: Wrong authentication token
+2022-10-19 15:17:58 info: [0mGET /api/users/getUsers [33m401[0m 88.183 ms - 40[0m
+2022-10-19 15:51:04 error: [GET] /api/users/getUsers >> StatusCode:: 401, Message:: Wrong authentication token
+2022-10-19 15:51:04 info: [0mGET /api/users/getUsers [33m401[0m 101.543 ms - 40[0m
+2022-10-19 15:51:04 error: [GET] /api/users/getUsers >> StatusCode:: 401, Message:: Wrong authentication token
+2022-10-19 15:51:04 info: [0mGET /api/users/getUsers [33m401[0m 83.592 ms - 40[0m
+2022-10-19 20:32:50 error: [GET] /api/users/getUsers >> StatusCode:: 401, Message:: Wrong authentication token
+2022-10-19 20:32:50 info: [0mGET /api/users/getUsers [33m401[0m 20.839 ms - 40[0m
+2022-10-19 20:32:52 error: [GET] /api/users/getUsers >> StatusCode:: 401, Message:: Wrong authentication token
+2022-10-19 20:32:52 info: [0mGET /api/users/getUsers [33m401[0m 2.051 ms - 40[0m
+2022-10-19 20:32:52 error: [GET] /api/users/getUsers >> StatusCode:: 401, Message:: Wrong authentication token
+2022-10-19 20:32:52 info: [0mGET /api/users/getUsers [33m401[0m 1.749 ms - 40[0m
+2022-10-19 20:35:55 info: =================================
+2022-10-19 20:35:55 info: ======= ENV: development =======
+2022-10-19 20:35:55 info: 🚀 App listening on the port 5110
+2022-10-19 20:35:55 info: =================================
+2022-10-19 22:27:34 error: [GET] /api/users/getUsers >> StatusCode:: 401, Message:: Wrong authentication token
+2022-10-19 22:27:34 info: [0mGET /api/users/getUsers [33m401[0m 17.792 ms - 40[0m
+2022-10-19 22:27:34 error: [GET] /api/users/getUsers >> StatusCode:: 401, Message:: Wrong authentication token
+2022-10-19 22:27:34 info: [0mGET /api/users/getUsers [33m401[0m 3.071 ms - 40[0m
+2022-10-19 22:27:36 error: [GET] /api/users/getUsers >> StatusCode:: 401, Message:: Wrong authentication token
+2022-10-19 22:27:36 info: [0mGET /api/users/getUsers [33m401[0m 1.639 ms - 40[0m
+2022-10-19 23:52:45 info: =================================
+2022-10-19 23:52:45 info: ======= ENV: development =======
+2022-10-19 23:52:45 info: 🚀 App listening on the port 5110
+2022-10-19 23:52:45 info: =================================

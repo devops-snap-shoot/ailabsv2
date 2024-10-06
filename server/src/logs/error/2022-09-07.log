@@ -1,0 +1,15 @@
+2022-09-07 10:32:26 error: [GET] /api/clients/getClients >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Tesso\Ecos_Integridad\ecos_integridad\client\build\index.html'
+2022-09-07 10:32:38 error: [POST] /api/clients/createClient >> StatusCode:: 500, Message:: Cliente validation failed: empresa: Cast to string failed for value "{
+  nombre: 'sdvsdvs',
+  run: 'sdcvsdc',
+  telefono: 'sdcsdc',
+  correo: 'sdcsdc',
+  location: { lat: 'sdcsdc', lng: 'sdcsdc' }
+}" (type Object) at path "empresa"
+2022-09-07 10:37:42 error: [GET] /api/clients/getClients >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Tesso\Ecos_Integridad\ecos_integridad\client\build\index.html'
+2022-09-07 11:20:18 error: [GET] /api/clients/getClients >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Tesso\Ecos_Integridad\ecos_integridad\client\build\index.html'
+2022-09-07 11:21:07 error: [GET] /api/clients/getClients >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Tesso\Ecos_Integridad\ecos_integridad\client\build\index.html'
+2022-09-07 11:22:08 error: [GET] /assets/images/logo/no-logo.png >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Tesso\Ecos_Integridad\ecos_integridad\client\build\index.html'
+2022-09-07 11:23:41 error: [POST] /api/users/getUserById >> StatusCode:: 404, Message:: Ususario no encontrado
+2022-09-07 11:23:42 error: [GET] /assets/images/logo/no-logo.png >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Tesso\Ecos_Integridad\ecos_integridad\client\build\index.html'
+2022-09-07 22:07:07 error: [POST] /api/users/getUserById >> StatusCode:: 404, Message:: Ususario no encontrado

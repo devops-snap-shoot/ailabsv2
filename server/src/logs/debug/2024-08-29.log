@@ -1,0 +1,173 @@
+2024-08-29 06:44:26 info: =================================
+2024-08-29 06:44:26 info: ======= ENV: development =======
+2024-08-29 06:44:26 info: 🚀 App listening on the port 5210
+2024-08-29 06:44:26 info: =================================
+2024-08-29 06:44:55 info: [0mGET /api/roles/getRolesById/organization/652934c5aaf7a00a88749e47 [32m200[0m 124.977 ms - 826[0m
+2024-08-29 06:48:02 info: [0mOPTIONS /api/login [32m204[0m 0.883 ms - 0[0m
+2024-08-29 06:48:03 info: [0mPOST /api/login [32m200[0m 901.571 ms - -[0m
+2024-08-29 06:48:08 info: [0mOPTIONS /api/login [32m204[0m 0.724 ms - 0[0m
+2024-08-29 06:48:08 info: [0mPOST /api/login [32m200[0m 532.538 ms - -[0m
+2024-08-29 06:49:29 info: [0mOPTIONS /api/login [32m204[0m 1.192 ms - 0[0m
+2024-08-29 06:49:29 info: [0mPOST /api/login [32m200[0m 527.513 ms - -[0m
+2024-08-29 06:49:29 info: [0mOPTIONS /api/files/getFilesByCompany [32m204[0m 0.479 ms - 0[0m
+2024-08-29 06:49:30 info: [0mPOST /api/files/getFilesByCompany [33m400[0m 6.840 ms - 258[0m
+2024-08-29 06:49:30 info: [0mPOST /api/files/getFilesByCompany [33m400[0m 4.534 ms - 258[0m
+2024-08-29 06:49:41 info: [0mGET /api/users/getUsers [32m200[0m 11411.994 ms - -[0m
+2024-08-29 06:49:51 info: [0mGET /api/users/getUsers [36m304[0m 9495.659 ms - -[0m
+2024-08-29 07:00:54 info: [0mOPTIONS /api/files/getFilesByCompany [32m204[0m 1.329 ms - 0[0m
+2024-08-29 07:00:54 info: [0mPOST /api/files/getFilesByCompany [33m400[0m 11.097 ms - 258[0m
+2024-08-29 07:00:54 info: [0mOPTIONS /api/files/getFilesByCompany [32m204[0m 0.434 ms - 0[0m
+2024-08-29 07:00:54 info: [0mPOST /api/files/getFilesByCompany [33m400[0m 3.348 ms - 258[0m
+2024-08-29 07:00:54 info: [0mPOST /api/files/getFilesByCompany [33m400[0m 2.585 ms - 258[0m
+2024-08-29 07:01:03 info: [0mGET /api/users/getUsers [36m304[0m 9026.448 ms - -[0m
+2024-08-29 07:01:20 info: [0mGET /api/users/getUsers [36m304[0m 17213.405 ms - -[0m
+2024-08-29 07:01:35 info: [0mGET /api/users/getUsers [32m200[0m 19933.429 ms - -[0m
+2024-08-29 07:06:44 info: =================================
+2024-08-29 07:06:44 info: ======= ENV: development =======
+2024-08-29 07:06:44 info: 🚀 App listening on the port 5210
+2024-08-29 07:06:44 info: =================================
+2024-08-29 07:06:56 info: [0mOPTIONS /api/forgot-password [32m204[0m 1.890 ms - 0[0m
+2024-08-29 07:06:59 info: [0mPOST /api/forgot-password [32m200[0m 2980.243 ms - 523[0m
+2024-08-29 07:07:01 info: [0mPOST /api/forgot-password [32m200[0m 2929.776 ms - 523[0m
+2024-08-29 07:09:21 info: =================================
+2024-08-29 07:09:21 info: ======= ENV: development =======
+2024-08-29 07:09:21 info: 🚀 App listening on the port 5210
+2024-08-29 07:09:21 info: =================================
+2024-08-29 07:09:39 info: =================================
+2024-08-29 07:09:39 info: ======= ENV: development =======
+2024-08-29 07:09:39 info: 🚀 App listening on the port 5210
+2024-08-29 07:09:39 info: =================================
+2024-08-29 07:10:11 info: =================================
+2024-08-29 07:10:11 info: ======= ENV: development =======
+2024-08-29 07:10:11 info: 🚀 App listening on the port 5210
+2024-08-29 07:10:11 info: =================================
+2024-08-29 07:10:17 info: [0mOPTIONS /api/forgot-password [32m204[0m 1.885 ms - 0[0m
+2024-08-29 07:10:17 error: [POST] /api/forgot-password >> StatusCode:: 500, Message:: queryA EBADNAME mail.@ai-labhelper.com
+2024-08-29 07:10:17 info: [0mPOST /api/forgot-password [31m500[0m 242.512 ms - 52[0m
+2024-08-29 07:10:56 info: =================================
+2024-08-29 07:10:56 info: ======= ENV: development =======
+2024-08-29 07:10:56 info: 🚀 App listening on the port 5210
+2024-08-29 07:10:56 info: =================================
+2024-08-29 07:10:57 info: [0mOPTIONS /api/forgot-password [32m204[0m 1.820 ms - 0[0m
+2024-08-29 07:10:59 info: [0mPOST /api/forgot-password [32m200[0m 1994.498 ms - 523[0m
+2024-08-29 07:13:14 info: =================================
+2024-08-29 07:13:14 info: ======= ENV: development =======
+2024-08-29 07:13:14 info: 🚀 App listening on the port 5210
+2024-08-29 07:13:14 info: =================================
+2024-08-29 07:14:55 info: =================================
+2024-08-29 07:14:55 info: ======= ENV: development =======
+2024-08-29 07:14:55 info: 🚀 App listening on the port 5210
+2024-08-29 07:14:55 info: =================================
+2024-08-29 09:27:44 info: =================================
+2024-08-29 09:27:44 info: ======= ENV: development =======
+2024-08-29 09:27:44 info: 🚀 App listening on the port 5210
+2024-08-29 09:27:44 info: =================================
+2024-08-29 09:29:29 info: =================================
+2024-08-29 09:29:29 info: ======= ENV: development =======
+2024-08-29 09:29:29 info: 🚀 App listening on the port 5210
+2024-08-29 09:29:29 info: =================================
+2024-08-29 09:30:34 info: =================================
+2024-08-29 09:30:34 info: ======= ENV: development =======
+2024-08-29 09:30:34 info: 🚀 App listening on the port 5210
+2024-08-29 09:30:34 info: =================================
+2024-08-29 09:30:36 info: [0mOPTIONS /api/files/getFilesByCompany [32m204[0m 2.583 ms - 0[0m
+2024-08-29 09:30:37 info: [0mPOST /api/files/getFilesByCompany [33m400[0m 346.206 ms - 258[0m
+2024-08-29 09:30:38 info: [0mGET /api/users/getUsers [0m-[0m - ms - -[0m
+2024-08-29 09:30:47 error: [GET] /api/users/getUsers >> StatusCode:: 500, Message:: Operation `users.find()` buffering timed out after 10000ms
+2024-08-29 09:39:06 info: =================================
+2024-08-29 09:39:06 info: ======= ENV: development =======
+2024-08-29 09:39:06 info: 🚀 App listening on the port 5210
+2024-08-29 09:39:06 info: =================================
+2024-08-29 09:39:16 info: [0mOPTIONS /api/files/getFilesByCompany [32m204[0m 3.685 ms - 0[0m
+2024-08-29 09:39:16 info: [0mPOST /api/files/getFilesByCompany [33m400[0m 437.325 ms - 258[0m
+2024-08-29 09:41:55 info: =================================
+2024-08-29 09:41:55 info: ======= ENV: development =======
+2024-08-29 09:41:55 info: 🚀 App listening on the port 5210
+2024-08-29 09:41:55 info: =================================
+2024-08-29 09:55:26 info: =================================
+2024-08-29 09:55:27 info: ======= ENV: development =======
+2024-08-29 09:55:27 info: 🚀 App listening on the port 5210
+2024-08-29 09:55:27 info: =================================
+2024-08-29 13:08:54 info: =================================
+2024-08-29 13:08:54 info: ======= ENV: development =======
+2024-08-29 13:08:54 info: 🚀 App listening on the port 5210
+2024-08-29 13:08:54 info: =================================
+2024-08-29 13:08:55 info: [0mOPTIONS /api/files/getFilesByCompany [32m204[0m 1.501 ms - 0[0m
+2024-08-29 13:08:55 info: [0mPOST /api/files/getFilesByCompany [33m400[0m 260.792 ms - 258[0m
+2024-08-29 13:09:05 error: [GET] /api/users/getUsers >> StatusCode:: 500, Message:: Operation `users.find()` buffering timed out after 10000ms
+2024-08-29 13:09:05 info: [0mGET /api/users/getUsers [31m500[0m 10022.376 ms - 72[0m
+2024-08-29 13:09:27 info: =================================
+2024-08-29 13:09:27 info: ======= ENV: development =======
+2024-08-29 13:09:27 info: 🚀 App listening on the port 5210
+2024-08-29 13:09:27 info: =================================
+2024-08-29 13:12:22 info: [0mOPTIONS /api/login [32m204[0m 1.176 ms - 0[0m
+2024-08-29 13:12:22 info: [0mPOST /api/login [32m200[0m 348.528 ms - -[0m
+2024-08-29 13:12:22 info: [0mOPTIONS /api/files/getFilesByCompany [32m204[0m 0.157 ms - 0[0m
+2024-08-29 13:12:22 info: [0mPOST /api/files/getFilesByCompany [33m400[0m 3.347 ms - 258[0m
+2024-08-29 13:12:22 info: [0mPOST /api/files/getFilesByCompany [33m400[0m 2.618 ms - 258[0m
+2024-08-29 13:12:30 info: [0mGET /api/users/getUsers [32m200[0m 7910.379 ms - -[0m
+2024-08-29 13:12:38 info: [0mGET /api/users/getUsers [36m304[0m 7642.296 ms - -[0m
+2024-08-29 13:13:17 info: [0mOPTIONS /api/files/getFilesByCompany [32m204[0m 0.503 ms - 0[0m
+2024-08-29 13:13:17 info: [0mPOST /api/files/getFilesByCompany [33m400[0m 6.028 ms - 258[0m
+2024-08-29 13:13:17 info: [0mOPTIONS /api/files/getFilesByCompany [32m204[0m 0.176 ms - 0[0m
+2024-08-29 13:13:17 info: [0mPOST /api/files/getFilesByCompany [33m400[0m 1.896 ms - 258[0m
+2024-08-29 13:13:17 info: [0mPOST /api/files/getFilesByCompany [33m400[0m 1.575 ms - 258[0m
+2024-08-29 13:13:25 info: [0mGET /api/users/getUsers [36m304[0m 8726.092 ms - -[0m
+2024-08-29 13:13:34 info: [0mGET /api/users/getUsers [36m304[0m 8826.377 ms - -[0m
+2024-08-29 13:13:42 info: [0mGET /api/users/getUsers [36m304[0m 7296.514 ms - -[0m
+2024-08-29 13:15:03 info: =================================
+2024-08-29 13:15:03 info: ======= ENV: development =======
+2024-08-29 13:15:03 info: 🚀 App listening on the port 5210
+2024-08-29 13:15:03 info: =================================
+2024-08-29 13:19:13 info: =================================
+2024-08-29 13:19:13 info: ======= ENV: development =======
+2024-08-29 13:19:13 info: 🚀 App listening on the port 5210
+2024-08-29 13:19:13 info: =================================
+2024-08-29 13:19:25 info: =================================
+2024-08-29 13:19:25 info: ======= ENV: development =======
+2024-08-29 13:19:25 info: 🚀 App listening on the port 5210
+2024-08-29 13:19:25 info: =================================
+2024-08-29 13:23:28 info: [0mOPTIONS /api/files/getFilesByCompany [32m204[0m 1.029 ms - 0[0m
+2024-08-29 13:23:28 info: [0mPOST /api/files/getFilesByCompany [33m400[0m 40.171 ms - 258[0m
+2024-08-29 13:23:34 info: [0mGET /api/users/getUsers [36m304[0m 5289.333 ms - -[0m
+2024-08-29 13:25:08 info: [0mGET /api/files/getFiles [32m200[0m 487.553 ms - -[0m
+2024-08-29 13:25:08 info: [0mGET /api/files/getFiles [36m304[0m 438.968 ms - -[0m
+2024-08-29 13:25:12 info: [0mGET /api/files/getFiles [36m304[0m 444.194 ms - -[0m
+2024-08-29 13:25:12 info: [0mGET /api/files/getFiles [36m304[0m 460.211 ms - -[0m
+2024-08-29 13:26:30 info: [0mGET /api/files/getFiles [36m304[0m 449.167 ms - -[0m
+2024-08-29 13:26:31 info: [0mGET /api/files/getFiles [36m304[0m 455.070 ms - -[0m
+2024-08-29 13:26:56 info: [0mOPTIONS /api/ia/chat [32m204[0m 0.254 ms - 0[0m
+2024-08-29 13:26:56 info: [0mPOST /api/ia/chat [33m400[0m 124.121 ms - -[0m
+2024-08-29 13:27:04 info: [0mGET /api/files/getFiles [32m200[0m 447.792 ms - -[0m
+2024-08-29 13:27:05 info: [0mOPTIONS /api/login [32m204[0m 0.179 ms - 0[0m
+2024-08-29 13:27:05 info: [0mPOST /api/login [32m200[0m 279.568 ms - -[0m
+2024-08-29 13:27:06 info: [0mGET /api/files/getFiles [36m304[0m 374.290 ms - -[0m
+2024-08-29 13:27:08 info: [0mGET /api/users/getUsers [32m200[0m 4831.920 ms - -[0m
+2024-08-29 13:27:14 info: [0mGET /api/users/getUsers [36m304[0m 5201.851 ms - -[0m
+2024-08-29 13:27:14 info: [0mOPTIONS /api/ia/chat [32m204[0m 0.399 ms - 0[0m
+2024-08-29 13:27:14 info: [0mPOST /api/ia/chat [33m400[0m 85.030 ms - -[0m
+2024-08-29 13:27:59 info: =================================
+2024-08-29 13:27:59 info: ======= ENV: development =======
+2024-08-29 13:27:59 info: 🚀 App listening on the port 5210
+2024-08-29 13:27:59 info: =================================
+2024-08-29 13:28:19 info: [0mOPTIONS /api/ia/chat [32m204[0m 1.211 ms - 0[0m
+2024-08-29 13:28:37 info: [0mPOST /api/ia/chat [32m200[0m 18768.757 ms - -[0m
+2024-08-29 13:28:37 info: [0mGET /mp3/1724952503091.mp3 [32m206[0m 6.405 ms - 1814880[0m
+2024-08-29 13:41:34 info: =================================
+2024-08-29 13:41:34 info: ======= ENV: development =======
+2024-08-29 13:41:34 info: 🚀 App listening on the port 5210
+2024-08-29 13:41:34 info: =================================
+2024-08-29 13:43:37 info: =================================
+2024-08-29 13:43:37 info: ======= ENV: development =======
+2024-08-29 13:43:37 info: 🚀 App listening on the port 5210
+2024-08-29 13:43:37 info: =================================
+2024-08-29 14:04:30 info: =================================
+2024-08-29 14:04:30 info: ======= ENV: development =======
+2024-08-29 14:04:30 info: 🚀 App listening on the port 5210
+2024-08-29 14:04:30 info: =================================
+2024-08-29 14:05:53 info: =================================
+2024-08-29 14:05:53 info: ======= ENV: development =======
+2024-08-29 14:05:53 info: 🚀 App listening on the port 5210
+2024-08-29 14:05:53 info: =================================
+2024-08-29 14:32:41 info: [0mOPTIONS /api/ia/chat [32m204[0m 1.430 ms - 0[0m
+2024-08-29 14:32:47 info: [0mPOST /api/ia/chat [32m200[0m 5445.239 ms - -[0m

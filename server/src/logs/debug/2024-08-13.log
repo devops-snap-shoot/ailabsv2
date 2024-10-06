@@ -1,0 +1,225 @@
+2024-08-13 10:18:07 info: =================================
+2024-08-13 10:18:07 info: ======= ENV: development =======
+2024-08-13 10:18:07 info: 🚀 App listening on the port 5210
+2024-08-13 10:18:07 info: =================================
+2024-08-13 10:18:07 info: [0mOPTIONS /api/forgot-password [32m204[0m 3.108 ms - 0[0m
+2024-08-13 10:18:13 error: [POST] /api/forgot-password >> StatusCode:: 500, Message:: Invalid login: 535 Incorrect authentication data
+2024-08-13 10:18:13 info: [0mPOST /api/forgot-password [31m500[0m 5482.562 ms - 62[0m
+2024-08-13 10:20:42 info: =================================
+2024-08-13 10:20:42 info: ======= ENV: development =======
+2024-08-13 10:20:42 info: 🚀 App listening on the port 5210
+2024-08-13 10:20:42 info: =================================
+2024-08-13 10:21:55 info: =================================
+2024-08-13 10:21:55 info: ======= ENV: development =======
+2024-08-13 10:21:55 info: 🚀 App listening on the port 5210
+2024-08-13 10:21:55 info: =================================
+2024-08-13 10:22:25 info: =================================
+2024-08-13 10:22:25 info: ======= ENV: development =======
+2024-08-13 10:22:25 info: 🚀 App listening on the port 5210
+2024-08-13 10:22:25 info: =================================
+2024-08-13 10:22:32 info: [0mOPTIONS /api/forgot-password [32m204[0m 0.888 ms - 0[0m
+2024-08-13 10:22:34 info: [0mPOST /api/forgot-password [32m200[0m 2048.086 ms - 405[0m
+2024-08-13 10:34:35 info: [0mOPTIONS /api/reset-password [32m204[0m 0.201 ms - 0[0m
+2024-08-13 10:34:35 error: [POST] /api/reset-password >> StatusCode:: 500, Message:: jwt malformed
+2024-08-13 10:34:35 info: [0mPOST /api/reset-password [31m500[0m 3.992 ms - 27[0m
+2024-08-13 10:35:03 info: [0mOPTIONS /api/reset-password [32m204[0m 0.143 ms - 0[0m
+2024-08-13 10:35:03 error: [POST] /api/reset-password >> StatusCode:: 500, Message:: jwt malformed
+2024-08-13 10:35:03 info: [0mPOST /api/reset-password [31m500[0m 2.436 ms - 27[0m
+2024-08-13 10:36:24 info: [0mOPTIONS /api/reset-password [32m204[0m 0.151 ms - 0[0m
+2024-08-13 10:36:24 error: [POST] /api/reset-password >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading 'toString')
+2024-08-13 10:36:24 info: [0mPOST /api/reset-password [31m500[0m 1.708 ms - 70[0m
+2024-08-13 10:48:12 info: =================================
+2024-08-13 10:48:12 info: ======= ENV: development =======
+2024-08-13 10:48:12 info: 🚀 App listening on the port 5210
+2024-08-13 10:48:12 info: =================================
+2024-08-13 10:48:18 info: [0mOPTIONS /api/reset-password [32m204[0m 0.989 ms - 0[0m
+2024-08-13 10:48:18 error: [POST] /api/reset-password >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading 'toString')
+2024-08-13 10:48:18 info: [0mPOST /api/reset-password [31m500[0m 24.138 ms - 70[0m
+2024-08-13 10:50:37 info: [0mOPTIONS /api/reset-password [32m204[0m 0.230 ms - 0[0m
+2024-08-13 10:50:37 info: [0mPOST /api/reset-password [32m200[0m 156.018 ms - 483[0m
+2024-08-13 10:50:51 info: [0mOPTIONS /api/login [32m204[0m 0.383 ms - 0[0m
+2024-08-13 10:50:51 info: [0mPOST /api/login [32m200[0m 435.252 ms - -[0m
+2024-08-13 10:50:51 info: [0mGET /api/users/getUsers [32m200[0m 152.255 ms - -[0m
+2024-08-13 10:50:51 info: [0mGET /api/users/getUsers [36m304[0m 151.612 ms - -[0m
+2024-08-13 10:50:52 info: [0mGET /api/files/getFiles [32m200[0m 1073.373 ms - -[0m
+2024-08-13 10:50:52 info: [0mGET /api/files/getFiles [36m304[0m 418.274 ms - -[0m
+2024-08-13 10:55:29 info: [0mGET /api/users/getUsers [36m304[0m 154.204 ms - -[0m
+2024-08-13 10:55:29 info: [0mGET /api/users/getUsers [36m304[0m 163.568 ms - -[0m
+2024-08-13 10:55:29 info: [0mGET /api/files/getFiles [36m304[0m 428.792 ms - -[0m
+2024-08-13 10:55:29 info: [0mGET /api/users/getUsers [36m304[0m 151.064 ms - -[0m
+2024-08-13 10:55:30 info: [0mGET /api/files/getFiles [36m304[0m 839.720 ms - -[0m
+2024-08-13 10:55:30 info: [0mGET /api/files/getFiles [36m304[0m 352.134 ms - -[0m
+2024-08-13 11:00:15 info: [0mGET /api/users/getUsers [36m304[0m 147.210 ms - -[0m
+2024-08-13 11:00:15 info: [0mGET /api/users/getUsers [36m304[0m 141.365 ms - -[0m
+2024-08-13 11:04:53 info: =================================
+2024-08-13 11:04:53 info: ======= ENV: development =======
+2024-08-13 11:04:53 info: 🚀 App listening on the port 5210
+2024-08-13 11:04:53 info: =================================
+2024-08-13 11:04:54 info: [0mGET /api/users/getUsers [36m304[0m 1512.749 ms - -[0m
+2024-08-13 11:04:54 info: [0mGET /api/users/getUsers [36m304[0m 144.596 ms - -[0m
+2024-08-13 11:05:26 info: [0mOPTIONS /api/forgot-password [32m204[0m 0.619 ms - 0[0m
+2024-08-13 11:05:27 info: [0mPOST /api/forgot-password [32m200[0m 1462.097 ms - 523[0m
+2024-08-13 11:10:27 info: =================================
+2024-08-13 11:10:27 info: ======= ENV: development =======
+2024-08-13 11:10:27 info: 🚀 App listening on the port 5210
+2024-08-13 11:10:27 info: =================================
+2024-08-13 11:10:40 info: [0mOPTIONS /api/forgot-password [32m204[0m 0.805 ms - 0[0m
+2024-08-13 11:10:42 info: [0mPOST /api/forgot-password [32m200[0m 1691.734 ms - 523[0m
+2024-08-13 11:18:30 info: =================================
+2024-08-13 11:18:30 info: ======= ENV: development =======
+2024-08-13 11:18:30 info: 🚀 App listening on the port 5210
+2024-08-13 11:18:30 info: =================================
+2024-08-13 11:19:11 info: [0mOPTIONS /api/forgot-password [32m204[0m 0.889 ms - 0[0m
+2024-08-13 11:19:13 info: [0mPOST /api/forgot-password [32m200[0m 1832.382 ms - 523[0m
+2024-08-13 11:21:47 info: [0mOPTIONS /api/forgot-password [32m204[0m 0.144 ms - 0[0m
+2024-08-13 11:21:49 info: [0mPOST /api/forgot-password [32m200[0m 1582.718 ms - 523[0m
+2024-08-13 11:32:53 info: =================================
+2024-08-13 11:32:53 info: ======= ENV: development =======
+2024-08-13 11:32:53 info: 🚀 App listening on the port 5210
+2024-08-13 11:32:53 info: =================================
+2024-08-13 11:33:03 info: [0mOPTIONS /api/forgot-password [32m204[0m 0.825 ms - 0[0m
+2024-08-13 11:33:04 info: [0mPOST /api/forgot-password [32m200[0m 1177.740 ms - 523[0m
+2024-08-13 11:35:15 info: [0mOPTIONS /api/forgot-password [32m204[0m 0.178 ms - 0[0m
+2024-08-13 11:35:16 info: [0mPOST /api/forgot-password [32m200[0m 1392.044 ms - 523[0m
+2024-08-13 11:37:30 info: [0mOPTIONS /api/forgot-password [32m204[0m 0.402 ms - 0[0m
+2024-08-13 11:37:32 info: [0mPOST /api/forgot-password [32m200[0m 1145.912 ms - 479[0m
+2024-08-13 11:38:34 info: =================================
+2024-08-13 11:38:34 info: ======= ENV: development =======
+2024-08-13 11:38:34 info: 🚀 App listening on the port 5210
+2024-08-13 11:38:34 info: =================================
+2024-08-13 12:30:43 info: =================================
+2024-08-13 12:30:43 info: ======= ENV: development =======
+2024-08-13 12:30:43 info: 🚀 App listening on the port 5210
+2024-08-13 12:30:43 info: =================================
+2024-08-13 12:31:02 info: [0mPOST /api/ia/add_my_voice [32m200[0m 21.754 ms - 43[0m
+2024-08-13 12:31:27 info: =================================
+2024-08-13 12:31:27 info: ======= ENV: development =======
+2024-08-13 12:31:27 info: 🚀 App listening on the port 5210
+2024-08-13 12:31:27 info: =================================
+2024-08-13 12:31:32 info: [0mPOST /api/ia/add_my_voice [32m200[0m 17.437 ms - 43[0m
+2024-08-13 12:50:10 info: =================================
+2024-08-13 12:50:10 info: ======= ENV: development =======
+2024-08-13 12:50:10 info: 🚀 App listening on the port 5210
+2024-08-13 12:50:10 info: =================================
+2024-08-13 13:02:57 info: [0mOPTIONS /api/login [32m204[0m 1.099 ms - 0[0m
+2024-08-13 13:02:57 error: [POST] /api/login >> StatusCode:: 409, Message:: Wrong password
+2024-08-13 13:02:57 info: [0mPOST /api/login [33m409[0m 523.440 ms - 28[0m
+2024-08-13 13:03:00 error: [POST] /api/login >> StatusCode:: 409, Message:: Wrong password
+2024-08-13 13:03:00 info: [0mPOST /api/login [33m409[0m 339.300 ms - 28[0m
+2024-08-13 13:03:04 info: [0mOPTIONS /api/login [32m204[0m 0.296 ms - 0[0m
+2024-08-13 13:03:04 info: [0mPOST /api/login [32m200[0m 426.498 ms - -[0m
+2024-08-13 13:03:05 info: [0mGET /api/users/getUsers [32m200[0m 155.332 ms - -[0m
+2024-08-13 13:03:05 info: [0mGET /api/users/getUsers [36m304[0m 153.888 ms - -[0m
+2024-08-13 13:03:05 info: [0mGET /api/files/getFiles [32m200[0m 432.875 ms - -[0m
+2024-08-13 13:03:05 info: [0mGET /api/files/getFiles [36m304[0m 417.452 ms - -[0m
+2024-08-13 13:04:04 info: [0mOPTIONS /api/login [32m204[0m 0.138 ms - 0[0m
+2024-08-13 13:04:04 info: [0mPOST /api/login [32m200[0m 405.552 ms - -[0m
+2024-08-13 13:04:04 info: [0mGET /api/users/getUsers [36m304[0m 146.128 ms - -[0m
+2024-08-13 13:04:04 info: [0mGET /api/users/getUsers [36m304[0m 140.879 ms - -[0m
+2024-08-13 13:04:05 info: [0mGET /api/files/getFiles [36m304[0m 417.537 ms - -[0m
+2024-08-13 13:04:05 info: [0mGET /api/files/getFiles [36m304[0m 402.388 ms - -[0m
+2024-08-13 13:04:50 info: [0mGET /api/users/getUsers [36m304[0m 151.230 ms - -[0m
+2024-08-13 13:04:51 info: [0mGET /api/users/getUsers [36m304[0m 149.524 ms - -[0m
+2024-08-13 13:04:51 info: [0mGET /api/files/getFiles [36m304[0m 442.429 ms - -[0m
+2024-08-13 13:04:51 info: [0mGET /api/users/getUsers [36m304[0m 139.249 ms - -[0m
+2024-08-13 13:04:51 info: [0mGET /api/files/getFiles [36m304[0m 431.192 ms - -[0m
+2024-08-13 13:04:51 info: [0mGET /api/files/getFiles [36m304[0m 281.105 ms - -[0m
+2024-08-13 13:04:57 info: [0mOPTIONS /api/login [32m204[0m 0.149 ms - 0[0m
+2024-08-13 13:04:57 info: [0mPOST /api/login [32m200[0m 408.896 ms - -[0m
+2024-08-13 13:14:35 info: [0mGET /api/users/getUsers [36m304[0m 142.538 ms - -[0m
+2024-08-13 13:14:35 info: [0mGET /api/users/getUsers [36m304[0m 159.054 ms - -[0m
+2024-08-13 14:19:56 info: =================================
+2024-08-13 14:19:56 info: ======= ENV: development =======
+2024-08-13 14:19:56 info: 🚀 App listening on the port 5210
+2024-08-13 14:19:56 info: =================================
+2024-08-13 14:22:23 info: [0mPOST /api/ia/add_my_voice [32m200[0m 20655.999 ms - 353[0m
+2024-08-13 14:23:20 info: =================================
+2024-08-13 14:23:20 info: ======= ENV: development =======
+2024-08-13 14:23:20 info: 🚀 App listening on the port 5210
+2024-08-13 14:23:20 info: =================================
+2024-08-13 14:23:40 info: [0mOPTIONS /api/login [32m204[0m 1.391 ms - 0[0m
+2024-08-13 14:23:40 info: [0mPOST /api/login [32m200[0m 451.126 ms - -[0m
+2024-08-13 14:25:11 info: [0mPOST /api/ia/add_my_voice [32m200[0m 10353.184 ms - 353[0m
+2024-08-13 14:25:33 info: [0mGET /wav/chalo_17235735014381723573501440.wav [32m200[0m 12.091 ms - 108620[0m
+2024-08-13 14:25:33 info: [0mGET /wav/chalo_17235735014381723573501440.wav [36m304[0m 4.056 ms - -[0m
+2024-08-13 14:27:43 info: =================================
+2024-08-13 14:27:43 info: ======= ENV: development =======
+2024-08-13 14:27:43 info: 🚀 App listening on the port 5210
+2024-08-13 14:27:43 info: =================================
+2024-08-13 14:29:11 info: [0mPOST /api/ia/add_my_voice [32m200[0m 9954.751 ms - 353[0m
+2024-08-13 14:32:25 info: =================================
+2024-08-13 14:32:25 info: ======= ENV: development =======
+2024-08-13 14:32:25 info: 🚀 App listening on the port 5210
+2024-08-13 14:32:25 info: =================================
+2024-08-13 14:32:37 info: [0mPOST /api/ia/add_my_voice [32m200[0m 9134.507 ms - 353[0m
+2024-08-13 14:33:58 info: =================================
+2024-08-13 14:33:58 info: ======= ENV: development =======
+2024-08-13 14:33:58 info: 🚀 App listening on the port 5210
+2024-08-13 14:33:58 info: =================================
+2024-08-13 14:34:46 info: [0mPOST /api/ia/add_my_voice [32m200[0m 40095.104 ms - 353[0m
+2024-08-13 14:34:51 info: [0mGET /wav/chalo_17235740467381723574046740.wav [32m200[0m 85.137 ms - 974[0m
+2024-08-13 14:34:51 info: [0mGET /static/css/main.d8b8288b.css [32m200[0m 22.529 ms - -[0m
+2024-08-13 14:34:51 info: [0mGET /assets/botlibre/sdk.js [32m200[0m 92.698 ms - -[0m
+2024-08-13 14:34:51 info: [0mGET /static/js/main.5746135b.js [32m200[0m 55.331 ms - -[0m
+2024-08-13 14:34:51 info: [0mGET /static/js/22.75550aa0.chunk.js [32m200[0m 15.535 ms - 869[0m
+2024-08-13 14:34:51 info: [0mGET /manifest.json [32m200[0m 11.740 ms - 456[0m
+2024-08-13 14:34:51 info: [0mGET /assets/logo_.png [32m200[0m 13.103 ms - 9524[0m
+2024-08-13 14:34:51 info: [0mGET /static/js/344.1a498bff.chunk.js [32m200[0m 16.451 ms - -[0m
+2024-08-13 14:34:58 info: [0mGET /wav/chalo_17235740467381723574046740.wav [36m304[0m 3.462 ms - -[0m
+2024-08-13 14:34:58 info: [0mGET /assets/botlibre/sdk.js [36m304[0m 1.595 ms - -[0m
+2024-08-13 14:34:58 info: [0mGET /static/css/main.d8b8288b.css [36m304[0m 3.417 ms - -[0m
+2024-08-13 14:34:58 info: [0mGET /static/js/main.5746135b.js [36m304[0m 2.475 ms - -[0m
+2024-08-13 14:34:58 info: [0mGET /static/js/22.75550aa0.chunk.js [36m304[0m 1.247 ms - -[0m
+2024-08-13 14:34:58 info: [0mGET /assets/logo_.png [36m304[0m 3.550 ms - -[0m
+2024-08-13 14:34:58 info: [0mGET /manifest.json [36m304[0m 3.902 ms - -[0m
+2024-08-13 14:34:59 info: [0mGET /static/js/344.1a498bff.chunk.js [36m304[0m 1.291 ms - -[0m
+2024-08-13 14:38:53 info: [0mPOST /api/ia/add_my_voice [32m200[0m 34119.281 ms - 353[0m
+2024-08-13 15:44:39 info: [0mPOST /api/ia/add_my_voice [32m200[0m 48269.693 ms - 365[0m
+2024-08-13 15:45:15 info: [0mGET /wav/gonzalein_17235782313621723578231365.wav [32m200[0m 90.782 ms - 169036[0m
+2024-08-13 15:45:16 info: [0mGET /wav/gonzalein_17235782313621723578231365.wav [36m304[0m 9.436 ms - -[0m
+2024-08-13 15:47:25 info: [0mPOST /api/ia/add_my_voice [32m200[0m 51083.267 ms - 365[0m
+2024-08-13 15:47:25 info: [0mGET /wav/gonzalein_17235783940891723578394091.wav [32m206[0m 19.652 ms - 166988[0m
+2024-08-13 15:53:09 info: [0mPOST /api/ia/add_my_voice [32m200[0m 46761.015 ms - 359[0m
+2024-08-13 15:53:09 info: [0mGET /wav/chalito_17235787422651723578742267.wav [32m206[0m 14.974 ms - 140364[0m
+2024-08-13 18:17:58 info: [0mPOST /api/ia/add_my_voice [32m200[0m 58571.318 ms - 353[0m
+2024-08-13 18:17:58 info: [0mGET /wav/gonza_17235874195851723587419588.wav [32m206[0m 21.174 ms - 131148[0m
+2024-08-13 18:18:11 info: [0mGET /api/files/getFileByFileID/1723406552933 [32m200[0m 171.890 ms - 612[0m
+2024-08-13 18:19:16 info: [0mOPTIONS /api/login [32m204[0m 0.696 ms - 0[0m
+2024-08-13 18:19:16 info: [0mPOST /api/login [32m200[0m 685.992 ms - -[0m
+2024-08-13 18:32:13 info: [0mPOST /api/ia/add_my_voice [32m200[0m 70230.049 ms - 359[0m
+2024-08-13 18:32:13 info: [0mGET /wav/gonzalo_17235882628651723588262867.wav [32m206[0m 22.337 ms - 400012[0m
+2024-08-13 18:34:22 info: [0mGET /wav/gonzalo_17235882628651723588262867.wav [32m206[0m 2.354 ms - 400012[0m
+2024-08-13 18:38:50 info: [0mGET /wav/gonzalo_17235882628651723588262867.wav [36m304[0m 1.288 ms - -[0m
+2024-08-13 18:41:31 info: [0mPOST /api/ia/add_my_voice [32m200[0m 39882.181 ms - 377[0m
+2024-08-13 18:41:32 info: [0mGET /wav/gonzalo%20kauel_17235888521011723588852103.wav [32m206[0m 19.367 ms - 73292[0m
+2024-08-13 18:45:37 info: [0mPOST /api/ia/add_my_voice [32m200[0m 44634.690 ms - 377[0m
+2024-08-13 18:45:37 info: [0mGET /wav/gonzalo_kauel_17235890924451723589092457.wav [32m206[0m 14.267 ms - 149068[0m
+2024-08-13 18:45:45 info: [0mGET /api/files/getFileByFileID/1723406552933 [36m304[0m 141.215 ms - -[0m
+2024-08-13 18:50:22 info: [0mOPTIONS /api/ia/chat [32m204[0m 0.192 ms - 0[0m
+2024-08-13 18:50:38 info: [0mPOST /api/ia/chat [32m200[0m 15609.800 ms - -[0m
+2024-08-13 18:50:38 info: [0mGET /wav/ricardo1723589424019.wav [32m206[0m 9.128 ms - 585420[0m
+2024-08-13 18:53:28 info: [0mGET /wav/ricardo1723589424019.wav [32m206[0m 2.055 ms - 585420[0m
+2024-08-13 18:54:13 info: [0mGET /wav/ricardo1723589424019.wav [36m304[0m 1.503 ms - -[0m
+2024-08-13 18:55:23 info: [0mOPTIONS /api/login [32m204[0m 0.204 ms - 0[0m
+2024-08-13 18:55:23 info: [0mPOST /api/login [32m200[0m 406.418 ms - -[0m
+2024-08-13 19:01:37 info: [0mPOST /api/ia/add_my_voice [32m200[0m 72917.641 ms - 374[0m
+2024-08-13 19:01:37 info: [0mGET /wav/gonzalo_test_17235900243741723590024376.wav [32m206[0m 11.167 ms - 425068[0m
+2024-08-13 19:02:08 info: [0mGET /api/files/getFileByFileID/1723406552933 [36m304[0m 137.704 ms - -[0m
+2024-08-13 19:02:13 info: [0mOPTIONS /api/login [32m204[0m 0.219 ms - 0[0m
+2024-08-13 19:02:14 info: [0mPOST /api/login [32m200[0m 403.707 ms - -[0m
+2024-08-13 19:03:30 info: [0mGET /api/files/getFileByFileID/1723406552933 [36m304[0m 147.368 ms - -[0m
+2024-08-13 19:03:36 info: [0mOPTIONS /api/login [32m204[0m 0.174 ms - 0[0m
+2024-08-13 19:03:37 info: [0mPOST /api/login [32m200[0m 397.700 ms - -[0m
+2024-08-13 19:04:19 info: [0mGET /api/files/getFileByFileID/1723406552933 [36m304[0m 143.808 ms - -[0m
+2024-08-13 19:04:37 info: [0mOPTIONS /api/login [32m204[0m 0.244 ms - 0[0m
+2024-08-13 19:04:37 info: [0mPOST /api/login [32m200[0m 396.666 ms - -[0m
+2024-08-13 19:05:39 info: [0mPOST /api/ia/add_my_voice [32m200[0m 44599.967 ms - 359[0m
+2024-08-13 19:05:39 info: [0mGET /wav/gonzalo_17235902953011723590295302.wav [32m206[0m 12.387 ms - 117836[0m
+2024-08-13 19:10:51 info: =================================
+2024-08-13 19:10:51 info: ======= ENV: development =======
+2024-08-13 19:10:51 info: 🚀 App listening on the port 5210
+2024-08-13 19:10:51 info: =================================
+2024-08-13 19:15:53 info: [0mGET /api/files/getFileByFileID/1723406552933 [36m304[0m 156.241 ms - -[0m
+2024-08-13 19:16:00 info: [0mOPTIONS /api/login [32m204[0m 0.500 ms - 0[0m
+2024-08-13 19:16:01 info: [0mPOST /api/login [32m200[0m 462.630 ms - -[0m
+2024-08-13 19:16:08 info: [0mGET /api/files/getFileByFileID/1723406552933 [36m304[0m 156.302 ms - -[0m

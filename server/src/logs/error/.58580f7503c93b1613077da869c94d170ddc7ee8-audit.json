@@ -1,0 +1,79 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "C:\\Users\\gorel\\Documents\\Projects\\imkchat\\server\\src\\logs\\error\\.58580f7503c93b1613077da869c94d170ddc7ee8-audit.json",
+    "files": [
+        {
+            "date": 1716494131559,
+            "name": "C:\\Users\\gorel\\Documents\\Projects\\imkchat\\server\\src\\logs\\error\\2024-05-23.log",
+            "hash": "87a89946bd684b5cbae596fbe48ca9bf"
+        },
+        {
+            "date": 1717527371840,
+            "name": "C:\\Users\\gorel\\Documents\\Projects\\imkchat\\server\\src\\logs\\error\\2024-06-04.log",
+            "hash": "a81892328929a60bf4cfd641eb2fb8ce"
+        },
+        {
+            "date": 1717707802550,
+            "name": "C:\\Users\\gorel\\Documents\\Projects\\imkchat\\server\\src\\logs\\error\\2024-06-06.log",
+            "hash": "45a29f4822117d3126858bf42c1af21a"
+        },
+        {
+            "date": 1717733446547,
+            "name": "C:\\Users\\gorel\\Documents\\Projects\\imkchat\\server\\src\\logs\\error\\2024-06-07.log",
+            "hash": "767d122760f9d1506cd5b19803d8fa1a"
+        },
+        {
+            "date": 1717978834076,
+            "name": "C:\\Users\\gorel\\Documents\\Projects\\imkchat\\server\\src\\logs\\error\\2024-06-09.log",
+            "hash": "8992b86efeb56b6264bc2b5f7949e0fd"
+        },
+        {
+            "date": 1717992476971,
+            "name": "C:\\Users\\gorel\\Documents\\Projects\\imkchat\\server\\src\\logs\\error\\2024-06-10.log",
+            "hash": "ffaedf1c3446263789f667bde7ae6b91"
+        },
+        {
+            "date": 1718123868494,
+            "name": "C:\\Users\\gorel\\Documents\\Projects\\imkchat\\server\\src\\logs\\error\\2024-06-11.log",
+            "hash": "35d3edcb554983559b5a0d4d7e36aae7"
+        },
+        {
+            "date": 1718187529141,
+            "name": "C:\\Users\\gorel\\Documents\\Projects\\imkchat\\server\\src\\logs\\error\\2024-06-12.log",
+            "hash": "a9581c4a5efd08cb6b248ad2c88f5207"
+        },
+        {
+            "date": 1718640960056,
+            "name": "C:\\Users\\gorel\\Documents\\Projects\\imkchat\\server\\src\\logs\\error\\2024-06-17.log",
+            "hash": "798604240712dfbe2ef809930eb09cc3"
+        },
+        {
+            "date": 1718742132598,
+            "name": "C:\\Users\\gorel\\Documents\\Projects\\imkchat\\server\\src\\logs\\error\\2024-06-18.log",
+            "hash": "26216e6d853638318e4d7703e0c2aab0"
+        },
+        {
+            "date": 1718962976042,
+            "name": "C:\\Users\\gorel\\Documents\\Projects\\imkchat\\server\\src\\logs\\error\\2024-06-21.log",
+            "hash": "44a71df9d661e5731f4c8ddf56f7e50a"
+        },
+        {
+            "date": 1719335142667,
+            "name": "C:\\Users\\gorel\\Documents\\Projects\\imkchat\\server\\src\\logs\\error\\2024-06-25.log",
+            "hash": "2fb765ba5102fdcfc3dba404821561e5"
+        },
+        {
+            "date": 1720045147873,
+            "name": "C:\\Users\\gorel\\Documents\\Projects\\imkchat\\server\\src\\logs\\error\\2024-07-03.log",
+            "hash": "f3598431e1d49e1735cadfcc771ea85a"
+        },
+        {
+            "date": 1720541855469,
+            "name": "C:\\Users\\gorel\\Documents\\Projects\\imkchat\\server\\src\\logs\\error\\2024-07-09.log",
+            "hash": "7c9c886504e77c14eba19da45148cc29"
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+2024-07-25 10:27:07 info: =================================
+2024-07-25 10:27:07 info: ======= ENV: development =======
+2024-07-25 10:27:07 info: 🚀 App listening on the port 5210
+2024-07-25 10:27:07 info: =================================
+2024-07-25 10:27:34 info: [0mGET /api/files/getFiles [32m200[0m 466.539 ms - -[0m
+2024-07-25 10:27:36 info: [0mOPTIONS /api/verify [32m204[0m 0.362 ms - 0[0m
+2024-07-25 10:27:37 info: [0mOPTIONS /api/verify [32m204[0m 0.113 ms - 0[0m
+2024-07-25 10:27:38 info: [0mPOST /api/verify [32m200[0m 1186.050 ms - 521[0m
+2024-07-25 10:27:38 info: [0mOPTIONS /api/files/getFilesByUserId [32m204[0m 0.309 ms - 0[0m
+2024-07-25 10:27:38 info: [0mPOST /api/verify [32m200[0m 934.473 ms - 521[0m
+2024-07-25 10:27:38 info: [0mGET /api/users/getUsers [32m200[0m 3633.357 ms - -[0m
+2024-07-25 10:27:38 info: [0mPOST /api/files/getFilesByUserId [32m200[0m 438.292 ms - -[0m
+2024-07-25 10:27:38 info: [0mPOST /api/files/getFilesByUserId [32m200[0m 364.786 ms - -[0m
+2024-07-25 11:40:48 info: [0mOPTIONS /api/files/getFilesByUserId [32m204[0m 0.235 ms - 0[0m
+2024-07-25 11:40:49 info: [0mPOST /api/files/getFilesByUserId [32m200[0m 411.737 ms - -[0m
+2024-07-25 11:41:00 info: [0mOPTIONS /api/login [32m204[0m 0.418 ms - 0[0m
+2024-07-25 11:41:00 error: [POST] /api/login >> StatusCode:: 409, Message:: Wrong password
+2024-07-25 11:41:00 info: [0mPOST /api/login [33m409[0m 261.924 ms - 28[0m
+2024-07-25 11:41:05 info: [0mPOST /api/login [32m200[0m 330.950 ms - -[0m
+2024-07-25 11:41:06 info: [0mGET /api/files/getFiles [32m200[0m 906.404 ms - -[0m
+2024-07-25 11:41:07 info: [0mGET /api/files/getFiles [36m304[0m 407.313 ms - -[0m
+2024-07-25 11:41:08 info: [0mGET /api/users/getUsers [32m200[0m 2764.239 ms - -[0m
+2024-07-25 11:41:12 info: [0mGET /api/users/getUsers [36m304[0m 3634.519 ms - -[0m
+2024-07-25 11:52:10 info: [0mGET /api/files/getFiles [36m304[0m 420.200 ms - -[0m
+2024-07-25 11:52:12 info: [0mGET /api/users/getUsers [36m304[0m 2706.529 ms - -[0m
+2024-07-25 11:53:11 info: [0mOPTIONS /api/login [32m204[0m 0.332 ms - 0[0m
+2024-07-25 11:53:11 info: [0mPOST /api/login [32m200[0m 336.202 ms - -[0m
+2024-07-25 11:53:12 info: [0mGET /api/files/getFiles [36m304[0m 1039.571 ms - -[0m
+2024-07-25 11:53:13 info: [0mGET /api/files/getFiles [36m304[0m 427.445 ms - -[0m
+2024-07-25 11:53:14 info: [0mGET /api/users/getUsers [36m304[0m 2954.442 ms - -[0m
+2024-07-25 11:53:17 info: [0mGET /api/users/getUsers [36m304[0m 2824.560 ms - -[0m
+2024-07-25 11:57:03 info: [0mGET /api/files/getFiles [36m304[0m 408.881 ms - -[0m
+2024-07-25 11:57:06 info: [0mGET /api/users/getUsers [36m304[0m 3533.666 ms - -[0m
+2024-07-25 11:57:47 info: [0mGET /api/files/getFiles [36m304[0m 663.431 ms - -[0m
+2024-07-25 11:57:50 info: [0mGET /api/users/getUsers [36m304[0m 3717.583 ms - -[0m
+2024-07-25 12:13:44 info: [0mGET /api/files/getFiles [36m304[0m 785.044 ms - -[0m
+2024-07-25 12:13:48 info: [0mGET /api/users/getUsers [36m304[0m 4002.275 ms - -[0m
+2024-07-25 12:17:51 info: [0mGET /api/files/getFiles [36m304[0m 412.651 ms - -[0m
+2024-07-25 12:17:57 info: [0mGET /api/users/getUsers [36m304[0m 6092.524 ms - -[0m
+2024-07-25 12:24:29 info: [0mOPTIONS /api/login [32m204[0m 0.360 ms - 0[0m
+2024-07-25 12:24:29 info: [0mPOST /api/login [32m200[0m 333.071 ms - -[0m
+2024-07-25 12:24:30 info: [0mGET /api/files/getFiles [36m304[0m 721.604 ms - -[0m
+2024-07-25 12:24:30 info: [0mGET /api/files/getFiles [36m304[0m 429.539 ms - -[0m
+2024-07-25 12:24:33 info: [0mGET /api/users/getUsers [36m304[0m 3377.707 ms - -[0m
+2024-07-25 12:24:37 info: [0mGET /api/users/getUsers [36m304[0m 4515.771 ms - -[0m

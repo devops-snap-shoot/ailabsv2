@@ -1,0 +1,69 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "/home/kauel/imkchat-dev/server/src/logs/error/.4f10b24232732f2e688d8ad17315f46b9197d4ca-audit.json",
+    "files": [
+        {
+            "date": 1688675808298,
+            "name": "/home/kauel/imkchat-dev/server/src/logs/error/2023-07-06.log",
+            "hash": "ea62d800aac51c7f692586fbf8044b5b"
+        },
+        {
+            "date": 1688993242340,
+            "name": "/home/kauel/imkchat-dev/server/src/logs/error/2023-07-10.log",
+            "hash": "efd637b6c9ff7f839ca32728f6cb8470"
+        },
+        {
+            "date": 1689040365387,
+            "name": "/home/kauel/imkchat-dev/server/src/logs/error/2023-07-11.log",
+            "hash": "10fd2ff130df6e6c35c848899ccef11e"
+        },
+        {
+            "date": 1689619747777,
+            "name": "/home/kauel/imkchat-dev/server/src/logs/error/2023-07-17.log",
+            "hash": "e7fe913b141d28595540328f713ecd8a"
+        },
+        {
+            "date": 1689643194576,
+            "name": "/home/kauel/imkchat-dev/server/src/logs/error/2023-07-18.log",
+            "hash": "d3b83c07836f502a8fa8a9eeeb585fa7"
+        },
+        {
+            "date": 1689848824076,
+            "name": "/home/kauel/imkchat-dev/server/src/logs/error/2023-07-20.log",
+            "hash": "870dc38024554b58781e6c1abd0bb81c"
+        },
+        {
+            "date": 1689905893366,
+            "name": "/home/kauel/imkchat-dev/server/src/logs/error/2023-07-21.log",
+            "hash": "b0a8a146490052ff104c22505f1a9a0e"
+        },
+        {
+            "date": 1690128975981,
+            "name": "/home/kauel/imkchat-dev/server/src/logs/error/2023-07-23.log",
+            "hash": "f86af1a0b5638b4401ed3eeeb5455236"
+        },
+        {
+            "date": 1690815516326,
+            "name": "/home/kauel/imkchat-dev/server/src/logs/error/2023-07-31.log",
+            "hash": "03f54651f7133357993d9d94b07200a9"
+        },
+        {
+            "date": 1690940785060,
+            "name": "/home/kauel/imkchat-dev/server/src/logs/error/2023-08-02.log",
+            "hash": "5e334a18ebe43dd6da8f95e2e970e54e"
+        },
+        {
+            "date": 1691405084302,
+            "name": "/home/kauel/imkchat-dev/server/src/logs/error/2023-08-07.log",
+            "hash": "2ae2b5fb4b07de826347d5782dea34f7"
+        },
+        {
+            "date": 1691670902317,
+            "name": "/home/kauel/imkchat-dev/server/src/logs/error/2023-08-10.log",
+            "hash": "1fc181742b2431168d41fc994669ffa7"
+        }
+    ]
+}

@@ -1,0 +1,7 @@
+2024-08-13 10:18:13 error: [POST] /api/forgot-password >> StatusCode:: 500, Message:: Invalid login: 535 Incorrect authentication data
+2024-08-13 10:34:35 error: [POST] /api/reset-password >> StatusCode:: 500, Message:: jwt malformed
+2024-08-13 10:35:03 error: [POST] /api/reset-password >> StatusCode:: 500, Message:: jwt malformed
+2024-08-13 10:36:24 error: [POST] /api/reset-password >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading 'toString')
+2024-08-13 10:48:18 error: [POST] /api/reset-password >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading 'toString')
+2024-08-13 13:02:57 error: [POST] /api/login >> StatusCode:: 409, Message:: Wrong password
+2024-08-13 13:03:00 error: [POST] /api/login >> StatusCode:: 409, Message:: Wrong password

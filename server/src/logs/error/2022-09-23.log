@@ -1,0 +1,4 @@
+2022-09-23 19:58:16 error: [GET] /api/clients/getClients >> StatusCode:: 401, Message:: Wrong authentication token
+2022-09-23 19:58:30 error: [GET] /api/clients/getClients >> StatusCode:: 401, Message:: Wrong authentication token
+2022-09-23 19:58:58 error: [GET] /api/clients/getClients >> StatusCode:: 401, Message:: Wrong authentication token
+2022-09-23 19:59:11 error: [GET] /api/clients/getClients >> StatusCode:: 401, Message:: Wrong authentication token

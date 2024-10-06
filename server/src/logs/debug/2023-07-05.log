@@ -1,0 +1,140 @@
+2023-07-05 14:33:20 info: =================================
+2023-07-05 14:33:20 info: ======= ENV: development =======
+2023-07-05 14:33:20 info: 🚀 App listening on the port 5210
+2023-07-05 14:33:20 info: =================================
+2023-07-05 14:33:44 info: [0mPOST /api/login [32m200[0m 380.066 ms - -[0m
+2023-07-05 14:34:03 info: [0mPOST /api/ia/upload_pdf [32m200[0m 1014.453 ms - 95[0m
+2023-07-05 14:34:51 info: [0mPOST /api/ia/chat [33m400[0m 30011.121 ms - 19[0m
+2023-07-05 14:41:13 info: [0mPOST /api/ia/chat [33m400[0m 30005.676 ms - 19[0m
+2023-07-05 14:47:56 info: =================================
+2023-07-05 14:47:56 info: ======= ENV: development =======
+2023-07-05 14:47:56 info: 🚀 App listening on the port 5210
+2023-07-05 14:47:56 info: =================================
+2023-07-05 14:48:28 info: [0mPOST /api/ia/upload_pdf [32m200[0m 1229.232 ms - 95[0m
+2023-07-05 14:49:09 info: [0mPOST /api/ia/chat [33m400[0m 30029.593 ms - 19[0m
+2023-07-05 14:50:34 info: =================================
+2023-07-05 14:50:34 info: ======= ENV: development =======
+2023-07-05 14:50:34 info: 🚀 App listening on the port 5210
+2023-07-05 14:50:34 info: =================================
+2023-07-05 14:51:01 info: [0mPOST /api/ia/upload_pdf [32m200[0m 1009.781 ms - 95[0m
+2023-07-05 14:51:41 info: [0mPOST /api/ia/chat [33m400[0m 30025.992 ms - 41[0m
+2023-07-05 14:52:20 info: =================================
+2023-07-05 14:52:20 info: ======= ENV: development =======
+2023-07-05 14:52:20 info: 🚀 App listening on the port 5210
+2023-07-05 14:52:20 info: =================================
+2023-07-05 14:53:21 info: [0mPOST /api/ia/chat [33m400[0m 50031.031 ms - 41[0m
+2023-07-05 14:53:53 info: =================================
+2023-07-05 14:53:53 info: ======= ENV: development =======
+2023-07-05 14:53:53 info: 🚀 App listening on the port 5210
+2023-07-05 14:53:53 info: =================================
+2023-07-05 14:59:01 info: [0mPOST /api/ia/chat [33m400[0m 25057.506 ms - 41[0m
+2023-07-05 14:59:29 info: [0mPOST /api/login [32m200[0m 351.056 ms - -[0m
+2023-07-05 14:59:40 info: [0mPOST /api/ia/chat [33m400[0m 577.648 ms - 49[0m
+2023-07-05 15:00:01 info: [0mPOST /api/ia/upload_pdf [32m200[0m 544.884 ms - 71[0m
+2023-07-05 15:00:28 info: [0mPOST /api/ia/chat [32m200[0m 4664.294 ms - -[0m
+2023-07-05 15:01:06 info: [0mPOST /api/ia/chat [32m200[0m 9156.716 ms - -[0m
+2023-07-05 15:01:47 info: [0mPOST /api/ia/chat [32m200[0m 10411.564 ms - -[0m
+2023-07-05 15:08:36 info: [0mPOST /api/login [32m200[0m 327.413 ms - -[0m
+2023-07-05 15:09:00 info: [0mGET / [32m200[0m 4.720 ms - 867[0m
+2023-07-05 15:09:01 info: [0mGET /static/css/main.e8f2d243.css [32m200[0m 5.182 ms - -[0m
+2023-07-05 15:09:01 info: [0mGET /static/js/main.1fd397c7.js [32m200[0m 3.016 ms - -[0m
+2023-07-05 15:09:01 info: [0mGET /static/js/22.86674b8c.chunk.js [32m200[0m 1.490 ms - 864[0m
+2023-07-05 15:09:01 info: [0mGET /assets/images/Imkchat_logo.svg [32m200[0m 1.704 ms - -[0m
+2023-07-05 15:09:01 info: [0mGET /static/media/OpenSans-Regular.9a6cfa5890d7f3eef585.ttf [32m200[0m 1.642 ms - -[0m
+2023-07-05 15:09:01 info: [0mGET /assets/icon/fabicon.webp [32m200[0m 1.547 ms - 630[0m
+2023-07-05 15:09:01 info: [0mGET /static/js/344.af5e8bf1.chunk.js [32m200[0m 1.708 ms - -[0m
+2023-07-05 15:09:01 info: [0mGET /static/js/225.ccf05236.chunk.js [32m200[0m 2.059 ms - -[0m
+2023-07-05 15:09:02 info: [0mGET /assets/icon/fabicon.webp [36m304[0m 1.596 ms - -[0m
+2023-07-05 15:29:51 info: [0mGET /favicon.ico [32m200[0m 2.575 ms - 867[0m
+2023-07-05 15:31:33 info: [0mPOST /api/login [32m200[0m 324.477 ms - -[0m
+2023-07-05 15:31:41 info: [0mPOST /api/ia/chat [33m400[0m 569.806 ms - 49[0m
+2023-07-05 15:33:46 info: [0mPOST /api/ia/chat [33m400[0m 564.070 ms - 49[0m
+2023-07-05 15:34:09 info: [0mPOST /api/ia/upload_pdf [32m200[0m 547.610 ms - 71[0m
+2023-07-05 15:34:42 info: [0mPOST /api/ia/chat [32m200[0m 5666.402 ms - -[0m
+2023-07-05 15:35:15 info: [0mPOST /api/ia/upload_pdf [32m200[0m 1174.274 ms - 95[0m
+2023-07-05 15:36:07 info: [0mPOST / [33m404[0m 4.891 ms - 140[0m
+2023-07-05 15:36:07 info: [0mGET /.env [32m200[0m 2.246 ms - 867[0m
+2023-07-05 15:36:31 info: [0mPOST /api/ia/chat [33m400[0m 25009.290 ms - 41[0m
+2023-07-05 15:41:24 info: [0mPOST /api/ia/chat [33m400[0m 25003.579 ms - 41[0m
+2023-07-05 15:47:28 info: [0mPOST /api/login [32m200[0m 322.104 ms - -[0m
+2023-07-05 16:15:51 info: [0mGET / [32m200[0m 1.218 ms - 867[0m
+2023-07-05 16:20:46 info: [0mGET / [32m200[0m 1.436 ms - 867[0m
+2023-07-05 16:20:46 info: [0mGET /static/css/main.e8f2d243.css [32m200[0m 2.398 ms - -[0m
+2023-07-05 16:20:46 info: [0mGET /static/js/main.1fd397c7.js [32m200[0m 1.346 ms - -[0m
+2023-07-05 16:20:47 info: [0mGET /static/js/22.86674b8c.chunk.js [32m200[0m 1.319 ms - 864[0m
+2023-07-05 16:20:47 info: [0mGET /assets/images/Imkchat_logo.svg [32m200[0m 1.461 ms - -[0m
+2023-07-05 16:20:47 info: [0mGET /static/media/OpenSans-Regular.9a6cfa5890d7f3eef585.ttf [32m200[0m 1.858 ms - -[0m
+2023-07-05 16:20:47 info: [0mGET /static/js/344.af5e8bf1.chunk.js [32m200[0m 2.622 ms - -[0m
+2023-07-05 16:20:47 info: [0mGET /static/js/225.ccf05236.chunk.js [32m200[0m 1.292 ms - -[0m
+2023-07-05 16:20:47 info: [0mGET /assets/icon/fabicon.webp [32m200[0m 1.405 ms - 630[0m
+2023-07-05 16:20:53 info: [0mGET /img/icons/close.svg [32m200[0m 1.503 ms - 339[0m
+2023-07-05 16:21:26 info: [0mGET / [36m304[0m 1.134 ms - -[0m
+2023-07-05 16:21:26 info: [0mGET /static/js/main.1fd397c7.js [36m304[0m 0.966 ms - -[0m
+2023-07-05 16:21:27 info: [0mGET /static/css/main.e8f2d243.css [36m304[0m 0.879 ms - -[0m
+2023-07-05 16:21:27 info: [0mGET /static/js/22.86674b8c.chunk.js [36m304[0m 1.218 ms - -[0m
+2023-07-05 16:21:27 info: [0mGET /assets/images/Imkchat_logo.svg [36m304[0m 2.305 ms - -[0m
+2023-07-05 16:21:27 info: [0mGET /static/js/344.af5e8bf1.chunk.js [36m304[0m 0.774 ms - -[0m
+2023-07-05 16:21:27 info: [0mGET /static/js/225.ccf05236.chunk.js [36m304[0m 0.737 ms - -[0m
+2023-07-05 16:21:27 info: [0mGET /static/media/OpenSans-Regular.9a6cfa5890d7f3eef585.ttf [36m304[0m 1.538 ms - -[0m
+2023-07-05 16:25:01 info: [0mPOST /api/login [32m200[0m 327.668 ms - -[0m
+2023-07-05 16:27:20 info: [0mPOST / [33m404[0m 1.475 ms - 140[0m
+2023-07-05 16:27:20 info: [0mGET /.env [32m200[0m 1.624 ms - 867[0m
+2023-07-05 16:31:31 info: [0mPOST /api/ia/chat [33m400[0m 576.118 ms - 49[0m
+2023-07-05 16:34:40 info: [0mGET / [32m200[0m 1.291 ms - 867[0m
+2023-07-05 16:46:44 info: [0mGET / [32m200[0m 1.171 ms - 867[0m
+2023-07-05 17:03:13 info: [0mPOST / [33m404[0m 1.843 ms - 140[0m
+2023-07-05 17:03:13 info: [0mGET /.env [32m200[0m 1.399 ms - 867[0m
+2023-07-05 17:08:00 info: [0mGET / [32m200[0m 1.150 ms - 867[0m
+2023-07-05 17:28:24 info: [0mGET / [32m200[0m 2.072 ms - 867[0m
+2023-07-05 17:28:25 info: [0mGET /assets/icon/fabicon.webp [32m200[0m 1.186 ms - 630[0m
+2023-07-05 18:09:18 info: [0mGET / [32m200[0m 1.966 ms - 867[0m
+2023-07-05 18:09:18 info: [0mGET /Public/home/js/check.js [32m200[0m 1.592 ms - 867[0m
+2023-07-05 18:09:19 info: [0mGET /static/admin/javascript/hetong.js [32m200[0m 1.477 ms - 867[0m
+2023-07-05 18:14:11 info: [0mPOST / [33m404[0m 2.236 ms - 140[0m
+2023-07-05 18:14:11 info: [0mGET /.env [32m200[0m 1.414 ms - 867[0m
+2023-07-05 18:14:54 info: [0mPOST /api/ia/upload_pdf [32m200[0m 580.386 ms - 71[0m
+2023-07-05 18:18:13 info: [0mGET / [32m200[0m 1.186 ms - 867[0m
+2023-07-05 18:18:57 info: [0mPOST /api/ia/upload_pdf [32m200[0m 1167.255 ms - 95[0m
+2023-07-05 18:26:30 info: [0mPOST /api/login [32m200[0m 333.574 ms - -[0m
+2023-07-05 18:26:42 info: [0mPOST /api/ia/upload_pdf [32m200[0m 1535.196 ms - 95[0m
+2023-07-05 18:27:24 info: [0mPOST /api/ia/chat [33m400[0m 25003.671 ms - 41[0m
+2023-07-05 18:27:52 info: [0mPOST /api/ia/upload_pdf [32m200[0m 1835.038 ms - 79[0m
+2023-07-05 18:29:02 info: [0mPOST /api/ia/chat [33m400[0m 25005.834 ms - 41[0m
+2023-07-05 18:29:51 info: [0mPOST /api/ia/upload_pdf [32m200[0m 5410.362 ms - 84[0m
+2023-07-05 18:30:31 info: [0mPOST /api/ia/chat [32m200[0m 24344.248 ms - -[0m
+2023-07-05 18:33:27 info: [0mPOST /api/ia/chat [33m400[0m 25005.812 ms - 41[0m
+2023-07-05 18:35:09 info: [0mPOST /api/ia/chat [32m200[0m 24626.435 ms - -[0m
+2023-07-05 18:46:21 info: [0mGET / [32m200[0m 1.331 ms - 867[0m
+2023-07-05 18:54:33 info: [0mPOST / [33m404[0m 1.240 ms - 140[0m
+2023-07-05 18:54:33 info: [0mGET /.env [32m200[0m 1.566 ms - 867[0m
+2023-07-05 19:27:58 info: [0mGET / [32m200[0m 1.106 ms - 867[0m
+2023-07-05 20:01:39 info: [0mGET /.git/config [32m200[0m 1.664 ms - 867[0m
+2023-07-05 20:03:09 info: [0mPOST /api/ia/upload_pdf [32m200[0m 5322.953 ms - 91[0m
+2023-07-05 20:10:59 info: [0mGET /robots.txt [32m200[0m 1.418 ms - 867[0m
+2023-07-05 20:10:59 info: [0mGET / [32m200[0m 1.107 ms - 867[0m
+2023-07-05 20:11:00 info: [0mGET /static/js/main.1fd397c7.js [32m200[0m 1.971 ms - -[0m
+2023-07-05 20:11:00 info: [0mGET /static/css/main.e8f2d243.css [32m200[0m 1.341 ms - -[0m
+2023-07-05 20:11:01 info: [0mGET /static/js/22.86674b8c.chunk.js [32m200[0m 1.556 ms - 864[0m
+2023-07-05 20:11:01 info: [0mGET /assets/images/Imkchat_logo.svg [32m200[0m 1.214 ms - -[0m
+2023-07-05 20:11:02 info: [0mGET /static/js/344.af5e8bf1.chunk.js [32m200[0m 2.125 ms - -[0m
+2023-07-05 20:11:02 info: [0mGET /static/js/225.ccf05236.chunk.js [32m200[0m 1.365 ms - -[0m
+2023-07-05 20:11:03 info: [0mGET /static/js/186.ac7a64c2.chunk.js [32m200[0m 2.811 ms - -[0m
+2023-07-05 20:11:05 info: [0mGET /favicon.ico [32m200[0m 1.733 ms - 867[0m
+2023-07-05 20:11:05 info: [0mGET /assets/icon/fabicon.webp [32m200[0m 1.122 ms - 630[0m
+2023-07-05 20:12:37 info: [0mGET / [32m200[0m 1.199 ms - 867[0m
+2023-07-05 20:31:12 info: [0mPOST /api/login [32m200[0m 339.030 ms - -[0m
+2023-07-05 20:31:27 info: [0mPOST / [33m404[0m 1.199 ms - 140[0m
+2023-07-05 20:31:27 info: [0mGET /.env [32m200[0m 1.926 ms - 867[0m
+2023-07-05 20:31:38 info: [0mPOST /api/ia/upload_pdf [32m200[0m 1949.632 ms - 91[0m
+2023-07-05 20:32:18 info: [0mPOST /api/ia/chat [32m200[0m 6396.132 ms - -[0m
+2023-07-05 20:42:33 info: [0mPOST /api/ia/chat [32m200[0m 12445.474 ms - -[0m
+2023-07-05 20:53:24 info: [0mPOST /api/ia/chat [33m400[0m 510.722 ms - 49[0m
+2023-07-05 20:58:04 info: [0mGET /favicon.ico [32m200[0m 2.214 ms - 867[0m
+2023-07-05 20:58:35 info: [0mPOST /Autodiscover/Autodiscover.xml [33m404[0m 1.126 ms - 169[0m
+2023-07-05 21:03:26 info: =================================
+2023-07-05 21:03:26 info: ======= ENV: development =======
+2023-07-05 21:03:26 info: 🚀 App listening on the port 5210
+2023-07-05 21:03:26 info: =================================
+2023-07-05 21:10:00 info: [0mPOST / [33m404[0m 53.836 ms - 140[0m
+2023-07-05 21:10:00 info: [0mGET /.env [32m200[0m 6.805 ms - 867[0m
+2023-07-05 21:14:27 info: [0mPOST /api/login [32m200[0m 338.415 ms - -[0m

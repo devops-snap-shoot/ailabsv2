@@ -1,0 +1,44 @@
+2022-11-02 10:57:37 info: =================================
+2022-11-02 10:57:37 info: ======= ENV: development =======
+2022-11-02 10:57:37 info: 🚀 App listening on the port 5210
+2022-11-02 10:57:37 info: =================================
+2022-11-02 11:19:22 error: [GET] /api/users/getUsers >> StatusCode:: 401, Message:: Wrong authentication token
+2022-11-02 11:19:22 info: [0mGET /api/users/getUsers [33m401[0m 11.235 ms - 40[0m
+2022-11-02 11:19:23 error: [GET] /api/users/getUsers >> StatusCode:: 401, Message:: Wrong authentication token
+2022-11-02 11:19:23 info: [0mGET /api/users/getUsers [33m401[0m 1.804 ms - 40[0m
+2022-11-02 11:19:28 error: [GET] /api/organizations/getOrganizations >> StatusCode:: 401, Message:: Wrong authentication token
+2022-11-02 11:19:28 info: [0mGET /api/organizations/getOrganizations [33m401[0m 1.615 ms - 40[0m
+2022-11-02 11:19:29 error: [GET] /api/organizations/getOrganizations >> StatusCode:: 401, Message:: Wrong authentication token
+2022-11-02 11:19:29 info: [0mGET /api/organizations/getOrganizations [33m401[0m 2.170 ms - 40[0m
+2022-11-02 17:08:49 info: =================================
+2022-11-02 17:08:49 info: ======= ENV: development =======
+2022-11-02 17:08:49 info: 🚀 App listening on the port 5210
+2022-11-02 17:08:49 info: =================================
+2022-11-02 17:12:23 info: =================================
+2022-11-02 17:12:23 info: ======= ENV: development =======
+2022-11-02 17:12:23 info: 🚀 App listening on the port 5210
+2022-11-02 17:12:23 info: =================================
+2022-11-02 17:12:42 info: =================================
+2022-11-02 17:12:42 info: ======= ENV: development =======
+2022-11-02 17:12:42 info: 🚀 App listening on the port 5210
+2022-11-02 17:12:42 info: =================================
+2022-11-02 17:21:17 info: =================================
+2022-11-02 17:21:17 info: ======= ENV: development =======
+2022-11-02 17:21:17 info: 🚀 App listening on the port 5210
+2022-11-02 17:21:17 info: =================================
+2022-11-02 17:47:45 error: [POST] /api/login >> StatusCode:: 409, Message:: Email  no encontrado
+2022-11-02 17:47:45 info: [0mPOST /api/login [33m409[0m 61.956 ms - 34[0m
+2022-11-02 18:50:34 error: [POST] /api/login >> StatusCode:: 409, Message:: Email  no encontrado
+2022-11-02 18:50:34 info: [0mPOST /api/login [33m409[0m 55.637 ms - 34[0m
+2022-11-02 18:51:22 info: [0mPOST /api/login [32m200[0m 163.442 ms - -[0m
+2022-11-02 18:51:50 info: [0mPOST /api/login [32m200[0m 72.252 ms - -[0m
+2022-11-02 18:52:27 info: [0mPOST /api/login [32m200[0m 124.569 ms - -[0m
+2022-11-02 18:54:06 info: [0mPOST /api/login [32m200[0m 91.303 ms - -[0m
+2022-11-02 18:55:08 info: [0mPOST /api/login [32m200[0m 84.802 ms - -[0m
+2022-11-02 18:56:26 info: [0mPOST /api/login [32m200[0m 62.736 ms - -[0m
+2022-11-02 19:31:43 info: [0mPOST /api/login [32m200[0m 65.863 ms - -[0m
+2022-11-02 20:04:21 info: [0mGET /api/users/getUsers [32m200[0m 57.983 ms - 445[0m
+2022-11-02 20:04:22 info: [0mGET /api/users/getUsers [36m304[0m 9.664 ms - -[0m
+2022-11-02 20:04:38 info: [0mGET /api/users/getUsers [36m304[0m 7.354 ms - -[0m
+2022-11-02 20:04:38 info: [0mGET /api/users/getUsers [36m304[0m 17.625 ms - -[0m
+2022-11-02 20:04:41 info: [0mGET /api/users/getUsers [36m304[0m 7.954 ms - -[0m

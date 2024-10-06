@@ -1,0 +1,195 @@
+2024-09-12 10:28:23 error: [POST] /api/login >> StatusCode:: 500, Message:: data and hash arguments required
+2024-09-12 13:35:11 error: uncaughtException: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/files/Gemini%201.5%20PDF: [400 Bad Request] API key not valid. Please pass a valid API key. [{"@type":"type.googleapis.com/google.rpc.ErrorInfo","reason":"API_KEY_INVALID","domain":"googleapis.com","metadata":{"service":"generativelanguage.googleapis.com"}}]
+Error: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/files/Gemini%201.5%20PDF: [400 Bad Request] API key not valid. Please pass a valid API key. [{"@type":"type.googleapis.com/google.rpc.ErrorInfo","reason":"API_KEY_INVALID","domain":"googleapis.com","metadata":{"service":"generativelanguage.googleapis.com"}}]
+    at handleResponseNotOk (C:\Users\gorel\Documents\Projects\k-chat-pdf\server\node_modules\@google\generative-ai\dist\server\index.js:129:11)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async makeRequest (C:\Users\gorel\Documents\Projects\k-chat-pdf\server\node_modules\@google\generative-ai\dist\server\index.js:102:9)
+    at async GoogleAIFileManager.getFile (C:\Users\gorel\Documents\Projects\k-chat-pdf\server\node_modules\@google\generative-ai\dist\server\index.js:354:26)
+    at async uploadPdf (C:\Users\gorel\Documents\Projects\k-chat-pdf\server\src\controllers\ia.controller.ts:123:25)
+2024-09-12 13:36:02 error: uncaughtException: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/files: [400 Bad Request] API key not valid. Please pass a valid API key. [{"@type":"type.googleapis.com/google.rpc.ErrorInfo","reason":"API_KEY_INVALID","domain":"googleapis.com","metadata":{"service":"generativelanguage.googleapis.com"}}]
+Error: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/files: [400 Bad Request] API key not valid. Please pass a valid API key. [{"@type":"type.googleapis.com/google.rpc.ErrorInfo","reason":"API_KEY_INVALID","domain":"googleapis.com","metadata":{"service":"generativelanguage.googleapis.com"}}]
+    at handleResponseNotOk (C:\Users\gorel\Documents\Projects\k-chat-pdf\server\node_modules\@google\generative-ai\dist\server\index.js:129:11)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async makeRequest (C:\Users\gorel\Documents\Projects\k-chat-pdf\server\node_modules\@google\generative-ai\dist\server\index.js:102:9)
+    at async GoogleAIFileManager.listFiles (C:\Users\gorel\Documents\Projects\k-chat-pdf\server\node_modules\@google\generative-ai\dist\server\index.js:339:26)
+    at async uploadPdf (C:\Users\gorel\Documents\Projects\k-chat-pdf\server\src\controllers\ia.controller.ts:123:25)
+2024-09-12 21:09:27 error: uncaughtException: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/cachedContents: [400 Bad Request] Invalid value at 'cached_content.system_instruction' (type.googleapis.com/google.ai.generativelanguage.v1beta.Content), "
+        Eres un visitador médico chileno que responde a consultas de doctores, 
+        adaptando tu tono de comunicación al estilo preferido del doctor, 
+        ya sea formal o informal. Genera una relación cercana y de confianza en base a los siguientes datos: 
+
+        
+        Nombre: Dunetchka Cerpa  
+
+        Género: Femenino 
+
+        Nacionalidad: Chilena 
+
+        Ciudad: INDEPENDENCIA 
+
+        Mis gustos son: 
+
+        - Montaña: no 
+
+        - Mar: si 
+
+        - Pasatiempo: Musica 
+
+        - Tendencia política: No 
+
+        - Apatiencia personal: Informal 
+
+        - Contextura física: Medio 
+
+        - Mascotas: Gatos 
+
+        - Estado civil: Soltero 
+
+        - Preferencia gastronómica o de comidas: Variada 
+
+        - Gustos musicales: Rock 
+
+        - Estrato social: Media 
+
+        - Perfil social: Sociable 
+
+        - Me gusta coleccionar sobre: 
+
+        - No 
+ 
+
+        Me gradué en Universidad de Chile
+        Trabajo en las siguientes instituciones: 
+ 
+        - HOSPITAL ROBERTO DEL RIO - INDEPENDENCIA HOSPITAL (REGION METROPOLITANA, INDEPENDENCIA, Avenida, PROFESOR ALBERTO ZAÑARTU CP:0) 
+
+        Trabajo en el sector PUBLICO 
+
+        Mi método de trabajo se compone de lo siguiente: 
+
+        Fonasa: si 
+
+        Banmédica: no 
+
+        Cruz Blanca: no 
+
+        Consalud: no 
+
+        Vida Tres: no 
+
+        Nueva Más Vida: no 
+
+        Telemedicina: no 
+
+        Kardex: No KDX 
+
+    
+        Haz que las conversaciones sean útiles y amenas, 
+        siempre brindando información médica precisa mientras fortaleces el vínculo personal.
+        Tus respuestas deben ser preferentemente en español.
+    " [{"@type":"type.googleapis.com/google.rpc.BadRequest","fieldViolations":[{"field":"cached_content.system_instruction","description":"Invalid value at 'cached_content.system_instruction' (type.googleapis.com/google.ai.generativelanguage.v1beta.Content), \"\n        Eres un visitador médico chileno que responde a consultas de doctores, \n        adaptando tu tono de comunicación al estilo preferido del doctor, \n        ya sea formal o informal. Genera una relación cercana y de confianza en base a los siguientes datos: \n\n        \n        Nombre: Dunetchka Cerpa  \n\n        Género: Femenino \n\n        Nacionalidad: Chilena \n\n        Ciudad: INDEPENDENCIA \n\n        Mis gustos son: \n\n        - Montaña: no \n\n        - Mar: si \n\n        - Pasatiempo: Musica \n\n        - Tendencia política: No \n\n        - Apatiencia personal: Informal \n\n        - Contextura física: Medio \n\n        - Mascotas: Gatos \n\n        - Estado civil: Soltero \n\n        - Preferencia gastronómica o de comidas: Variada \n\n        - Gustos musicales: Rock \n\n        - Estrato social: Media \n\n        - Perfil social: Sociable \n\n        - Me gusta coleccionar sobre: \n\n        - No \n \n\n        Me gradué en Universidad de Chile\n        Trabajo en las siguientes instituciones: \n \n        - HOSPITAL ROBERTO DEL RIO - INDEPENDENCIA HOSPITAL (REGION METROPOLITANA, INDEPENDENCIA, Avenida, PROFESOR ALBERTO ZAÑARTU CP:0) \n\n        Trabajo en el sector PUBLICO \n\n        Mi método de trabajo se compone de lo siguiente: \n\n        Fonasa: si \n\n        Banmédica: no \n\n        Cruz Blanca: no \n\n        Consalud: no \n\n        Vida Tres: no \n\n        Nueva Más Vida: no \n\n        Telemedicina: no \n\n        Kardex: No KDX \n\n    \n        Haz que las conversaciones sean útiles y amenas, \n        siempre brindando información médica precisa mientras fortaleces el vínculo personal.\n        Tus respuestas deben ser preferentemente en español.\n    \""}]}]
+Error: [GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/cachedContents: [400 Bad Request] Invalid value at 'cached_content.system_instruction' (type.googleapis.com/google.ai.generativelanguage.v1beta.Content), "
+        Eres un visitador médico chileno que responde a consultas de doctores, 
+        adaptando tu tono de comunicación al estilo preferido del doctor, 
+        ya sea formal o informal. Genera una relación cercana y de confianza en base a los siguientes datos: 
+
+        
+        Nombre: Dunetchka Cerpa  
+
+        Género: Femenino 
+
+        Nacionalidad: Chilena 
+
+        Ciudad: INDEPENDENCIA 
+
+        Mis gustos son: 
+
+        - Montaña: no 
+
+        - Mar: si 
+
+        - Pasatiempo: Musica 
+
+        - Tendencia política: No 
+
+        - Apatiencia personal: Informal 
+
+        - Contextura física: Medio 
+
+        - Mascotas: Gatos 
+
+        - Estado civil: Soltero 
+
+        - Preferencia gastronómica o de comidas: Variada 
+
+        - Gustos musicales: Rock 
+
+        - Estrato social: Media 
+
+        - Perfil social: Sociable 
+
+        - Me gusta coleccionar sobre: 
+
+        - No 
+ 
+
+        Me gradué en Universidad de Chile
+        Trabajo en las siguientes instituciones: 
+ 
+        - HOSPITAL ROBERTO DEL RIO - INDEPENDENCIA HOSPITAL (REGION METROPOLITANA, INDEPENDENCIA, Avenida, PROFESOR ALBERTO ZAÑARTU CP:0) 
+
+        Trabajo en el sector PUBLICO 
+
+        Mi método de trabajo se compone de lo siguiente: 
+
+        Fonasa: si 
+
+        Banmédica: no 
+
+        Cruz Blanca: no 
+
+        Consalud: no 
+
+        Vida Tres: no 
+
+        Nueva Más Vida: no 
+
+        Telemedicina: no 
+
+        Kardex: No KDX 
+
+    
+        Haz que las conversaciones sean útiles y amenas, 
+        siempre brindando información médica precisa mientras fortaleces el vínculo personal.
+        Tus respuestas deben ser preferentemente en español.
+    " [{"@type":"type.googleapis.com/google.rpc.BadRequest","fieldViolations":[{"field":"cached_content.system_instruction","description":"Invalid value at 'cached_content.system_instruction' (type.googleapis.com/google.ai.generativelanguage.v1beta.Content), \"\n        Eres un visitador médico chileno que responde a consultas de doctores, \n        adaptando tu tono de comunicación al estilo preferido del doctor, \n        ya sea formal o informal. Genera una relación cercana y de confianza en base a los siguientes datos: \n\n        \n        Nombre: Dunetchka Cerpa  \n\n        Género: Femenino \n\n        Nacionalidad: Chilena \n\n        Ciudad: INDEPENDENCIA \n\n        Mis gustos son: \n\n        - Montaña: no \n\n        - Mar: si \n\n        - Pasatiempo: Musica \n\n        - Tendencia política: No \n\n        - Apatiencia personal: Informal \n\n        - Contextura física: Medio \n\n        - Mascotas: Gatos \n\n        - Estado civil: Soltero \n\n        - Preferencia gastronómica o de comidas: Variada \n\n        - Gustos musicales: Rock \n\n        - Estrato social: Media \n\n        - Perfil social: Sociable \n\n        - Me gusta coleccionar sobre: \n\n        - No \n \n\n        Me gradué en Universidad de Chile\n        Trabajo en las siguientes instituciones: \n \n        - HOSPITAL ROBERTO DEL RIO - INDEPENDENCIA HOSPITAL (REGION METROPOLITANA, INDEPENDENCIA, Avenida, PROFESOR ALBERTO ZAÑARTU CP:0) \n\n        Trabajo en el sector PUBLICO \n\n        Mi método de trabajo se compone de lo siguiente: \n\n        Fonasa: si \n\n        Banmédica: no \n\n        Cruz Blanca: no \n\n        Consalud: no \n\n        Vida Tres: no \n\n        Nueva Más Vida: no \n\n        Telemedicina: no \n\n        Kardex: No KDX \n\n    \n        Haz que las conversaciones sean útiles y amenas, \n        siempre brindando información médica precisa mientras fortaleces el vínculo personal.\n        Tus respuestas deben ser preferentemente en español.\n    \""}]}]
+    at handleResponseNotOk (C:\Users\gorel\Documents\Projects\k-chat-pdf\server\node_modules\@google\generative-ai\dist\server\index.js:129:11)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async makeRequest (C:\Users\gorel\Documents\Projects\k-chat-pdf\server\node_modules\@google\generative-ai\dist\server\index.js:102:9)
+    at async GoogleAICacheManager.create (C:\Users\gorel\Documents\Projects\k-chat-pdf\server\node_modules\@google\generative-ai\dist\server\index.js:490:26)
+    at async createIaContext (C:\Users\gorel\Documents\Projects\k-chat-pdf\server\src\controllers\ia.controller.ts:631:19)
+2024-09-12 21:49:55 error: uncaughtException: Cannot read properties of undefined (reading '0')
+TypeError: Cannot read properties of undefined (reading '0')
+    at createIaContext (C:\Users\gorel\Documents\Projects\k-chat-pdf\server\src\controllers\ia.controller.ts:672:39)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-09-12 21:54:14 error: uncaughtException: Cannot read properties of undefined (reading 'forEach')
+TypeError: Cannot read properties of undefined (reading 'forEach')
+    at createIaContext (C:\Users\gorel\Documents\Projects\k-chat-pdf\server\src\controllers\ia.controller.ts:567:31)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-09-12 21:54:34 error: uncaughtException: Cannot read properties of undefined (reading 'forEach')
+TypeError: Cannot read properties of undefined (reading 'forEach')
+    at createIaContext (C:\Users\gorel\Documents\Projects\k-chat-pdf\server\src\controllers\ia.controller.ts:568:31)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-09-12 22:39:30 error: [POST] /api/login >> StatusCode:: 409, Message:: Wrong password
+2024-09-12 23:05:06 error: uncaughtException: Cannot read properties of undefined (reading 'forEach')
+TypeError: Cannot read properties of undefined (reading 'forEach')
+    at getCacheList (C:\Users\gorel\Documents\Projects\k-chat-pdf\server\src\controllers\ia.controller.ts:452:31)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-09-12 23:09:56 error: uncaughtException: Cannot read properties of null (reading 'userOtherData')
+TypeError: Cannot read properties of null (reading 'userOtherData')
+    at createIaContext (C:\Users\gorel\Documents\Projects\k-chat-pdf\server\src\controllers\ia.controller.ts:478:32)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-09-12 23:10:46 error: uncaughtException: Cannot read properties of null (reading 'userOtherData')
+TypeError: Cannot read properties of null (reading 'userOtherData')
+    at createIaContext (C:\Users\gorel\Documents\Projects\k-chat-pdf\server\src\controllers\ia.controller.ts:478:32)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)

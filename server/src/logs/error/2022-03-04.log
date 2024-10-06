@@ -1,0 +1,5 @@
+2022-03-04 08:14:41 error: [POST] /auth/login >> StatusCode:: 409, Message:: Email sdfgvd@sdd.cl no encontrado
+2022-03-04 08:14:58 error: [POST] /auth/login >> StatusCode:: 409, Message:: Contraseña incorrecta
+2022-03-04 09:16:09 error: [POST] /auth/login >> StatusCode:: 400, Message:: email must be an email, password must be a string
+2022-03-04 11:01:26 error: [POST] /auth/login >> StatusCode:: 400, Message:: email must be an email, password must be a string
+2022-03-04 11:01:29 error: [POST] /auth/login >> StatusCode:: 400, Message:: email must be an email, password must be a string

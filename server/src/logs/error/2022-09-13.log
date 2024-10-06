@@ -1,0 +1,12 @@
+2022-09-13 11:00:51 error: [POST] /api/login >> StatusCode:: 409, Message:: Email a@a.cl no encontrado
+2022-09-13 11:02:08 error: [POST] /api/login >> StatusCode:: 409, Message:: Email a@a.cl no encontrado
+2022-09-13 11:02:20 error: [POST] /api/login >> StatusCode:: 409, Message:: Email a@a.cl no encontrado
+2022-09-13 11:02:30 error: [POST] /api/login >> StatusCode:: 409, Message:: Contraseña incorrecta
+2022-09-13 13:13:46 error: [POST] /api/users/getUserById >> StatusCode:: 404, Message:: Ususario no encontrado
+2022-09-13 13:23:53 error: [POST] /api/users/getUserById >> StatusCode:: 404, Message:: Ususario no encontrado
+2022-09-13 14:07:12 error: [POST] /api/clients/getClientById >> StatusCode:: 400, Message:: Se requiere un ID
+2022-09-13 14:08:04 error: [POST] /api/clients/getClientById >> StatusCode:: 400, Message:: Se requiere un ID
+2022-09-13 14:08:33 error: [POST] /api/clients/getClientById >> StatusCode:: 400, Message:: Se requiere un ID
+2022-09-13 14:08:38 error: [POST] /api/clients/getClientById >> StatusCode:: 400, Message:: Se requiere un ID
+2022-09-13 14:10:58 error: [POST] /api/clients/getClientById >> StatusCode:: 400, Message:: Se requiere un ID
+2022-09-13 14:11:05 error: [POST] /api/clients/getClientById >> StatusCode:: 400, Message:: Se requiere un ID

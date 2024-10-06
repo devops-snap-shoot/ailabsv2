@@ -1,0 +1,159 @@
+2024-06-11 12:37:57 error: uncaughtException: require() of ES Module C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\pdf2json\pdfparser.js from C:\Users\gorel\Documents\Projects\imkchat\server\src\controllers\ia.controller.ts not supported.
+Instead change the require of pdfparser.js in C:\Users\gorel\Documents\Projects\imkchat\server\src\controllers\ia.controller.ts to a dynamic import() which is available in all CommonJS modules.
+Error [ERR_REQUIRE_ESM]: require() of ES Module C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\pdf2json\pdfparser.js from C:\Users\gorel\Documents\Projects\imkchat\server\src\controllers\ia.controller.ts not supported.
+Instead change the require of pdfparser.js in C:\Users\gorel\Documents\Projects\imkchat\server\src\controllers\ia.controller.ts to a dynamic import() which is available in all CommonJS modules.
+    at require.extensions.<computed> [as .js] (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:729:20)
+    at Object.<anonymous> (C:\Users\gorel\Documents\Projects\imkchat\server\src\controllers\ia.controller.ts:11:49)
+    at m._compile (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:735:29)
+    at require.extensions.<computed> [as .ts] (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:737:16)
+    at Object.<anonymous> (C:\Users\gorel\Documents\Projects\imkchat\server\src\routes\ia.route.ts:5:54)
+    at m._compile (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:735:29)
+    at require.extensions.<computed> [as .ts] (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:737:16)
+    at Object.<anonymous> (C:\Users\gorel\Documents\Projects\imkchat\server\src\routes\index.route.ts:7:49)
+    at m._compile (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:735:29)
+    at require.extensions.<computed> [as .ts] (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:737:16)
+    at Object.<anonymous> (C:\Users\gorel\Documents\Projects\imkchat\server\src\app.ts:21:52)
+    at m._compile (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:735:29)
+    at require.extensions.<computed> [as .ts] (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:737:16)
+    at Object.<anonymous> (C:\Users\gorel\Documents\Projects\imkchat\server\src\server.ts:5:44)
+    at m._compile (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:735:29)
+    at require.extensions.<computed> [as .ts] (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:737:16)
+    at main (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\bin.js:238:16)
+    at Object.<anonymous> (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\bin.js:351:5)
+2024-06-11 12:40:32 error: uncaughtException: require() of ES Module C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\pdf2json\pdfparser.js from C:\Users\gorel\Documents\Projects\imkchat\server\src\controllers\ia.controller.ts not supported.
+Instead change the require of pdfparser.js in C:\Users\gorel\Documents\Projects\imkchat\server\src\controllers\ia.controller.ts to a dynamic import() which is available in all CommonJS modules.
+Error [ERR_REQUIRE_ESM]: require() of ES Module C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\pdf2json\pdfparser.js from C:\Users\gorel\Documents\Projects\imkchat\server\src\controllers\ia.controller.ts not supported.
+Instead change the require of pdfparser.js in C:\Users\gorel\Documents\Projects\imkchat\server\src\controllers\ia.controller.ts to a dynamic import() which is available in all CommonJS modules.
+    at require.extensions.<computed> [as .js] (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:729:20)
+    at Object.<anonymous> (C:\Users\gorel\Documents\Projects\imkchat\server\src\controllers\ia.controller.ts:11:49)
+    at m._compile (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:735:29)
+    at require.extensions.<computed> [as .ts] (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:737:16)
+    at Object.<anonymous> (C:\Users\gorel\Documents\Projects\imkchat\server\src\routes\ia.route.ts:5:54)
+    at m._compile (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:735:29)
+    at require.extensions.<computed> [as .ts] (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:737:16)
+    at Object.<anonymous> (C:\Users\gorel\Documents\Projects\imkchat\server\src\routes\index.route.ts:7:49)
+    at m._compile (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:735:29)
+    at require.extensions.<computed> [as .ts] (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:737:16)
+    at Object.<anonymous> (C:\Users\gorel\Documents\Projects\imkchat\server\src\app.ts:21:52)
+    at m._compile (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:735:29)
+    at require.extensions.<computed> [as .ts] (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:737:16)
+    at Object.<anonymous> (C:\Users\gorel\Documents\Projects\imkchat\server\src\server.ts:5:44)
+    at m._compile (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:735:29)
+    at require.extensions.<computed> [as .ts] (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:737:16)
+    at main (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\bin.js:238:16)
+    at Object.<anonymous> (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\bin.js:351:5)
+2024-06-11 12:41:26 error: uncaughtException: require() of ES Module C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\pdf2json\pdfparser.js from C:\Users\gorel\Documents\Projects\imkchat\server\src\controllers\ia.controller.ts not supported.
+Instead change the require of pdfparser.js in C:\Users\gorel\Documents\Projects\imkchat\server\src\controllers\ia.controller.ts to a dynamic import() which is available in all CommonJS modules.
+Error [ERR_REQUIRE_ESM]: require() of ES Module C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\pdf2json\pdfparser.js from C:\Users\gorel\Documents\Projects\imkchat\server\src\controllers\ia.controller.ts not supported.
+Instead change the require of pdfparser.js in C:\Users\gorel\Documents\Projects\imkchat\server\src\controllers\ia.controller.ts to a dynamic import() which is available in all CommonJS modules.
+    at require.extensions.<computed> [as .js] (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:729:20)
+    at Object.<anonymous> (C:\Users\gorel\Documents\Projects\imkchat\server\src\controllers\ia.controller.ts:11:49)
+    at m._compile (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:735:29)
+    at require.extensions.<computed> [as .ts] (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:737:16)
+    at Object.<anonymous> (C:\Users\gorel\Documents\Projects\imkchat\server\src\routes\ia.route.ts:5:54)
+    at m._compile (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:735:29)
+    at require.extensions.<computed> [as .ts] (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:737:16)
+    at Object.<anonymous> (C:\Users\gorel\Documents\Projects\imkchat\server\src\routes\index.route.ts:7:49)
+    at m._compile (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:735:29)
+    at require.extensions.<computed> [as .ts] (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:737:16)
+    at Object.<anonymous> (C:\Users\gorel\Documents\Projects\imkchat\server\src\app.ts:21:52)
+    at m._compile (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:735:29)
+    at require.extensions.<computed> [as .ts] (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:737:16)
+    at Object.<anonymous> (C:\Users\gorel\Documents\Projects\imkchat\server\src\server.ts:5:44)
+    at m._compile (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:735:29)
+    at require.extensions.<computed> [as .ts] (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:737:16)
+    at main (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\bin.js:238:16)
+    at Object.<anonymous> (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\bin.js:351:5)
+2024-06-11 12:41:58 error: uncaughtException: require() of ES Module C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\pdf2json\pdfparser.js from C:\Users\gorel\Documents\Projects\imkchat\server\src\controllers\ia.controller.ts not supported.
+Instead change the require of pdfparser.js in C:\Users\gorel\Documents\Projects\imkchat\server\src\controllers\ia.controller.ts to a dynamic import() which is available in all CommonJS modules.
+Error [ERR_REQUIRE_ESM]: require() of ES Module C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\pdf2json\pdfparser.js from C:\Users\gorel\Documents\Projects\imkchat\server\src\controllers\ia.controller.ts not supported.
+Instead change the require of pdfparser.js in C:\Users\gorel\Documents\Projects\imkchat\server\src\controllers\ia.controller.ts to a dynamic import() which is available in all CommonJS modules.
+    at require.extensions.<computed> [as .js] (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:729:20)
+    at Object.<anonymous> (C:\Users\gorel\Documents\Projects\imkchat\server\src\controllers\ia.controller.ts:11:49)
+    at m._compile (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:735:29)
+    at require.extensions.<computed> [as .ts] (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:737:16)
+    at Object.<anonymous> (C:\Users\gorel\Documents\Projects\imkchat\server\src\routes\ia.route.ts:5:54)
+    at m._compile (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:735:29)
+    at require.extensions.<computed> [as .ts] (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:737:16)
+    at Object.<anonymous> (C:\Users\gorel\Documents\Projects\imkchat\server\src\routes\index.route.ts:7:49)
+    at m._compile (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:735:29)
+    at require.extensions.<computed> [as .ts] (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:737:16)
+    at Object.<anonymous> (C:\Users\gorel\Documents\Projects\imkchat\server\src\app.ts:21:52)
+    at m._compile (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:735:29)
+    at require.extensions.<computed> [as .ts] (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:737:16)
+    at Object.<anonymous> (C:\Users\gorel\Documents\Projects\imkchat\server\src\server.ts:5:44)
+    at m._compile (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:735:29)
+    at require.extensions.<computed> [as .ts] (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:737:16)
+    at main (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\bin.js:238:16)
+    at Object.<anonymous> (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\bin.js:351:5)
+2024-06-11 12:43:25 error: uncaughtException: require() of ES Module C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\pdf2json\pdfparser.js from C:\Users\gorel\Documents\Projects\imkchat\server\src\controllers\ia.controller.ts not supported.
+Instead change the require of pdfparser.js in C:\Users\gorel\Documents\Projects\imkchat\server\src\controllers\ia.controller.ts to a dynamic import() which is available in all CommonJS modules.
+Error [ERR_REQUIRE_ESM]: require() of ES Module C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\pdf2json\pdfparser.js from C:\Users\gorel\Documents\Projects\imkchat\server\src\controllers\ia.controller.ts not supported.
+Instead change the require of pdfparser.js in C:\Users\gorel\Documents\Projects\imkchat\server\src\controllers\ia.controller.ts to a dynamic import() which is available in all CommonJS modules.
+    at require.extensions.<computed> [as .js] (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:729:20)
+    at Object.<anonymous> (C:\Users\gorel\Documents\Projects\imkchat\server\src\controllers\ia.controller.ts:11:49)
+    at m._compile (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:735:29)
+    at require.extensions.<computed> [as .ts] (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:737:16)
+    at Object.<anonymous> (C:\Users\gorel\Documents\Projects\imkchat\server\src\routes\ia.route.ts:5:54)
+    at m._compile (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:735:29)
+    at require.extensions.<computed> [as .ts] (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:737:16)
+    at Object.<anonymous> (C:\Users\gorel\Documents\Projects\imkchat\server\src\routes\index.route.ts:7:49)
+    at m._compile (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:735:29)
+    at require.extensions.<computed> [as .ts] (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:737:16)
+    at Object.<anonymous> (C:\Users\gorel\Documents\Projects\imkchat\server\src\app.ts:21:52)
+    at m._compile (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:735:29)
+    at require.extensions.<computed> [as .ts] (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:737:16)
+    at Object.<anonymous> (C:\Users\gorel\Documents\Projects\imkchat\server\src\server.ts:5:44)
+    at m._compile (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:735:29)
+    at require.extensions.<computed> [as .ts] (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:737:16)
+    at main (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\bin.js:238:16)
+    at Object.<anonymous> (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\bin.js:351:5)
+2024-06-11 12:43:38 error: uncaughtException: require() of ES Module C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\pdf2json\pdfparser.js from C:\Users\gorel\Documents\Projects\imkchat\server\src\controllers\ia.controller.ts not supported.
+Instead change the require of pdfparser.js in C:\Users\gorel\Documents\Projects\imkchat\server\src\controllers\ia.controller.ts to a dynamic import() which is available in all CommonJS modules.
+Error [ERR_REQUIRE_ESM]: require() of ES Module C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\pdf2json\pdfparser.js from C:\Users\gorel\Documents\Projects\imkchat\server\src\controllers\ia.controller.ts not supported.
+Instead change the require of pdfparser.js in C:\Users\gorel\Documents\Projects\imkchat\server\src\controllers\ia.controller.ts to a dynamic import() which is available in all CommonJS modules.
+    at require.extensions.<computed> [as .js] (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:729:20)
+    at Object.<anonymous> (C:\Users\gorel\Documents\Projects\imkchat\server\src\controllers\ia.controller.ts:11:49)
+    at m._compile (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:735:29)
+    at require.extensions.<computed> [as .ts] (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:737:16)
+    at Object.<anonymous> (C:\Users\gorel\Documents\Projects\imkchat\server\src\routes\ia.route.ts:5:54)
+    at m._compile (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:735:29)
+    at require.extensions.<computed> [as .ts] (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:737:16)
+    at Object.<anonymous> (C:\Users\gorel\Documents\Projects\imkchat\server\src\routes\index.route.ts:7:49)
+    at m._compile (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:735:29)
+    at require.extensions.<computed> [as .ts] (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:737:16)
+    at Object.<anonymous> (C:\Users\gorel\Documents\Projects\imkchat\server\src\app.ts:21:52)
+    at m._compile (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:735:29)
+    at require.extensions.<computed> [as .ts] (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:737:16)
+    at Object.<anonymous> (C:\Users\gorel\Documents\Projects\imkchat\server\src\server.ts:5:44)
+    at m._compile (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:735:29)
+    at require.extensions.<computed> [as .ts] (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:737:16)
+    at main (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\bin.js:238:16)
+    at Object.<anonymous> (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\bin.js:351:5)
+2024-06-11 14:28:20 error: uncaughtException: Cannot read properties of undefined (reading 'data')
+TypeError: Cannot read properties of undefined (reading 'data')
+    at C:\Users\gorel\Documents\Projects\imkchat\server\src\controllers\ia.controller.ts:195:61
+2024-06-11 18:39:29 error: uncaughtException: Cannot find module '../../files/pediatras.json'
+Require stack:
+- C:\Users\gorel\Documents\Projects\imkchat\server\src\app.ts
+- C:\Users\gorel\Documents\Projects\imkchat\server\src\server.ts
+Error: Cannot find module '../../files/pediatras.json'
+Require stack:
+- C:\Users\gorel\Documents\Projects\imkchat\server\src\app.ts
+- C:\Users\gorel\Documents\Projects\imkchat\server\src\server.ts
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1140:15)
+    at Function.Module._resolveFilename.sharedData.moduleResolveFilenameHook.installedValue (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\@cspotcode\source-map-support\source-map-support.js:679:30)
+    at Function.Module._resolveFilename (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\tsconfig-paths\lib\register.js:75:40)
+    at Function.Module._load (node:internal/modules/cjs/loader:981:27)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (C:\Users\gorel\Documents\Projects\imkchat\server\src\app.ts:26:1)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module.m._compile (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\src\index.ts:1371:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Object.require.extensions.<computed> [as .ts] (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\src\index.ts:1374:12)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:1019:12)
+    at Module.require (node:internal/modules/cjs/loader:1231:19)
+    at require (node:internal/modules/helpers:177:18)
+    at Object.<anonymous> (C:\Users\gorel\Documents\Projects\imkchat\server\src\server.ts:2:1)

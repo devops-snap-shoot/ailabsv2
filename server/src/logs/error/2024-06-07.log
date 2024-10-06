@@ -1,0 +1,160 @@
+2024-06-07 16:17:49 error: uncaughtException: require() of ES Module C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\chatgpt\build\index.js from C:\Users\gorel\Documents\Projects\imkchat\server\src\controllers\ia.controller.ts not supported.
+Instead change the require of index.js in C:\Users\gorel\Documents\Projects\imkchat\server\src\controllers\ia.controller.ts to a dynamic import() which is available in all CommonJS modules.
+Error [ERR_REQUIRE_ESM]: require() of ES Module C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\chatgpt\build\index.js from C:\Users\gorel\Documents\Projects\imkchat\server\src\controllers\ia.controller.ts not supported.
+Instead change the require of index.js in C:\Users\gorel\Documents\Projects\imkchat\server\src\controllers\ia.controller.ts to a dynamic import() which is available in all CommonJS modules.
+    at require.extensions.<computed> [as .js] (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:729:20)
+    at Object.<anonymous> (C:\Users\gorel\Documents\Projects\imkchat\server\src\controllers\ia.controller.ts:10:19)
+    at m._compile (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:735:29)
+    at require.extensions.<computed> [as .ts] (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:737:16)
+    at Object.<anonymous> (C:\Users\gorel\Documents\Projects\imkchat\server\src\routes\ia.route.ts:5:54)
+    at m._compile (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:735:29)
+    at require.extensions.<computed> [as .ts] (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:737:16)
+    at Object.<anonymous> (C:\Users\gorel\Documents\Projects\imkchat\server\src\routes\index.route.ts:7:49)
+    at m._compile (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:735:29)
+    at require.extensions.<computed> [as .ts] (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:737:16)
+    at Object.<anonymous> (C:\Users\gorel\Documents\Projects\imkchat\server\src\app.ts:21:52)
+    at m._compile (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:735:29)
+    at require.extensions.<computed> [as .ts] (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:737:16)
+    at Object.<anonymous> (C:\Users\gorel\Documents\Projects\imkchat\server\src\server.ts:5:44)
+    at m._compile (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:735:29)
+    at require.extensions.<computed> [as .ts] (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:737:16)
+    at main (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\bin.js:238:16)
+    at Object.<anonymous> (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\bin.js:351:5)
+2024-06-07 16:21:28 error: uncaughtException: require() of ES Module C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\chatgpt\build\index.js from C:\Users\gorel\Documents\Projects\imkchat\server\src\controllers\ia.controller.ts not supported.
+Instead change the require of index.js in C:\Users\gorel\Documents\Projects\imkchat\server\src\controllers\ia.controller.ts to a dynamic import() which is available in all CommonJS modules.
+Error [ERR_REQUIRE_ESM]: require() of ES Module C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\chatgpt\build\index.js from C:\Users\gorel\Documents\Projects\imkchat\server\src\controllers\ia.controller.ts not supported.
+Instead change the require of index.js in C:\Users\gorel\Documents\Projects\imkchat\server\src\controllers\ia.controller.ts to a dynamic import() which is available in all CommonJS modules.
+    at require.extensions.<computed> [as .js] (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:729:20)
+    at Object.<anonymous> (C:\Users\gorel\Documents\Projects\imkchat\server\src\controllers\ia.controller.ts:10:19)
+    at m._compile (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:735:29)
+    at require.extensions.<computed> [as .ts] (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:737:16)
+    at Object.<anonymous> (C:\Users\gorel\Documents\Projects\imkchat\server\src\routes\ia.route.ts:5:54)
+    at m._compile (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:735:29)
+    at require.extensions.<computed> [as .ts] (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:737:16)
+    at Object.<anonymous> (C:\Users\gorel\Documents\Projects\imkchat\server\src\routes\index.route.ts:7:49)
+    at m._compile (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:735:29)
+    at require.extensions.<computed> [as .ts] (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:737:16)
+    at Object.<anonymous> (C:\Users\gorel\Documents\Projects\imkchat\server\src\app.ts:21:52)
+    at m._compile (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:735:29)
+    at require.extensions.<computed> [as .ts] (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:737:16)
+    at Object.<anonymous> (C:\Users\gorel\Documents\Projects\imkchat\server\src\server.ts:5:44)
+    at m._compile (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:735:29)
+    at require.extensions.<computed> [as .ts] (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:737:16)
+    at main (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\bin.js:238:16)
+    at Object.<anonymous> (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\bin.js:351:5)
+2024-06-07 16:22:11 error: uncaughtException: require() of ES Module C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\chatgpt\build\index.js from C:\Users\gorel\Documents\Projects\imkchat\server\src\controllers\ia.controller.ts not supported.
+Instead change the require of index.js in C:\Users\gorel\Documents\Projects\imkchat\server\src\controllers\ia.controller.ts to a dynamic import() which is available in all CommonJS modules.
+Error [ERR_REQUIRE_ESM]: require() of ES Module C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\chatgpt\build\index.js from C:\Users\gorel\Documents\Projects\imkchat\server\src\controllers\ia.controller.ts not supported.
+Instead change the require of index.js in C:\Users\gorel\Documents\Projects\imkchat\server\src\controllers\ia.controller.ts to a dynamic import() which is available in all CommonJS modules.
+    at require.extensions.<computed> [as .js] (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:729:20)
+    at Object.<anonymous> (C:\Users\gorel\Documents\Projects\imkchat\server\src\controllers\ia.controller.ts:10:19)
+    at m._compile (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:735:29)
+    at require.extensions.<computed> [as .ts] (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:737:16)
+    at Object.<anonymous> (C:\Users\gorel\Documents\Projects\imkchat\server\src\routes\ia.route.ts:5:54)
+    at m._compile (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:735:29)
+    at require.extensions.<computed> [as .ts] (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:737:16)
+    at Object.<anonymous> (C:\Users\gorel\Documents\Projects\imkchat\server\src\routes\index.route.ts:7:49)
+    at m._compile (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:735:29)
+    at require.extensions.<computed> [as .ts] (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:737:16)
+    at Object.<anonymous> (C:\Users\gorel\Documents\Projects\imkchat\server\src\app.ts:21:52)
+    at m._compile (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:735:29)
+    at require.extensions.<computed> [as .ts] (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:737:16)
+    at Object.<anonymous> (C:\Users\gorel\Documents\Projects\imkchat\server\src\server.ts:5:44)
+    at m._compile (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:735:29)
+    at require.extensions.<computed> [as .ts] (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:737:16)
+    at main (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\bin.js:238:16)
+    at Object.<anonymous> (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\bin.js:351:5)
+2024-06-07 16:22:26 error: uncaughtException: require() of ES Module C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\chatgpt\build\index.js from C:\Users\gorel\Documents\Projects\imkchat\server\src\controllers\ia.controller.ts not supported.
+Instead change the require of index.js in C:\Users\gorel\Documents\Projects\imkchat\server\src\controllers\ia.controller.ts to a dynamic import() which is available in all CommonJS modules.
+Error [ERR_REQUIRE_ESM]: require() of ES Module C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\chatgpt\build\index.js from C:\Users\gorel\Documents\Projects\imkchat\server\src\controllers\ia.controller.ts not supported.
+Instead change the require of index.js in C:\Users\gorel\Documents\Projects\imkchat\server\src\controllers\ia.controller.ts to a dynamic import() which is available in all CommonJS modules.
+    at require.extensions.<computed> [as .js] (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:729:20)
+    at Object.<anonymous> (C:\Users\gorel\Documents\Projects\imkchat\server\src\controllers\ia.controller.ts:10:19)
+    at m._compile (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:735:29)
+    at require.extensions.<computed> [as .ts] (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:737:16)
+    at Object.<anonymous> (C:\Users\gorel\Documents\Projects\imkchat\server\src\routes\ia.route.ts:5:54)
+    at m._compile (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:735:29)
+    at require.extensions.<computed> [as .ts] (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:737:16)
+    at Object.<anonymous> (C:\Users\gorel\Documents\Projects\imkchat\server\src\routes\index.route.ts:7:49)
+    at m._compile (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:735:29)
+    at require.extensions.<computed> [as .ts] (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:737:16)
+    at Object.<anonymous> (C:\Users\gorel\Documents\Projects\imkchat\server\src\app.ts:21:52)
+    at m._compile (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:735:29)
+    at require.extensions.<computed> [as .ts] (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:737:16)
+    at Object.<anonymous> (C:\Users\gorel\Documents\Projects\imkchat\server\src\server.ts:5:44)
+    at m._compile (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:735:29)
+    at require.extensions.<computed> [as .ts] (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:737:16)
+    at main (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\bin.js:238:16)
+    at Object.<anonymous> (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\bin.js:351:5)
+2024-06-07 16:22:42 error: uncaughtException: require() of ES Module C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\chatgpt\build\index.js from C:\Users\gorel\Documents\Projects\imkchat\server\src\controllers\ia.controller.ts not supported.
+Instead change the require of index.js in C:\Users\gorel\Documents\Projects\imkchat\server\src\controllers\ia.controller.ts to a dynamic import() which is available in all CommonJS modules.
+Error [ERR_REQUIRE_ESM]: require() of ES Module C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\chatgpt\build\index.js from C:\Users\gorel\Documents\Projects\imkchat\server\src\controllers\ia.controller.ts not supported.
+Instead change the require of index.js in C:\Users\gorel\Documents\Projects\imkchat\server\src\controllers\ia.controller.ts to a dynamic import() which is available in all CommonJS modules.
+    at require.extensions.<computed> [as .js] (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:729:20)
+    at Object.<anonymous> (C:\Users\gorel\Documents\Projects\imkchat\server\src\controllers\ia.controller.ts:10:19)
+    at m._compile (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:735:29)
+    at require.extensions.<computed> [as .ts] (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:737:16)
+    at Object.<anonymous> (C:\Users\gorel\Documents\Projects\imkchat\server\src\routes\ia.route.ts:5:54)
+    at m._compile (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:735:29)
+    at require.extensions.<computed> [as .ts] (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:737:16)
+    at Object.<anonymous> (C:\Users\gorel\Documents\Projects\imkchat\server\src\routes\index.route.ts:7:49)
+    at m._compile (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:735:29)
+    at require.extensions.<computed> [as .ts] (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:737:16)
+    at Object.<anonymous> (C:\Users\gorel\Documents\Projects\imkchat\server\src\app.ts:21:52)
+    at m._compile (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:735:29)
+    at require.extensions.<computed> [as .ts] (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:737:16)
+    at Object.<anonymous> (C:\Users\gorel\Documents\Projects\imkchat\server\src\server.ts:5:44)
+    at m._compile (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:735:29)
+    at require.extensions.<computed> [as .ts] (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:737:16)
+    at main (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\bin.js:238:16)
+    at Object.<anonymous> (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\bin.js:351:5)
+2024-06-07 16:23:14 error: uncaughtException: require() of ES Module C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\chatgpt\build\index.js from C:\Users\gorel\Documents\Projects\imkchat\server\src\controllers\ia.controller.ts not supported.
+Instead change the require of index.js in C:\Users\gorel\Documents\Projects\imkchat\server\src\controllers\ia.controller.ts to a dynamic import() which is available in all CommonJS modules.
+Error [ERR_REQUIRE_ESM]: require() of ES Module C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\chatgpt\build\index.js from C:\Users\gorel\Documents\Projects\imkchat\server\src\controllers\ia.controller.ts not supported.
+Instead change the require of index.js in C:\Users\gorel\Documents\Projects\imkchat\server\src\controllers\ia.controller.ts to a dynamic import() which is available in all CommonJS modules.
+    at require.extensions.<computed> [as .js] (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:729:20)
+    at Object.<anonymous> (C:\Users\gorel\Documents\Projects\imkchat\server\src\controllers\ia.controller.ts:10:19)
+    at m._compile (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:735:29)
+    at require.extensions.<computed> [as .ts] (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:737:16)
+    at Object.<anonymous> (C:\Users\gorel\Documents\Projects\imkchat\server\src\routes\ia.route.ts:5:54)
+    at m._compile (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:735:29)
+    at require.extensions.<computed> [as .ts] (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:737:16)
+    at Object.<anonymous> (C:\Users\gorel\Documents\Projects\imkchat\server\src\routes\index.route.ts:7:49)
+    at m._compile (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:735:29)
+    at require.extensions.<computed> [as .ts] (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:737:16)
+    at Object.<anonymous> (C:\Users\gorel\Documents\Projects\imkchat\server\src\app.ts:21:52)
+    at m._compile (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:735:29)
+    at require.extensions.<computed> [as .ts] (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:737:16)
+    at Object.<anonymous> (C:\Users\gorel\Documents\Projects\imkchat\server\src\server.ts:5:44)
+    at m._compile (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:735:29)
+    at require.extensions.<computed> [as .ts] (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\index.js:737:16)
+    at main (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\bin.js:238:16)
+    at Object.<anonymous> (C:\Users\gorel\Documents\Projects\imkchat\server\node_modules\ts-node\dist\bin.js:351:5)
+2024-06-07 16:29:18 error: uncaughtException: Invalid array length
+RangeError: Invalid array length
+    at Buffer.toJSON (node:buffer:1138:15)
+    at JSON.stringify (<anonymous>)
+    at uploadFileToIAServer (C:\Users\gorel\Documents\Projects\imkchat\server\src\controllers\ia.controller.ts:66:14)
+    at sendFileToIAServer (C:\Users\gorel\Documents\Projects\imkchat\server\src\controllers\ia.controller.ts:62:5)
+    at reviewFileList (C:\Users\gorel\Documents\Projects\imkchat\server\src\controllers\ia.controller.ts:56:5)
+    at uploadPdf (C:\Users\gorel\Documents\Projects\imkchat\server\src\controllers\ia.controller.ts:30:27)
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-06-07 17:04:17 error: uncaughtException: Invalid array length
+RangeError: Invalid array length
+    at Buffer.toJSON (node:buffer:1138:15)
+    at JSON.stringify (<anonymous>)
+    at uploadFileToIAServer (C:\Users\gorel\Documents\Projects\imkchat\server\src\controllers\ia.controller.ts:66:14)
+    at sendFileToIAServer (C:\Users\gorel\Documents\Projects\imkchat\server\src\controllers\ia.controller.ts:62:5)
+    at reviewFileList (C:\Users\gorel\Documents\Projects\imkchat\server\src\controllers\ia.controller.ts:56:5)
+    at C:\Users\gorel\Documents\Projects\imkchat\server\src\routes\files.route.ts:95:39
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+2024-06-07 17:15:51 error: [POST] /api/files/updateFileById >> StatusCode:: 413, Message:: request entity too large
+2024-06-07 17:16:12 error: [POST] /api/files/updateFileById >> StatusCode:: 413, Message:: request entity too large
+2024-06-07 17:17:07 error: uncaughtException: Invalid string length
+RangeError: Invalid string length
+    at JSON.stringify (<anonymous>)
+    at uploadFileToIAServer (C:\Users\gorel\Documents\Projects\imkchat\server\src\controllers\ia.controller.ts:66:14)
+    at sendFileToIAServer (C:\Users\gorel\Documents\Projects\imkchat\server\src\controllers\ia.controller.ts:62:5)
+    at reviewFileList (C:\Users\gorel\Documents\Projects\imkchat\server\src\controllers\ia.controller.ts:56:5)
+    at C:\Users\gorel\Documents\Projects\imkchat\server\src\routes\files.route.ts:95:39
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)

@@ -1,0 +1,11 @@
+2023-06-30 06:52:40 error: connect ETIMEDOUT 66.235.200.147:465
+2023-06-30 06:54:29 error: connect ETIMEDOUT 66.235.200.147:465
+2023-06-30 06:57:37 error: connect ETIMEDOUT 66.235.200.147:465
+2023-06-30 06:58:12 error: Hostname/IP does not match certificate's altnames: Host: mail.imkchat.com. is not in the cert's altnames: DNS:*.bluehost.com, DNS:bluehost.com
+2023-06-30 06:59:10 error: Hostname/IP does not match certificate's altnames: Host: mail.imkchat.com. is not in the cert's altnames: DNS:*.bluehost.com, DNS:bluehost.com
+2023-06-30 07:06:54 error: connect ETIMEDOUT 66.235.200.147:465
+2023-06-30 07:41:41 error: Hostname/IP does not match certificate's altnames: Host: mail.imkchat.com. is not in the cert's altnames: DNS:*.bluehost.com, DNS:bluehost.com
+2023-06-30 16:04:54 error: 44550000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:c:\ws\deps\openssl\openssl\ssl\record\ssl3_record.c:355:
+
+2023-06-30 16:05:19 error: 7C5B0000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:c:\ws\deps\openssl\openssl\ssl\record\ssl3_record.c:355:
+

@@ -1,0 +1,180 @@
+2024-08-16 07:45:22 info: =================================
+2024-08-16 07:45:22 info: ======= ENV: development =======
+2024-08-16 07:45:22 info: 🚀 App listening on the port 5210
+2024-08-16 07:45:22 info: =================================
+2024-08-16 07:45:56 info: [0mGET /api/roles/getRolesById/organization/652934c5aaf7a00a88749e47 [36m304[0m 132.179 ms - -[0m
+2024-08-16 07:50:18 info: [0mGET /api/roles/getRolesById/organization/652934c5aaf7a00a88749e47 [36m304[0m 103.143 ms - -[0m
+2024-08-16 07:50:28 info: [0mOPTIONS /api/login [32m204[0m 0.740 ms - 0[0m
+2024-08-16 07:50:29 error: [POST] /api/login >> StatusCode:: 409, Message:: Wrong password
+2024-08-16 07:50:29 info: [0mPOST /api/login [33m409[0m 970.347 ms - 28[0m
+2024-08-16 07:50:33 error: [POST] /api/login >> StatusCode:: 409, Message:: Wrong password
+2024-08-16 07:50:33 info: [0mPOST /api/login [33m409[0m 488.716 ms - 28[0m
+2024-08-16 07:50:50 info: [0mOPTIONS /api/login [32m204[0m 0.797 ms - 0[0m
+2024-08-16 07:50:51 error: [POST] /api/login >> StatusCode:: 409, Message:: Wrong password
+2024-08-16 07:50:51 info: [0mPOST /api/login [33m409[0m 534.479 ms - 28[0m
+2024-08-16 07:50:58 info: [0mOPTIONS /api/login [32m204[0m 0.328 ms - 0[0m
+2024-08-16 07:50:59 info: [0mPOST /api/login [32m200[0m 623.335 ms - -[0m
+2024-08-16 07:53:29 info: [0mOPTIONS /api/login [32m204[0m 0.413 ms - 0[0m
+2024-08-16 07:53:30 info: [0mPOST /api/login [32m200[0m 1138.111 ms - -[0m
+2024-08-16 07:53:30 info: [0mOPTIONS /api/files/getFilesByCompany [32m204[0m 0.603 ms - 0[0m
+2024-08-16 07:53:30 info: [0mGET /api/roles/getRolesById/organization/652934c5aaf7a00a88749e47 [36m304[0m 115.161 ms - -[0m
+2024-08-16 07:53:30 error: [GET] /api/users/getUsersByCompany/[object%20Object] >> StatusCode:: 500, Message:: Cast to ObjectId failed for value "[object Object]" (type string) at path "organization" for model "User"
+2024-08-16 07:53:30 info: [0mGET /api/users/getUsersByCompany/[object%20Object] [31m500[0m 30.107 ms - 125[0m
+2024-08-16 07:53:30 info: [0mPOST /api/files/getFilesByCompany [32m200[0m 198.554 ms - 710[0m
+2024-08-16 07:53:30 info: [0mGET /api/roles/getRolesById/organization/652934c5aaf7a00a88749e47 [36m304[0m 101.311 ms - -[0m
+2024-08-16 07:53:31 info: [0mPOST /api/files/getFilesByCompany [32m200[0m 560.245 ms - 710[0m
+2024-08-16 07:56:17 info: =================================
+2024-08-16 07:56:17 info: ======= ENV: development =======
+2024-08-16 07:56:17 info: 🚀 App listening on the port 5210
+2024-08-16 07:56:17 info: =================================
+2024-08-16 07:56:24 info: [0mOPTIONS /api/login [32m204[0m 2.860 ms - 0[0m
+2024-08-16 07:56:25 info: [0mPOST /api/login [32m200[0m 817.832 ms - -[0m
+2024-08-16 07:56:25 info: [0mOPTIONS /api/files/getFilesByCompany [32m204[0m 0.945 ms - 0[0m
+2024-08-16 07:56:25 info: [0mGET /api/roles/getRolesById/organization/652934c5aaf7a00a88749e47 [36m304[0m 117.351 ms - -[0m
+2024-08-16 07:56:25 info: [0mPOST /api/files/getFilesByCompany [32m200[0m 205.169 ms - 710[0m
+2024-08-16 07:56:25 info: [0mGET /api/roles/getRolesById/organization/652934c5aaf7a00a88749e47 [36m304[0m 92.489 ms - -[0m
+2024-08-16 07:56:25 info: [0mPOST /api/files/getFilesByCompany [32m200[0m 198.459 ms - 710[0m
+2024-08-16 07:56:40 info: [0mOPTIONS /api/ia/chat [32m204[0m 0.546 ms - 0[0m
+2024-08-16 07:56:42 info: [0mPOST /api/ia/chat [32m200[0m 2210.151 ms - -[0m
+2024-08-16 07:57:26 info: [0mOPTIONS /api/ia/chat [32m204[0m 0.305 ms - 0[0m
+2024-08-16 07:57:29 info: [0mPOST /api/ia/chat [32m200[0m 3046.859 ms - -[0m
+2024-08-16 07:59:27 info: [0mOPTIONS /api/ia/chat [32m204[0m 0.331 ms - 0[0m
+2024-08-16 07:59:29 info: [0mPOST /api/ia/chat [32m200[0m 1944.362 ms - -[0m
+2024-08-16 07:59:56 info: [0mOPTIONS /api/ia/chat [32m204[0m 0.426 ms - 0[0m
+2024-08-16 07:59:58 info: [0mPOST /api/ia/chat [32m200[0m 1890.291 ms - -[0m
+2024-08-16 08:01:25 info: [0mOPTIONS /api/files/getFilesByCompany [32m204[0m 0.542 ms - 0[0m
+2024-08-16 08:01:25 info: [0mPOST /api/files/getFilesByCompany [32m200[0m 183.660 ms - 710[0m
+2024-08-16 08:01:25 info: [0mPOST /api/files/getFilesByCompany [32m200[0m 193.540 ms - 710[0m
+2024-08-16 08:09:12 error: [GET] /api/users/getUsersByCompany/[object%20Object] >> StatusCode:: 500, Message:: Cast to ObjectId failed for value "[object Object]" (type string) at path "organization" for model "User"
+2024-08-16 08:09:12 info: [0mGET /api/users/getUsersByCompany/[object%20Object] [31m500[0m 20.871 ms - 125[0m
+2024-08-16 08:09:12 info: [0mGET /api/roles/getRolesById/organization/652934c5aaf7a00a88749e47 [36m304[0m 99.321 ms - -[0m
+2024-08-16 08:14:57 error: [GET] /api/users/getUsersByCompany/[object%20Object] >> StatusCode:: 500, Message:: Cast to ObjectId failed for value "[object Object]" (type string) at path "organization" for model "User"
+2024-08-16 08:14:57 info: [0mGET /api/users/getUsersByCompany/[object%20Object] [31m500[0m 8.067 ms - 125[0m
+2024-08-16 08:14:57 info: [0mGET /api/roles/getRolesById/organization/652934c5aaf7a00a88749e47 [36m304[0m 86.639 ms - -[0m
+2024-08-16 08:17:56 error: [GET] /api/users/getUsersByCompany/[object%20Object] >> StatusCode:: 500, Message:: Cast to ObjectId failed for value "[object Object]" (type string) at path "organization" for model "User"
+2024-08-16 08:17:56 info: [0mGET /api/users/getUsersByCompany/[object%20Object] [31m500[0m 7.577 ms - 125[0m
+2024-08-16 08:17:56 info: [0mGET /api/roles/getRolesById/organization/652934c5aaf7a00a88749e47 [36m304[0m 158.663 ms - -[0m
+2024-08-16 08:19:06 info: [0mGET /api/users/getUsersByCompany/652934c5aaf7a00a88749e47 [32m200[0m 4560.993 ms - -[0m
+2024-08-16 08:19:40 info: [0mGET /api/roles/getRolesById/organization/652934c5aaf7a00a88749e47 [36m304[0m 98.333 ms - -[0m
+2024-08-16 08:19:45 info: [0mGET /api/users/getUsersByCompany/652934c5aaf7a00a88749e47 [36m304[0m 5081.883 ms - -[0m
+2024-08-16 08:24:36 info: [0mGET /api/roles/getRolesById/organization/652934c5aaf7a00a88749e47 [36m304[0m 122.368 ms - -[0m
+2024-08-16 08:24:41 info: [0mGET /api/users/getUsersByCompany/652934c5aaf7a00a88749e47 [36m304[0m 5078.991 ms - -[0m
+2024-08-16 08:28:53 info: [0mGET /api/roles/getRolesById/organization/652934c5aaf7a00a88749e47 [36m304[0m 115.820 ms - -[0m
+2024-08-16 08:28:58 info: [0mGET /api/users/getUsersByCompany/652934c5aaf7a00a88749e47 [36m304[0m 4942.940 ms - -[0m
+2024-08-16 08:29:24 info: [0mGET /api/roles/getRolesById/organization/652934c5aaf7a00a88749e47 [36m304[0m 88.538 ms - -[0m
+2024-08-16 08:29:28 info: [0mGET /api/users/getUsersByCompany/652934c5aaf7a00a88749e47 [36m304[0m 4846.132 ms - -[0m
+2024-08-16 08:31:21 info: =================================
+2024-08-16 08:31:21 info: ======= ENV: development =======
+2024-08-16 08:31:21 info: 🚀 App listening on the port 5210
+2024-08-16 08:31:21 info: =================================
+2024-08-16 08:31:38 info: [0mOPTIONS /api/login [32m204[0m 2.653 ms - 0[0m
+2024-08-16 08:31:38 info: [0mPOST /api/login [32m200[0m 761.248 ms - -[0m
+2024-08-16 08:31:38 info: [0mOPTIONS /api/files/getFilesByCompany [32m204[0m 1.661 ms - 0[0m
+2024-08-16 08:31:39 info: [0mGET /api/roles/getRolesById/organization/652934c5aaf7a00a88749e47 [36m304[0m 190.504 ms - -[0m
+2024-08-16 08:31:39 info: [0mPOST /api/files/getFilesByCompany [32m200[0m 473.730 ms - 710[0m
+2024-08-16 08:31:39 info: [0mGET /api/roles/getRolesById/organization/652934c5aaf7a00a88749e47 [36m304[0m 292.453 ms - -[0m
+2024-08-16 08:31:39 info: [0mPOST /api/files/getFilesByCompany [32m200[0m 489.110 ms - 710[0m
+2024-08-16 08:31:45 info: [0mGET /api/users/getUsersByCompany/652934c5aaf7a00a88749e47 [32m200[0m 23502.863 ms - -[0m
+2024-08-16 08:35:53 info: [0mGET /api/roles/getRolesById/organization/652934c5aaf7a00a88749e47 [36m304[0m 95.673 ms - -[0m
+2024-08-16 08:36:14 info: [0mGET /api/users/getUsersByCompany/652934c5aaf7a00a88749e47 [36m304[0m 21003.604 ms - -[0m
+2024-08-16 08:36:15 info: [0mGET /api/roles/getRolesById/organization/652934c5aaf7a00a88749e47 [32m200[0m 224.180 ms - 826[0m
+2024-08-16 08:36:21 info: [0mOPTIONS /api/login [32m204[0m 0.516 ms - 0[0m
+2024-08-16 08:36:23 info: [0mPOST /api/login [32m200[0m 1804.982 ms - -[0m
+2024-08-16 08:36:23 info: [0mOPTIONS /api/files/getFilesByCompany [32m204[0m 0.474 ms - 0[0m
+2024-08-16 08:36:23 info: [0mGET /api/roles/getRolesById/organization/652934c5aaf7a00a88749e47 [36m304[0m 129.865 ms - -[0m
+2024-08-16 08:36:23 info: [0mPOST /api/files/getFilesByCompany [32m200[0m 222.328 ms - 710[0m
+2024-08-16 08:36:30 info: [0mGET /api/users/getUsersByCompany/652934c5aaf7a00a88749e47 [32m200[0m 16037.654 ms - -[0m
+2024-08-16 08:37:13 info: [0mGET /api/roles/getRolesById/organization/652934c5aaf7a00a88749e47 [36m304[0m 289.161 ms - -[0m
+2024-08-16 08:37:23 info: [0mGET /api/users/getUsersByCompany/652934c5aaf7a00a88749e47 [36m304[0m 10424.198 ms - -[0m
+2024-08-16 08:37:24 info: [0mOPTIONS /api/login [32m204[0m 0.598 ms - 0[0m
+2024-08-16 08:37:24 info: [0mPOST /api/login [32m200[0m 688.458 ms - -[0m
+2024-08-16 08:37:24 info: [0mOPTIONS /api/files/getFilesByCompany [32m204[0m 0.359 ms - 0[0m
+2024-08-16 08:37:24 info: [0mGET /api/roles/getRolesById/organization/652934c5aaf7a00a88749e47 [36m304[0m 100.429 ms - -[0m
+2024-08-16 08:37:25 info: [0mPOST /api/files/getFilesByCompany [32m200[0m 210.166 ms - 710[0m
+2024-08-16 08:37:25 info: [0mGET /api/roles/getRolesById/organization/652934c5aaf7a00a88749e47 [36m304[0m 109.278 ms - -[0m
+2024-08-16 08:37:25 info: [0mPOST /api/files/getFilesByCompany [32m200[0m 212.491 ms - 710[0m
+2024-08-16 08:37:55 info: [0mGET /api/roles/getRolesById/organization/652934c5aaf7a00a88749e47 [36m304[0m 89.101 ms - -[0m
+2024-08-16 08:38:03 info: [0mGET /api/users/getUsersByCompany/652934c5aaf7a00a88749e47 [36m304[0m 8381.248 ms - -[0m
+2024-08-16 08:38:47 info: [0mGET /api/roles/getRolesById/organization/652934c5aaf7a00a88749e47 [36m304[0m 94.163 ms - -[0m
+2024-08-16 08:38:56 info: [0mGET /api/users/getUsersByCompany/652934c5aaf7a00a88749e47 [36m304[0m 8796.558 ms - -[0m
+2024-08-16 08:40:22 info: [0mGET /api/roles/getRolesById/organization/652934c5aaf7a00a88749e47 [36m304[0m 109.409 ms - -[0m
+2024-08-16 08:40:51 info: [0mGET /api/users/getUsersByCompany/652934c5aaf7a00a88749e47 [36m304[0m 29572.377 ms - -[0m
+2024-08-16 08:40:53 info: [0mGET /api/roles/getRolesById/organization/652934c5aaf7a00a88749e47 [36m304[0m 279.888 ms - -[0m
+2024-08-16 08:40:58 info: [0mGET /api/users/getUsersByCompany/652934c5aaf7a00a88749e47 [0m-[0m - ms - -[0m
+2024-08-16 08:41:00 info: [0mGET /api/roles/getRolesById/organization/652934c5aaf7a00a88749e47 [32m200[0m 456.287 ms - 826[0m
+2024-08-16 08:41:08 info: [0mOPTIONS /api/login [32m204[0m 0.756 ms - 0[0m
+2024-08-16 08:41:08 info: [0mPOST /api/login [32m200[0m 654.686 ms - -[0m
+2024-08-16 08:41:09 info: [0mOPTIONS /api/files/getFilesByCompany [32m204[0m 0.300 ms - 0[0m
+2024-08-16 08:41:09 info: [0mGET /api/roles/getRolesById/organization/652934c5aaf7a00a88749e47 [36m304[0m 110.639 ms - -[0m
+2024-08-16 08:41:09 info: [0mPOST /api/files/getFilesByCompany [32m200[0m 211.227 ms - 710[0m
+2024-08-16 08:41:17 info: [0mGET /api/users/getUsersByCompany/652934c5aaf7a00a88749e47 [32m200[0m 16719.869 ms - -[0m
+2024-08-16 08:41:35 info: [0mGET /api/roles/getRolesById/organization/652934c5aaf7a00a88749e47 [36m304[0m 208.951 ms - -[0m
+2024-08-16 08:41:49 info: [0mGET /api/users/getUsersByCompany/652934c5aaf7a00a88749e47 [36m304[0m 14423.294 ms - -[0m
+2024-08-16 08:48:50 info: [0mGET /api/roles/getRolesById/organization/652934c5aaf7a00a88749e47 [36m304[0m 115.932 ms - -[0m
+2024-08-16 08:48:59 info: [0mGET /api/users/getUsersByCompany/652934c5aaf7a00a88749e47 [36m304[0m 8389.886 ms - -[0m
+2024-08-16 08:48:59 info: [0mOPTIONS /api/login [32m204[0m 0.753 ms - 0[0m
+2024-08-16 08:48:59 info: [0mPOST /api/login [32m200[0m 729.258 ms - -[0m
+2024-08-16 08:48:59 info: [0mOPTIONS /api/files/getFilesByCompany [32m204[0m 0.439 ms - 0[0m
+2024-08-16 08:48:59 info: [0mGET /api/roles/getRolesById/organization/652934c5aaf7a00a88749e47 [36m304[0m 101.677 ms - -[0m
+2024-08-16 08:49:00 info: [0mPOST /api/files/getFilesByCompany [32m200[0m 198.108 ms - 710[0m
+2024-08-16 09:01:45 info: [0mGET /api/roles/getRolesById/organization/652934c5aaf7a00a88749e47 [36m304[0m 132.421 ms - -[0m
+2024-08-16 09:02:05 info: [0mGET /api/users/getUsersByCompany/652934c5aaf7a00a88749e47 [36m304[0m 19688.967 ms - -[0m
+2024-08-16 09:04:35 info: [0mOPTIONS /api/login [32m204[0m 0.774 ms - 0[0m
+2024-08-16 09:04:36 info: [0mPOST /api/login [32m200[0m 1696.825 ms - -[0m
+2024-08-16 09:04:36 info: [0mOPTIONS /api/files/getFilesByCompany [32m204[0m 0.435 ms - 0[0m
+2024-08-16 09:04:36 info: [0mGET /api/roles/getRolesById/organization/652934c5aaf7a00a88749e47 [36m304[0m 89.737 ms - -[0m
+2024-08-16 09:04:37 info: [0mPOST /api/files/getFilesByCompany [32m200[0m 460.055 ms - 710[0m
+2024-08-16 09:04:37 info: [0mGET /api/roles/getRolesById/organization/652934c5aaf7a00a88749e47 [36m304[0m 365.959 ms - -[0m
+2024-08-16 09:04:37 info: [0mPOST /api/files/getFilesByCompany [32m200[0m 449.286 ms - 710[0m
+2024-08-16 09:06:31 info: [0mGET /api/roles/getRolesById/organization/652934c5aaf7a00a88749e47 [36m304[0m 90.998 ms - -[0m
+2024-08-16 09:06:42 info: [0mGET /api/users/getUsersByCompany/652934c5aaf7a00a88749e47 [36m304[0m 11131.737 ms - -[0m
+2024-08-16 09:06:58 info: [0mOPTIONS /api/login [32m204[0m 0.628 ms - 0[0m
+2024-08-16 09:06:59 info: [0mPOST /api/login [32m200[0m 862.885 ms - -[0m
+2024-08-16 09:06:59 info: [0mOPTIONS /api/files/getFilesByCompany [32m204[0m 0.898 ms - 0[0m
+2024-08-16 09:06:59 info: [0mGET /api/roles/getRolesById/organization/652934c5aaf7a00a88749e47 [36m304[0m 111.406 ms - -[0m
+2024-08-16 09:06:59 info: [0mPOST /api/files/getFilesByCompany [32m200[0m 232.803 ms - 710[0m
+2024-08-16 09:06:59 info: [0mGET /api/roles/getRolesById/organization/652934c5aaf7a00a88749e47 [36m304[0m 116.227 ms - -[0m
+2024-08-16 09:06:59 info: [0mPOST /api/files/getFilesByCompany [32m200[0m 199.566 ms - 710[0m
+2024-08-16 09:07:11 info: [0mOPTIONS /api/ia/chat [32m204[0m 0.385 ms - 0[0m
+2024-08-16 09:07:16 info: [0mPOST /api/ia/chat [32m200[0m 4585.831 ms - -[0m
+2024-08-16 09:19:57 info: [0mGET /api/roles/getRolesById/organization/652934c5aaf7a00a88749e47 [36m304[0m 454.377 ms - -[0m
+2024-08-16 12:18:59 info: [0mOPTIONS /api/login [32m204[0m 0.299 ms - 0[0m
+2024-08-16 12:18:59 info: [0mPOST /api/login [32m200[0m 722.011 ms - -[0m
+2024-08-16 12:18:59 info: [0mOPTIONS /api/files/getFilesByCompany [32m204[0m 0.455 ms - 0[0m
+2024-08-16 12:18:59 info: [0mGET /api/roles/getRolesById/organization/652934c5aaf7a00a88749e47 [36m304[0m 97.118 ms - -[0m
+2024-08-16 12:19:00 info: [0mPOST /api/files/getFilesByCompany [32m200[0m 212.402 ms - 710[0m
+2024-08-16 12:19:00 info: [0mGET /api/roles/getRolesById/organization/652934c5aaf7a00a88749e47 [36m304[0m 201.005 ms - -[0m
+2024-08-16 12:19:00 info: [0mPOST /api/files/getFilesByCompany [32m200[0m 361.152 ms - 710[0m
+2024-08-16 12:51:39 info: [0mGET /api/roles/getRolesById/organization/652934c5aaf7a00a88749e47 [36m304[0m 111.478 ms - -[0m
+2024-08-16 12:51:48 info: [0mGET /api/users/getUsersByCompany/652934c5aaf7a00a88749e47 [36m304[0m 8758.464 ms - -[0m
+2024-08-16 12:57:25 info: [0mOPTIONS /api/forgot-password [32m204[0m 0.935 ms - 0[0m
+2024-08-16 12:57:27 info: [0mPOST /api/forgot-password [32m200[0m 2557.240 ms - 693[0m
+2024-08-16 13:03:53 info: [0mOPTIONS /api/forgot-password [32m204[0m 0.363 ms - 0[0m
+2024-08-16 13:03:55 info: [0mPOST /api/forgot-password [32m200[0m 2152.778 ms - 693[0m
+2024-08-16 13:04:15 info: [0mOPTIONS /api/forgot-password [32m204[0m 0.423 ms - 0[0m
+2024-08-16 13:04:15 error: [POST] /api/forgot-password >> StatusCode:: 409, Message:: Email gozalo.orellana@kauel.com not found
+2024-08-16 13:04:15 info: [0mPOST /api/forgot-password [33m409[0m 119.558 ms - 55[0m
+2024-08-16 13:04:34 info: [0mOPTIONS /api/forgot-password [32m204[0m 0.364 ms - 0[0m
+2024-08-16 13:04:34 error: [POST] /api/forgot-password >> StatusCode:: 409, Message:: Email gozalo.orellana@kauel.com not found
+2024-08-16 13:04:34 info: [0mPOST /api/forgot-password [33m409[0m 157.884 ms - 55[0m
+2024-08-16 13:24:33 info: [0mOPTIONS /api/forgot-password [32m204[0m 0.400 ms - 0[0m
+2024-08-16 13:24:35 info: [0mPOST /api/forgot-password [32m200[0m 2252.194 ms - 523[0m
+2024-08-16 13:25:16 info: [0mOPTIONS /api/forgot-password [32m204[0m 0.576 ms - 0[0m
+2024-08-16 13:25:18 info: [0mPOST /api/forgot-password [32m200[0m 1721.712 ms - 523[0m
+2024-08-16 13:27:16 info: [0mOPTIONS /api/login [32m204[0m 0.493 ms - 0[0m
+2024-08-16 13:27:17 error: [POST] /api/login >> StatusCode:: 409, Message:: Wrong password
+2024-08-16 13:27:17 info: [0mPOST /api/login [33m409[0m 544.602 ms - 28[0m
+2024-08-16 13:29:07 info: [0mOPTIONS /api/login [32m204[0m 1.076 ms - 0[0m
+2024-08-16 13:29:08 error: [POST] /api/login >> StatusCode:: 409, Message:: Wrong password
+2024-08-16 13:29:08 info: [0mPOST /api/login [33m409[0m 503.370 ms - 28[0m
+2024-08-16 13:32:45 info: [0mOPTIONS /api/login [32m204[0m 0.461 ms - 0[0m
+2024-08-16 13:32:46 error: [POST] /api/login >> StatusCode:: 409, Message:: Wrong password
+2024-08-16 13:32:46 info: [0mPOST /api/login [33m409[0m 593.806 ms - 28[0m
+2024-08-16 13:32:52 info: [0mOPTIONS /api/login [32m204[0m 0.572 ms - 0[0m
+2024-08-16 13:32:53 error: [POST] /api/login >> StatusCode:: 409, Message:: Wrong password
+2024-08-16 13:32:53 info: [0mPOST /api/login [33m409[0m 543.998 ms - 28[0m
+2024-08-16 13:33:06 info: [0mOPTIONS /api/login [32m204[0m 0.398 ms - 0[0m
+2024-08-16 13:33:07 info: [0mPOST /api/login [32m200[0m 586.224 ms - -[0m
+2024-08-16 13:33:07 info: [0mOPTIONS /api/files/getFilesByCompany [32m204[0m 0.349 ms - 0[0m
+2024-08-16 13:33:07 info: [0mGET /api/roles/getRolesById/organization/652934c5aaf7a00a88749e47 [36m304[0m 95.894 ms - -[0m
+2024-08-16 13:33:07 info: [0mPOST /api/files/getFilesByCompany [32m200[0m 191.039 ms - 710[0m

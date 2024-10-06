@@ -1,0 +1,9 @@
+2022-05-30 14:31:54 error: [POST] /api/clients/createClient >> StatusCode:: 500, Message:: E11000 duplicate key error collection: sac.clientes index: rut_1 dup key: { rut: "15.828.475-8" }
+2022-05-30 14:35:26 error: [POST] /api/clients/createClient >> StatusCode:: 500, Message:: E11000 duplicate key error collection: sac.clientes index: rut_1 dup key: { rut: "15.828.475-8" }
+2022-05-30 17:51:29 error: [POST] /api/clients/createClient >> StatusCode:: 500, Message:: E11000 duplicate key error collection: sac.clientes index: rut_1 dup key: { rut: "15.828.475-8" }
+2022-05-30 17:54:36 error: [POST] /api/clients/createClient >> StatusCode:: 500, Message:: E11000 duplicate key error collection: sac.clientes index: rut_1 dup key: { rut: "15.828.475-8" }
+2022-05-30 17:55:26 error: [POST] /api/clients/createClient >> StatusCode:: 500, Message:: E11000 duplicate key error collection: sac.clientes index: rut_1 dup key: { rut: "15.828.475-8" }
+2022-05-30 18:12:17 error: [POST] /api/clients/createClient >> StatusCode:: 500, Message:: E11000 duplicate key error collection: sac.clientes index: rut_1 dup key: { rut: "15.828.475-8" }
+2022-05-30 18:12:32 error: [POST] /api/clients/createClient >> StatusCode:: 500, Message:: E11000 duplicate key error collection: sac.clientes index: origenDelContrato_1 dup key: { origenDelContrato: null }
+2022-05-30 18:14:07 error: [POST] /api/clients/createClient >> StatusCode:: 500, Message:: E11000 duplicate key error collection: sac.clientes index: origenDelContrato_1 dup key: { origenDelContrato: null }
+2022-05-30 20:59:37 error: [POST] /api/clients/createClient >> StatusCode:: 500, Message:: E11000 duplicate key error collection: sac.clientes index: rut_1 dup key: { rut: "16.636.265-2" }

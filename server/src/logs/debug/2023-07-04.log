@@ -1,0 +1,246 @@
+2023-07-04 12:00:14 info: =================================
+2023-07-04 12:00:14 info: ======= ENV: development =======
+2023-07-04 12:00:14 info: 🚀 App listening on the port 5210
+2023-07-04 12:00:14 info: =================================
+2023-07-04 12:22:33 info: [0mGET /invoker/readonly [32m200[0m 8.041 ms - 872[0m
+2023-07-04 12:22:34 info: [0mPOST /_ignition/execute-solution [33m404[0m 25.401 ms - 166[0m
+2023-07-04 12:22:34 info: [0mPOST /vendor/phpunit/phpunit/src/Util/PHP/eval-stdin.php [33m404[0m 2.663 ms - 190[0m
+2023-07-04 12:22:34 info: [0mGET / [32m200[0m 1.935 ms - 872[0m
+2023-07-04 12:22:34 info: [0mGET /script [32m200[0m 1.860 ms - 872[0m
+2023-07-04 12:22:35 info: [0mGET /login [32m200[0m 1.519 ms - 872[0m
+2023-07-04 12:22:35 info: [0mGET /jenkins/login [32m200[0m 1.500 ms - 872[0m
+2023-07-04 12:22:35 info: [0mGET /manager/html [32m200[0m 3.596 ms - 872[0m
+2023-07-04 12:22:35 info: [0mGET /?s=/Index/\think\app/invokefunction&function=call_user_func_array&vars[0]=md5&vars[1][]=6b78oc9q [32m200[0m 1.509 ms - 872[0m
+2023-07-04 12:22:36 info: [0mGET /users/sign_in [32m200[0m 2.696 ms - 872[0m
+2023-07-04 12:22:36 info: [0mGET /wp-login.php [32m200[0m 2.029 ms - 872[0m
+2023-07-04 12:34:19 info: [0mPOST /api/login [32m200[0m 343.272 ms - -[0m
+2023-07-04 12:40:12 info: [0mPOST /api/login [32m200[0m 327.221 ms - -[0m
+2023-07-04 12:43:26 info: [0mPOST / [33m404[0m 1.712 ms - 140[0m
+2023-07-04 12:43:26 info: [0mGET /.env [32m200[0m 1.782 ms - 872[0m
+2023-07-04 13:18:00 info: [0mGET /admin/.git/config [32m200[0m 167.685 ms - 872[0m
+2023-07-04 13:18:00 info: [0mGET /a/.git/config [32m200[0m 168.718 ms - 872[0m
+2023-07-04 13:18:00 info: [0mGET /api/admin/v1/.git/config [32m200[0m 172.151 ms - 872[0m
+2023-07-04 13:18:00 info: [0mGET /.git/config [32m200[0m 171.769 ms - 872[0m
+2023-07-04 13:18:00 info: [0mGET /__MACOSX/.git/config [32m200[0m 173.462 ms - 872[0m
+2023-07-04 13:18:00 info: [0mGET /amphtml/.git/config [32m200[0m 175.322 ms - 872[0m
+2023-07-04 13:18:00 info: [0mGET /alpha/.git/config [32m200[0m 180.290 ms - 872[0m
+2023-07-04 13:18:00 info: [0mGET /api/admin/v3/.git/config [32m200[0m 157.181 ms - 872[0m
+2023-07-04 13:18:00 info: [0mGET /api/user/v2/.git/config [32m200[0m 160.734 ms - 872[0m
+2023-07-04 13:18:00 info: [0mGET /blog/wp-content/themes/.git/config [32m200[0m 157.123 ms - 872[0m
+2023-07-04 13:18:00 info: [0mGET /repository/.git/config [32m200[0m 158.387 ms - 872[0m
+2023-07-04 13:18:00 info: [0mGET /api/admin/v4/.git/config [32m200[0m 154.334 ms - 872[0m
+2023-07-04 13:18:00 info: [0mGET /api/user/v3/.git/config [32m200[0m 153.081 ms - 872[0m
+2023-07-04 13:18:00 info: [0mGET /developer/.git/config [32m200[0m 146.788 ms - 872[0m
+2023-07-04 13:18:00 info: [0mGET /gateway/.git/config [32m200[0m 147.147 ms - 872[0m
+2023-07-04 13:18:00 info: [0mGET /live/.git/config [32m200[0m 149.286 ms - 872[0m
+2023-07-04 13:18:00 info: [0mGET /static/.git/config [32m200[0m 158.917 ms - 872[0m
+2023-07-04 13:18:00 info: [0mGET /app/.git/config [32m200[0m 159.346 ms - 872[0m
+2023-07-04 13:18:00 info: [0mGET /web/.git/config [32m200[0m 155.017 ms - 872[0m
+2023-07-04 13:18:00 info: [0mGET /site/.git/config [32m200[0m 155.558 ms - 872[0m
+2023-07-04 13:18:00 info: [0mGET /old-cuburn/.git/config [32m200[0m 155.785 ms - 872[0m
+2023-07-04 13:18:00 info: [0mGET /api/v1/.git/config [32m200[0m 150.461 ms - 872[0m
+2023-07-04 13:18:00 info: [0mGET /css../.git/config [32m200[0m 143.435 ms - 872[0m
+2023-07-04 13:18:00 info: [0mGET /api/v2/.git/config [32m200[0m 143.928 ms - 872[0m
+2023-07-04 13:18:00 info: [0mGET /samples/.git/config [32m200[0m 142.716 ms - 872[0m
+2023-07-04 13:18:00 info: [0mGET /public/.git/config [32m200[0m 143.711 ms - 872[0m
+2023-07-04 13:18:00 info: [0mGET /wp-content/themes/.git/config [32m200[0m 147.677 ms - 872[0m
+2023-07-04 13:18:00 info: [0mGET /api/v3/.git/config [32m200[0m 176.895 ms - 872[0m
+2023-07-04 13:18:00 info: [0mGET /api/user/v1/.git/config [32m200[0m 177.846 ms - 872[0m
+2023-07-04 13:18:00 info: [0mGET /new/.git/config [32m200[0m 172.752 ms - 872[0m
+2023-07-04 13:18:00 info: [0mGET /beta/.git/config [32m200[0m 173.603 ms - 872[0m
+2023-07-04 13:18:00 info: [0mGET /img../.git/config [32m200[0m 173.770 ms - 872[0m
+2023-07-04 13:18:00 info: [0mGET /api/admin/v2/.git/config [32m200[0m 174.082 ms - 872[0m
+2023-07-04 13:18:00 info: [0mGET /staging/.git/config [32m200[0m 166.502 ms - 872[0m
+2023-07-04 13:18:00 info: [0mGET /wiki/.git/config [32m200[0m 166.696 ms - 872[0m
+2023-07-04 13:18:01 info: [0mGET /build/.git/config [32m200[0m 117.838 ms - 872[0m
+2023-07-04 13:18:01 info: [0mGET /s3/.git/config [32m200[0m 120.052 ms - 872[0m
+2023-07-04 13:18:01 info: [0mGET /v3/.git/config [32m200[0m 120.816 ms - 872[0m
+2023-07-04 13:18:01 info: [0mGET /database/.git/config [32m200[0m 122.686 ms - 872[0m
+2023-07-04 13:18:01 info: [0mGET /v2/.git/config [32m200[0m 124.952 ms - 872[0m
+2023-07-04 13:18:01 info: [0mGET /common/.git/config [32m200[0m 124.142 ms - 872[0m
+2023-07-04 13:18:01 info: [0mGET /m/.git/config [32m200[0m 125.810 ms - 872[0m
+2023-07-04 13:18:01 info: [0mGET /backup/.git/config [32m200[0m 126.945 ms - 872[0m
+2023-07-04 13:18:01 info: [0mGET /images../.git/config [32m200[0m 128.208 ms - 872[0m
+2023-07-04 13:18:01 info: [0mGET /test/.git/config [32m200[0m 129.248 ms - 872[0m
+2023-07-04 13:18:01 info: [0mGET /vendor/.git/config [32m200[0m 129.249 ms - 872[0m
+2023-07-04 13:18:01 info: [0mGET /dev/.git/config [32m200[0m 130.150 ms - 872[0m
+2023-07-04 13:18:01 info: [0mGET /application/.git/config [32m200[0m 131.348 ms - 872[0m
+2023-07-04 13:18:01 info: [0mGET /demo/.git/config [32m200[0m 132.678 ms - 872[0m
+2023-07-04 13:18:01 info: [0mGET /blog/.git/config [32m200[0m 134.186 ms - 872[0m
+2023-07-04 13:18:01 info: [0mGET /git/.git/config [32m200[0m 135.214 ms - 872[0m
+2023-07-04 13:18:01 info: [0mGET /data/.git/config [32m200[0m 135.304 ms - 872[0m
+2023-07-04 13:18:01 info: [0mGET /qa/.git/config [32m200[0m 132.712 ms - 872[0m
+2023-07-04 13:18:01 info: [0mGET /assets../.git/config [32m200[0m 133.831 ms - 872[0m
+2023-07-04 13:18:01 info: [0mGET /repos/.git/config [32m200[0m 118.331 ms - 872[0m
+2023-07-04 13:18:01 info: [0mGET /store/.git/config [32m200[0m 119.334 ms - 872[0m
+2023-07-04 13:18:01 info: [0mGET /wp-content/plugins/.git/config [32m200[0m 122.085 ms - 872[0m
+2023-07-04 13:18:01 info: [0mGET /static../.git/config [32m200[0m 122.843 ms - 872[0m
+2023-07-04 13:18:01 info: [0mGET /content../.git/config [32m200[0m 123.674 ms - 872[0m
+2023-07-04 13:18:01 info: [0mGET /api/user/v4/.git/config [32m200[0m 112.077 ms - 872[0m
+2023-07-04 13:18:01 info: [0mGET /media../.git/config [32m200[0m 112.678 ms - 872[0m
+2023-07-04 13:18:01 info: [0mGET /flock/.git/config [32m200[0m 113.707 ms - 872[0m
+2023-07-04 13:18:01 info: [0mGET /user/.git/config [32m200[0m 115.250 ms - 872[0m
+2023-07-04 13:18:01 info: [0mGET /events../.git/config [32m200[0m 115.581 ms - 872[0m
+2023-07-04 13:18:01 info: [0mGET /api/v4/.git/config [32m200[0m 115.331 ms - 872[0m
+2023-07-04 13:18:01 info: [0mGET /v1/.git/config [32m200[0m 114.838 ms - 872[0m
+2023-07-04 13:18:01 info: [0mGET /wp-content/.git/config [32m200[0m 114.783 ms - 872[0m
+2023-07-04 13:18:01 info: [0mGET /lib../.git/config [32m200[0m 106.901 ms - 872[0m
+2023-07-04 13:18:01 info: [0mGET /cms/.git/config [32m200[0m 89.664 ms - 872[0m
+2023-07-04 13:18:01 info: [0mGET /wp-includes/js/.git/config [32m200[0m 91.059 ms - 872[0m
+2023-07-04 13:18:01 info: [0mGET /shop/.git/config [32m200[0m 91.798 ms - 872[0m
+2023-07-04 13:18:01 info: [0mGET /js../.git/config [32m200[0m 91.749 ms - 872[0m
+2023-07-04 13:18:02 info: [0mGET /aomanalyzer/.git/config [32m200[0m 4.442 ms - 872[0m
+2023-07-04 13:18:02 info: [0mGET /api/.git/config [32m200[0m 2.530 ms - 872[0m
+2023-07-04 13:34:12 info: =================================
+2023-07-04 13:34:12 info: ======= ENV: development =======
+2023-07-04 13:34:12 info: 🚀 App listening on the port 5210
+2023-07-04 13:34:12 info: =================================
+2023-07-04 13:43:07 info: =================================
+2023-07-04 13:43:07 info: ======= ENV: development =======
+2023-07-04 13:43:07 info: 🚀 App listening on the port 5210
+2023-07-04 13:43:07 info: =================================
+2023-07-04 13:47:52 info: =================================
+2023-07-04 13:47:52 info: ======= ENV: development =======
+2023-07-04 13:47:52 info: 🚀 App listening on the port 5210
+2023-07-04 13:47:52 info: =================================
+2023-07-04 13:48:40 info: =================================
+2023-07-04 13:48:40 info: ======= ENV: development =======
+2023-07-04 13:48:40 info: 🚀 App listening on the port 5210
+2023-07-04 13:48:40 info: =================================
+2023-07-04 13:49:46 info: =================================
+2023-07-04 13:49:46 info: ======= ENV: development =======
+2023-07-04 13:49:46 info: 🚀 App listening on the port 5210
+2023-07-04 13:49:46 info: =================================
+2023-07-04 13:51:01 info: [0mGET / [32m200[0m 6.632 ms - 872[0m
+2023-07-04 13:51:01 info: [0mGET /static/js/main.fa078eac.js [32m200[0m 5.666 ms - -[0m
+2023-07-04 13:51:02 info: [0mGET /static/css/main.66da890e.css [32m200[0m 1.841 ms - -[0m
+2023-07-04 13:51:02 info: [0mGET /static/js/22.86674b8c.chunk.js [32m200[0m 1.533 ms - 864[0m
+2023-07-04 13:51:02 info: [0mGET /assets/images/Imkchat_logo.svg [32m200[0m 1.484 ms - -[0m
+2023-07-04 13:51:02 info: [0mGET /static/media/OpenSans-Regular.9a6cfa5890d7f3eef585.ttf [32m200[0m 2.730 ms - -[0m
+2023-07-04 13:51:02 info: [0mGET /assets/icon/fabicon.webp [32m200[0m 2.724 ms - 630[0m
+2023-07-04 13:51:02 info: [0mGET /static/js/344.af5e8bf1.chunk.js [32m200[0m 4.595 ms - -[0m
+2023-07-04 13:51:02 info: [0mGET /static/js/225.ccf05236.chunk.js [32m200[0m 3.863 ms - -[0m
+2023-07-04 13:51:02 info: [0mGET /assets/icon/fabicon.webp [36m304[0m 1.561 ms - -[0m
+2023-07-04 19:42:18 info: =================================
+2023-07-04 19:42:18 info: ======= ENV: development =======
+2023-07-04 19:42:18 info: 🚀 App listening on the port 5210
+2023-07-04 19:42:18 info: =================================
+2023-07-04 19:43:26 info: [0mPOST /api/login [32m200[0m 363.584 ms - -[0m
+2023-07-04 20:08:20 info: [0mPOST / [33m404[0m 4.248 ms - 140[0m
+2023-07-04 20:08:20 info: [0mGET /.env [32m200[0m 5.578 ms - 872[0m
+2023-07-04 20:44:41 info: [0mGET / [32m200[0m 1.889 ms - 872[0m
+2023-07-04 20:52:42 info: [0mPOST / [33m404[0m 1.812 ms - 140[0m
+2023-07-04 20:52:43 info: [0mGET /.env [32m200[0m 1.686 ms - 872[0m
+2023-07-04 21:02:46 info: [0mGET / [36m304[0m 3.719 ms - -[0m
+2023-07-04 21:02:47 info: [0mGET /static/css/main.e48e96ec.css [36m304[0m 1.192 ms - -[0m
+2023-07-04 21:02:47 info: [0mGET /static/js/main.218a5440.js [36m304[0m 8.433 ms - -[0m
+2023-07-04 21:02:48 info: [0mGET /static/js/22.86674b8c.chunk.js [36m304[0m 1.138 ms - -[0m
+2023-07-04 21:02:48 info: [0mGET /assets/images/Imkchat_logo.svg [36m304[0m 2.425 ms - -[0m
+2023-07-04 21:02:48 info: [0mGET /static/media/OpenSans-Regular.9a6cfa5890d7f3eef585.ttf [36m304[0m 1.735 ms - -[0m
+2023-07-04 21:02:48 info: [0mGET /static/js/344.af5e8bf1.chunk.js [36m304[0m 1.077 ms - -[0m
+2023-07-04 21:02:48 info: [0mGET /static/js/225.ccf05236.chunk.js [36m304[0m 1.559 ms - -[0m
+2023-07-04 21:04:58 info: =================================
+2023-07-04 21:04:58 info: ======= ENV: development =======
+2023-07-04 21:04:58 info: 🚀 App listening on the port 5210
+2023-07-04 21:04:58 info: =================================
+2023-07-04 21:06:18 info: =================================
+2023-07-04 21:06:18 info: ======= ENV: development =======
+2023-07-04 21:06:18 info: 🚀 App listening on the port 5210
+2023-07-04 21:06:18 info: =================================
+2023-07-04 21:11:42 info: =================================
+2023-07-04 21:11:42 info: ======= ENV: development =======
+2023-07-04 21:11:42 info: 🚀 App listening on the port 5210
+2023-07-04 21:11:42 info: =================================
+2023-07-04 21:12:59 info: [0mGET / [32m200[0m 7.024 ms - 872[0m
+2023-07-04 21:13:03 info: =================================
+2023-07-04 21:13:03 info: ======= ENV: development =======
+2023-07-04 21:13:03 info: 🚀 App listening on the port 5210
+2023-07-04 21:13:03 info: =================================
+2023-07-04 21:17:46 info: =================================
+2023-07-04 21:17:46 info: ======= ENV: development =======
+2023-07-04 21:17:46 info: 🚀 App listening on the port 5210
+2023-07-04 21:17:46 info: =================================
+2023-07-04 21:18:41 info: =================================
+2023-07-04 21:18:41 info: ======= ENV: development =======
+2023-07-04 21:18:41 info: 🚀 App listening on the port 5210
+2023-07-04 21:18:41 info: =================================
+2023-07-04 21:20:45 info: =================================
+2023-07-04 21:20:45 info: ======= ENV: development =======
+2023-07-04 21:20:45 info: 🚀 App listening on the port 5210
+2023-07-04 21:20:45 info: =================================
+2023-07-04 21:22:09 info: =================================
+2023-07-04 21:22:09 info: ======= ENV: development =======
+2023-07-04 21:22:09 info: 🚀 App listening on the port 5210
+2023-07-04 21:22:09 info: =================================
+2023-07-04 21:23:21 info: [0mPOST /api/login [32m200[0m 368.062 ms - -[0m
+2023-07-04 21:24:58 info: [0mGET / [32m200[0m 5.051 ms - 872[0m
+2023-07-04 21:24:59 info: [0mGET /assets/icon/fabicon.webp [32m200[0m 3.403 ms - 630[0m
+2023-07-04 21:32:31 info: [0mGET / [32m200[0m 1.526 ms - 872[0m
+2023-07-04 21:48:12 info: [0mPOST / [33m404[0m 4.577 ms - 140[0m
+2023-07-04 21:48:12 info: [0mGET /.env [32m200[0m 3.119 ms - 872[0m
+2023-07-04 22:10:33 info: [0mGET / [32m200[0m 2.908 ms - 872[0m
+2023-07-04 22:11:36 info: [0mPOST /api/ia/chat [33m400[0m 581.122 ms - 2[0m
+2023-07-04 22:14:05 info: [0mPOST /api/ia/chat [33m400[0m 574.499 ms - 2[0m
+2023-07-04 22:21:28 info: [0mPOST /api/ia/chat [33m400[0m 570.562 ms - 2[0m
+2023-07-04 22:22:07 info: [0mPOST /api/ia/chat [33m400[0m 571.090 ms - 2[0m
+2023-07-04 22:23:09 info: [0mPOST /api/ia/chat [33m400[0m 566.157 ms - 2[0m
+2023-07-04 22:32:16 info: [0mPOST /api/ia/chat [33m400[0m 559.497 ms - 2[0m
+2023-07-04 22:32:22 info: [0mPOST /api/ia/chat [33m400[0m 579.875 ms - 2[0m
+2023-07-04 22:34:05 info: [0mPOST /api/ia/chat [33m400[0m 705.630 ms - 2[0m
+2023-07-04 22:37:56 info: [0mPOST /api/ia/chat [33m400[0m 572.808 ms - 2[0m
+2023-07-04 22:38:09 info: [0mPOST /api/ia/chat [33m400[0m 572.146 ms - 2[0m
+2023-07-04 22:40:32 info: [0mGET / [32m200[0m 1.229 ms - 872[0m
+2023-07-04 22:49:19 info: [0mPOST /api/ia/chat [33m400[0m 576.351 ms - 2[0m
+2023-07-04 22:49:28 info: [0mPOST /api/ia/chat [33m400[0m 563.584 ms - 2[0m
+2023-07-04 22:54:08 info: [0mGET /manager/text/list [32m200[0m 2.164 ms - 872[0m
+2023-07-04 22:54:59 info: [0mPOST /api/login [32m200[0m 322.121 ms - -[0m
+2023-07-04 22:57:07 info: [0mPOST /api/login [32m200[0m 323.723 ms - -[0m
+2023-07-04 22:57:24 info: [0mPOST /api/login [32m200[0m 319.862 ms - -[0m
+2023-07-04 22:57:40 info: [0mGET /druid/index.html [32m200[0m 2.191 ms - 872[0m
+2023-07-04 22:58:03 info: [0mGET /login [32m200[0m 1.757 ms - 872[0m
+2023-07-04 22:58:03 info: [0mGET /static/js/main.218a5440.js [36m304[0m 1.842 ms - -[0m
+2023-07-04 22:58:03 info: [0mGET /static/css/main.e48e96ec.css [36m304[0m 1.119 ms - -[0m
+2023-07-04 22:58:03 info: [0mGET /assets/images/Imkchat_logo.svg [36m304[0m 2.055 ms - -[0m
+2023-07-04 22:58:03 info: [0mGET /static/js/22.86674b8c.chunk.js [36m304[0m 3.634 ms - -[0m
+2023-07-04 22:58:04 info: [0mGET /static/media/OpenSans-Regular.9a6cfa5890d7f3eef585.ttf [36m304[0m 1.250 ms - -[0m
+2023-07-04 22:58:04 info: [0mGET /static/js/344.af5e8bf1.chunk.js [36m304[0m 0.912 ms - -[0m
+2023-07-04 22:58:04 info: [0mGET /static/js/225.ccf05236.chunk.js [36m304[0m 0.770 ms - -[0m
+2023-07-04 22:58:04 info: [0mGET /assets/icon/fabicon.webp [32m200[0m 1.485 ms - 630[0m
+2023-07-04 22:58:15 info: [0mPOST /api/login [32m200[0m 341.346 ms - -[0m
+2023-07-04 22:58:33 info: [0mPOST /api/ia/upload_pdf [32m200[0m 5227.108 ms - 71[0m
+2023-07-04 22:59:06 info: [0mPOST /api/ia/chat [32m200[0m 9537.438 ms - -[0m
+2023-07-04 22:59:34 info: [0mPOST /api/ia/upload_pdf [32m200[0m 1142.428 ms - 95[0m
+2023-07-04 23:01:34 info: =================================
+2023-07-04 23:01:34 info: ======= ENV: development =======
+2023-07-04 23:01:34 info: 🚀 App listening on the port 5210
+2023-07-04 23:01:34 info: =================================
+2023-07-04 23:01:42 info: [0mPOST /api/ia/upload_pdf [32m200[0m 1225.738 ms - 95[0m
+2023-07-04 23:02:58 info: =================================
+2023-07-04 23:02:58 info: ======= ENV: development =======
+2023-07-04 23:02:58 info: 🚀 App listening on the port 5210
+2023-07-04 23:02:58 info: =================================
+2023-07-04 23:03:24 info: =================================
+2023-07-04 23:03:25 info: ======= ENV: development =======
+2023-07-04 23:03:25 info: 🚀 App listening on the port 5210
+2023-07-04 23:03:25 info: =================================
+2023-07-04 23:03:37 info: =================================
+2023-07-04 23:03:37 info: ======= ENV: development =======
+2023-07-04 23:03:37 info: 🚀 App listening on the port 5210
+2023-07-04 23:03:37 info: =================================
+2023-07-04 23:03:52 info: [0mPOST /api/ia/upload_pdf [32m200[0m 1207.736 ms - 95[0m
+2023-07-04 23:05:05 info: [0mPOST /api/ia/upload_pdf [32m200[0m 1014.516 ms - 95[0m
+2023-07-04 23:05:55 info: [0mPOST /api/ia/chat [32m200[0m 23140.175 ms - -[0m
+2023-07-04 23:07:59 info: =================================
+2023-07-04 23:07:59 info: ======= ENV: development =======
+2023-07-04 23:07:59 info: 🚀 App listening on the port 5210
+2023-07-04 23:07:59 info: =================================
+2023-07-04 23:08:28 info: [0mPOST /api/ia/upload_pdf [32m200[0m 1179.368 ms - 95[0m
+2023-07-04 23:09:06 info: [0mPOST /api/ia/chat [32m200[0m 26134.662 ms - -[0m
+2023-07-04 23:09:55 info: [0mPOST /api/ia/chat [32m200[0m 29798.105 ms - -[0m
+2023-07-04 23:13:58 info: =================================
+2023-07-04 23:13:58 info: ======= ENV: development =======
+2023-07-04 23:13:58 info: 🚀 App listening on the port 5210
+2023-07-04 23:13:58 info: =================================
+2023-07-04 23:14:32 info: [0mPOST /api/ia/chat [32m200[0m 26549.816 ms - -[0m
+2023-07-04 23:17:52 info: [0mPOST /api/ia/chat [32m200[0m 28455.178 ms - -[0m
+2023-07-04 23:23:35 info: [0mGET / [32m200[0m 4.949 ms - 872[0m

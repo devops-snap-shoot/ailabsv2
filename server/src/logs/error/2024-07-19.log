@@ -1,0 +1,2 @@
+2024-07-19 13:26:54 error: [GET] / >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-19 13:26:54 error: [GET] /favicon.ico >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'

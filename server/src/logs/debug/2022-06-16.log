@@ -1,0 +1,14 @@
+2022-06-16 13:32:25 info: =================================
+2022-06-16 13:32:25 info: ======= ENV: development =======
+2022-06-16 13:32:25 info: 🚀 App listening on the port 5100
+2022-06-16 13:32:25 info: =================================
+2022-06-16 13:32:25 info: [0mGET /api/causas/obtenerCausas [32m201[0m 111.073 ms - -[0m
+2022-06-16 13:32:26 info: [0mGET /api/servicios/obtenerTipoServicios [32m200[0m 73.204 ms - 595[0m
+2022-06-16 13:32:26 info: [0mGET /api/servicios/obtenerProcedimientos [32m200[0m 73.825 ms - 473[0m
+2022-06-16 13:32:29 info: [0mPOST /api/users/user/62a9f2e7ea9f11009ba952bd [32m200[0m 158.765 ms - 528[0m
+2022-06-16 13:32:29 info: [0mPOST /api/clients/getClientById/ [32m201[0m 106.045 ms - 524[0m
+2022-06-16 13:32:29 info: [0mGET /api/servicios/obtenerTipoServicios/ [32m200[0m 78.162 ms - 595[0m
+2022-06-16 13:32:29 info: [0mGET /api/servicios/obtenerProcedimientos/ [32m200[0m 76.288 ms - 473[0m
+2022-06-16 13:32:33 info: [0mGET /api/servicios/obtenerProcedimientos [36m304[0m 80.765 ms - -[0m
+2022-06-16 13:32:33 info: [0mGET /api/servicios/obtenerTipoServicios [36m304[0m 78.502 ms - -[0m
+2022-06-16 13:32:33 info: [0mGET /api/causas/obtenerCausas [32m201[0m 85.095 ms - -[0m

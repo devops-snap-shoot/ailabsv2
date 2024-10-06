@@ -1,0 +1,21 @@
+2022-08-25 09:04:30 info: =================================
+2022-08-25 09:04:30 info: ======= ENV: development =======
+2022-08-25 09:04:30 info: 🚀 App listening on the port 5103
+2022-08-25 09:04:30 info: =================================
+2022-08-25 10:13:47 info: =================================
+2022-08-25 10:13:47 info: ======= ENV: development =======
+2022-08-25 10:13:47 info: 🚀 App listening on the port 5103
+2022-08-25 10:13:47 info: =================================
+2022-08-25 10:15:15 error: [GET] /api/orders/getWorkOrders >> StatusCode:: 401, Message:: Wrong authentication token
+2022-08-25 10:15:15 info: [0mGET /api/orders/getWorkOrders [33m401[0m 5.106 ms - 40[0m
+2022-08-25 10:25:02 info: [0mPOST /api/logout [32m200[0m 124.428 ms - 403[0m
+2022-08-25 10:25:16 info: [0mPOST /api/login [32m200[0m 131.914 ms - 585[0m
+2022-08-25 10:25:23 info: [0mGET /api/orders/getWorkOrders [32m201[0m 167.624 ms - 40[0m
+2022-08-25 10:25:52 info: [0mGET /api/orders/getWorkOrders [32m201[0m 163.252 ms - 40[0m
+2022-08-25 10:25:59 info: [0mGET /api/orders/getWorkOrders [32m201[0m 147.775 ms - 40[0m
+2022-08-25 10:26:10 info: [0mGET /api/orders/getWorkOrders [32m201[0m 159.001 ms - 40[0m
+2022-08-25 10:26:16 info: [0mGET /api/orders/getWorkOrders [32m201[0m 153.460 ms - 40[0m
+2022-08-25 10:26:40 info: [0mGET /api/orders/getWorkOrders [32m201[0m 152.380 ms - 40[0m
+2022-08-25 10:26:45 info: [0mGET /api/orders/getWorkOrders [32m201[0m 152.571 ms - 40[0m
+2022-08-25 10:27:03 info: [0mGET /api/orders/getWorkOrders [32m201[0m 157.605 ms - 40[0m
+2022-08-25 10:27:25 info: [0mGET /api/orders/getWorkOrders [32m201[0m 154.781 ms - 40[0m

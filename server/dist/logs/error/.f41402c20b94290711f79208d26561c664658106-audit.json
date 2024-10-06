@@ -1,0 +1,19 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "/home/gonzalo/projects/ailabs-helper-demo/server/dist/logs/error/.f41402c20b94290711f79208d26561c664658106-audit.json",
+    "files": [
+        {
+            "date": 1723238856168,
+            "name": "/home/gonzalo/projects/ailabs-helper-demo/server/dist/logs/error/2024-08-09.log",
+            "hash": "47622a387f442fdb8bf46336ec97c9bf"
+        },
+        {
+            "date": 1723337786386,
+            "name": "/home/gonzalo/projects/ailabs-helper-demo/server/dist/logs/error/2024-08-11.log",
+            "hash": "4c055c76ac52c9e6bcc0aaf501bb54b5"
+        }
+    ]
+}

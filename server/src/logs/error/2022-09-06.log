@@ -1,0 +1,5 @@
+2022-09-06 18:00:30 error: [GET] /api/clients/getClients >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Tesso\Ecos_Integridad\ecos_integridad\client\build\index.html'
+2022-09-06 18:24:38 error: [GET] /api/clients/getClients >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Tesso\Ecos_Integridad\ecos_integridad\client\build\index.html'
+2022-09-06 19:26:52 error: [GET] /api/clients/getClients >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Tesso\Ecos_Integridad\ecos_integridad\client\build\index.html'
+2022-09-06 19:28:07 error: [GET] /api/clients/getClients >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Tesso\Ecos_Integridad\ecos_integridad\client\build\index.html'
+2022-09-06 19:46:07 error: [GET] /api/clients/getClients >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Tesso\Ecos_Integridad\ecos_integridad\client\build\index.html'

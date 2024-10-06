@@ -1,0 +1,49 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "C:\\Users\\gorel\\Documents\\Projects\\k-eternal\\server\\src\\logs\\error\\.f11ebd09a7e5fd4cc08062f53048ace155c0a1d7-audit.json",
+    "files": [
+        {
+            "date": 1720824451128,
+            "name": "C:\\Users\\gorel\\Documents\\Projects\\k-eternal\\server\\src\\logs\\error\\2024-07-12.log",
+            "hash": "3a214fb08141ade723799855e86e50f8"
+        },
+        {
+            "date": 1720995926750,
+            "name": "C:\\Users\\gorel\\Documents\\Projects\\k-eternal\\server\\src\\logs\\error\\2024-07-14.log",
+            "hash": "f4f19fc1b9afa1df4aa2a38f0fc9ffe3"
+        },
+        {
+            "date": 1721016082651,
+            "name": "C:\\Users\\gorel\\Documents\\Projects\\k-eternal\\server\\src\\logs\\error\\2024-07-15.log",
+            "hash": "6dc64a863ca2fed16ba7c528b294403a"
+        },
+        {
+            "date": 1721183869082,
+            "name": "C:\\Users\\gorel\\Documents\\Projects\\k-eternal\\server\\src\\logs\\error\\2024-07-16.log",
+            "hash": "1ef1f7924a357e8cebb8ab209711e2c1"
+        },
+        {
+            "date": 1721214145981,
+            "name": "C:\\Users\\gorel\\Documents\\Projects\\k-eternal\\server\\src\\logs\\error\\2024-07-17.log",
+            "hash": "85b023697097cce25b494314935d3644"
+        },
+        {
+            "date": 1721307485578,
+            "name": "C:\\Users\\gorel\\Documents\\Projects\\k-eternal\\server\\src\\logs\\error\\2024-07-18.log",
+            "hash": "50f851a3edff969d981086e08ec9dd22"
+        },
+        {
+            "date": 1721390850693,
+            "name": "C:\\Users\\gorel\\Documents\\Projects\\k-eternal\\server\\src\\logs\\error\\2024-07-19.log",
+            "hash": "babc7e4bff52bfc533660ab5948ae3ff"
+        },
+        {
+            "date": 1721917609810,
+            "name": "C:\\Users\\gorel\\Documents\\Projects\\k-eternal\\server\\src\\logs\\error\\2024-07-25.log",
+            "hash": "eab2bb59af51fbf9216bf8187f426e75"
+        }
+    ]
+}

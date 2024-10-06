@@ -1,0 +1,1 @@
+2022-10-27 07:42:50 error: [GET] /main.d6264bd6c314067439f2.hot-update.json >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\KauelWorks\Ionic-Boilerplate\client\build\index.html'

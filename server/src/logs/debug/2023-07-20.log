@@ -1,0 +1,76 @@
+2023-07-20 10:27:07 info: =================================
+2023-07-20 10:27:07 info: ======= ENV: development =======
+2023-07-20 10:27:07 info: 🚀 App listening on the port 5211
+2023-07-20 10:27:07 info: =================================
+2023-07-20 10:28:39 info: =================================
+2023-07-20 10:28:39 info: ======= ENV: development =======
+2023-07-20 10:28:39 info: 🚀 App listening on the port 5211
+2023-07-20 10:28:39 info: =================================
+2023-07-20 10:28:53 info: [0mPOST /api/login [32m200[0m 353.283 ms - -[0m
+2023-07-20 10:29:02 info: [0mPOST /api/ia/upload_pdf [32m200[0m 2921.290 ms - 74[0m
+2023-07-20 10:29:49 info: [0mPOST /api/ia/upload_pdf [32m200[0m 2893.432 ms - 74[0m
+2023-07-20 10:38:35 info: =================================
+2023-07-20 10:38:35 info: ======= ENV: development =======
+2023-07-20 10:38:35 info: 🚀 App listening on the port 5211
+2023-07-20 10:38:35 info: =================================
+2023-07-20 10:38:51 info: [0mPOST /api/login [32m200[0m 355.429 ms - -[0m
+2023-07-20 10:52:15 info: =================================
+2023-07-20 10:52:15 info: ======= ENV: development =======
+2023-07-20 10:52:15 info: 🚀 App listening on the port 5211
+2023-07-20 10:52:15 info: =================================
+2023-07-20 10:57:54 error: [POST] /api/login >> StatusCode:: 410, Message:: Email gonzalo.orellanakauel.com not found
+2023-07-20 10:57:54 info: [0mPOST /api/login [33m410[0m 154.068 ms - 55[0m
+2023-07-20 10:58:49 info: [0mPOST /api/login [32m200[0m 333.463 ms - -[0m
+2023-07-20 10:58:57 info: [0mPOST /api/ia/upload_pdf [32m200[0m 2257.552 ms - 74[0m
+2023-07-20 10:59:28 info: [0mPOST /api/ia/upload_pdf [32m200[0m 2299.331 ms - 74[0m
+2023-07-20 11:00:45 info: [0mPOST /api/ia/chat [32m200[0m 4756.157 ms - -[0m
+2023-07-20 11:06:08 info: [0mPOST /api/ia/upload_pdf [32m200[0m 2222.617 ms - 74[0m
+2023-07-20 11:15:18 info: [0mPOST /api/ia/chat [33m400[0m 579.727 ms - 49[0m
+2023-07-20 11:16:04 info: [0mPOST /api/ia/upload_pdf [32m200[0m 2433.008 ms - 74[0m
+2023-07-20 11:16:17 info: [0mPOST /api/ia/chat [32m200[0m 3268.142 ms - -[0m
+2023-07-20 11:50:08 info: [0mPOST /api/ia/upload_pdf [32m200[0m 11265.285 ms - 69[0m
+2023-07-20 11:56:44 info: [0mPOST /api/ia/upload_pdf [32m200[0m 2309.766 ms - 74[0m
+2023-07-20 12:07:24 info: =================================
+2023-07-20 12:07:24 info: ======= ENV: development =======
+2023-07-20 12:07:24 info: 🚀 App listening on the port 5211
+2023-07-20 12:07:24 info: =================================
+2023-07-20 12:07:45 info: [0mPOST /api/ia/delete_pdf [33m400[0m 607.788 ms - 49[0m
+2023-07-20 12:09:48 info: =================================
+2023-07-20 12:09:48 info: ======= ENV: development =======
+2023-07-20 12:09:48 info: 🚀 App listening on the port 5211
+2023-07-20 12:09:48 info: =================================
+2023-07-20 12:10:09 info: [0mPOST /api/ia/delete_pdf [33m400[0m 599.729 ms - 49[0m
+2023-07-20 12:11:21 info: [0mPOST /api/ia/upload_pdf [32m200[0m 10981.373 ms - 58[0m
+2023-07-20 12:12:56 info: [0mPOST /api/ia/upload_pdf [32m200[0m 8762.534 ms - 62[0m
+2023-07-20 12:14:02 info: [0mPOST /api/ia/upload_pdf [32m200[0m 8624.824 ms - 58[0m
+2023-07-20 12:17:56 info: [0mPOST /api/ia/upload_pdf [32m200[0m 8620.641 ms - 62[0m
+2023-07-20 12:25:05 info: [0mPOST /api/ia/upload_pdf [32m200[0m 8500.170 ms - 62[0m
+2023-07-20 12:25:25 info: [0mPOST /api/ia/upload_pdf [32m200[0m 8020.717 ms - 58[0m
+2023-07-20 12:27:48 info: [0mPOST /api/ia/upload_pdf [0m-[0m - ms - -[0m
+2023-07-20 12:27:52 info: [0mPOST /api/ia/upload_pdf [32m200[0m 8651.609 ms - 62[0m
+2023-07-20 12:29:54 info: [0mPOST /api/ia/upload_pdf [32m200[0m 8486.471 ms - 62[0m
+2023-07-20 12:30:06 info: [0mPOST /api/ia/upload_pdf [32m200[0m 7599.414 ms - 58[0m
+2023-07-20 12:30:55 info: [0mPOST /api/ia/upload_pdf [32m200[0m 8436.938 ms - 62[0m
+2023-07-20 12:31:08 info: [0mPOST /api/ia/upload_pdf [32m200[0m 7704.502 ms - 58[0m
+2023-07-20 12:32:43 info: [0mPOST /api/ia/upload_pdf [32m200[0m 8472.283 ms - 62[0m
+2023-07-20 12:32:55 info: [0mPOST /api/ia/upload_pdf [32m200[0m 7868.533 ms - 58[0m
+2023-07-20 12:35:44 info: [0mPOST /api/ia/upload_pdf [32m200[0m 8445.001 ms - 62[0m
+2023-07-20 12:39:30 info: [0mPOST /api/ia/upload_pdf [32m200[0m 8474.958 ms - 62[0m
+2023-07-20 12:39:43 info: [0mPOST /api/ia/upload_pdf [32m200[0m 7639.324 ms - 58[0m
+2023-07-20 12:40:22 info: [0mPOST /api/ia/upload_pdf [32m200[0m 8420.640 ms - 62[0m
+2023-07-20 12:40:35 info: [0mPOST /api/ia/upload_pdf [32m200[0m 7564.301 ms - 58[0m
+2023-07-20 12:41:31 info: [0mPOST /api/ia/upload_pdf [32m200[0m 7503.193 ms - 58[0m
+2023-07-20 12:41:44 info: [0mPOST /api/ia/upload_pdf [32m200[0m 8317.809 ms - 62[0m
+2023-07-20 12:42:45 info: [0mPOST /api/ia/upload_pdf [32m200[0m 8443.861 ms - 62[0m
+2023-07-20 12:42:57 info: [0mPOST /api/ia/upload_pdf [32m200[0m 7616.436 ms - 58[0m
+2023-07-20 12:43:28 info: [0mPOST /api/ia/upload_pdf [32m200[0m 7589.844 ms - 58[0m
+2023-07-20 12:43:38 info: [0mPOST /api/ia/upload_pdf [32m200[0m 2093.335 ms - 74[0m
+2023-07-20 12:44:18 info: [0mPOST /api/ia/upload_pdf [32m200[0m 7466.740 ms - 58[0m
+2023-07-20 12:44:50 info: [0mPOST /api/ia/upload_pdf [32m200[0m 2049.608 ms - 74[0m
+2023-07-20 12:48:29 info: [0mPOST /api/ia/upload_pdf [32m200[0m 7852.243 ms - 58[0m
+2023-07-20 12:49:56 info: [0mPOST /api/ia/upload_pdf [32m200[0m 10235.038 ms - 69[0m
+2023-07-20 12:51:36 info: [0mPOST /api/ia/upload_pdf [32m200[0m 2313.224 ms - 74[0m
+2023-07-20 13:00:12 info: =================================
+2023-07-20 13:00:12 info: ======= ENV: development =======
+2023-07-20 13:00:12 info: 🚀 App listening on the port 5211
+2023-07-20 13:00:12 info: =================================

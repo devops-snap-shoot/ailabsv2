@@ -1,0 +1,163 @@
+2022-10-03 16:37:58 info: =================================
+2022-10-03 16:37:58 info: ======= ENV: development =======
+2022-10-03 16:37:58 info: 🚀 App listening on the port 5103
+2022-10-03 16:37:58 info: =================================
+2022-10-03 16:38:57 info: [0mPOST /api/logout [32m200[0m 132.227 ms - 403[0m
+2022-10-03 16:39:15 info: [0mPOST /api/login [32m200[0m 142.163 ms - 585[0m
+2022-10-03 16:39:16 info: [0mGET /api/clients/getClients [32m200[0m 253.957 ms - -[0m
+2022-10-03 16:39:42 info: [0mGET /api/orders/getWorkOrders [32m201[0m 252.018 ms - -[0m
+2022-10-03 16:41:58 info: =================================
+2022-10-03 16:41:58 info: ======= ENV: development =======
+2022-10-03 16:41:58 info: 🚀 App listening on the port 5103
+2022-10-03 16:41:58 info: =================================
+2022-10-03 16:46:41 info: =================================
+2022-10-03 16:46:41 info: ======= ENV: development =======
+2022-10-03 16:46:41 info: 🚀 App listening on the port 5103
+2022-10-03 16:46:41 info: =================================
+2022-10-03 16:52:54 info: =================================
+2022-10-03 16:52:54 info: ======= ENV: development =======
+2022-10-03 16:52:54 info: 🚀 App listening on the port 5103
+2022-10-03 16:52:54 info: =================================
+2022-10-03 17:05:22 info: =================================
+2022-10-03 17:05:22 info: ======= ENV: development =======
+2022-10-03 17:05:22 info: 🚀 App listening on the port 5103
+2022-10-03 17:05:22 info: =================================
+2022-10-03 17:05:24 info: [0mGET /api/clients/getClients [36m304[0m 488.263 ms - -[0m
+2022-10-03 17:05:24 info: [0mGET /api/orders/getWorkOrders [32m201[0m 404.091 ms - -[0m
+2022-10-03 17:14:48 info: [0mPOST /api/templates/saveTemplate [32m201[0m 203.617 ms - 44[0m
+2022-10-03 17:15:23 info: [0mGET /api/orders/getWorkOrders [32m201[0m 254.535 ms - -[0m
+2022-10-03 17:15:27 info: [0mPOST /api/templates/saveTemplate [32m201[0m 151.014 ms - 44[0m
+2022-10-03 17:15:39 info: [0mGET /api/orders/getWorkOrders [32m201[0m 263.032 ms - -[0m
+2022-10-03 17:17:42 info: [0mPOST /api/templates/saveTemplate [32m201[0m 151.571 ms - 44[0m
+2022-10-03 17:18:16 info: [0mPOST /api/templates/createTemplate [32m201[0m 195.356 ms - 327[0m
+2022-10-03 17:19:20 info: [0mPOST /api/templates/createTemplate [32m201[0m 159.591 ms - 327[0m
+2022-10-03 17:22:44 info: =================================
+2022-10-03 17:22:44 info: ======= ENV: development =======
+2022-10-03 17:22:44 info: 🚀 App listening on the port 5103
+2022-10-03 17:22:44 info: =================================
+2022-10-03 17:23:33 info: [0mGET /api/templates/getTemplates [32m201[0m 177.197 ms - 631[0m
+2022-10-03 17:23:41 info: [0mGET /api/templates/getTemplates [32m201[0m 157.196 ms - 631[0m
+2022-10-03 17:23:44 info: [0mGET /api/templates/getTemplates [32m201[0m 150.030 ms - 631[0m
+2022-10-03 17:23:47 info: [0mGET /api/clients/getClients [36m304[0m 242.151 ms - -[0m
+2022-10-03 17:23:50 info: [0mGET /api/clients/getClients [32m200[0m 239.397 ms - -[0m
+2022-10-03 17:23:52 info: [0mGET /api/orders/getWorkOrders [32m201[0m 249.389 ms - -[0m
+2022-10-03 17:23:53 info: [0mGET /api/templates/getTemplates [32m201[0m 154.432 ms - 631[0m
+2022-10-03 17:24:14 info: [0mGET /api/templates/getTemplates [32m201[0m 156.004 ms - 341[0m
+2022-10-03 17:26:10 info: [0mGET /api/templates/getTemplates [32m201[0m 154.068 ms - 341[0m
+2022-10-03 17:28:57 info: [0mGET /api/templates/getTemplates [32m201[0m 147.792 ms - 341[0m
+2022-10-03 17:29:09 info: [0mPOST /api/templates/saveTemplate [32m201[0m 188.210 ms - 329[0m
+2022-10-03 17:29:59 info: [0mGET /api/templates/getTemplates [32m201[0m 164.043 ms - 521[0m
+2022-10-03 17:32:33 info: =================================
+2022-10-03 17:32:33 info: ======= ENV: development =======
+2022-10-03 17:32:33 info: 🚀 App listening on the port 5103
+2022-10-03 17:32:33 info: =================================
+2022-10-03 17:32:43 info: [0mGET /api/templates/getTemplates [32m201[0m 165.171 ms - 521[0m
+2022-10-03 17:32:50 info: [0mPOST /api/templates/saveTemplate [32m201[0m 202.998 ms - 509[0m
+2022-10-03 17:33:46 info: =================================
+2022-10-03 17:33:46 info: ======= ENV: development =======
+2022-10-03 17:33:46 info: 🚀 App listening on the port 5103
+2022-10-03 17:33:46 info: =================================
+2022-10-03 17:33:48 info: [0mGET /api/templates/getTemplates [32m201[0m 599.719 ms - 612[0m
+2022-10-03 17:36:38 info: =================================
+2022-10-03 17:36:38 info: ======= ENV: development =======
+2022-10-03 17:36:38 info: 🚀 App listening on the port 5103
+2022-10-03 17:36:38 info: =================================
+2022-10-03 17:36:46 info: [0mGET /api/templates/getTemplates [32m201[0m 167.327 ms - 592[0m
+2022-10-03 17:36:54 info: [0mPOST /api/templates/createTemplate [32m201[0m 187.892 ms - 306[0m
+2022-10-03 17:37:29 info: [0mPOST /api/templates/saveTemplate [32m201[0m 170.726 ms - 66[0m
+2022-10-03 17:37:32 info: [0mPOST /api/templates/saveTemplate [32m201[0m 160.180 ms - 66[0m
+2022-10-03 17:37:35 info: [0mGET /api/templates/getTemplates [32m201[0m 162.295 ms - -[0m
+2022-10-03 17:51:33 info: [0mPOST /api/templates/createTemplate [32m201[0m 168.443 ms - 306[0m
+2022-10-03 17:52:06 info: [0mGET /api/templates/getTemplates [32m201[0m 152.720 ms - -[0m
+2022-10-03 17:52:09 info: [0mPOST /api/templates/createTemplate [32m201[0m 154.658 ms - 306[0m
+2022-10-03 17:53:45 info: [0mGET /api/templates/getTemplates [32m201[0m 153.252 ms - -[0m
+2022-10-03 17:53:47 info: [0mPOST /api/templates/createTemplate [32m201[0m 159.887 ms - 306[0m
+2022-10-03 17:55:44 info: [0mPOST /api/templates/createTemplate [32m201[0m 154.500 ms - 306[0m
+2022-10-03 18:14:27 info: =================================
+2022-10-03 18:14:27 info: ======= ENV: development =======
+2022-10-03 18:14:27 info: 🚀 App listening on the port 5103
+2022-10-03 18:14:27 info: =================================
+2022-10-03 18:14:32 info: [0mGET /api/clients/getClients [32m200[0m 254.617 ms - -[0m
+2022-10-03 18:14:34 info: [0mGET /api/orders/getWorkOrders [32m201[0m 250.228 ms - -[0m
+2022-10-03 18:14:35 info: [0mGET /api/templates/getTemplates [32m201[0m 160.272 ms - -[0m
+2022-10-03 18:20:30 info: [0mGET /api/templates/getTemplates [32m201[0m 158.373 ms - -[0m
+2022-10-03 18:20:47 info: [0mPOST /api/templates/deleteTemplate [32m201[0m 97.640 ms - 33[0m
+2022-10-03 18:20:47 info: [0mGET /api/templates/getTemplates [32m201[0m 157.864 ms - -[0m
+2022-10-03 18:21:36 info: [0mGET /api/templates/getTemplates [32m201[0m 164.583 ms - -[0m
+2022-10-03 18:21:44 info: [0mGET /api/templates/getTemplates [32m201[0m 153.538 ms - -[0m
+2022-10-03 18:22:27 info: [0mGET /api/templates/getTemplates [32m201[0m 157.543 ms - -[0m
+2022-10-03 18:22:39 info: [0mGET /api/templates/getTemplates [32m201[0m 161.123 ms - -[0m
+2022-10-03 18:23:23 info: [0mGET /api/templates/getTemplates [32m201[0m 151.622 ms - -[0m
+2022-10-03 18:23:38 info: [0mGET /api/templates/getTemplates [32m201[0m 158.210 ms - -[0m
+2022-10-03 18:23:43 info: [0mPOST /api/templates/deleteTemplate [32m201[0m 83.751 ms - 33[0m
+2022-10-03 18:23:43 info: [0mGET /api/templates/getTemplates [32m201[0m 155.377 ms - -[0m
+2022-10-03 18:23:52 info: [0mGET /api/orders/getWorkOrders [32m201[0m 269.192 ms - -[0m
+2022-10-03 18:23:57 info: [0mGET /api/templates/getTemplates [32m201[0m 153.634 ms - -[0m
+2022-10-03 18:24:40 info: =================================
+2022-10-03 18:24:40 info: ======= ENV: development =======
+2022-10-03 18:24:40 info: 🚀 App listening on the port 5103
+2022-10-03 18:24:40 info: =================================
+2022-10-03 18:24:47 info: [0mPOST /api/templates/deleteTemplate [32m201[0m 100.181 ms - 33[0m
+2022-10-03 18:24:48 info: [0mGET /api/templates/getTemplates [32m201[0m 171.397 ms - -[0m
+2022-10-03 18:25:27 info: =================================
+2022-10-03 18:25:27 info: ======= ENV: development =======
+2022-10-03 18:25:27 info: 🚀 App listening on the port 5103
+2022-10-03 18:25:27 info: =================================
+2022-10-03 18:25:30 info: [0mGET /api/orders/getWorkOrders [32m201[0m 249.277 ms - -[0m
+2022-10-03 18:25:37 info: [0mPOST /api/templates/deleteTemplate [32m201[0m 103.104 ms - 33[0m
+2022-10-03 18:25:38 info: [0mGET /api/templates/getTemplates [32m201[0m 161.324 ms - -[0m
+2022-10-03 18:26:33 info: =================================
+2022-10-03 18:26:33 info: ======= ENV: development =======
+2022-10-03 18:26:33 info: 🚀 App listening on the port 5103
+2022-10-03 18:26:33 info: =================================
+2022-10-03 18:26:42 info: [0mGET /api/orders/getWorkOrders [32m201[0m 270.555 ms - -[0m
+2022-10-03 18:26:44 info: [0mGET /api/templates/getTemplates [32m201[0m 160.136 ms - -[0m
+2022-10-03 18:26:47 info: [0mPOST /api/templates/deleteTemplate [32m201[0m 94.307 ms - 33[0m
+2022-10-03 18:26:47 info: [0mGET /api/templates/getTemplates [32m201[0m 152.309 ms - -[0m
+2022-10-03 18:27:50 info: =================================
+2022-10-03 18:27:50 info: ======= ENV: development =======
+2022-10-03 18:27:50 info: 🚀 App listening on the port 5103
+2022-10-03 18:27:50 info: =================================
+2022-10-03 18:27:53 info: [0mGET /api/orders/getWorkOrders [32m201[0m 270.333 ms - -[0m
+2022-10-03 18:27:55 info: [0mGET /api/templates/getTemplates [32m201[0m 153.943 ms - -[0m
+2022-10-03 18:27:59 info: [0mPOST /api/templates/deleteTemplate [32m201[0m 98.637 ms - 33[0m
+2022-10-03 18:27:59 info: [0mGET /api/templates/getTemplates [32m201[0m 149.312 ms - -[0m
+2022-10-03 18:28:28 info: =================================
+2022-10-03 18:28:28 info: ======= ENV: development =======
+2022-10-03 18:28:28 info: 🚀 App listening on the port 5103
+2022-10-03 18:28:28 info: =================================
+2022-10-03 18:28:30 info: [0mGET /api/orders/getWorkOrders [32m201[0m 491.494 ms - -[0m
+2022-10-03 18:28:30 info: [0mGET /api/templates/getTemplates [32m201[0m 148.488 ms - -[0m
+2022-10-03 18:28:33 info: [0mPOST /api/templates/deleteTemplate [32m201[0m 173.163 ms - 33[0m
+2022-10-03 18:28:33 info: [0mGET /api/templates/getTemplates [32m201[0m 156.935 ms - -[0m
+2022-10-03 18:29:11 info: [0mGET /api/templates/getTemplates [32m201[0m 153.561 ms - -[0m
+2022-10-03 18:30:24 info: [0mGET /api/templates/getTemplates [32m201[0m 154.272 ms - -[0m
+2022-10-03 18:30:31 info: [0mPOST /api/templates/deleteTemplate [32m201[0m 159.624 ms - 33[0m
+2022-10-03 18:30:32 info: [0mGET /api/templates/getTemplates [32m201[0m 150.862 ms - -[0m
+2022-10-03 18:31:27 info: [0mGET /api/templates/getTemplates [32m201[0m 157.331 ms - -[0m
+2022-10-03 18:31:34 info: [0mPOST /api/templates/deleteTemplate [32m201[0m 151.895 ms - 33[0m
+2022-10-03 18:31:34 info: [0mGET /api/templates/getTemplates [32m201[0m 156.939 ms - -[0m
+2022-10-03 18:33:06 info: [0mGET /api/templates/getTemplates [32m201[0m 152.424 ms - -[0m
+2022-10-03 18:33:06 info: [0mGET /api/templates/getTemplates [32m201[0m 156.567 ms - -[0m
+2022-10-03 18:33:13 info: [0mPOST /api/templates/deleteTemplate [32m201[0m 167.024 ms - 33[0m
+2022-10-03 18:33:13 info: [0mGET /api/templates/getTemplates [32m201[0m 147.219 ms - -[0m
+2022-10-03 18:33:23 info: [0mPOST /api/templates/saveTemplate [32m201[0m 168.111 ms - 66[0m
+2022-10-03 18:33:34 info: [0mGET /api/templates/getTemplates [32m201[0m 160.588 ms - -[0m
+2022-10-03 18:33:43 info: [0mPOST /api/templates/saveTemplate [32m201[0m 156.166 ms - 66[0m
+2022-10-03 18:33:50 info: [0mGET /api/templates/getTemplates [32m201[0m 157.381 ms - -[0m
+2022-10-03 18:40:56 info: [0mGET /api/templates/getTemplates [32m201[0m 156.248 ms - -[0m
+2022-10-03 18:41:23 info: [0mGET /api/templates/getTemplates [32m201[0m 154.510 ms - -[0m
+2022-10-03 18:41:28 info: [0mGET /api/templates/getTemplates [32m201[0m 151.938 ms - -[0m
+2022-10-03 18:41:38 info: [0mGET /api/templates/getTemplates [32m201[0m 149.425 ms - -[0m
+2022-10-03 18:41:42 info: [0mPOST /api/templates/createTemplate [32m201[0m 170.263 ms - 306[0m
+2022-10-03 18:41:49 info: [0mGET /api/templates/getTemplates [32m201[0m 151.029 ms - -[0m
+2022-10-03 18:55:18 info: [0mGET /api/templates/getTemplates [32m201[0m 165.849 ms - -[0m
+2022-10-03 18:55:48 info: [0mGET /api/templates/getTemplates [32m201[0m 156.673 ms - -[0m
+2022-10-03 18:58:27 info: [0mPOST /api/templates/saveTemplate [32m201[0m 160.697 ms - 66[0m
+2022-10-03 18:58:51 info: [0mPOST /api/templates/saveTemplate [32m201[0m 169.088 ms - 66[0m
+2022-10-03 18:58:58 info: [0mGET /api/templates/getTemplates [32m201[0m 153.365 ms - -[0m
+2022-10-03 19:17:16 info: [0mPOST /api/templates/saveTemplate [32m201[0m 165.574 ms - 66[0m
+2022-10-03 19:17:25 info: [0mPOST /api/templates/saveTemplate [32m201[0m 157.265 ms - 66[0m
+2022-10-03 19:17:33 info: [0mPOST /api/templates/saveTemplate [32m201[0m 157.443 ms - 66[0m
+2022-10-03 19:17:41 info: [0mGET /api/templates/getTemplates [32m201[0m 155.566 ms - -[0m
+2022-10-03 19:17:58 info: [0mPOST /api/templates/saveTemplate [32m201[0m 160.882 ms - 66[0m

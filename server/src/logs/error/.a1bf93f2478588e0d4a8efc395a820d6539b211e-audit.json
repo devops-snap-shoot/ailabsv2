@@ -1,0 +1,14 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "C:\\Users\\gorel\\Documents\\Desarrollos\\Izzimed_App\\server\\src\\logs\\error\\.a1bf93f2478588e0d4a8efc395a820d6539b211e-audit.json",
+    "files": [
+        {
+            "date": 1651098815492,
+            "name": "C:\\Users\\gorel\\Documents\\Desarrollos\\Izzimed_App\\server\\src\\logs\\error\\2022-04-27.log",
+            "hash": "cbfd5480c9778c4855a39bda627a1a11"
+        }
+    ]
+}

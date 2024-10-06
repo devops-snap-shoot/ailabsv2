@@ -1,0 +1,300 @@
+2024-07-15 00:01:22 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 00:01:22 info: [0mGET /api/veify-token/ [33m404[0m 19.349 ms - 131[0m
+2024-07-15 00:01:22 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 00:01:22 info: [0mGET /api/veify-token/ [33m404[0m 3.479 ms - 131[0m
+2024-07-15 00:01:31 info: =================================
+2024-07-15 00:01:31 info: ======= ENV: development =======
+2024-07-15 00:01:31 info: 🚀 App listening on the port 5210
+2024-07-15 00:01:31 info: =================================
+2024-07-15 10:16:18 info: =================================
+2024-07-15 10:16:18 info: ======= ENV: development =======
+2024-07-15 10:16:18 info: 🚀 App listening on the port 5210
+2024-07-15 10:16:18 info: =================================
+2024-07-15 10:16:26 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 10:16:26 info: [0mGET /api/veify-token/ [33m404[0m 16.632 ms - 131[0m
+2024-07-15 10:16:26 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 10:16:26 info: [0mGET /api/veify-token/ [33m404[0m 19.301 ms - 131[0m
+2024-07-15 10:16:45 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 10:16:45 info: [0mGET /api/veify-token/ [33m404[0m 5.555 ms - 131[0m
+2024-07-15 10:16:45 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 10:16:45 info: [0mGET /api/veify-token/ [33m404[0m 2.295 ms - 131[0m
+2024-07-15 10:21:03 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 10:21:03 info: [0mGET /api/veify-token/ [33m404[0m 3.798 ms - 131[0m
+2024-07-15 10:21:03 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 10:21:03 info: [0mGET /api/veify-token/ [33m404[0m 2.587 ms - 131[0m
+2024-07-15 11:38:12 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 11:38:12 info: [0mGET /api/veify-token/ [33m404[0m 7.979 ms - 131[0m
+2024-07-15 11:39:55 info: =================================
+2024-07-15 11:39:55 info: ======= ENV: development =======
+2024-07-15 11:39:55 info: 🚀 App listening on the port 5210
+2024-07-15 11:39:55 info: =================================
+2024-07-15 11:47:30 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 11:47:30 info: [0mGET /api/veify-token/ [33m404[0m 10.426 ms - 131[0m
+2024-07-15 11:47:30 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 11:47:30 info: [0mGET /api/veify-token/ [33m404[0m 4.059 ms - 131[0m
+2024-07-15 11:50:04 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 11:50:04 info: [0mGET /api/veify-token/ [33m404[0m 5.834 ms - 131[0m
+2024-07-15 11:54:21 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 11:54:21 info: [0mGET /api/veify-token/ [33m404[0m 2.936 ms - 131[0m
+2024-07-15 11:54:21 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 11:54:21 info: [0mGET /api/veify-token/ [33m404[0m 2.989 ms - 131[0m
+2024-07-15 12:12:49 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 12:12:49 info: [0mGET /api/veify-token/ [33m404[0m 3.452 ms - 131[0m
+2024-07-15 12:12:50 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 12:12:50 info: [0mGET /api/veify-token/ [33m404[0m 3.629 ms - 131[0m
+2024-07-15 12:13:05 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 12:13:05 info: [0mGET /api/veify-token/ [33m404[0m 4.070 ms - 131[0m
+2024-07-15 12:13:05 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 12:13:05 info: [0mGET /api/veify-token/ [33m404[0m 6.917 ms - 131[0m
+2024-07-15 12:13:05 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 12:13:05 info: [0mGET /api/veify-token/ [33m404[0m 8.647 ms - 131[0m
+2024-07-15 12:13:05 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 12:13:05 info: [0mGET /api/veify-token/ [33m404[0m 4.441 ms - 131[0m
+2024-07-15 12:17:55 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 12:17:56 info: [0mGET /api/veify-token/ [33m404[0m 5.036 ms - 131[0m
+2024-07-15 12:17:56 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 12:17:56 info: [0mGET /api/veify-token/ [33m404[0m 6.525 ms - 131[0m
+2024-07-15 12:25:49 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 12:25:49 info: [0mGET /api/veify-token/ [33m404[0m 3.968 ms - 131[0m
+2024-07-15 12:25:49 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 12:25:49 info: [0mGET /api/veify-token/ [33m404[0m 3.389 ms - 131[0m
+2024-07-15 12:31:10 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 12:31:10 info: [0mGET /api/veify-token/ [33m404[0m 3.266 ms - 131[0m
+2024-07-15 12:31:10 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 12:31:10 info: [0mGET /api/veify-token/ [33m404[0m 1.790 ms - 131[0m
+2024-07-15 13:22:12 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 13:22:12 info: [0mGET /api/veify-token/ [33m404[0m 9.722 ms - 131[0m
+2024-07-15 13:22:12 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 13:22:12 info: [0mGET /api/veify-token/ [33m404[0m 3.291 ms - 131[0m
+2024-07-15 13:24:20 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 13:24:20 info: [0mGET /api/veify-token/ [33m404[0m 3.546 ms - 131[0m
+2024-07-15 13:24:21 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 13:24:21 info: [0mGET /api/veify-token/ [33m404[0m 2.153 ms - 131[0m
+2024-07-15 13:24:54 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 13:24:54 info: [0mGET /api/veify-token/ [33m404[0m 1.457 ms - 131[0m
+2024-07-15 13:24:54 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 13:24:54 info: [0mGET /api/veify-token/ [33m404[0m 2.015 ms - 131[0m
+2024-07-15 13:39:13 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 13:39:13 info: [0mGET /api/veify-token/ [33m404[0m 2.556 ms - 131[0m
+2024-07-15 13:39:13 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 13:39:13 info: [0mGET /api/veify-token/ [33m404[0m 2.835 ms - 131[0m
+2024-07-15 13:40:25 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 13:40:25 info: [0mGET /api/veify-token/ [33m404[0m 2.805 ms - 131[0m
+2024-07-15 13:40:25 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 13:40:25 info: [0mGET /api/veify-token/ [33m404[0m 2.073 ms - 131[0m
+2024-07-15 13:40:38 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 13:40:38 info: [0mGET /api/veify-token/ [33m404[0m 2.483 ms - 131[0m
+2024-07-15 13:40:38 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 13:40:38 info: [0mGET /api/veify-token/ [33m404[0m 1.964 ms - 131[0m
+2024-07-15 13:41:16 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 13:41:16 info: [0mGET /api/veify-token/ [33m404[0m 1.713 ms - 131[0m
+2024-07-15 13:41:16 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 13:41:16 info: [0mGET /api/veify-token/ [33m404[0m 1.820 ms - 131[0m
+2024-07-15 13:44:25 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 13:44:25 info: [0mGET /api/veify-token/ [33m404[0m 2.945 ms - 131[0m
+2024-07-15 13:44:25 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 13:44:25 info: [0mGET /api/veify-token/ [33m404[0m 1.575 ms - 131[0m
+2024-07-15 13:45:39 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 13:45:39 info: [0mGET /api/veify-token/ [33m404[0m 13.993 ms - 131[0m
+2024-07-15 13:45:39 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 13:45:39 info: [0mGET /api/veify-token/ [33m404[0m 5.319 ms - 131[0m
+2024-07-15 13:45:47 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 13:45:47 info: [0mGET /api/veify-token/ [33m404[0m 2.200 ms - 131[0m
+2024-07-15 13:45:47 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 13:45:47 info: [0mGET /api/veify-token/ [33m404[0m 2.505 ms - 131[0m
+2024-07-15 13:46:02 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 13:46:02 info: [0mGET /api/veify-token/ [33m404[0m 7.961 ms - 131[0m
+2024-07-15 13:46:02 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 13:46:02 info: [0mGET /api/veify-token/ [33m404[0m 8.217 ms - 131[0m
+2024-07-15 13:46:06 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 13:46:06 info: [0mGET /api/veify-token/ [33m404[0m 3.016 ms - 131[0m
+2024-07-15 13:46:06 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 13:46:06 info: [0mGET /api/veify-token/ [33m404[0m 1.670 ms - 131[0m
+2024-07-15 13:47:18 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 13:47:18 info: [0mGET /api/veify-token/ [33m404[0m 2.312 ms - 131[0m
+2024-07-15 13:47:18 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 13:47:18 info: [0mGET /api/veify-token/ [33m404[0m 3.606 ms - 131[0m
+2024-07-15 13:48:04 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 13:48:04 info: [0mGET /api/veify-token/ [33m404[0m 9.018 ms - 131[0m
+2024-07-15 13:48:04 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 13:48:04 info: [0mGET /api/veify-token/ [33m404[0m 12.771 ms - 131[0m
+2024-07-15 13:48:08 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 13:48:08 info: [0mGET /api/veify-token/ [33m404[0m 2.517 ms - 131[0m
+2024-07-15 13:48:08 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 13:48:08 info: [0mGET /api/veify-token/ [33m404[0m 11.740 ms - 131[0m
+2024-07-15 13:50:00 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 13:50:00 info: [0mGET /api/veify-token/ [33m404[0m 1.729 ms - 131[0m
+2024-07-15 13:50:00 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 13:50:00 info: [0mGET /api/veify-token/ [33m404[0m 1.865 ms - 131[0m
+2024-07-15 13:54:44 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 13:54:44 info: [0mGET /api/veify-token/ [33m404[0m 3.410 ms - 131[0m
+2024-07-15 13:54:44 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 13:54:44 info: [0mGET /api/veify-token/ [33m404[0m 2.583 ms - 131[0m
+2024-07-15 13:54:49 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 13:54:49 info: [0mGET /api/veify-token/ [33m404[0m 3.160 ms - 131[0m
+2024-07-15 13:54:49 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 13:54:49 info: [0mGET /api/veify-token/ [33m404[0m 4.100 ms - 131[0m
+2024-07-15 13:55:18 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 13:55:18 info: [0mGET /api/veify-token/ [33m404[0m 15.174 ms - 131[0m
+2024-07-15 13:55:18 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 13:55:18 info: [0mGET /api/veify-token/ [33m404[0m 3.202 ms - 131[0m
+2024-07-15 13:55:26 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 13:55:26 info: [0mGET /api/veify-token/ [33m404[0m 4.860 ms - 131[0m
+2024-07-15 13:55:26 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 13:55:26 info: [0mGET /api/veify-token/ [33m404[0m 1.919 ms - 131[0m
+2024-07-15 14:00:41 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 14:00:41 info: [0mGET /api/veify-token/ [33m404[0m 13.923 ms - 131[0m
+2024-07-15 14:00:41 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 14:00:41 info: [0mGET /api/veify-token/ [33m404[0m 3.707 ms - 131[0m
+2024-07-15 14:01:39 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 14:01:39 info: [0mGET /api/veify-token/ [33m404[0m 6.340 ms - 131[0m
+2024-07-15 14:01:39 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 14:01:39 info: [0mGET /api/veify-token/ [33m404[0m 3.528 ms - 131[0m
+2024-07-15 14:01:54 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 14:01:54 info: [0mGET /api/veify-token/ [33m404[0m 2.803 ms - 131[0m
+2024-07-15 14:01:54 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 14:01:54 info: [0mGET /api/veify-token/ [33m404[0m 3.208 ms - 131[0m
+2024-07-15 14:02:02 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 14:02:02 info: [0mGET /api/veify-token/ [33m404[0m 2.571 ms - 131[0m
+2024-07-15 14:02:02 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 14:02:02 info: [0mGET /api/veify-token/ [33m404[0m 4.152 ms - 131[0m
+2024-07-15 14:03:30 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 14:03:30 info: [0mGET /api/veify-token/ [33m404[0m 9.188 ms - 131[0m
+2024-07-15 14:03:30 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 14:03:30 info: [0mGET /api/veify-token/ [33m404[0m 4.987 ms - 131[0m
+2024-07-15 14:10:25 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 14:10:25 info: [0mGET /api/veify-token/ [33m404[0m 5.273 ms - 131[0m
+2024-07-15 14:10:25 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 14:10:25 info: [0mGET /api/veify-token/ [33m404[0m 2.501 ms - 131[0m
+2024-07-15 14:10:33 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 14:10:33 info: [0mGET /api/veify-token/ [33m404[0m 9.477 ms - 131[0m
+2024-07-15 14:10:33 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 14:10:33 info: [0mGET /api/veify-token/ [33m404[0m 4.932 ms - 131[0m
+2024-07-15 14:10:40 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 14:10:40 info: [0mGET /api/veify-token/ [33m404[0m 4.611 ms - 131[0m
+2024-07-15 14:10:40 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 14:10:40 info: [0mGET /api/veify-token/ [33m404[0m 3.995 ms - 131[0m
+2024-07-15 14:13:16 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 14:13:16 info: [0mGET /api/veify-token/ [33m404[0m 14.811 ms - 131[0m
+2024-07-15 14:13:16 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 14:13:16 info: [0mGET /api/veify-token/ [33m404[0m 3.860 ms - 131[0m
+2024-07-15 14:18:55 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 14:18:55 info: [0mGET /api/veify-token/ [33m404[0m 3.672 ms - 131[0m
+2024-07-15 14:18:55 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 14:18:55 info: [0mGET /api/veify-token/ [33m404[0m 3.285 ms - 131[0m
+2024-07-15 14:19:48 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 14:19:48 info: [0mGET /api/veify-token/ [33m404[0m 3.464 ms - 131[0m
+2024-07-15 14:19:48 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 14:19:48 info: [0mGET /api/veify-token/ [33m404[0m 3.312 ms - 131[0m
+2024-07-15 14:31:50 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 14:31:50 info: [0mGET /api/veify-token/ [33m404[0m 9.912 ms - 131[0m
+2024-07-15 14:31:50 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 14:31:50 info: [0mGET /api/veify-token/ [33m404[0m 5.513 ms - 131[0m
+2024-07-15 14:49:38 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 14:49:38 info: [0mGET /api/veify-token/ [33m404[0m 5.600 ms - 131[0m
+2024-07-15 14:49:38 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 14:49:38 info: [0mGET /api/veify-token/ [33m404[0m 5.292 ms - 131[0m
+2024-07-15 14:51:33 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 14:51:33 info: [0mGET /api/veify-token/ [33m404[0m 5.180 ms - 131[0m
+2024-07-15 14:51:33 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 14:51:33 info: [0mGET /api/veify-token/ [33m404[0m 5.523 ms - 131[0m
+2024-07-15 14:55:25 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 14:55:25 info: [0mGET /api/veify-token/ [33m404[0m 3.633 ms - 131[0m
+2024-07-15 14:55:25 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 14:55:25 info: [0mGET /api/veify-token/ [33m404[0m 3.982 ms - 131[0m
+2024-07-15 14:56:05 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 14:56:05 info: [0mGET /api/veify-token/ [33m404[0m 4.707 ms - 131[0m
+2024-07-15 14:56:05 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 14:56:05 info: [0mGET /api/veify-token/ [33m404[0m 2.037 ms - 131[0m
+2024-07-15 15:17:27 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 15:17:27 info: [0mGET /api/veify-token/ [33m404[0m 2.782 ms - 131[0m
+2024-07-15 15:17:27 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 15:17:27 info: [0mGET /api/veify-token/ [33m404[0m 2.356 ms - 131[0m
+2024-07-15 15:20:14 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 15:20:14 info: [0mGET /api/veify-token/ [33m404[0m 2.454 ms - 131[0m
+2024-07-15 15:20:14 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 15:20:14 info: [0mGET /api/veify-token/ [33m404[0m 1.812 ms - 131[0m
+2024-07-15 15:20:46 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 15:20:46 info: [0mGET /api/veify-token/ [33m404[0m 1.852 ms - 131[0m
+2024-07-15 15:20:46 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 15:20:46 info: [0mGET /api/veify-token/ [33m404[0m 3.310 ms - 131[0m
+2024-07-15 15:21:26 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 15:21:26 info: [0mGET /api/veify-token/ [33m404[0m 2.402 ms - 131[0m
+2024-07-15 15:21:26 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 15:21:26 info: [0mGET /api/veify-token/ [33m404[0m 1.893 ms - 131[0m
+2024-07-15 15:33:11 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 15:33:11 info: [0mGET /api/veify-token/ [33m404[0m 3.477 ms - 131[0m
+2024-07-15 15:33:11 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 15:33:11 info: [0mGET /api/veify-token/ [33m404[0m 1.813 ms - 131[0m
+2024-07-15 15:38:29 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 15:38:29 info: [0mGET /api/veify-token/ [33m404[0m 7.823 ms - 131[0m
+2024-07-15 15:38:29 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 15:38:29 info: [0mGET /api/veify-token/ [33m404[0m 2.240 ms - 131[0m
+2024-07-15 15:39:41 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 15:39:41 info: [0mGET /api/veify-token/ [33m404[0m 2.454 ms - 131[0m
+2024-07-15 15:39:41 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 15:39:41 info: [0mGET /api/veify-token/ [33m404[0m 2.753 ms - 131[0m
+2024-07-15 16:20:45 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 16:20:45 info: [0mGET /api/veify-token/ [33m404[0m 4.649 ms - 131[0m
+2024-07-15 16:20:45 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 16:20:45 info: [0mGET /api/veify-token/ [33m404[0m 2.759 ms - 131[0m
+2024-07-15 16:21:11 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 16:21:11 info: [0mGET /api/veify-token/ [33m404[0m 2.634 ms - 131[0m
+2024-07-15 16:21:11 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 16:21:11 info: [0mGET /api/veify-token/ [33m404[0m 4.484 ms - 131[0m
+2024-07-15 16:21:21 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 16:21:21 info: [0mGET /api/veify-token/ [33m404[0m 2.883 ms - 131[0m
+2024-07-15 16:21:21 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 16:21:21 info: [0mGET /api/veify-token/ [33m404[0m 4.585 ms - 131[0m
+2024-07-15 16:28:05 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 16:28:05 info: [0mGET /api/veify-token/ [33m404[0m 2.895 ms - 131[0m
+2024-07-15 16:28:05 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 16:28:05 info: [0mGET /api/veify-token/ [33m404[0m 1.690 ms - 131[0m
+2024-07-15 16:33:29 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 16:33:29 info: [0mGET /api/veify-token/ [33m404[0m 3.888 ms - 131[0m
+2024-07-15 16:33:29 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 16:33:29 info: [0mGET /api/veify-token/ [33m404[0m 12.126 ms - 131[0m
+2024-07-15 16:42:44 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 16:42:44 info: [0mGET /api/veify-token/ [33m404[0m 4.173 ms - 131[0m
+2024-07-15 16:42:44 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 16:42:44 info: [0mGET /api/veify-token/ [33m404[0m 3.901 ms - 131[0m
+2024-07-15 16:44:26 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 16:44:26 info: [0mGET /api/veify-token/ [33m404[0m 5.891 ms - 131[0m
+2024-07-15 16:50:55 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 16:50:55 info: [0mGET /api/veify-token/ [33m404[0m 7.592 ms - 131[0m
+2024-07-15 17:04:22 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 17:04:22 info: [0mGET /api/veify-token/ [33m404[0m 2.022 ms - 131[0m
+2024-07-15 17:04:22 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 17:04:22 info: [0mGET /api/veify-token/ [33m404[0m 1.812 ms - 131[0m
+2024-07-15 17:15:13 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 17:15:13 info: [0mGET /api/veify-token/ [33m404[0m 2.111 ms - 131[0m
+2024-07-15 17:15:13 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 17:15:13 info: [0mGET /api/veify-token/ [33m404[0m 2.529 ms - 131[0m
+2024-07-15 17:32:13 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 17:32:13 info: [0mGET /api/veify-token/ [33m404[0m 4.142 ms - 131[0m
+2024-07-15 17:32:13 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 17:32:13 info: [0mGET /api/veify-token/ [33m404[0m 1.594 ms - 131[0m
+2024-07-15 17:37:30 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 17:37:30 info: [0mGET /api/veify-token/ [33m404[0m 2.869 ms - 131[0m
+2024-07-15 17:37:30 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 17:37:30 info: [0mGET /api/veify-token/ [33m404[0m 2.866 ms - 131[0m
+2024-07-15 17:38:20 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 17:38:20 info: [0mGET /api/veify-token/ [33m404[0m 2.402 ms - 131[0m
+2024-07-15 17:38:20 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 17:38:20 info: [0mGET /api/veify-token/ [33m404[0m 3.744 ms - 131[0m
+2024-07-15 17:41:34 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 17:41:34 info: [0mGET /api/veify-token/ [33m404[0m 3.509 ms - 131[0m
+2024-07-15 17:41:34 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 17:41:34 info: [0mGET /api/veify-token/ [33m404[0m 4.671 ms - 131[0m
+2024-07-15 17:42:18 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 17:42:18 info: [0mGET /api/veify-token/ [33m404[0m 3.858 ms - 131[0m
+2024-07-15 17:42:18 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 17:42:18 info: [0mGET /api/veify-token/ [33m404[0m 3.985 ms - 131[0m
+2024-07-15 17:56:37 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 17:56:37 info: [0mGET /api/veify-token/ [33m404[0m 4.189 ms - 131[0m
+2024-07-15 17:56:37 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 17:56:37 info: [0mGET /api/veify-token/ [33m404[0m 3.125 ms - 131[0m
+2024-07-15 18:00:00 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 18:00:00 info: [0mGET /api/veify-token/ [33m404[0m 2.434 ms - 131[0m
+2024-07-15 18:00:00 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-15 18:00:00 info: [0mGET /api/veify-token/ [33m404[0m 3.458 ms - 131[0m

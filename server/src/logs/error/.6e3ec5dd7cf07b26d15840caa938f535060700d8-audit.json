@@ -1,0 +1,44 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "C:\\Users\\gorel\\Documents\\Tesso\\PDG_APP\\APP\\server\\src\\logs\\error\\.6e3ec5dd7cf07b26d15840caa938f535060700d8-audit.json",
+    "files": [
+        {
+            "date": 1652482019733,
+            "name": "C:\\Users\\gorel\\Documents\\Tesso\\PDG_APP\\APP\\server\\src\\logs\\error\\2022-05-13.log",
+            "hash": "a886f344064fb77b48428f262f547e16"
+        },
+        {
+            "date": 1652750768053,
+            "name": "C:\\Users\\gorel\\Documents\\Tesso\\PDG_APP\\APP\\server\\src\\logs\\error\\2022-05-16.log",
+            "hash": "36e4d9c175399cc354a215f940782e70"
+        },
+        {
+            "date": 1652804205545,
+            "name": "C:\\Users\\gorel\\Documents\\Tesso\\PDG_APP\\APP\\server\\src\\logs\\error\\2022-05-17.log",
+            "hash": "e7f977ff88bf365fa365c0a91b0363ef"
+        },
+        {
+            "date": 1652885619278,
+            "name": "C:\\Users\\gorel\\Documents\\Tesso\\PDG_APP\\APP\\server\\src\\logs\\error\\2022-05-18.log",
+            "hash": "8c951ab66b82363a4ed5dac69a24ba8d"
+        },
+        {
+            "date": 1653148913621,
+            "name": "C:\\Users\\gorel\\Documents\\Tesso\\PDG_APP\\APP\\server\\src\\logs\\error\\2022-05-21.log",
+            "hash": "103b6979ef347fa9dea5bb510bfa45c3"
+        },
+        {
+            "date": 1653236822226,
+            "name": "C:\\Users\\gorel\\Documents\\Tesso\\PDG_APP\\APP\\server\\src\\logs\\error\\2022-05-22.log",
+            "hash": "785fbce8ee15793f690483981e1ac87f"
+        },
+        {
+            "date": 1653394707466,
+            "name": "C:\\Users\\gorel\\Documents\\Tesso\\PDG_APP\\APP\\server\\src\\logs\\error\\2022-05-24.log",
+            "hash": "9f501e551404e50a1008fc42f6526722"
+        }
+    ]
+}

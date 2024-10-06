@@ -1,0 +1,1 @@
+2024-04-27 20:54:51 error: [GET] /api/users/getUsers >> StatusCode:: 401, Message:: Wrong authentication token

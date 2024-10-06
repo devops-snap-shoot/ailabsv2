@@ -1,0 +1,3 @@
+2024-08-11 15:41:27 error: [POST] /api/login >> StatusCode:: 500, Message:: Cannot read properties of null (reading '_id')
+2024-08-11 15:42:10 error: [POST] /api/login >> StatusCode:: 500, Message:: Cannot read properties of null (reading '_id')
+2024-08-11 15:43:47 error: [POST] /api/login >> StatusCode:: 500, Message:: Cannot read properties of null (reading '_id')

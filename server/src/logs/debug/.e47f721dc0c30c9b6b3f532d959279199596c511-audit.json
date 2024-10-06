@@ -1,0 +1,85 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "C:\\Users\\gorel\\Documents\\Kauel_USA\\imKchat\\app\\server\\src\\logs\\debug\\.e47f721dc0c30c9b6b3f532d959279199596c511-audit.json",
+    "files": [
+        {
+            "date": 1687008093347,
+            "name": "C:\\Users\\gorel\\Documents\\Kauel_USA\\imKchat\\app\\server\\src\\logs\\debug\\2023-06-17.log",
+            "hash": "b27360bbafdf73401dc347d7b48644f1"
+        },
+        {
+            "date": 1687102926997,
+            "name": "C:\\Users\\gorel\\Documents\\Kauel_USA\\imKchat\\app\\server\\src\\logs\\debug\\2023-06-18.log",
+            "hash": "c7c4f0d3cad8db9b148dbbc53687881b"
+        },
+        {
+            "date": 1687475820492,
+            "name": "C:\\Users\\gorel\\Documents\\Kauel_USA\\imKchat\\app\\server\\src\\logs\\debug\\2023-06-22.log",
+            "hash": "ee3c899781a70038598ac99b35cae8fb"
+        },
+        {
+            "date": 1687869688280,
+            "name": "C:\\Users\\gorel\\Documents\\Kauel_USA\\imKchat\\app\\server\\src\\logs\\debug\\2023-06-27.log",
+            "hash": "63993c2019fb61683eccfd24e26f165f"
+        },
+        {
+            "date": 1687949228580,
+            "name": "C:\\Users\\gorel\\Documents\\Kauel_USA\\imKchat\\app\\server\\src\\logs\\debug\\2023-06-28.log",
+            "hash": "30192c54a11113b769e48561a17f806e"
+        },
+        {
+            "date": 1688012379439,
+            "name": "C:\\Users\\gorel\\Documents\\Kauel_USA\\imKchat\\app\\server\\src\\logs\\debug\\2023-06-29.log",
+            "hash": "1514240b209bd2d1bfdde6d202ad4eb6"
+        },
+        {
+            "date": 1688122229084,
+            "name": "C:\\Users\\gorel\\Documents\\Kauel_USA\\imKchat\\app\\server\\src\\logs\\debug\\2023-06-30.log",
+            "hash": "fab0b061ed813325772b3670358abdfb"
+        },
+        {
+            "date": 1688213243926,
+            "name": "C:\\Users\\gorel\\Documents\\Kauel_USA\\imKchat\\app\\server\\src\\logs\\debug\\2023-07-01.log",
+            "hash": "aaeca36df4a87da9a59857e7238563d1"
+        },
+        {
+            "date": 1688988499846,
+            "name": "C:\\Users\\gorel\\Documents\\Kauel_USA\\imKchat\\app\\server\\src\\logs\\debug\\2023-07-10.log",
+            "hash": "3a2d992255beb22e73b567d8d827cdaf"
+        },
+        {
+<<<<<<< HEAD
+            "date": 1695254089833,
+            "name": "C:\\Users\\gorel\\Documents\\Kauel_USA\\imKchat\\app\\server\\src\\logs\\debug\\2023-09-20.log",
+            "hash": "7fe89d2076a63a21b0fdbf6bcaa0bbec"
+=======
+            "date": 1694808616273,
+            "name": "C:\\Users\\gorel\\Documents\\Kauel_USA\\imKchat\\app\\server\\src\\logs\\debug\\2023-09-15.log",
+            "hash": "44daa24a0709e414d74c70a1c8f9ea7e"
+        },
+        {
+            "date": 1694838815826,
+            "name": "C:\\Users\\gorel\\Documents\\Kauel_USA\\imKchat\\app\\server\\src\\logs\\debug\\2023-09-16.log",
+            "hash": "9c3967cf4379123a26238626c97a845f"
+        },
+        {
+            "date": 1696585266539,
+            "name": "C:\\Users\\gorel\\Documents\\Kauel_USA\\imKchat\\app\\server\\src\\logs\\debug\\2023-10-06.log",
+            "hash": "d201be2b7dbc9334c4ed05e539878f7b"
+        },
+        {
+            "date": 1697198217914,
+            "name": "C:\\Users\\gorel\\Documents\\Kauel_USA\\imKchat\\app\\server\\src\\logs\\debug\\2023-10-13.log",
+            "hash": "8eebd19b5494b5ce47ec4c970397062a"
+        },
+        {
+            "date": 1697554777814,
+            "name": "C:\\Users\\gorel\\Documents\\Kauel_USA\\imKchat\\app\\server\\src\\logs\\debug\\2023-10-17.log",
+            "hash": "cdd082bda483f1df8dccc7f7275e084b"
+>>>>>>> dev
+        }
+    ]
+}

@@ -1,0 +1,95 @@
+<<<<<<< HEAD
+2023-08-07 19:43:31 info: =================================
+2023-08-07 19:43:31 info: ======= ENV: production =======
+2023-08-07 19:43:31 info: 🚀 App listening on the port 5210
+2023-08-07 19:43:31 info: =================================
+=======
+2023-08-07 10:44:47 info: =================================
+2023-08-07 10:44:47 info: ======= ENV: development =======
+2023-08-07 10:44:47 info: 🚀 App listening on the port 5211
+2023-08-07 10:44:47 info: =================================
+2023-08-07 10:46:33 info: =================================
+2023-08-07 10:46:33 info: ======= ENV: development =======
+2023-08-07 10:46:33 info: 🚀 App listening on the port 5211
+2023-08-07 10:46:33 info: =================================
+2023-08-07 10:46:52 info: [0mPOST /api/login [32m200[0m 354.285 ms - -[0m
+2023-08-07 10:47:20 info: [0mPOST /api/ia/upload_pdf [32m200[0m 11344.948 ms - 67[0m
+2023-08-07 10:47:37 info: [0mPOST /api/ia/chat [32m200[0m 2361.999 ms - -[0m
+2023-08-07 11:02:43 info: [0mPOST /api/login [32m200[0m 322.454 ms - -[0m
+2023-08-07 11:03:01 info: [0mPOST /api/ia/chat [33m400[0m 587.442 ms - 49[0m
+2023-08-07 11:03:15 info: [0mPOST /api/ia/chat [33m400[0m 581.841 ms - 49[0m
+2023-08-07 11:05:52 info: [0mPOST /api/ia/upload_pdf [32m200[0m 8118.495 ms - 81[0m
+2023-08-07 11:06:03 info: [0mPOST /api/ia/chat [32m200[0m 3195.683 ms - -[0m
+2023-08-07 11:08:33 info: [0mPOST /api/ia/upload_pdf [0m-[0m - ms - -[0m
+2023-08-07 12:22:19 info: =================================
+2023-08-07 12:22:19 info: ======= ENV: development =======
+2023-08-07 12:22:19 info: 🚀 App listening on the port 5211
+2023-08-07 12:22:19 info: =================================
+2023-08-07 12:24:35 info: [0mPOST /api/ia/chat [33m400[0m 614.265 ms - 49[0m
+2023-08-07 12:27:38 info: [0mPOST /api/ia/delete_pdf [32m200[0m 575.919 ms - 77[0m
+2023-08-07 12:28:03 info: [0mPOST /api/ia/upload_pdf [32m200[0m 9160.764 ms - 81[0m
+2023-08-07 12:34:57 info: [0mPOST /api/ia/chat [32m200[0m 3126.087 ms - -[0m
+2023-08-07 12:35:11 info: [0mGET /home [32m200[0m 7.161 ms - 874[0m
+2023-08-07 14:54:21 info: [0mPOST /api/ia/delete_pdf [33m400[0m 599.871 ms - 49[0m
+2023-08-07 14:54:34 info: [0mPOST /api/ia/delete_pdf [33m400[0m 594.762 ms - 49[0m
+2023-08-07 14:54:38 info: [0mPOST /api/ia/delete_pdf [32m200[0m 589.341 ms - 51[0m
+2023-08-07 14:54:54 info: [0mPOST /api/ia/chat [32m200[0m 2216.357 ms - -[0m
+2023-08-07 14:55:11 info: [0mPOST /api/ia/chat [32m200[0m 3586.390 ms - -[0m
+2023-08-07 14:55:55 info: [0mPOST /api/ia/delete_pdf [32m200[0m 588.364 ms - 77[0m
+2023-08-07 14:56:01 info: [0mPOST /api/ia/delete_pdf [33m400[0m 597.005 ms - 49[0m
+2023-08-07 14:56:13 info: [0mPOST /api/ia/delete_pdf [33m400[0m 583.242 ms - 49[0m
+2023-08-07 14:56:41 info: [0mPOST /api/ia/upload_pdf [32m200[0m 12823.897 ms - 67[0m
+2023-08-07 14:57:16 info: [0mPOST /api/ia/chat [32m200[0m 2114.910 ms - -[0m
+2023-08-07 14:57:57 info: [0mPOST /api/ia/upload_pdf [32m200[0m 4038.683 ms - 78[0m
+2023-08-07 14:58:23 info: [0mPOST /api/ia/chat [32m200[0m 6871.381 ms - -[0m
+2023-08-07 15:28:31 info: [0mPOST /api/ia/delete_pdf [32m200[0m 593.146 ms - 74[0m
+2023-08-07 15:33:17 info: [0mPOST /api/ia/chat [32m200[0m 1638.224 ms - -[0m
+2023-08-07 15:34:41 info: [0mPOST /api/ia/upload_pdf [32m200[0m 4060.745 ms - 78[0m
+2023-08-07 15:34:58 info: [0mPOST /api/ia/chat [32m200[0m 3662.519 ms - -[0m
+2023-08-07 15:35:28 info: [0mPOST /api/ia/chat [32m200[0m 1735.309 ms - -[0m
+2023-08-07 15:37:28 info: [0mPOST /api/ia/chat [32m200[0m 3516.953 ms - -[0m
+2023-08-07 15:37:47 info: [0mPOST /api/ia/chat [32m200[0m 2034.213 ms - -[0m
+2023-08-07 15:38:17 info: [0mPOST /api/ia/chat [32m200[0m 1856.269 ms - -[0m
+2023-08-07 15:57:26 info: =================================
+2023-08-07 15:57:26 info: ======= ENV: development =======
+2023-08-07 15:57:26 info: 🚀 App listening on the port 5211
+2023-08-07 15:57:26 info: =================================
+2023-08-07 16:03:03 info: [0mPOST /api/ia/chat [33m400[0m 616.497 ms - 49[0m
+2023-08-07 16:03:13 info: [0mPOST /api/ia/chat [33m400[0m 575.826 ms - 49[0m
+2023-08-07 16:03:27 info: [0mPOST /api/ia/delete_pdf [32m200[0m 581.145 ms - 63[0m
+2023-08-07 16:03:31 info: [0mPOST /api/ia/delete_pdf [32m200[0m 581.059 ms - 74[0m
+2023-08-07 16:03:56 info: [0mPOST /api/ia/upload_pdf [32m200[0m 14280.643 ms - 67[0m
+2023-08-07 16:05:38 info: [0mGET /main.f4afc87965f2e735b70a.hot-update.json [32m200[0m 4.927 ms - 874[0m
+2023-08-07 16:05:42 info: [0mPOST /api/ia/chat [32m200[0m 1428.789 ms - -[0m
+2023-08-07 16:06:47 info: [0mPOST /api/ia/upload_pdf [32m200[0m 7632.079 ms - 110[0m
+2023-08-07 16:07:10 info: [0mPOST /api/ia/chat [33m400[0m 677.778 ms - 49[0m
+2023-08-07 16:09:23 info: [0mPOST /api/ia/chat [32m200[0m 2682.234 ms - -[0m
+2023-08-07 16:09:50 info: [0mPOST /api/ia/upload_pdf [32m200[0m 7617.266 ms - 110[0m
+2023-08-07 16:12:07 info: [0mPOST /api/ia/chat [32m200[0m 1289.634 ms - -[0m
+2023-08-07 16:17:24 info: [0mGET /home [32m200[0m 2.947 ms - 874[0m
+2023-08-07 16:17:43 info: [0mPOST /api/ia/chat [32m200[0m 2764.208 ms - -[0m
+2023-08-07 16:19:42 info: [0mPOST /api/ia/chat [32m200[0m 1583.413 ms - -[0m
+2023-08-07 16:21:25 info: [0mPOST /api/ia/chat [32m200[0m 1796.205 ms - -[0m
+2023-08-07 18:40:36 info: [0mPOST /api/ia/chat [33m400[0m 572.618 ms - 49[0m
+2023-08-07 18:40:57 info: [0mPOST /api/ia/delete_pdf [32m200[0m 571.836 ms - 106[0m
+2023-08-07 18:41:18 info: [0mPOST /api/ia/chat [33m400[0m 586.432 ms - 49[0m
+2023-08-07 18:41:23 info: [0mPOST /api/ia/delete_pdf [32m200[0m 583.164 ms - 63[0m
+2023-08-07 18:41:38 info: [0mPOST /api/ia/upload_pdf [32m200[0m 2791.242 ms - 96[0m
+2023-08-07 18:43:26 info: [0mPOST /api/ia/delete_pdf [32m200[0m 568.264 ms - 92[0m
+2023-08-07 18:44:00 info: [0mPOST /api/ia/upload_pdf [32m200[0m 2674.554 ms - 96[0m
+2023-08-07 18:45:40 info: [0mPOST /api/ia/chat [32m200[0m 3443.945 ms - -[0m
+2023-08-07 18:46:26 info: [0mPOST /api/ia/chat [32m200[0m 2089.152 ms - -[0m
+2023-08-07 18:47:18 info: [0mPOST /api/ia/upload_pdf [32m200[0m 10538.902 ms - 81[0m
+2023-08-07 18:47:46 info: [0mPOST /api/ia/chat [32m200[0m 2453.124 ms - -[0m
+2023-08-07 18:48:45 info: [0mPOST /api/ia/chat [32m200[0m 4191.476 ms - -[0m
+2023-08-07 18:58:09 info: [0mPOST /api/ia/chat [32m200[0m 2375.217 ms - -[0m
+2023-08-07 18:59:01 info: [0mPOST /api/ia/chat [32m200[0m 2513.432 ms - -[0m
+2023-08-07 18:59:19 info: [0mPOST /api/ia/chat [32m200[0m 2245.204 ms - -[0m
+2023-08-07 18:59:46 info: [0mPOST /api/ia/chat [32m200[0m 3601.890 ms - -[0m
+2023-08-07 19:01:04 info: [0mPOST /api/ia/chat [32m200[0m 1988.564 ms - -[0m
+2023-08-07 19:02:28 info: [0mPOST /api/ia/chat [32m200[0m 1761.674 ms - -[0m
+2023-08-07 19:02:42 info: [0mPOST /api/ia/chat [32m200[0m 3251.905 ms - -[0m
+2023-08-07 19:03:01 info: [0mPOST /api/ia/chat [32m200[0m 4052.932 ms - -[0m
+2023-08-07 19:03:25 info: [0mPOST /api/ia/chat [32m200[0m 2542.195 ms - -[0m
+2023-08-07 19:03:37 info: [0mPOST /api/ia/chat [32m200[0m 1773.129 ms - -[0m
+>>>>>>> dev

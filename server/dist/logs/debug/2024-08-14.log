@@ -1,0 +1,22 @@
+2024-08-14 22:58:17 info: =================================
+2024-08-14 22:58:17 info: ======= ENV: development =======
+2024-08-14 22:58:17 info: 🚀 App listening on the port 5210
+2024-08-14 22:58:17 info: =================================
+2024-08-14 22:58:32 info: [0mGET / [32m200[0m 5.159 ms - 974[0m
+2024-08-14 22:58:32 info: [0mGET /assets/botlibre/sdk.js [36m304[0m 3.949 ms - -[0m
+2024-08-14 22:58:32 info: [0mGET /static/css/main.522cfc28.css [32m200[0m 13.383 ms - -[0m
+2024-08-14 22:58:32 info: [0mGET /static/js/main.9b6471c3.js [32m200[0m 16.463 ms - -[0m
+2024-08-14 22:58:32 info: [0mGET /static/js/22.75550aa0.chunk.js [32m200[0m 1.799 ms - 869[0m
+2024-08-14 22:58:32 info: [0mGET /static/js/344.1a498bff.chunk.js [32m200[0m 3.897 ms - -[0m
+2024-08-14 22:58:32 info: [0mGET /static/media/Poppins-Regular.35d26b781dc5fda684cc.ttf [32m200[0m 8.875 ms - -[0m
+2024-08-14 22:58:32 info: [0mGET /static/media/OpenSans-Regular.9a6cfa5890d7f3eef585.ttf [32m200[0m 7.180 ms - -[0m
+2024-08-14 22:58:32 info: [0mGET /static/media/Inter-Regular.9ca9ba81e9dcaa12b3a1.ttf [32m200[0m 8.106 ms - -[0m
+2024-08-14 22:58:32 info: [0mGET /assets/images/Imkchat_logo.svg [32m200[0m 36.401 ms - -[0m
+2024-08-14 22:58:32 info: [0mGET /manifest.json [36m304[0m 0.746 ms - -[0m
+2024-08-14 22:58:51 info: [0mGET /static/css/main.522cfc28.css [36m304[0m 2.203 ms - -[0m
+2024-08-14 22:58:51 info: [0mGET /manifest.json [36m304[0m 2.401 ms - -[0m
+2024-08-14 22:58:51 info: [0mGET /static/js/22.75550aa0.chunk.js.map [32m200[0m 5.385 ms - -[0m
+2024-08-14 22:58:51 info: [0mGET /static/js/344.1a498bff.chunk.js.map [32m200[0m 4.439 ms - -[0m
+2024-08-14 22:58:51 info: [0mGET /static/css/main.522cfc28.css.map [32m200[0m 2.105 ms - -[0m
+2024-08-14 22:58:51 info: [0mGET /static/js/main.9b6471c3.js.map [32m200[0m 5.351 ms - -[0m
+2024-08-14 23:04:09 info: [0mGET /static/css/main.522cfc28.css.map [32m200[0m 1.496 ms - -[0m

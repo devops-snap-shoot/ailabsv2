@@ -1,0 +1,104 @@
+2023-06-30 06:50:37 info: =================================
+2023-06-30 06:50:37 info: ======= ENV: development =======
+2023-06-30 06:50:37 info: 🚀 App listening on the port 5210
+2023-06-30 06:50:37 info: =================================
+2023-06-30 06:52:40 error: connect ETIMEDOUT 66.235.200.147:465
+2023-06-30 06:52:40 info: [0mPOST /api/forgot-password [32m200[0m 21602.914 ms - 446[0m
+2023-06-30 06:52:44 info: =================================
+2023-06-30 06:52:44 info: ======= ENV: development =======
+2023-06-30 06:52:44 info: 🚀 App listening on the port 5210
+2023-06-30 06:52:44 info: =================================
+2023-06-30 06:54:29 error: connect ETIMEDOUT 66.235.200.147:465
+2023-06-30 06:54:29 info: [0mPOST /api/forgot-password [32m200[0m 21361.377 ms - 446[0m
+2023-06-30 06:56:42 info: =================================
+2023-06-30 06:56:42 info: ======= ENV: development =======
+2023-06-30 06:56:42 info: 🚀 App listening on the port 5210
+2023-06-30 06:56:42 info: =================================
+2023-06-30 06:56:48 info: [0mGET /main.0eef7346604374605f84.hot-update.json [32m200[0m 20.039 ms - 872[0m
+2023-06-30 06:57:37 error: connect ETIMEDOUT 66.235.200.147:465
+2023-06-30 06:57:37 info: [0mPOST /api/forgot-password [32m200[0m 21443.253 ms - 446[0m
+2023-06-30 06:57:54 info: =================================
+2023-06-30 06:57:54 info: ======= ENV: development =======
+2023-06-30 06:57:54 info: 🚀 App listening on the port 5210
+2023-06-30 06:57:54 info: =================================
+2023-06-30 06:58:12 error: Hostname/IP does not match certificate's altnames: Host: mail.imkchat.com. is not in the cert's altnames: DNS:*.bluehost.com, DNS:bluehost.com
+2023-06-30 06:58:12 info: [0mPOST /api/forgot-password [32m200[0m 1278.707 ms - 446[0m
+2023-06-30 06:58:16 info: =================================
+2023-06-30 06:58:16 info: ======= ENV: development =======
+2023-06-30 06:58:16 info: 🚀 App listening on the port 5210
+2023-06-30 06:58:16 info: =================================
+2023-06-30 06:59:10 error: Hostname/IP does not match certificate's altnames: Host: mail.imkchat.com. is not in the cert's altnames: DNS:*.bluehost.com, DNS:bluehost.com
+2023-06-30 06:59:10 info: [0mPOST /api/forgot-password [32m200[0m 1324.865 ms - 446[0m
+2023-06-30 07:02:34 info: =================================
+2023-06-30 07:02:34 info: ======= ENV: development =======
+2023-06-30 07:02:34 info: 🚀 App listening on the port 5210
+2023-06-30 07:02:34 info: =================================
+2023-06-30 07:02:59 info: [0mPOST /api/forgot-password [32m200[0m 2604.741 ms - 446[0m
+2023-06-30 07:04:21 info: =================================
+2023-06-30 07:04:21 info: ======= ENV: development =======
+2023-06-30 07:04:21 info: 🚀 App listening on the port 5210
+2023-06-30 07:04:21 info: =================================
+2023-06-30 07:06:54 error: connect ETIMEDOUT 66.235.200.147:465
+2023-06-30 07:06:54 info: [0mPOST /api/forgot-password [32m200[0m 21887.654 ms - 446[0m
+2023-06-30 07:09:43 info: =================================
+2023-06-30 07:09:43 info: ======= ENV: development =======
+2023-06-30 07:09:43 info: 🚀 App listening on the port 5210
+2023-06-30 07:09:43 info: =================================
+2023-06-30 07:10:09 info: [0mPOST /api/forgot-password [32m200[0m 6822.895 ms - 446[0m
+2023-06-30 07:40:02 info: =================================
+2023-06-30 07:40:02 info: ======= ENV: development =======
+2023-06-30 07:40:02 info: 🚀 App listening on the port 5210
+2023-06-30 07:40:02 info: =================================
+2023-06-30 07:40:16 info: [0mPOST /api/forgot-password [32m200[0m 3368.186 ms - 446[0m
+2023-06-30 07:41:27 info: =================================
+2023-06-30 07:41:27 info: ======= ENV: development =======
+2023-06-30 07:41:27 info: 🚀 App listening on the port 5210
+2023-06-30 07:41:27 info: =================================
+2023-06-30 07:41:41 error: Hostname/IP does not match certificate's altnames: Host: mail.imkchat.com. is not in the cert's altnames: DNS:*.bluehost.com, DNS:bluehost.com
+2023-06-30 07:41:41 info: [0mPOST /api/forgot-password [32m200[0m 1819.093 ms - 446[0m
+2023-06-30 15:52:44 info: =================================
+2023-06-30 15:52:44 info: ======= ENV: development =======
+2023-06-30 15:52:44 info: 🚀 App listening on the port 5210
+2023-06-30 15:52:44 info: =================================
+2023-06-30 15:53:34 info: =================================
+2023-06-30 15:53:34 info: ======= ENV: development =======
+2023-06-30 15:53:34 info: 🚀 App listening on the port 5210
+2023-06-30 15:53:34 info: =================================
+2023-06-30 15:53:49 info: [0mPOST /api/forgot-password [32m200[0m 2744.945 ms - 446[0m
+2023-06-30 15:57:36 info: [0mPOST /api/forgot-password [32m200[0m 2478.511 ms - 446[0m
+2023-06-30 15:58:16 info: =================================
+2023-06-30 15:58:16 info: ======= ENV: development =======
+2023-06-30 15:58:16 info: 🚀 App listening on the port 5210
+2023-06-30 15:58:16 info: =================================
+2023-06-30 15:58:25 info: =================================
+2023-06-30 15:58:25 info: ======= ENV: development =======
+2023-06-30 15:58:25 info: 🚀 App listening on the port 5210
+2023-06-30 15:58:25 info: =================================
+2023-06-30 15:58:38 info: [0mPOST /api/forgot-password [32m200[0m 2680.705 ms - 446[0m
+2023-06-30 16:04:18 info: =================================
+2023-06-30 16:04:18 info: ======= ENV: development =======
+2023-06-30 16:04:18 info: 🚀 App listening on the port 5210
+2023-06-30 16:04:18 info: =================================
+2023-06-30 16:04:42 info: =================================
+2023-06-30 16:04:42 info: ======= ENV: development =======
+2023-06-30 16:04:42 info: 🚀 App listening on the port 5210
+2023-06-30 16:04:42 info: =================================
+2023-06-30 16:04:54 error: 44550000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:c:\ws\deps\openssl\openssl\ssl\record\ssl3_record.c:355:
+
+2023-06-30 16:04:54 info: [0mPOST /api/forgot-password [32m200[0m 846.435 ms - 446[0m
+2023-06-30 16:04:57 info: =================================
+2023-06-30 16:04:57 info: ======= ENV: development =======
+2023-06-30 16:04:57 info: 🚀 App listening on the port 5210
+2023-06-30 16:04:57 info: =================================
+2023-06-30 16:05:19 error: 7C5B0000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:c:\ws\deps\openssl\openssl\ssl\record\ssl3_record.c:355:
+
+2023-06-30 16:05:19 info: [0mPOST /api/forgot-password [32m200[0m 588.849 ms - 446[0m
+2023-06-30 16:05:23 info: =================================
+2023-06-30 16:05:23 info: ======= ENV: development =======
+2023-06-30 16:05:23 info: 🚀 App listening on the port 5210
+2023-06-30 16:05:23 info: =================================
+2023-06-30 16:08:09 info: =================================
+2023-06-30 16:08:09 info: ======= ENV: development =======
+2023-06-30 16:08:09 info: 🚀 App listening on the port 5210
+2023-06-30 16:08:09 info: =================================
+2023-06-30 16:08:21 info: [0mPOST /api/forgot-password [32m200[0m 2403.870 ms - 446[0m

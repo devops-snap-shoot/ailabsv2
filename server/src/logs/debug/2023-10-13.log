@@ -1,0 +1,146 @@
+2023-10-13 08:57:10 info: =================================
+2023-10-13 08:57:10 info: ======= ENV: development =======
+2023-10-13 08:57:10 info: 🚀 App listening on the port 5210
+2023-10-13 08:57:10 info: =================================
+2023-10-13 09:10:00 info: =================================
+2023-10-13 09:10:00 info: ======= ENV: development =======
+2023-10-13 09:10:00 info: 🚀 App listening on the port 5210
+2023-10-13 09:10:00 info: =================================
+2023-10-13 09:10:16 error: [POST] /api/organization/createOrg >> StatusCode:: 401, Message:: Wrong authentication token
+2023-10-13 09:10:16 info: [0mPOST /api/organization/createOrg [33m401[0m 179.928 ms - 40[0m
+2023-10-13 09:11:22 error: [GET] /api/login >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Kauel_USA\imKchat\app\client\build\index.html'
+2023-10-13 09:11:22 info: [0mGET /api/login [33m404[0m 13.267 ms - 135[0m
+2023-10-13 09:11:28 info: [0mPOST /api/login [32m200[0m 248.875 ms - -[0m
+2023-10-13 09:12:14 info: [0mPOST /api/organization/createOrg [0m-[0m - ms - -[0m
+2023-10-13 09:13:04 info: =================================
+2023-10-13 09:13:04 info: ======= ENV: development =======
+2023-10-13 09:13:04 info: 🚀 App listening on the port 5210
+2023-10-13 09:13:04 info: =================================
+2023-10-13 09:13:28 info: [0mPOST /api/organization/createOrg [0m-[0m - ms - -[0m
+2023-10-13 09:13:44 info: [0mPOST /api/organization/createOrg [0m-[0m - ms - -[0m
+2023-10-13 09:14:40 info: =================================
+2023-10-13 09:14:40 info: ======= ENV: development =======
+2023-10-13 09:14:40 info: 🚀 App listening on the port 5210
+2023-10-13 09:14:40 info: =================================
+2023-10-13 09:14:58 info: =================================
+2023-10-13 09:14:58 info: ======= ENV: development =======
+2023-10-13 09:14:58 info: 🚀 App listening on the port 5210
+2023-10-13 09:14:58 info: =================================
+2023-10-13 09:15:01 info: [0mPOST /api/organization/createOrg [32m201[0m 182.492 ms - 271[0m
+2023-10-13 09:15:41 info: [0mPOST /api/organization/createOrg [32m201[0m 163.583 ms - 256[0m
+2023-10-13 09:22:40 info: =================================
+2023-10-13 09:22:40 info: ======= ENV: development =======
+2023-10-13 09:22:40 info: 🚀 App listening on the port 5210
+2023-10-13 09:22:40 info: =================================
+2023-10-13 09:22:49 info: [0mPOST /api/organization/addUserToOrg?userId=652930977d780b2969758090&orgId=652934c5aaf7a00a88749e47 [32m201[0m 132.836 ms - 161[0m
+2023-10-13 09:24:01 info: [0mPOST /api/organization/addUserToOrg [32m201[0m 128.646 ms - 229[0m
+2023-10-13 09:33:23 info: =================================
+2023-10-13 09:33:23 info: ======= ENV: development =======
+2023-10-13 09:33:23 info: 🚀 App listening on the port 5210
+2023-10-13 09:33:23 info: =================================
+2023-10-13 09:37:31 info: =================================
+2023-10-13 09:37:31 info: ======= ENV: development =======
+2023-10-13 09:37:31 info: 🚀 App listening on the port 5210
+2023-10-13 09:37:31 info: =================================
+2023-10-13 09:42:40 info: [0mPOST /api/roles/createRole/organization/652934c5aaf7a00a88749e47 [33m404[0m 166.878 ms - 198[0m
+2023-10-13 09:44:12 info: =================================
+2023-10-13 09:44:12 info: ======= ENV: development =======
+2023-10-13 09:44:12 info: 🚀 App listening on the port 5210
+2023-10-13 09:44:12 info: =================================
+2023-10-13 09:44:21 info: [0mPOST /api/roles/createRole/organization/652934c5aaf7a00a88749e47 [33m404[0m 33.830 ms - 198[0m
+2023-10-13 09:44:52 info: =================================
+2023-10-13 09:44:52 info: ======= ENV: development =======
+2023-10-13 09:44:52 info: 🚀 App listening on the port 5210
+2023-10-13 09:44:52 info: =================================
+2023-10-13 09:45:00 info: [0mPOST /api/roles/createRole/organization/652934c5aaf7a00a88749e47 [33m404[0m 40.782 ms - 198[0m
+2023-10-13 09:45:41 info: =================================
+2023-10-13 09:45:41 info: ======= ENV: development =======
+2023-10-13 09:45:41 info: 🚀 App listening on the port 5210
+2023-10-13 09:45:41 info: =================================
+2023-10-13 09:45:45 info: [0mPOST /api/roles/createRole/organization/652934c5aaf7a00a88749e47 [32m201[0m 113.275 ms - 292[0m
+2023-10-13 09:50:51 info: [0mPOST /api/roles/createRole/organization/652934c5aaf7a00a88749e47 [32m201[0m 88.152 ms - 292[0m
+2023-10-13 10:00:22 info: [0mPOST /api/organization/createOrg [32m201[0m 165.598 ms - 265[0m
+2023-10-13 10:01:00 info: [0mPOST /api/roles/createRole/organization/65293f661f701b19ec69f7ce [32m201[0m 85.798 ms - 292[0m
+2023-10-13 10:01:12 info: [0mPOST /api/roles/createRole/organization/652934edaaf7a00a88749e4a [32m201[0m 87.668 ms - 292[0m
+2023-10-13 10:01:28 info: [0mPOST /api/roles/createRole/organization/652934edaaf7a00a88749e4a [32m201[0m 89.372 ms - 292[0m
+2023-10-13 10:01:36 info: [0mPOST /api/roles/createRole/organization/65293f661f701b19ec69f7ce [32m201[0m 80.729 ms - 292[0m
+2023-10-13 10:07:12 info: =================================
+2023-10-13 10:07:12 info: ======= ENV: development =======
+2023-10-13 10:07:12 info: 🚀 App listening on the port 5210
+2023-10-13 10:07:12 info: =================================
+2023-10-13 10:15:58 error: [POST] /api/users/createUser >> StatusCode:: 401, Message:: Wrong authentication token
+2023-10-13 10:15:58 info: [0mPOST /api/users/createUser [33m401[0m 112.314 ms - 40[0m
+2023-10-13 10:16:14 info: =================================
+2023-10-13 10:16:14 info: ======= ENV: development =======
+2023-10-13 10:16:14 info: 🚀 App listening on the port 5210
+2023-10-13 10:16:14 info: =================================
+2023-10-13 10:16:16 info: [0mPOST /api/users/createUser [32m201[0m 263.265 ms - 449[0m
+2023-10-13 10:21:29 info: =================================
+2023-10-13 10:21:29 info: ======= ENV: development =======
+2023-10-13 10:21:29 info: 🚀 App listening on the port 5210
+2023-10-13 10:21:29 info: =================================
+2023-10-13 10:36:55 info: =================================
+2023-10-13 10:36:55 info: ======= ENV: development =======
+2023-10-13 10:36:55 info: 🚀 App listening on the port 5210
+2023-10-13 10:36:55 info: =================================
+2023-10-13 10:54:43 info: =================================
+2023-10-13 10:54:43 info: ======= ENV: development =======
+2023-10-13 10:54:43 info: 🚀 App listening on the port 5210
+2023-10-13 10:54:43 info: =================================
+2023-10-13 11:18:27 info: =================================
+2023-10-13 11:18:27 info: ======= ENV: development =======
+2023-10-13 11:18:27 info: 🚀 App listening on the port 5210
+2023-10-13 11:18:27 info: =================================
+2023-10-13 11:23:50 info: =================================
+2023-10-13 11:23:50 info: ======= ENV: development =======
+2023-10-13 11:23:50 info: 🚀 App listening on the port 5210
+2023-10-13 11:23:50 info: =================================
+2023-10-13 11:31:25 info: =================================
+2023-10-13 11:31:25 info: ======= ENV: development =======
+2023-10-13 11:31:25 info: 🚀 App listening on the port 5210
+2023-10-13 11:31:25 info: =================================
+2023-10-13 11:47:05 info: =================================
+2023-10-13 11:47:05 info: ======= ENV: development =======
+2023-10-13 11:47:05 info: 🚀 App listening on the port 5210
+2023-10-13 11:47:05 info: =================================
+2023-10-13 15:12:49 info: =================================
+2023-10-13 15:12:49 info: ======= ENV: development =======
+2023-10-13 15:12:49 info: 🚀 App listening on the port 5210
+2023-10-13 15:12:49 info: =================================
+2023-10-13 15:13:29 error: [POST] /api/login >> StatusCode:: 500, Message:: Cannot read properties of undefined (reading 'toString')
+2023-10-13 15:13:29 info: [0mPOST /api/login [31m500[0m 378.274 ms - 70[0m
+2023-10-13 15:14:00 info: =================================
+2023-10-13 15:14:00 info: ======= ENV: development =======
+2023-10-13 15:14:00 info: 🚀 App listening on the port 5210
+2023-10-13 15:14:00 info: =================================
+2023-10-13 15:14:04 info: [0mPOST /api/login [32m200[0m 386.724 ms - -[0m
+2023-10-13 15:14:04 info: [0mPOST /api/files/getFilesByUserId [32m200[0m 146.781 ms - -[0m
+2023-10-13 15:14:30 error: [POST] /api/login >> StatusCode:: 410, Message:: organization not user
+2023-10-13 15:14:30 info: [0mPOST /api/login [33m410[0m 242.543 ms - 35[0m
+2023-10-13 15:14:34 info: =================================
+2023-10-13 15:14:34 info: ======= ENV: development =======
+2023-10-13 15:14:34 info: 🚀 App listening on the port 5210
+2023-10-13 15:14:34 info: =================================
+2023-10-13 15:14:58 info: =================================
+2023-10-13 15:14:58 info: ======= ENV: development =======
+2023-10-13 15:14:58 info: 🚀 App listening on the port 5210
+2023-10-13 15:14:58 info: =================================
+2023-10-13 15:15:01 error: [POST] /api/login >> StatusCode:: 500, Message:: Cannot read properties of null (reading '_id')
+2023-10-13 15:15:01 info: [0mPOST /api/login [31m500[0m 107.226 ms - 60[0m
+2023-10-13 15:15:05 error: [POST] /api/login >> StatusCode:: 500, Message:: Cannot read properties of null (reading '_id')
+2023-10-13 15:15:05 info: [0mPOST /api/login [31m500[0m 78.075 ms - 60[0m
+2023-10-13 15:15:53 info: =================================
+2023-10-13 15:15:53 info: ======= ENV: development =======
+2023-10-13 15:15:53 info: 🚀 App listening on the port 5210
+2023-10-13 15:15:53 info: =================================
+2023-10-13 15:15:57 error: [POST] /api/login >> StatusCode:: 500, Message:: Cannot read properties of null (reading '_id')
+2023-10-13 15:15:57 info: [0mPOST /api/login [31m500[0m 103.529 ms - 60[0m
+2023-10-13 15:16:48 error: [POST] /api/login >> StatusCode:: 410, Message:: organization not user
+2023-10-13 15:16:48 info: [0mPOST /api/login [33m410[0m 232.371 ms - 35[0m
+2023-10-13 15:17:01 error: [POST] /api/login >> StatusCode:: 410, Message:: organization not user
+2023-10-13 15:17:01 info: [0mPOST /api/login [33m410[0m 225.784 ms - 35[0m
+2023-10-13 15:18:19 info: =================================
+2023-10-13 15:18:19 info: ======= ENV: development =======
+2023-10-13 15:18:19 info: 🚀 App listening on the port 5210
+2023-10-13 15:18:19 info: =================================
+2023-10-13 15:18:23 info: [0mPOST /api/login [32m200[0m 338.199 ms - 867[0m

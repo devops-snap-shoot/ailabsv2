@@ -1,0 +1,29 @@
+2022-07-06 19:16:05 info: =================================
+2022-07-06 19:16:05 info: ======= ENV: development =======
+2022-07-06 19:16:05 info: 🚀 App listening on the port 5101
+2022-07-06 19:16:05 info: =================================
+2022-07-06 19:17:02 info: [0mGET /api/clients/getAllClients [32m200[0m 105.323 ms - 561[0m
+2022-07-06 19:17:02 info: [0mGET /api/causas/obtenerCausas [32m201[0m 110.770 ms - -[0m
+2022-07-06 19:17:04 info: [0mGET /api/clients/getAllClients [36m304[0m 97.841 ms - -[0m
+2022-07-06 19:17:04 info: [0mGET /api/causas/obtenerCausas [32m201[0m 101.835 ms - -[0m
+2022-07-06 19:40:26 info: [0mGET /api/users/getUsers [32m200[0m 92.737 ms - -[0m
+2022-07-06 19:49:36 info: [0mGET /api/servicios/obtenerProcedimientos [32m200[0m 87.654 ms - 476[0m
+2022-07-06 19:49:36 info: [0mGET /api/servicios/obtenerTipoServicios [32m200[0m 87.146 ms - 457[0m
+2022-07-06 19:49:42 info: [0mGET /api/servicios/obtenerProcedimientos [36m304[0m 88.237 ms - -[0m
+2022-07-06 19:49:42 info: [0mGET /api/servicios/obtenerTipoServicios [36m304[0m 89.209 ms - -[0m
+2022-07-06 19:50:16 info: [0mGET /api/servicios/obtenerSubMateria [36m304[0m 90.054 ms - -[0m
+2022-07-06 19:50:25 info: [0mGET /api/clients/getAllClients [36m304[0m 93.231 ms - -[0m
+2022-07-06 19:50:25 info: [0mGET /api/causas/obtenerCausas [32m201[0m 94.101 ms - -[0m
+2022-07-06 19:50:28 info: [0mGET /api/servicios/obtenerTipoServicios [36m304[0m 86.465 ms - -[0m
+2022-07-06 19:50:28 info: [0mGET /api/servicios/obtenerProcedimientos [36m304[0m 92.352 ms - -[0m
+2022-07-06 19:50:28 info: [0mGET /api/servicios/obtenerSubMateria [36m304[0m 92.033 ms - -[0m
+2022-07-06 19:51:17 info: [0mGET /api/causas/obtenerCausas [32m201[0m 88.878 ms - -[0m
+2022-07-06 19:51:17 info: [0mPOST /api/clients/getClientById [32m201[0m 131.715 ms - 557[0m
+2022-07-06 19:51:18 info: [0mPOST /api/users/user/62c2e800353557aac802d479 [32m200[0m 183.917 ms - 490[0m
+2022-07-06 19:52:02 info: [0mGET /api/clients/getAllClients [36m304[0m 89.822 ms - -[0m
+2022-07-06 19:52:06 info: [0mGET /api/users/getVendedores [32m200[0m 89.181 ms - -[0m
+2022-07-06 19:53:57 info: =================================
+2022-07-06 19:53:57 info: ======= ENV: development =======
+2022-07-06 19:53:57 info: 🚀 App listening on the port 5101
+2022-07-06 19:53:57 info: =================================
+2022-07-06 20:10:03 info: [0mGET /api/users/getVendedores [36m304[0m 94.255 ms - -[0m

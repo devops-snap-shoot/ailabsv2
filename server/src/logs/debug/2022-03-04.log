@@ -1,0 +1,21 @@
+2022-03-04 07:51:12 info: =================================
+2022-03-04 07:51:12 info: ======= ENV: development =======
+2022-03-04 07:51:12 info: 🚀 App listening on the port 5000
+2022-03-04 07:51:12 info: =================================
+2022-03-04 08:11:15 info: =================================
+2022-03-04 08:11:15 info: ======= ENV: development =======
+2022-03-04 08:11:15 info: 🚀 App listening on the port 5000
+2022-03-04 08:11:15 info: =================================
+2022-03-04 08:12:40 info: =================================
+2022-03-04 08:12:40 info: ======= ENV: development =======
+2022-03-04 08:12:40 info: 🚀 App listening on the port 5000
+2022-03-04 08:12:40 info: =================================
+2022-03-04 08:14:41 error: [POST] /auth/login >> StatusCode:: 409, Message:: Email sdfgvd@sdd.cl no encontrado
+2022-03-04 08:14:58 error: [POST] /auth/login >> StatusCode:: 409, Message:: Contraseña incorrecta
+2022-03-04 09:16:09 error: [POST] /auth/login >> StatusCode:: 400, Message:: email must be an email, password must be a string
+2022-03-04 11:01:26 error: [POST] /auth/login >> StatusCode:: 400, Message:: email must be an email, password must be a string
+2022-03-04 11:01:29 error: [POST] /auth/login >> StatusCode:: 400, Message:: email must be an email, password must be a string
+2022-03-04 13:44:55 info: =================================
+2022-03-04 13:44:55 info: ======= ENV: development =======
+2022-03-04 13:44:55 info: 🚀 App listening on the port 5000
+2022-03-04 13:44:55 info: =================================

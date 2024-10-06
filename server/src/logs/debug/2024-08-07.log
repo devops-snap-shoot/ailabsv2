@@ -1,0 +1,24 @@
+2024-08-07 14:16:38 info: =================================
+2024-08-07 14:16:38 info: ======= ENV: development =======
+2024-08-07 14:16:38 info: 🚀 App listening on the port 5210
+2024-08-07 14:16:38 info: =================================
+2024-08-07 14:16:49 info: [0mGET /api/users/getUsers [32m200[0m 170.445 ms - 927[0m
+2024-08-07 14:16:49 info: [0mGET /api/files/getFiles [32m200[0m 460.732 ms - -[0m
+2024-08-07 14:19:50 info: =================================
+2024-08-07 14:19:50 info: ======= ENV: development =======
+2024-08-07 14:19:50 info: 🚀 App listening on the port 5210
+2024-08-07 14:19:50 info: =================================
+2024-08-07 16:26:38 info: [0mGET /api/users/getUsers [32m200[0m 177.617 ms - 927[0m
+2024-08-07 16:26:39 info: [0mGET /api/files/getFiles [32m200[0m 468.640 ms - -[0m
+2024-08-07 16:34:23 info: [0mGET /api/users/getUsers [36m304[0m 141.158 ms - -[0m
+2024-08-07 16:34:24 info: [0mGET /api/files/getFiles [36m304[0m 413.277 ms - -[0m
+2024-08-07 16:34:47 info: [0mGET /api/users/getUsers [36m304[0m 140.813 ms - -[0m
+2024-08-07 16:34:47 info: [0mGET /api/files/getFiles [36m304[0m 412.169 ms - -[0m
+2024-08-07 16:37:01 info: [0mGET /api/users/getUsers [36m304[0m 137.446 ms - -[0m
+2024-08-07 16:37:01 info: [0mGET /api/files/getFiles [36m304[0m 420.916 ms - -[0m
+2024-08-07 16:39:06 info: [0mGET /api/users/getUsers [36m304[0m 142.593 ms - -[0m
+2024-08-07 16:39:06 info: [0mGET /api/files/getFiles [36m304[0m 424.695 ms - -[0m
+2024-08-07 16:40:40 info: [0mGET /api/users/getUsers [36m304[0m 149.416 ms - -[0m
+2024-08-07 16:40:40 info: [0mGET /api/files/getFiles [36m304[0m 408.130 ms - -[0m
+2024-08-07 16:41:57 info: [0mGET /api/users/getUsers [36m304[0m 153.031 ms - -[0m
+2024-08-07 16:41:57 info: [0mGET /api/files/getFiles [36m304[0m 452.644 ms - -[0m

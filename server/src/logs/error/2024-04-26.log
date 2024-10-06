@@ -1,0 +1,14 @@
+2024-04-26 08:13:41 error: [GET] /api/users/getUsers >> StatusCode:: 401, Message:: Wrong authentication token
+2024-04-26 08:13:48 error: [GET] /api/users/getUsers >> StatusCode:: 401, Message:: Wrong authentication token
+2024-04-26 08:19:21 error: [GET] /api/users/getUsers >> StatusCode:: 401, Message:: Wrong authentication token
+2024-04-26 08:19:43 error: [GET] /api/users/getUsers >> StatusCode:: 401, Message:: Wrong authentication token
+2024-04-26 08:19:43 error: [GET] /api/veify-token/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI2NTI5MzA5NzdkNzgwYjI5Njk3NTgwOTAiLCJpYXQiOjE2OTc2Njc0MjYsImV4cCI6MTY5Nzc1MzgyNn0.K4aACybkNRbYkruQuNBjoxLDdFOzRuVALbSYtgSQv0g >> StatusCode:: 409, Message:: User not found
+2024-04-26 08:19:43 error: [GET] /api/users/getUsers >> StatusCode:: 401, Message:: Wrong authentication token
+2024-04-26 08:19:43 error: [GET] /api/users/getUsers >> StatusCode:: 401, Message:: Wrong authentication token
+2024-04-26 12:01:25 error: [GET] /api/users/getUsers >> StatusCode:: 401, Message:: Wrong authentication token
+2024-04-26 12:01:27 error: [GET] /api/users/getUsers >> StatusCode:: 401, Message:: Wrong authentication token
+2024-04-26 12:01:51 error: [POST] /api/login >> StatusCode:: 409, Message:: Wrong password
+2024-04-26 12:28:47 error: [GET] /api/users/getUsersByCompany/652934c5aaf7a00a88749e47 >> StatusCode:: 500, Message:: Cast to ObjectId failed for value "{ companyId: '652934c5aaf7a00a88749e47' }" (type Object) at path "organization" for model "User"
+2024-04-26 12:30:07 error: [GET] /api/users/getUsersByCompany/652934c5aaf7a00a88749e47 >> StatusCode:: 500, Message:: Cast to ObjectId failed for value "{ companyId: '652934c5aaf7a00a88749e47' }" (type Object) at path "organization" for model "User"
+2024-04-26 12:30:23 error: [GET] /api/users/getUsersByCompany/652934c5aaf7a00a88749e47 >> StatusCode:: 500, Message:: Cast to ObjectId failed for value "{ companyId: '652934c5aaf7a00a88749e47' }" (type Object) at path "organization" for model "User"
+2024-04-26 12:30:26 error: [GET] /api/users/getUsersByCompany/652934c5aaf7a00a88749e47 >> StatusCode:: 500, Message:: Cast to ObjectId failed for value "{ companyId: '652934c5aaf7a00a88749e47' }" (type Object) at path "organization" for model "User"

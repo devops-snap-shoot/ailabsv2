@@ -1,0 +1,18 @@
+2023-06-22 20:52:47 error: [POST] /api/ia/upload_pdf >> StatusCode:: 500, Message:: read ECONNRESET
+2023-06-22 20:54:32 error: [POST] /api/ia/upload_pdf >> StatusCode:: 500, Message:: read ECONNRESET
+2023-06-22 20:59:37 error: [POST] /api/ia/upload_pdf >> StatusCode:: 500, Message:: Data after transformation must be a string, an ArrayBuffer, a Buffer, or a Stream
+2023-06-22 21:05:38 error: uncaughtException: connect ETIMEDOUT 172.12.2.2:8000
+Error: connect ETIMEDOUT 172.12.2.2:8000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1494:16)
+2023-06-22 21:06:37 error: uncaughtException: connect ETIMEDOUT 172.12.2.2:8000
+Error: connect ETIMEDOUT 172.12.2.2:8000
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1494:16)
+2023-06-22 21:07:09 error: uncaughtException: Request failed with status code 404
+Error: Request failed with status code 404
+    at createError (C:\Users\gorel\Documents\Kauel_USA\imKchat\app\server\node_modules\axios\lib\core\createError.js:16:15)
+    at settle (C:\Users\gorel\Documents\Kauel_USA\imKchat\app\server\node_modules\axios\lib\core\settle.js:17:12)
+    at IncomingMessage.handleStreamEnd (C:\Users\gorel\Documents\Kauel_USA\imKchat\app\server\node_modules\axios\lib\adapters\http.js:269:11)
+    at IncomingMessage.emit (node:events:525:35)
+    at IncomingMessage.emit (node:domain:489:12)
+    at endReadableNT (node:internal/streams/readable:1359:12)
+    at processTicksAndRejections (node:internal/process/task_queues:82:21)

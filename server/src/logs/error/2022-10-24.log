@@ -1,0 +1,4 @@
+2022-10-24 09:23:09 error: [GET] /favicon.ico >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Tesso\DemocraciaOnline\democracia_online\client\build\index.html'
+2022-10-24 09:46:56 error: [GET] /favicon.ico >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Tesso\DemocraciaOnline\democracia_online\client\build\index.html'
+2022-10-24 14:50:59 error: [POST] /api/login >> StatusCode:: 409, Message:: Email gonzalo.orellana@tesso.xn--c-rga no encontrado
+2022-10-24 14:51:08 error: [POST] /api/login >> StatusCode:: 409, Message:: Contraseña incorrecta

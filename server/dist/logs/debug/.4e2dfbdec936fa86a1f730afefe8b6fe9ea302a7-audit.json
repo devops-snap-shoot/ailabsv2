@@ -1,0 +1,14 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "C:\\Users\\gorel\\Documents\\Projects\\k-chat-pdf\\server\\dist\\logs\\debug\\.4e2dfbdec936fa86a1f730afefe8b6fe9ea302a7-audit.json",
+    "files": [
+        {
+            "date": 1723663038707,
+            "name": "C:\\Users\\gorel\\Documents\\Projects\\k-chat-pdf\\server\\dist\\logs\\debug\\2024-08-14.log",
+            "hash": "a522a8212cbc71e64b079251716bba87"
+        }
+    ]
+}

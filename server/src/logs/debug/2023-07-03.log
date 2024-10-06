@@ -1,0 +1,28 @@
+2023-07-03 15:39:18 info: =================================
+2023-07-03 15:39:18 info: ======= ENV: development =======
+2023-07-03 15:39:18 info: 🚀 App listening on the port 5210
+2023-07-03 15:39:18 info: =================================
+2023-07-03 17:54:59 info: =================================
+2023-07-03 17:54:59 info: ======= ENV: development =======
+2023-07-03 17:54:59 info: 🚀 App listening on the port 5210
+2023-07-03 17:54:59 info: =================================
+2023-07-03 18:36:09 info: [0mGET / [32m200[0m 7.500 ms - 872[0m
+2023-07-03 18:36:09 info: [0mGET /static/css/main.66da890e.css [32m200[0m 1.453 ms - -[0m
+2023-07-03 18:36:09 info: [0mGET /static/js/main.fa078eac.js [32m200[0m 5.061 ms - -[0m
+2023-07-03 18:36:10 info: [0mGET /static/js/22.86674b8c.chunk.js [32m200[0m 1.673 ms - 864[0m
+2023-07-03 18:36:10 info: [0mGET /assets/images/Imkchat_logo.svg [32m200[0m 2.514 ms - -[0m
+2023-07-03 18:36:10 info: [0mGET /static/media/OpenSans-Regular.9a6cfa5890d7f3eef585.ttf [32m200[0m 1.744 ms - -[0m
+2023-07-03 18:36:10 info: [0mGET /static/js/344.af5e8bf1.chunk.js [32m200[0m 1.392 ms - -[0m
+2023-07-03 18:36:10 info: [0mGET /static/js/225.ccf05236.chunk.js [32m200[0m 1.719 ms - -[0m
+2023-07-03 18:36:11 info: [0mGET /assets/icon/fabicon.webp [32m200[0m 1.900 ms - 630[0m
+2023-07-03 18:36:23 info: [0mGET /img/icons/close.svg [32m200[0m 1.901 ms - 339[0m
+2023-07-03 18:50:35 info: [0mGET /img/icons/close.svg [36m304[0m 1.628 ms - -[0m
+2023-07-03 18:50:46 info: [0mPOST /api/login [32m200[0m 360.751 ms - -[0m
+2023-07-03 18:50:47 info: [0mGET /assets/icon/user.svg [32m200[0m 2.945 ms - -[0m
+2023-07-03 18:50:47 info: [0mGET /assets/icon/logout.svg [32m200[0m 1.524 ms - -[0m
+2023-07-03 18:50:47 info: [0mGET /assets/images/upload-cloud.svg [32m200[0m 2.732 ms - -[0m
+2023-07-03 18:50:47 info: [0mGET /assets/icon/copy.svg [32m200[0m 1.314 ms - -[0m
+2023-07-03 18:50:47 info: [0mGET /assets/icon/right-send-arrow.svg [32m200[0m 2.527 ms - 311[0m
+2023-07-03 18:50:47 info: [0mGET /assets/images/Imkchat_logo_white.svg [32m200[0m 3.964 ms - -[0m
+2023-07-03 19:01:56 info: [0mGET / [32m200[0m 1.529 ms - 872[0m
+2023-07-03 19:03:34 info: [0mGET / [32m200[0m 1.516 ms - 872[0m

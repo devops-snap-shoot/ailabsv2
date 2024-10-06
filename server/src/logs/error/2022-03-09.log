@@ -1,0 +1,4 @@
+2022-03-09 12:43:12 error: [GET] /api/users/getUsers >> StatusCode:: 401, Message:: Wrong authentication token
+2022-03-09 12:45:20 error: [GET] /users/getUsers >> StatusCode:: 401, Message:: Wrong authentication token
+2022-03-09 12:48:16 error: [GET] /users/getUsers >> StatusCode:: 401, Message:: Wrong authentication token
+2022-03-09 12:50:49 error: [GET] /users/getUsers >> StatusCode:: 401, Message:: Wrong authentication token

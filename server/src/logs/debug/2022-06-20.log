@@ -1,0 +1,141 @@
+2022-06-20 09:45:12 info: =================================
+2022-06-20 09:45:12 info: ======= ENV: development =======
+2022-06-20 09:45:12 info: 🚀 App listening on the port 5100
+2022-06-20 09:45:12 info: =================================
+2022-06-20 09:45:28 info: [0mPOST /api/auth/login [32m200[0m 182.140 ms - 607[0m
+2022-06-20 09:45:29 info: [0mGET /api/roles/getRoles [32m200[0m 76.595 ms - 581[0m
+2022-06-20 09:45:32 info: [0mGET /api/servicios/obtenerProcedimientos [36m304[0m 74.718 ms - -[0m
+2022-06-20 09:45:32 info: [0mGET /api/servicios/obtenerTipoServicios [36m304[0m 89.261 ms - -[0m
+2022-06-20 09:45:32 info: [0mGET /api/causas/obtenerCausas [32m201[0m 89.157 ms - -[0m
+2022-06-20 10:04:09 info: [0mGET /api/servicios/obtenerTipoServicios [36m304[0m 77.815 ms - -[0m
+2022-06-20 10:04:09 info: [0mGET /api/causas/obtenerCausas [32m201[0m 77.740 ms - -[0m
+2022-06-20 10:04:12 info: [0mGET /api/causas/obtenerCausas [32m201[0m 82.898 ms - -[0m
+2022-06-20 10:04:12 info: [0mGET /api/servicios/obtenerTipoServicios [36m304[0m 84.404 ms - -[0m
+2022-06-20 10:05:21 info: [0mGET /api/servicios/obtenerProcedimientos [36m304[0m 75.384 ms - -[0m
+2022-06-20 10:59:50 info: [0mGET /api/causas/obtenerCausas [32m201[0m 78.319 ms - -[0m
+2022-06-20 10:59:50 info: [0mGET /api/servicios/obtenerTipoServicios [36m304[0m 77.623 ms - -[0m
+2022-06-20 11:03:35 info: [0mGET /api/causas/obtenerCausas [32m201[0m 75.247 ms - -[0m
+2022-06-20 11:03:40 info: [0mGET /api/servicios/obtenerProcedimientos [36m304[0m 75.099 ms - -[0m
+2022-06-20 11:04:05 info: [0mGET /api/servicios/obtenerTipoServicios [36m304[0m 72.753 ms - -[0m
+2022-06-20 11:05:49 info: [0mGET /api/causas/obtenerCausas [32m201[0m 73.683 ms - -[0m
+2022-06-20 11:06:14 info: [0mGET /api/causas/obtenerCausas [32m201[0m 76.591 ms - -[0m
+2022-06-20 11:06:37 info: [0mPOST /api/clients/getClientById/ [32m201[0m 85.337 ms - 524[0m
+2022-06-20 11:06:37 info: [0mPOST /api/users/user/62a9f2e7ea9f11009ba952bd [32m200[0m 182.808 ms - 528[0m
+2022-06-20 11:06:41 info: [0mPOST /api/users/user/62a9f2e7ea9f11009ba952bd [32m200[0m 153.912 ms - 528[0m
+2022-06-20 11:06:41 info: [0mPOST /api/clients/getClientById/ [32m201[0m 73.400 ms - 524[0m
+2022-06-20 11:06:41 info: [0mGET /api/servicios/obtenerProcedimientos/ [32m200[0m 77.649 ms - 612[0m
+2022-06-20 11:06:41 info: [0mGET /api/servicios/obtenerTipoServicios/ [36m304[0m 82.419 ms - -[0m
+2022-06-20 11:06:43 info: [0mGET /api/causas/obtenerCausas [32m201[0m 77.328 ms - -[0m
+2022-06-20 11:06:43 info: [0mGET /api/causas/obtenerCausas [32m201[0m 75.633 ms - -[0m
+2022-06-20 11:06:48 info: [0mPOST /api/users/user/629dc319d3a1e6cc88271842 [32m200[0m 167.061 ms - 354[0m
+2022-06-20 11:06:48 info: [0mPOST /api/clients/getClientById/ [32m201[0m 75.794 ms - 524[0m
+2022-06-20 11:06:48 info: [0mGET /api/servicios/obtenerTipoServicios/ [36m304[0m 78.603 ms - -[0m
+2022-06-20 11:06:48 info: [0mGET /api/servicios/obtenerProcedimientos/ [36m304[0m 78.071 ms - -[0m
+2022-06-20 11:06:50 info: [0mGET /api/causas/obtenerCausas [32m201[0m 75.902 ms - -[0m
+2022-06-20 11:06:50 info: [0mGET /api/causas/obtenerCausas [32m201[0m 78.360 ms - -[0m
+2022-06-20 12:18:21 info: [0mGET /api/servicios/obtenerProcedimientos [36m304[0m 72.771 ms - -[0m
+2022-06-20 12:18:21 info: [0mGET /api/servicios/obtenerTipoServicios [36m304[0m 77.162 ms - -[0m
+2022-06-20 12:18:21 info: [0mGET /api/causas/obtenerCausas [32m201[0m 76.262 ms - -[0m
+2022-06-20 12:24:35 info: [0mGET /api/servicios/obtenerProcedimientos [36m304[0m 73.910 ms - -[0m
+2022-06-20 12:24:35 info: [0mGET /api/servicios/obtenerTipoServicios [36m304[0m 73.285 ms - -[0m
+2022-06-20 12:24:35 info: [0mGET /api/causas/obtenerCausas [32m201[0m 75.402 ms - -[0m
+2022-06-20 12:52:50 info: =================================
+2022-06-20 12:52:50 info: ======= ENV: development =======
+2022-06-20 12:52:50 info: 🚀 App listening on the port 5100
+2022-06-20 12:52:50 info: =================================
+2022-06-20 12:56:03 info: =================================
+2022-06-20 12:56:03 info: ======= ENV: development =======
+2022-06-20 12:56:03 info: 🚀 App listening on the port 5100
+2022-06-20 12:56:03 info: =================================
+2022-06-20 12:58:27 info: [0mPOST /api/servicios/crearSubMateria [32m201[0m 161.463 ms - 175[0m
+2022-06-20 12:58:27 info: [0mGET /api/servicios/obtenerSubMateria [32m200[0m 75.551 ms - 182[0m
+2022-06-20 12:59:02 info: [0mPOST /api/servicios/borrarSubMateria [32m201[0m 84.960 ms - 44[0m
+2022-06-20 12:59:02 info: [0mGET /api/servicios/obtenerSubMateria [32m200[0m 72.683 ms - 46[0m
+2022-06-20 12:59:16 info: [0mGET /api/causas/obtenerCausas [32m201[0m 85.413 ms - -[0m
+2022-06-20 12:59:17 info: [0mGET /api/causas/obtenerCausas [32m201[0m 76.722 ms - -[0m
+2022-06-20 12:59:17 info: [0mGET /api/causas/obtenerCausas [32m201[0m 80.809 ms - -[0m
+2022-06-20 12:59:18 info: [0mGET /api/causas/obtenerCausas [32m201[0m 74.478 ms - -[0m
+2022-06-20 13:07:17 info: [0mGET /api/causas/obtenerCausas [32m201[0m 75.081 ms - -[0m
+2022-06-20 13:07:17 info: [0mGET /api/causas/obtenerCausas [32m201[0m 84.055 ms - -[0m
+2022-06-20 13:07:18 info: [0mGET /api/causas/obtenerCausas [32m201[0m 75.360 ms - -[0m
+2022-06-20 13:07:18 info: [0mGET /api/causas/obtenerCausas [32m201[0m 82.379 ms - -[0m
+2022-06-20 13:08:33 info: [0mGET /api/servicios/obtenerProcedimientos [36m304[0m 84.466 ms - -[0m
+2022-06-20 13:08:33 info: [0mGET /api/servicios/obtenerTipoServicios [36m304[0m 73.111 ms - -[0m
+2022-06-20 13:08:52 info: [0mGET /api/servicios/obtenerProcedimientos [36m304[0m 79.170 ms - -[0m
+2022-06-20 13:08:52 info: [0mGET /api/servicios/obtenerTipoServicios [36m304[0m 72.588 ms - -[0m
+2022-06-20 13:10:01 info: [0mGET /api/clients/getAllClients [36m304[0m 75.059 ms - -[0m
+2022-06-20 13:10:09 info: [0mGET /api/users/getUsers [32m200[0m 241.507 ms - -[0m
+2022-06-20 13:12:33 info: [0mGET /api/users/getUsers [36m304[0m 159.534 ms - -[0m
+2022-06-20 13:13:21 info: [0mGET /api/users/getUsers [36m304[0m 154.825 ms - -[0m
+2022-06-20 13:13:48 info: [0mGET /api/users/getUsers [36m304[0m 153.768 ms - -[0m
+2022-06-20 13:18:17 info: [0mGET /api/users/getUsers [36m304[0m 164.702 ms - -[0m
+2022-06-20 13:18:24 info: [0mGET /api/users/getUsers [36m304[0m 160.608 ms - -[0m
+2022-06-20 13:19:26 info: [0mGET /api/users/getUsers [36m304[0m 154.636 ms - -[0m
+2022-06-20 13:19:29 info: [0mGET /api/users/getUsers [36m304[0m 162.526 ms - -[0m
+2022-06-20 13:20:38 info: [0mGET /api/users/getUsers [36m304[0m 162.623 ms - -[0m
+2022-06-20 13:21:19 info: [0mGET /api/users/getUsers [36m304[0m 155.495 ms - -[0m
+2022-06-20 13:21:31 info: [0mGET /api/clients/getAllClients [36m304[0m 78.442 ms - -[0m
+2022-06-20 13:21:33 info: [0mGET /api/users/getUsers [36m304[0m 162.590 ms - -[0m
+2022-06-20 13:21:42 info: [0mGET /api/clients/getAllClients [36m304[0m 72.641 ms - -[0m
+2022-06-20 13:21:44 info: [0mGET /api/clients/getAllClients [36m304[0m 74.570 ms - -[0m
+2022-06-20 13:21:48 info: [0mGET /api/servicios/obtenerProcedimientos [36m304[0m 73.861 ms - -[0m
+2022-06-20 13:21:48 info: [0mGET /api/servicios/obtenerTipoServicios [36m304[0m 76.660 ms - -[0m
+2022-06-20 13:21:51 info: [0mGET /api/users/getUsers [36m304[0m 165.015 ms - -[0m
+2022-06-20 13:22:50 info: [0mGET /api/users/getUsers [36m304[0m 159.438 ms - -[0m
+2022-06-20 13:23:14 info: [0mGET /api/clients/getAllClients [36m304[0m 72.448 ms - -[0m
+2022-06-20 13:23:14 info: [0mGET /api/users/getUsers [36m304[0m 149.466 ms - -[0m
+2022-06-20 13:23:44 info: [0mGET /api/clients/getAllClients [36m304[0m 76.680 ms - -[0m
+2022-06-20 13:23:45 info: [0mGET /api/users/getUsers [36m304[0m 150.374 ms - -[0m
+2022-06-20 13:23:50 info: [0mGET /api/users/getUsers [36m304[0m 151.695 ms - -[0m
+2022-06-20 13:32:08 info: [0mGET /api/users/getUsers [36m304[0m 154.873 ms - -[0m
+2022-06-20 13:50:14 info: [0mGET /api/users/getUsers [36m304[0m 153.618 ms - -[0m
+2022-06-20 13:50:19 info: [0mDELETE /api/users/user629dc319d3a1e6cc88271842 [33m404[0m 5.280 ms - 180[0m
+2022-06-20 13:50:35 info: [0mGET /api/users/getUsers [36m304[0m 152.804 ms - -[0m
+2022-06-20 14:04:37 info: [0mGET /api/users/getUsers [36m304[0m 165.647 ms - -[0m
+2022-06-20 14:05:42 info: [0mGET /api/users/getUsers [36m304[0m 145.601 ms - -[0m
+2022-06-20 14:05:50 info: [0mDELETE /api/users/user629dc319d3a1e6cc88271842 [33m404[0m 3.786 ms - 180[0m
+2022-06-20 14:06:22 info: =================================
+2022-06-20 14:06:22 info: ======= ENV: development =======
+2022-06-20 14:06:22 info: 🚀 App listening on the port 5100
+2022-06-20 14:06:22 info: =================================
+2022-06-20 14:06:25 info: [0mGET /api/users/getUsers [32m200[0m 176.932 ms - -[0m
+2022-06-20 14:06:29 info: [0mDELETE /api/users/user/629dc319d3a1e6cc88271842 [32m200[0m 96.689 ms - 454[0m
+2022-06-20 14:06:39 info: [0mGET /api/users/getUsers [32m200[0m 156.033 ms - -[0m
+2022-06-20 14:07:14 info: [0mGET /api/users/getUsers [36m304[0m 156.430 ms - -[0m
+2022-06-20 14:07:32 info: [0mDELETE /api/users/user/629dc3eed3a1e6cc8827184b [32m200[0m 86.092 ms - 435[0m
+2022-06-20 14:09:25 info: [0mGET /api/users/getUsers [32m200[0m 204.951 ms - -[0m
+2022-06-20 14:15:00 info: [0mPOST /api/users/createUser [32m201[0m 259.449 ms - 447[0m
+2022-06-20 14:15:02 info: [0mGET /api/users/getUsers [32m200[0m 155.858 ms - -[0m
+2022-06-20 14:16:10 info: [0mGET /api/users/getUsers [36m304[0m 165.458 ms - -[0m
+2022-06-20 14:16:59 info: [0mGET /api/users/getUsers [36m304[0m 157.625 ms - -[0m
+2022-06-20 14:17:12 info: [0mGET /api/users/getUsers [36m304[0m 147.109 ms - -[0m
+2022-06-20 14:18:18 info: [0mGET /api/users/getUsers [36m304[0m 151.060 ms - -[0m
+2022-06-20 14:18:39 info: [0mGET /api/users/getUsers [36m304[0m 155.419 ms - -[0m
+2022-06-20 14:19:44 info: [0mGET /api/users/getUsers [36m304[0m 155.739 ms - -[0m
+2022-06-20 14:20:37 info: [0mDELETE /api/users/user/62b0b92490f6b65fecf5bfa7 [32m200[0m 79.754 ms - 447[0m
+2022-06-20 14:20:39 info: [0mGET /api/users/getUsers [32m200[0m 147.019 ms - -[0m
+2022-06-20 14:39:54 info: [0mGET /api/clients/getAllClients [36m304[0m 897.350 ms - -[0m
+2022-06-20 14:40:06 info: [0mGET /api/causas/obtenerCausas [32m201[0m 103.553 ms - -[0m
+2022-06-20 14:40:09 info: [0mPOST /api/clients/getClientById/ [32m201[0m 283.821 ms - 524[0m
+2022-06-20 14:40:09 info: [0mGET /api/servicios/obtenerTipoServicios/ [36m304[0m 378.316 ms - -[0m
+2022-06-20 14:40:10 info: [0mGET /api/servicios/obtenerProcedimientos/ [36m304[0m 492.817 ms - -[0m
+2022-06-20 14:40:10 info: [0mPOST /api/users/user/62a9f2e7ea9f11009ba952bd [32m200[0m 617.899 ms - 528[0m
+2022-06-20 14:40:20 info: [0mGET /api/causas/obtenerCausas [32m201[0m 231.851 ms - -[0m
+2022-06-20 14:40:24 info: [0mGET /api/causas/obtenerCausas [32m201[0m 109.673 ms - -[0m
+2022-06-20 14:40:27 error: [POST] /api/users/user/629dc319d3a1e6cc88271842 >> StatusCode:: 404, Message:: Ususario no encontrado
+2022-06-20 14:40:27 info: [0mPOST /api/users/user/629dc319d3a1e6cc88271842 [33m404[0m 84.303 ms - 36[0m
+2022-06-20 14:40:27 info: [0mPOST /api/clients/getClientById/ [32m201[0m 100.904 ms - 524[0m
+2022-06-20 14:40:27 info: [0mGET /api/servicios/obtenerProcedimientos/ [36m304[0m 156.791 ms - -[0m
+2022-06-20 14:40:27 info: [0mGET /api/servicios/obtenerTipoServicios/ [36m304[0m 161.539 ms - -[0m
+2022-06-20 14:40:29 info: [0mGET /api/users/getAbogados [32m200[0m 91.567 ms - 946[0m
+2022-06-20 14:40:41 info: [0mGET /api/causas/obtenerCausas [32m201[0m 114.142 ms - -[0m
+2022-06-20 14:40:44 error: [POST] /api/users/user/629dc319d3a1e6cc88271842 >> StatusCode:: 404, Message:: Ususario no encontrado
+2022-06-20 14:40:44 info: [0mPOST /api/users/user/629dc319d3a1e6cc88271842 [33m404[0m 74.941 ms - 36[0m
+2022-06-20 14:40:44 info: [0mPOST /api/clients/getClientById/ [32m201[0m 79.800 ms - 524[0m
+2022-06-20 14:40:44 info: [0mGET /api/servicios/obtenerTipoServicios/ [36m304[0m 78.347 ms - -[0m
+2022-06-20 14:40:44 info: [0mGET /api/servicios/obtenerProcedimientos/ [36m304[0m 85.048 ms - -[0m
+2022-06-20 15:11:27 info: [0mGET /api/servicios/obtenerTipoServicios [36m304[0m 74.026 ms - -[0m
+2022-06-20 15:11:30 info: [0mGET /api/users/getAbogados [36m304[0m 77.806 ms - -[0m
+2022-06-20 15:11:44 info: [0mGET /api/causas/obtenerCausas [32m201[0m 76.707 ms - -[0m
+2022-06-20 15:11:46 info: [0mGET /api/servicios/obtenerTipoServicios [36m304[0m 78.740 ms - -[0m
+2022-06-20 15:11:46 info: [0mGET /api/servicios/obtenerProcedimientos [36m304[0m 77.203 ms - -[0m

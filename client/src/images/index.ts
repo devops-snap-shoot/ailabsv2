@@ -1,0 +1,1 @@
+export const NoImageProfile = './assets/images/no_profile.webp'

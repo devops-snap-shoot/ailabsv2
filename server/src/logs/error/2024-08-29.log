@@ -1,0 +1,38 @@
+2024-08-29 07:10:17 error: [POST] /api/forgot-password >> StatusCode:: 500, Message:: queryA EBADNAME mail.@ai-labhelper.com
+2024-08-29 09:27:54 error: uncaughtException: Operation `filesjobs.find()` buffering timed out after 10000ms
+MongooseError: Operation `filesjobs.find()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (C:\Users\gorel\Documents\Projects\k-chat-pdf\server\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:198:23)
+    at listOnTimeout (node:internal/timers:569:17)
+    at processTimers (node:internal/timers:512:7)
+2024-08-29 09:29:39 error: uncaughtException: Operation `filesjobs.find()` buffering timed out after 10000ms
+MongooseError: Operation `filesjobs.find()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (C:\Users\gorel\Documents\Projects\k-chat-pdf\server\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:198:23)
+    at listOnTimeout (node:internal/timers:569:17)
+    at processTimers (node:internal/timers:512:7)
+2024-08-29 09:30:44 error: uncaughtException: Operation `filesjobs.find()` buffering timed out after 10000ms
+MongooseError: Operation `filesjobs.find()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (C:\Users\gorel\Documents\Projects\k-chat-pdf\server\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:198:23)
+    at listOnTimeout (node:internal/timers:569:17)
+    at processTimers (node:internal/timers:512:7)
+2024-08-29 09:30:47 error: [GET] /api/users/getUsers >> StatusCode:: 500, Message:: Operation `users.find()` buffering timed out after 10000ms
+2024-08-29 09:39:16 error: uncaughtException: Operation `filesjobs.find()` buffering timed out after 10000ms
+MongooseError: Operation `filesjobs.find()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (C:\Users\gorel\Documents\Projects\k-chat-pdf\server\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:198:23)
+    at listOnTimeout (node:internal/timers:569:17)
+    at processTimers (node:internal/timers:512:7)
+2024-08-29 09:42:05 error: uncaughtException: Operation `filesjobs.find()` buffering timed out after 10000ms
+MongooseError: Operation `filesjobs.find()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (C:\Users\gorel\Documents\Projects\k-chat-pdf\server\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:198:23)
+    at listOnTimeout (node:internal/timers:569:17)
+    at processTimers (node:internal/timers:512:7)
+2024-08-29 09:55:37 error: uncaughtException: Operation `filesjobs.find()` buffering timed out after 10000ms
+MongooseError: Operation `filesjobs.find()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (C:\Users\gorel\Documents\Projects\k-chat-pdf\server\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:198:23)
+    at listOnTimeout (node:internal/timers:569:17)
+    at processTimers (node:internal/timers:512:7)
+2024-08-29 13:09:04 error: uncaughtException: Operation `filesjobs.find()` buffering timed out after 10000ms
+MongooseError: Operation `filesjobs.find()` buffering timed out after 10000ms
+    at Timeout.<anonymous> (C:\Users\gorel\Documents\Projects\k-chat-pdf\server\node_modules\mongoose\lib\drivers\node-mongodb-native\collection.js:198:23)
+    at listOnTimeout (node:internal/timers:569:17)
+    at processTimers (node:internal/timers:512:7)
+2024-08-29 13:09:05 error: [GET] /api/users/getUsers >> StatusCode:: 500, Message:: Operation `users.find()` buffering timed out after 10000ms

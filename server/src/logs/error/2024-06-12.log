@@ -1,0 +1,9 @@
+2024-06-12 08:16:20 error: [POST] /api/files/updateFileById >> StatusCode:: 400, Message:: request aborted
+2024-06-12 09:35:25 error: [POST] /api/files/updateFileById >> StatusCode:: 413, Message:: request entity too large
+2024-06-12 09:35:26 error: [POST] /api/files/updateFileById >> StatusCode:: 413, Message:: request entity too large
+2024-06-12 09:46:58 error: [POST] /api/files/updateFileById >> StatusCode:: 413, Message:: request entity too large
+2024-06-12 10:32:36 error: [POST] /api/files/updateFileById >> StatusCode:: 413, Message:: request entity too large
+2024-06-12 10:41:20 error: uncaughtException: Cannot read properties of undefined (reading 'data')
+TypeError: Cannot read properties of undefined (reading 'data')
+    at C:\Users\gorel\Documents\Projects\imkchat\server\src\controllers\ia.controller.ts:192:61
+2024-06-12 11:38:18 error: [POST] /api/files/updateFileById >> StatusCode:: 413, Message:: request entity too large

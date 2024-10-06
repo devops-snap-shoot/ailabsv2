@@ -1,0 +1,13 @@
+2024-08-16 07:50:29 error: [POST] /api/login >> StatusCode:: 409, Message:: Wrong password
+2024-08-16 07:50:33 error: [POST] /api/login >> StatusCode:: 409, Message:: Wrong password
+2024-08-16 07:50:51 error: [POST] /api/login >> StatusCode:: 409, Message:: Wrong password
+2024-08-16 07:53:30 error: [GET] /api/users/getUsersByCompany/[object%20Object] >> StatusCode:: 500, Message:: Cast to ObjectId failed for value "[object Object]" (type string) at path "organization" for model "User"
+2024-08-16 08:09:12 error: [GET] /api/users/getUsersByCompany/[object%20Object] >> StatusCode:: 500, Message:: Cast to ObjectId failed for value "[object Object]" (type string) at path "organization" for model "User"
+2024-08-16 08:14:57 error: [GET] /api/users/getUsersByCompany/[object%20Object] >> StatusCode:: 500, Message:: Cast to ObjectId failed for value "[object Object]" (type string) at path "organization" for model "User"
+2024-08-16 08:17:56 error: [GET] /api/users/getUsersByCompany/[object%20Object] >> StatusCode:: 500, Message:: Cast to ObjectId failed for value "[object Object]" (type string) at path "organization" for model "User"
+2024-08-16 13:04:15 error: [POST] /api/forgot-password >> StatusCode:: 409, Message:: Email gozalo.orellana@kauel.com not found
+2024-08-16 13:04:34 error: [POST] /api/forgot-password >> StatusCode:: 409, Message:: Email gozalo.orellana@kauel.com not found
+2024-08-16 13:27:17 error: [POST] /api/login >> StatusCode:: 409, Message:: Wrong password
+2024-08-16 13:29:08 error: [POST] /api/login >> StatusCode:: 409, Message:: Wrong password
+2024-08-16 13:32:46 error: [POST] /api/login >> StatusCode:: 409, Message:: Wrong password
+2024-08-16 13:32:53 error: [POST] /api/login >> StatusCode:: 409, Message:: Wrong password

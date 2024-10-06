@@ -1,0 +1,10 @@
+<<<<<<< HEAD
+2023-07-10 12:56:56 error: uncaughtException: Cannot read properties of undefined (reading 'data')
+TypeError: Cannot read properties of undefined (reading 'data')
+    at /home/kauel/imkchat/server/src/controllers/ia.controller.ts:41:61
+=======
+2023-07-10 12:56:00 error: uncaughtException: Cannot read properties of undefined (reading 'data')
+TypeError: Cannot read properties of undefined (reading 'data')
+    at /home/kauel/imkchat-dev/server/src/controllers/ia.controller.ts:41:61
+>>>>>>> dev
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)

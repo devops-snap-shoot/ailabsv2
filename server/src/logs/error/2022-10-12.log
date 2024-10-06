@@ -1,0 +1,16 @@
+2022-10-12 10:43:03 error: [GET] /api/clients/getClients >> StatusCode:: 401, Message:: Wrong authentication token
+2022-10-12 17:52:29 error: [POST] /api/templates/getTemplateByContract >> StatusCode:: 500, Message:: Cannot read property 'status' of undefined
+2022-10-12 17:52:29 error: [POST] /api/templates/getTemplateByContract >> StatusCode:: 500, Message:: Cannot read property 'status' of undefined
+2022-10-12 17:54:26 error: [POST] /api/templates/getTemplateByContract >> StatusCode:: 500, Message:: Cannot read property 'status' of undefined
+2022-10-12 17:54:26 error: [POST] /api/templates/getTemplateByContract >> StatusCode:: 500, Message:: Cannot read property 'status' of undefined
+2022-10-12 17:55:10 error: [POST] /api/templates/getTemplateByContract >> StatusCode:: 500, Message:: res.status is not a function
+2022-10-12 17:55:10 error: [POST] /api/templates/getTemplateByContract >> StatusCode:: 500, Message:: res.status is not a function
+2022-10-12 17:55:55 error: [POST] /api/templates/getTemplateByContract >> StatusCode:: 500, Message:: res.status is not a function
+2022-10-12 17:55:55 error: [POST] /api/templates/getTemplateByContract >> StatusCode:: 500, Message:: res.status is not a function
+2022-10-12 18:06:28 error: [POST] /api/templates/getTemplateByContract >> StatusCode:: 500, Message:: res.status is not a function
+2022-10-12 18:06:28 error: [POST] /api/templates/getTemplateByContract >> StatusCode:: 500, Message:: res.status is not a function
+2022-10-12 18:07:17 error: [POST] /api/templates/getTemplateByContract >> StatusCode:: 500, Message:: res.status is not a function
+2022-10-12 18:07:17 error: [POST] /api/templates/getTemplateByContract >> StatusCode:: 500, Message:: res.status is not a function
+2022-10-12 18:07:21 error: [POST] /api/templates/getTemplateByContract >> StatusCode:: 500, Message:: res.status is not a function
+2022-10-12 18:07:21 error: [POST] /api/templates/getTemplateByContract >> StatusCode:: 500, Message:: res.status is not a function
+2022-10-12 22:47:14 error: [GET] /api/clients/getClients >> StatusCode:: 401, Message:: Wrong authentication token

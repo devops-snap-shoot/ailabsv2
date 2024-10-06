@@ -1,0 +1,82 @@
+2022-06-03 09:35:06 info: [0mGET /api/users/getVendedores [32m200[0m 601.151 ms - 466[0m
+2022-06-03 09:35:15 info: =================================
+2022-06-03 09:35:15 info: ======= ENV: development =======
+2022-06-03 09:35:15 info: 🚀 App listening on the port 5100
+2022-06-03 09:35:15 info: =================================
+2022-06-03 09:41:39 info: [0mGET /api/users/getVendedores [36m304[0m 80.730 ms - -[0m
+2022-06-03 09:42:34 info: [0mGET /api/users/getVendedores [36m304[0m 75.911 ms - -[0m
+2022-06-03 09:43:07 info: [0mGET /api/users/getVendedores [36m304[0m 72.866 ms - -[0m
+2022-06-03 09:45:59 info: [0mGET /api/users/getVendedores [36m304[0m 74.639 ms - -[0m
+2022-06-03 09:46:51 info: [0mGET /api/users/getVendedores [36m304[0m 72.422 ms - -[0m
+2022-06-03 09:47:11 info: [0mGET /api/users/getVendedores [36m304[0m 75.775 ms - -[0m
+2022-06-03 09:47:39 info: [0mGET /api/users/getVendedores [36m304[0m 77.378 ms - -[0m
+2022-06-03 09:48:06 info: [0mGET /api/users/getVendedores [36m304[0m 80.610 ms - -[0m
+2022-06-03 09:48:23 info: [0mGET /api/users/getVendedores [36m304[0m 72.620 ms - -[0m
+2022-06-03 09:48:38 info: [0mGET /api/users/getVendedores [36m304[0m 76.042 ms - -[0m
+2022-06-03 09:49:00 info: [0mGET /api/users/getVendedores [36m304[0m 73.331 ms - -[0m
+2022-06-03 09:57:16 info: [0mGET /api/users/getVendedores [36m304[0m 71.620 ms - -[0m
+2022-06-03 10:00:16 info: [0mGET /api/users/getVendedores [36m304[0m 72.479 ms - -[0m
+2022-06-03 10:02:55 info: [0mGET /api/users/getVendedores [36m304[0m 73.650 ms - -[0m
+2022-06-03 10:04:19 info: [0mGET /api/users/getVendedores [36m304[0m 85.890 ms - -[0m
+2022-06-03 10:04:36 info: [0mGET /api/users/getVendedores [36m304[0m 73.526 ms - -[0m
+2022-06-03 10:06:05 info: [0mGET /api/users/getVendedores [36m304[0m 72.001 ms - -[0m
+2022-06-03 10:10:18 info: [0mGET /api/users/getVendedores [36m304[0m 77.181 ms - -[0m
+2022-06-03 10:11:52 info: [0mGET /api/users/getVendedores [36m304[0m 72.326 ms - -[0m
+2022-06-03 10:11:57 info: [0mGET /api/users/getVendedores [36m304[0m 71.241 ms - -[0m
+2022-06-03 10:15:38 info: =================================
+2022-06-03 10:15:38 info: ======= ENV: development =======
+2022-06-03 10:15:38 info: 🚀 App listening on the port 5100
+2022-06-03 10:15:38 info: =================================
+2022-06-03 10:20:13 info: =================================
+2022-06-03 10:20:14 info: ======= ENV: development =======
+2022-06-03 10:20:14 info: 🚀 App listening on the port 5100
+2022-06-03 10:20:14 info: =================================
+2022-06-03 11:38:58 info: [0mGET /api/users/getVendedores [36m304[0m 111.910 ms - -[0m
+2022-06-03 11:39:12 info: [0mGET /api/users/getVendedores [36m304[0m 81.431 ms - -[0m
+2022-06-03 11:39:13 info: [0mGET /api/users/getVendedores [36m304[0m 77.187 ms - -[0m
+2022-06-03 11:41:46 error: [POST] /api/clients/createClient >> StatusCode:: 500, Message:: Cliente validation failed: googleAds: Cast to Boolean failed for value "Otro" (type string) at path "googleAds"
+2022-06-03 11:41:46 info: [0mPOST /api/clients/createClient [31m500[0m 109.895 ms - 129[0m
+2022-06-03 11:42:39 info: =================================
+2022-06-03 11:42:39 info: ======= ENV: development =======
+2022-06-03 11:42:39 info: 🚀 App listening on the port 5100
+2022-06-03 11:42:39 info: =================================
+2022-06-03 11:42:52 error: [POST] /api/clients/createClient >> StatusCode:: 500, Message:: E11000 duplicate key error collection: sac.clientes index: celular_1 dup key: { celular: null }
+2022-06-03 11:42:52 info: [0mPOST /api/clients/createClient [31m500[0m 133.011 ms - 109[0m
+2022-06-03 11:43:35 info: =================================
+2022-06-03 11:43:35 info: ======= ENV: development =======
+2022-06-03 11:43:35 info: 🚀 App listening on the port 5100
+2022-06-03 11:43:35 info: =================================
+2022-06-03 11:44:05 error: [POST] /api/clients/createClient >> StatusCode:: 500, Message:: E11000 duplicate key error collection: sac.clientes index: celular_1 dup key: { celular: null }
+2022-06-03 11:44:05 info: [0mPOST /api/clients/createClient [31m500[0m 159.461 ms - 109[0m
+2022-06-03 11:45:02 info: =================================
+2022-06-03 11:45:02 info: ======= ENV: development =======
+2022-06-03 11:45:02 info: 🚀 App listening on the port 5100
+2022-06-03 11:45:02 info: =================================
+2022-06-03 11:45:06 error: [POST] /api/clients/createClient >> StatusCode:: 500, Message:: E11000 duplicate key error collection: sac.clientes index: celular_1 dup key: { celular: null }
+2022-06-03 11:45:06 info: [0mPOST /api/clients/createClient [31m500[0m 117.145 ms - 109[0m
+2022-06-03 11:59:22 info: =================================
+2022-06-03 11:59:22 info: ======= ENV: development =======
+2022-06-03 11:59:22 info: 🚀 App listening on the port 5100
+2022-06-03 11:59:22 info: =================================
+2022-06-03 12:00:14 info: =================================
+2022-06-03 12:00:14 info: ======= ENV: development =======
+2022-06-03 12:00:14 info: 🚀 App listening on the port 5100
+2022-06-03 12:00:14 info: =================================
+2022-06-03 12:01:19 info: [0mPOST /api/clients/createClient [32m201[0m 148.497 ms - 469[0m
+2022-06-03 12:01:22 info: [0mGET /api/clients/getAllClients [32m200[0m 78.490 ms - 473[0m
+2022-06-03 12:02:02 info: [0mGET /api/users/getVendedores [36m304[0m 90.522 ms - -[0m
+2022-06-03 12:09:51 info: [0mGET /api/clients/getAllClients [36m304[0m 74.532 ms - -[0m
+2022-06-03 12:09:52 info: [0mGET /api/users/getVendedores [36m304[0m 75.808 ms - -[0m
+2022-06-03 12:11:08 info: [0mPOST /api/clients/createClient [32m201[0m 85.518 ms - 520[0m
+2022-06-03 12:11:10 info: [0mGET /api/clients/getAllClients [32m200[0m 83.438 ms - 958[0m
+2022-06-03 12:12:07 info: [0mGET /api/users/getVendedores [36m304[0m 74.989 ms - -[0m
+2022-06-03 12:12:11 info: [0mGET /api/users/getVendedores [36m304[0m 75.811 ms - -[0m
+2022-06-03 12:17:26 info: [0mGET /api/servicios/obtenerServicios [36m304[0m 77.243 ms - -[0m
+2022-06-03 12:17:26 info: [0mGET /api/servicios/obtenerTipoServicios [36m304[0m 76.648 ms - -[0m
+2022-06-03 12:17:26 info: [0mGET /api/servicios/obtenerProcedimientos [36m304[0m 81.865 ms - -[0m
+2022-06-03 12:22:18 info: [0mGET /api/users/getUsers [32m200[0m 159.314 ms - 789[0m
+2022-06-03 12:22:20 info: [0mGET /api/users/getUsers [36m304[0m 145.771 ms - -[0m
+2022-06-03 12:22:23 info: [0mGET /api/clients/getAllClients [36m304[0m 75.235 ms - -[0m
+2022-06-03 12:22:23 info: [0mGET /api/servicios/obtenerServicios [36m304[0m 73.641 ms - -[0m
+2022-06-03 12:22:23 info: [0mGET /api/servicios/obtenerTipoServicios [36m304[0m 80.295 ms - -[0m
+2022-06-03 12:22:23 info: [0mGET /api/servicios/obtenerProcedimientos [36m304[0m 81.716 ms - -[0m

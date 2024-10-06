@@ -1,0 +1,234 @@
+2023-10-06 06:41:16 info: =================================
+2023-10-06 06:41:16 info: ======= ENV: development =======
+2023-10-06 06:41:16 info: 🚀 App listening on the port 5211
+2023-10-06 06:41:16 info: =================================
+2023-10-06 06:58:27 info: =================================
+2023-10-06 06:58:27 info: ======= ENV: development =======
+2023-10-06 06:58:27 info: 🚀 App listening on the port 5210
+2023-10-06 06:58:27 info: =================================
+2023-10-06 06:58:40 error: [POST] /api/forgot-password >> StatusCode:: 500, Message:: 2C400000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:c:\ws\deps\openssl\openssl\ssl\record\ssl3_record.c:355:
+
+2023-10-06 06:58:40 info: [0mPOST /api/forgot-password [31m500[0m 816.991 ms - 153[0m
+2023-10-06 07:01:16 info: =================================
+2023-10-06 07:01:16 info: ======= ENV: development =======
+2023-10-06 07:01:16 info: 🚀 App listening on the port 5210
+2023-10-06 07:01:16 info: =================================
+2023-10-06 07:01:34 error: [POST] /api/forgot-password >> StatusCode:: 500, Message:: D07B0000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:c:\ws\deps\openssl\openssl\ssl\record\ssl3_record.c:355:
+
+2023-10-06 07:01:34 info: [0mPOST /api/forgot-password [31m500[0m 994.364 ms - 153[0m
+2023-10-06 07:03:38 info: =================================
+2023-10-06 07:03:38 info: ======= ENV: development =======
+2023-10-06 07:03:38 info: 🚀 App listening on the port 5210
+2023-10-06 07:03:38 info: =================================
+2023-10-06 07:03:46 error: [POST] /api/forgot-password >> StatusCode:: 500, Message:: Cannot create property 'mailer' on string 'SMTP'
+2023-10-06 07:03:46 info: [0mPOST /api/forgot-password [31m500[0m 152.660 ms - 62[0m
+2023-10-06 07:04:02 info: =================================
+2023-10-06 07:04:02 info: ======= ENV: development =======
+2023-10-06 07:04:02 info: 🚀 App listening on the port 5210
+2023-10-06 07:04:02 info: =================================
+2023-10-06 07:04:24 error: [POST] /api/forgot-password >> StatusCode:: 500, Message:: 50580000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:c:\ws\deps\openssl\openssl\ssl\record\ssl3_record.c:355:
+
+2023-10-06 07:04:24 info: [0mPOST /api/forgot-password [31m500[0m 1394.420 ms - 153[0m
+2023-10-06 07:06:16 info: =================================
+2023-10-06 07:06:16 info: ======= ENV: development =======
+2023-10-06 07:06:16 info: 🚀 App listening on the port 5210
+2023-10-06 07:06:16 info: =================================
+2023-10-06 07:06:41 info: =================================
+2023-10-06 07:06:41 info: ======= ENV: development =======
+2023-10-06 07:06:41 info: 🚀 App listening on the port 5210
+2023-10-06 07:06:41 info: =================================
+2023-10-06 07:06:49 error: [POST] /api/forgot-password >> StatusCode:: 500, Message:: F4110000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:c:\ws\deps\openssl\openssl\ssl\record\ssl3_record.c:355:
+
+2023-10-06 07:06:49 info: [0mPOST /api/forgot-password [31m500[0m 775.228 ms - 153[0m
+2023-10-06 07:11:05 info: =================================
+2023-10-06 07:11:05 info: ======= ENV: development =======
+2023-10-06 07:11:05 info: 🚀 App listening on the port 5210
+2023-10-06 07:11:05 info: =================================
+2023-10-06 07:11:21 info: [0mPOST /api/forgot-password [32m200[0m 2661.524 ms - 485[0m
+2023-10-06 07:13:12 info: =================================
+2023-10-06 07:13:12 info: ======= ENV: development =======
+2023-10-06 07:13:12 info: 🚀 App listening on the port 5210
+2023-10-06 07:13:12 info: =================================
+2023-10-06 07:13:49 info: =================================
+2023-10-06 07:13:49 info: ======= ENV: development =======
+2023-10-06 07:13:49 info: 🚀 App listening on the port 5210
+2023-10-06 07:13:49 info: =================================
+2023-10-06 07:14:00 info: [0mPOST /api/forgot-password [32m200[0m 2096.166 ms - 485[0m
+2023-10-06 07:14:52 info: =================================
+2023-10-06 07:14:52 info: ======= ENV: development =======
+2023-10-06 07:14:52 info: 🚀 App listening on the port 5210
+2023-10-06 07:14:52 info: =================================
+2023-10-06 07:16:47 info: [0mPOST /api/forgot-password [32m200[0m 2013.396 ms - 485[0m
+2023-10-06 07:17:04 info: =================================
+2023-10-06 07:17:04 info: ======= ENV: development =======
+2023-10-06 07:17:04 info: 🚀 App listening on the port 5210
+2023-10-06 07:17:04 info: =================================
+2023-10-06 07:17:19 info: [0mPOST /api/forgot-password [32m200[0m 1973.149 ms - 485[0m
+2023-10-06 07:17:57 info: =================================
+2023-10-06 07:17:57 info: ======= ENV: development =======
+2023-10-06 07:17:57 info: 🚀 App listening on the port 5210
+2023-10-06 07:17:57 info: =================================
+2023-10-06 07:18:07 info: [0mPOST /api/forgot-password [32m200[0m 1960.331 ms - 485[0m
+2023-10-06 07:20:23 info: =================================
+2023-10-06 07:20:23 info: ======= ENV: development =======
+2023-10-06 07:20:23 info: 🚀 App listening on the port 5210
+2023-10-06 07:20:23 info: =================================
+2023-10-06 07:22:49 info: =================================
+2023-10-06 07:22:49 info: ======= ENV: development =======
+2023-10-06 07:22:49 info: 🚀 App listening on the port 5210
+2023-10-06 07:22:49 info: =================================
+2023-10-06 07:23:08 info: [0mPOST /api/forgot-password [32m200[0m 1973.774 ms - 485[0m
+2023-10-06 10:00:30 info: =================================
+2023-10-06 10:00:30 info: ======= ENV: development =======
+2023-10-06 10:00:30 info: 🚀 App listening on the port 5210
+2023-10-06 10:00:30 info: =================================
+2023-10-06 10:00:40 info: [0mPOST /api/files/getFilesByUserId [32m200[0m 348.840 ms - -[0m
+2023-10-06 10:02:20 info: [0mPOST /api/forgot-password [32m200[0m 2178.365 ms - 485[0m
+2023-10-06 16:42:18 info: =================================
+2023-10-06 16:42:18 info: ======= ENV: development =======
+2023-10-06 16:42:18 info: 🚀 App listening on the port 5210
+2023-10-06 16:42:18 info: =================================
+2023-10-06 16:42:35 info: [0mPOST /api/forgot-password [32m200[0m 2899.507 ms - 485[0m
+2023-10-06 16:50:01 info: =================================
+2023-10-06 16:50:01 info: ======= ENV: development =======
+2023-10-06 16:50:01 info: 🚀 App listening on the port 5210
+2023-10-06 16:50:01 info: =================================
+2023-10-06 16:50:41 info: =================================
+2023-10-06 16:50:41 info: ======= ENV: development =======
+2023-10-06 16:50:41 info: 🚀 App listening on the port 5210
+2023-10-06 16:50:41 info: =================================
+2023-10-06 16:50:46 info: [0mPOST /api/forgot-password [32m200[0m 2218.025 ms - 485[0m
+2023-10-06 16:53:09 info: =================================
+2023-10-06 16:53:09 info: ======= ENV: development =======
+2023-10-06 16:53:09 info: 🚀 App listening on the port 5210
+2023-10-06 16:53:09 info: =================================
+2023-10-06 16:53:28 info: [0mPOST /api/forgot-password [32m200[0m 2353.160 ms - 485[0m
+2023-10-06 17:00:03 info: =================================
+2023-10-06 17:00:03 info: ======= ENV: development =======
+2023-10-06 17:00:03 info: 🚀 App listening on the port 5210
+2023-10-06 17:00:03 info: =================================
+2023-10-06 17:07:48 info: [0mPOST /api/forgot-password [32m200[0m 2424.687 ms - 485[0m
+2023-10-06 17:32:24 info: =================================
+2023-10-06 17:32:24 info: ======= ENV: development =======
+2023-10-06 17:32:24 info: 🚀 App listening on the port 5210
+2023-10-06 17:32:24 info: =================================
+2023-10-06 17:32:42 info: [0mPOST /api/forgot-password [32m200[0m 2859.412 ms - 485[0m
+2023-10-06 17:40:30 info: =================================
+2023-10-06 17:40:30 info: ======= ENV: development =======
+2023-10-06 17:40:30 info: 🚀 App listening on the port 5210
+2023-10-06 17:40:30 info: =================================
+2023-10-06 17:40:44 error: [POST] /api/forgot-password >> StatusCode:: 500, Message:: 8C450000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:c:\ws\deps\openssl\openssl\ssl\record\ssl3_record.c:355:
+
+2023-10-06 17:40:44 info: [0mPOST /api/forgot-password [31m500[0m 698.867 ms - 153[0m
+2023-10-06 17:41:07 info: =================================
+2023-10-06 17:41:07 info: ======= ENV: development =======
+2023-10-06 17:41:07 info: 🚀 App listening on the port 5210
+2023-10-06 17:41:07 info: =================================
+2023-10-06 18:11:43 info: =================================
+2023-10-06 18:11:43 info: ======= ENV: development =======
+2023-10-06 18:11:43 info: 🚀 App listening on the port 5210
+2023-10-06 18:11:43 info: =================================
+2023-10-06 18:11:51 info: [0mPOST /api/forgot-password [32m200[0m 3402.833 ms - 485[0m
+2023-10-06 18:15:39 info: =================================
+2023-10-06 18:15:39 info: ======= ENV: development =======
+2023-10-06 18:15:39 info: 🚀 App listening on the port 5210
+2023-10-06 18:15:39 info: =================================
+2023-10-06 18:16:46 info: [0mPOST /api/forgot-password [32m200[0m 2672.704 ms - 485[0m
+2023-10-06 18:21:15 info: =================================
+2023-10-06 18:21:15 info: ======= ENV: development =======
+2023-10-06 18:21:15 info: 🚀 App listening on the port 5210
+2023-10-06 18:21:15 info: =================================
+2023-10-06 18:21:53 error: [POST] /api/forgot-password >> StatusCode:: 500, Message:: connect ETIMEDOUT 137.135.105.213:587
+2023-10-06 18:21:53 info: [0mPOST /api/forgot-password [31m500[0m 21338.780 ms - 51[0m
+2023-10-06 18:22:40 info: =================================
+2023-10-06 18:22:40 info: ======= ENV: development =======
+2023-10-06 18:22:40 info: 🚀 App listening on the port 5210
+2023-10-06 18:22:40 info: =================================
+2023-10-06 18:22:51 error: [POST] /api/forgot-password >> StatusCode:: 500, Message:: getaddrinfo ENOTFOUND 'box5178.bluehost.com'
+2023-10-06 18:22:51 info: [0mPOST /api/forgot-password [31m500[0m 194.976 ms - 58[0m
+2023-10-06 18:23:23 info: =================================
+2023-10-06 18:23:23 info: ======= ENV: development =======
+2023-10-06 18:23:23 info: 🚀 App listening on the port 5210
+2023-10-06 18:23:23 info: =================================
+2023-10-06 18:23:28 error: [POST] /api/forgot-password >> StatusCode:: 500, Message:: getaddrinfo ENOTFOUND 'box5178.bluehost.com'
+2023-10-06 18:23:28 info: [0mPOST /api/forgot-password [31m500[0m 194.395 ms - 58[0m
+2023-10-06 18:25:25 info: =================================
+2023-10-06 18:25:25 info: ======= ENV: development =======
+2023-10-06 18:25:25 info: 🚀 App listening on the port 5210
+2023-10-06 18:25:25 info: =================================
+2023-10-06 18:25:32 error: [POST] /api/forgot-password >> StatusCode:: 500, Message:: getaddrinfo ENOTFOUND 'box5178.bluehost.com'
+2023-10-06 18:25:32 info: [0mPOST /api/forgot-password [31m500[0m 191.121 ms - 58[0m
+2023-10-06 18:26:14 info: =================================
+2023-10-06 18:26:14 info: ======= ENV: development =======
+2023-10-06 18:26:14 info: 🚀 App listening on the port 5210
+2023-10-06 18:26:14 info: =================================
+2023-10-06 18:26:23 error: [POST] /api/forgot-password >> StatusCode:: 500, Message:: getaddrinfo ENOTFOUND 'box5178.bluehost.com'
+2023-10-06 18:26:23 info: [0mPOST /api/forgot-password [31m500[0m 183.834 ms - 58[0m
+2023-10-06 18:27:28 info: =================================
+2023-10-06 18:27:28 info: ======= ENV: development =======
+2023-10-06 18:27:28 info: 🚀 App listening on the port 5210
+2023-10-06 18:27:28 info: =================================
+2023-10-06 18:27:42 error: [POST] /api/forgot-password >> StatusCode:: 500, Message:: getaddrinfo ENOTFOUND 'box5178.bluehost.com'
+2023-10-06 18:27:42 info: [0mPOST /api/forgot-password [31m500[0m 220.452 ms - 58[0m
+2023-10-06 18:28:27 info: =================================
+2023-10-06 18:28:27 info: ======= ENV: development =======
+2023-10-06 18:28:27 info: 🚀 App listening on the port 5210
+2023-10-06 18:28:27 info: =================================
+2023-10-06 18:29:24 info: =================================
+2023-10-06 18:29:24 info: ======= ENV: development =======
+2023-10-06 18:29:24 info: 🚀 App listening on the port 5210
+2023-10-06 18:29:24 info: =================================
+2023-10-06 18:29:35 error: [POST] /api/forgot-password >> StatusCode:: 500, Message:: getaddrinfo ENOTFOUND 'app.imkchat.com'
+2023-10-06 18:29:35 info: [0mPOST /api/forgot-password [31m500[0m 201.587 ms - 53[0m
+2023-10-06 18:29:53 info: =================================
+2023-10-06 18:29:53 info: ======= ENV: development =======
+2023-10-06 18:29:53 info: 🚀 App listening on the port 5210
+2023-10-06 18:29:53 info: =================================
+2023-10-06 18:29:57 error: [POST] /api/forgot-password >> StatusCode:: 500, Message:: getaddrinfo ENOTFOUND 'imkchat.com'
+2023-10-06 18:29:57 info: [0mPOST /api/forgot-password [31m500[0m 185.248 ms - 49[0m
+2023-10-06 18:30:09 info: =================================
+2023-10-06 18:30:09 info: ======= ENV: development =======
+2023-10-06 18:30:09 info: 🚀 App listening on the port 5210
+2023-10-06 18:30:09 info: =================================
+2023-10-06 18:35:35 error: [POST] /api/forgot-password >> StatusCode:: 500, Message:: getaddrinfo ENOTFOUND 'box5178.bluehost.com'
+2023-10-06 18:35:35 info: [0mPOST /api/forgot-password [31m500[0m 209.592 ms - 58[0m
+2023-10-06 18:38:10 info: =================================
+2023-10-06 18:38:10 info: ======= ENV: development =======
+2023-10-06 18:38:10 info: 🚀 App listening on the port 5210
+2023-10-06 18:38:10 info: =================================
+2023-10-06 18:38:15 error: [POST] /api/forgot-password >> StatusCode:: 500, Message:: getaddrinfo ENOTFOUND 'box5178.bluehost.com'
+2023-10-06 18:38:15 info: [0mPOST /api/forgot-password [31m500[0m 276.622 ms - 58[0m
+2023-10-06 18:38:48 info: =================================
+2023-10-06 18:38:48 info: ======= ENV: development =======
+2023-10-06 18:38:48 info: 🚀 App listening on the port 5210
+2023-10-06 18:38:48 info: =================================
+2023-10-06 18:38:56 error: [POST] /api/forgot-password >> StatusCode:: 500, Message:: getaddrinfo ENOTFOUND 'box5178.bluehost.com'
+2023-10-06 18:38:56 info: [0mPOST /api/forgot-password [31m500[0m 179.558 ms - 58[0m
+2023-10-06 18:41:31 info: =================================
+2023-10-06 18:41:31 info: ======= ENV: development =======
+2023-10-06 18:41:31 info: 🚀 App listening on the port 5210
+2023-10-06 18:41:31 info: =================================
+2023-10-06 18:41:37 error: [POST] /api/forgot-password >> StatusCode:: 500, Message:: getaddrinfo ENOTFOUND 'box5178.bluehost.com'
+2023-10-06 18:41:37 info: [0mPOST /api/forgot-password [31m500[0m 281.778 ms - 58[0m
+2023-10-06 18:41:54 info: =================================
+2023-10-06 18:41:54 info: ======= ENV: development =======
+2023-10-06 18:41:54 info: 🚀 App listening on the port 5210
+2023-10-06 18:41:54 info: =================================
+2023-10-06 18:41:59 error: [POST] /api/forgot-password >> StatusCode:: 500, Message:: getaddrinfo ENOTFOUND 'box5178.bluehost.com'
+2023-10-06 18:41:59 info: [0mPOST /api/forgot-password [31m500[0m 174.221 ms - 58[0m
+2023-10-06 18:43:06 info: =================================
+2023-10-06 18:43:06 info: ======= ENV: development =======
+2023-10-06 18:43:06 info: 🚀 App listening on the port 5210
+2023-10-06 18:43:06 info: =================================
+2023-10-06 18:43:14 error: [POST] /api/forgot-password >> StatusCode:: 500, Message:: getaddrinfo ENOTFOUND 'box5178.bluehost.com'
+2023-10-06 18:43:14 info: [0mPOST /api/forgot-password [31m500[0m 179.307 ms - 58[0m
+2023-10-06 18:43:43 info: =================================
+2023-10-06 18:43:43 info: ======= ENV: development =======
+2023-10-06 18:43:43 info: 🚀 App listening on the port 5210
+2023-10-06 18:43:43 info: =================================
+2023-10-06 18:43:52 info: =================================
+2023-10-06 18:43:52 info: ======= ENV: development =======
+2023-10-06 18:43:52 info: 🚀 App listening on the port 5210
+2023-10-06 18:43:52 info: =================================
+2023-10-06 18:43:58 error: [POST] /api/forgot-password >> StatusCode:: 500, Message:: getaddrinfo ENOTFOUND 'box5178.bluehost.com'
+2023-10-06 18:43:58 info: [0mPOST /api/forgot-password [31m500[0m 228.905 ms - 58[0m

@@ -1,0 +1,14 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "C:\\Users\\amont\\Documents\\Gonzalo\\Trabajo\\imkchat\\server\\src\\logs\\error\\.50cfa070aa5cdc71c49b6f704ce8322d03cf3f6d-audit.json",
+    "files": [
+        {
+            "date": 1716396803880,
+            "name": "C:\\Users\\amont\\Documents\\Gonzalo\\Trabajo\\imkchat\\server\\src\\logs\\error\\2024-05-22.log",
+            "hash": "744bfc520e1baa534f72002ad714acf9"
+        }
+    ]
+}

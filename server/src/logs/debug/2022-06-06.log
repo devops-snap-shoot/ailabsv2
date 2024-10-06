@@ -1,0 +1,244 @@
+2022-06-06 03:06:15 info: [0mGET /api/clients/getAllClients [36m304[0m 1139.357 ms - -[0m
+2022-06-06 03:06:26 info: =================================
+2022-06-06 03:06:26 info: ======= ENV: development =======
+2022-06-06 03:06:26 info: 🚀 App listening on the port 5100
+2022-06-06 03:06:26 info: =================================
+2022-06-06 03:43:33 info: [0mGET /api/servicios/obtenerTipoServicios [36m304[0m 157.929 ms - -[0m
+2022-06-06 04:00:01 info: =================================
+2022-06-06 04:00:01 info: ======= ENV: development =======
+2022-06-06 04:00:01 info: 🚀 App listening on the port 5100
+2022-06-06 04:00:01 info: =================================
+2022-06-06 04:02:42 info: =================================
+2022-06-06 04:02:42 info: ======= ENV: development =======
+2022-06-06 04:02:42 info: 🚀 App listening on the port 5100
+2022-06-06 04:02:42 info: =================================
+2022-06-06 04:03:08 info: =================================
+2022-06-06 04:03:08 info: ======= ENV: development =======
+2022-06-06 04:03:08 info: 🚀 App listening on the port 5100
+2022-06-06 04:03:08 info: =================================
+2022-06-06 04:09:50 info: =================================
+2022-06-06 04:09:50 info: ======= ENV: development =======
+2022-06-06 04:09:50 info: 🚀 App listening on the port 5100
+2022-06-06 04:09:50 info: =================================
+2022-06-06 04:11:15 info: =================================
+2022-06-06 04:11:15 info: ======= ENV: development =======
+2022-06-06 04:11:15 info: 🚀 App listening on the port 5100
+2022-06-06 04:11:15 info: =================================
+2022-06-06 04:12:04 info: =================================
+2022-06-06 04:12:04 info: ======= ENV: development =======
+2022-06-06 04:12:04 info: 🚀 App listening on the port 5100
+2022-06-06 04:12:04 info: =================================
+2022-06-06 04:12:51 info: =================================
+2022-06-06 04:12:51 info: ======= ENV: development =======
+2022-06-06 04:12:51 info: 🚀 App listening on the port 5100
+2022-06-06 04:12:51 info: =================================
+2022-06-06 04:24:23 info: =================================
+2022-06-06 04:24:23 info: ======= ENV: development =======
+2022-06-06 04:24:23 info: 🚀 App listening on the port 5100
+2022-06-06 04:24:23 info: =================================
+2022-06-06 04:24:46 info: [0mGET /api/clients/getAllClients [36m304[0m 204.558 ms - -[0m
+2022-06-06 04:24:49 info: [0mGET /api/users/getAbogados [36m304[0m 174.262 ms - -[0m
+2022-06-06 04:24:52 info: [0mGET /api/servicios/obtenerTipoServicios [36m304[0m 78.849 ms - -[0m
+2022-06-06 04:24:55 info: [0mGET /api/servicios/obtenerProcedimientos [36m304[0m 153.407 ms - -[0m
+2022-06-06 04:29:00 info: [0mPOST /api/causas/guardarCausa [0m-[0m - ms - -[0m
+2022-06-06 04:29:09 info: [0mGET /api/clients/getAllClients [36m304[0m 179.290 ms - -[0m
+2022-06-06 04:29:12 info: [0mGET /api/users/getAbogados [36m304[0m 102.721 ms - -[0m
+2022-06-06 04:29:14 info: [0mGET /api/servicios/obtenerTipoServicios [36m304[0m 173.587 ms - -[0m
+2022-06-06 04:29:16 info: [0mGET /api/servicios/obtenerProcedimientos [36m304[0m 127.913 ms - -[0m
+2022-06-06 04:32:09 info: =================================
+2022-06-06 04:32:09 info: ======= ENV: development =======
+2022-06-06 04:32:09 info: 🚀 App listening on the port 5100
+2022-06-06 04:32:09 info: =================================
+2022-06-06 04:40:37 info: =================================
+2022-06-06 04:40:37 info: ======= ENV: development =======
+2022-06-06 04:40:37 info: 🚀 App listening on the port 5100
+2022-06-06 04:40:37 info: =================================
+2022-06-06 04:42:07 info: =================================
+2022-06-06 04:42:07 info: ======= ENV: development =======
+2022-06-06 04:42:07 info: 🚀 App listening on the port 5100
+2022-06-06 04:42:07 info: =================================
+2022-06-06 04:43:59 info: =================================
+2022-06-06 04:43:59 info: ======= ENV: development =======
+2022-06-06 04:43:59 info: 🚀 App listening on the port 5100
+2022-06-06 04:43:59 info: =================================
+2022-06-06 04:45:14 info: =================================
+2022-06-06 04:45:14 info: ======= ENV: development =======
+2022-06-06 04:45:14 info: 🚀 App listening on the port 5100
+2022-06-06 04:45:14 info: =================================
+2022-06-06 04:46:11 info: =================================
+2022-06-06 04:46:11 info: ======= ENV: development =======
+2022-06-06 04:46:11 info: 🚀 App listening on the port 5100
+2022-06-06 04:46:11 info: =================================
+2022-06-06 04:49:29 info: =================================
+2022-06-06 04:49:29 info: ======= ENV: development =======
+2022-06-06 04:49:29 info: 🚀 App listening on the port 5100
+2022-06-06 04:49:29 info: =================================
+2022-06-06 04:50:31 info: =================================
+2022-06-06 04:50:31 info: ======= ENV: development =======
+2022-06-06 04:50:31 info: 🚀 App listening on the port 5100
+2022-06-06 04:50:31 info: =================================
+2022-06-06 04:53:00 info: =================================
+2022-06-06 04:53:00 info: ======= ENV: development =======
+2022-06-06 04:53:00 info: 🚀 App listening on the port 5100
+2022-06-06 04:53:00 info: =================================
+2022-06-06 04:56:29 info: =================================
+2022-06-06 04:56:29 info: ======= ENV: development =======
+2022-06-06 04:56:29 info: 🚀 App listening on the port 5100
+2022-06-06 04:56:29 info: =================================
+2022-06-06 04:58:32 info: =================================
+2022-06-06 04:58:32 info: ======= ENV: development =======
+2022-06-06 04:58:32 info: 🚀 App listening on the port 5100
+2022-06-06 04:58:32 info: =================================
+2022-06-06 05:00:30 info: =================================
+2022-06-06 05:00:30 info: ======= ENV: development =======
+2022-06-06 05:00:30 info: 🚀 App listening on the port 5100
+2022-06-06 05:00:30 info: =================================
+2022-06-06 05:02:38 info: =================================
+2022-06-06 05:02:38 info: ======= ENV: development =======
+2022-06-06 05:02:38 info: 🚀 App listening on the port 5100
+2022-06-06 05:02:38 info: =================================
+2022-06-06 05:02:58 info: [0mGET /api/users/getUsers [32m200[0m 229.824 ms - 468[0m
+2022-06-06 05:04:25 info: [0mPOST /api/users/createUser [32m201[0m 492.169 ms - 454[0m
+2022-06-06 05:04:27 info: [0mGET /api/users/getUsers [32m200[0m 184.239 ms - 794[0m
+2022-06-06 05:04:32 info: [0mGET /api/clients/getAllClients [32m200[0m 83.022 ms - 40[0m
+2022-06-06 05:04:34 info: [0mGET /api/users/getVendedores [32m200[0m 78.535 ms - 46[0m
+2022-06-06 05:07:14 info: [0mGET /api/users/getUsers [36m304[0m 166.550 ms - -[0m
+2022-06-06 05:07:58 info: [0mPOST /api/users/createUser [32m201[0m 259.643 ms - 435[0m
+2022-06-06 05:08:00 info: [0mGET /api/users/getUsers [32m200[0m 186.077 ms - -[0m
+2022-06-06 05:08:03 info: [0mGET /api/clients/getAllClients [36m304[0m 109.020 ms - -[0m
+2022-06-06 05:08:55 info: [0mGET /api/users/getVendedores [32m200[0m 81.861 ms - 452[0m
+2022-06-06 05:10:23 info: [0mPOST /api/clients/createClient [32m201[0m 90.443 ms - 524[0m
+2022-06-06 05:10:26 info: [0mGET /api/clients/getAllClients [32m200[0m 262.769 ms - 528[0m
+2022-06-06 05:10:29 info: [0mGET /api/servicios/obtenerTipoServicios [32m200[0m 99.008 ms - 41[0m
+2022-06-06 05:10:29 info: [0mGET /api/servicios/obtenerProcedimientos [32m200[0m 97.609 ms - 50[0m
+2022-06-06 05:10:29 info: [0mGET /api/servicios/obtenerServicios [36m304[0m 96.091 ms - -[0m
+2022-06-06 05:10:41 info: [0mGET /api/clients/getAllClients [36m304[0m 83.722 ms - -[0m
+2022-06-06 05:10:45 info: [0mGET /api/users/getAbogados [32m200[0m 145.559 ms - 456[0m
+2022-06-06 05:10:49 info: [0mGET /api/servicios/obtenerTipoServicios [36m304[0m 124.593 ms - -[0m
+2022-06-06 05:11:08 info: [0mGET /api/clients/getAllClients [36m304[0m 84.496 ms - -[0m
+2022-06-06 05:11:08 info: [0mGET /api/servicios/obtenerServicios [36m304[0m 83.051 ms - -[0m
+2022-06-06 05:11:08 info: [0mGET /api/servicios/obtenerProcedimientos [36m304[0m 80.715 ms - -[0m
+2022-06-06 05:11:08 info: [0mGET /api/servicios/obtenerTipoServicios [36m304[0m 84.975 ms - -[0m
+2022-06-06 05:11:27 info: [0mGET /api/clients/getAllClients [36m304[0m 84.993 ms - -[0m
+2022-06-06 05:11:30 info: [0mGET /api/users/getAbogados [36m304[0m 168.484 ms - -[0m
+2022-06-06 05:15:03 info: =================================
+2022-06-06 05:15:03 info: ======= ENV: development =======
+2022-06-06 05:15:03 info: 🚀 App listening on the port 5100
+2022-06-06 05:15:03 info: =================================
+2022-06-06 05:15:09 info: [0mPOST /api/causas/guardarCausa [32m201[0m 210.757 ms - 495[0m
+2022-06-06 05:18:24 info: =================================
+2022-06-06 05:18:24 info: ======= ENV: development =======
+2022-06-06 05:18:24 info: 🚀 App listening on the port 5100
+2022-06-06 05:18:24 info: =================================
+2022-06-06 05:19:19 info: [0mGET /api/causas/obtenerCausas [32m201[0m 111.456 ms - 497[0m
+2022-06-06 05:19:19 info: [0mGET /api/servicios/obtenerTipoServicios [36m304[0m 111.225 ms - -[0m
+2022-06-06 05:19:20 info: [0mGET /api/servicios/obtenerProcedimientos [36m304[0m 104.472 ms - -[0m
+2022-06-06 05:21:20 info: =================================
+2022-06-06 05:21:20 info: ======= ENV: development =======
+2022-06-06 05:21:20 info: 🚀 App listening on the port 5100
+2022-06-06 05:21:20 info: =================================
+2022-06-06 05:21:21 info: [0mGET /api/causas/obtenerCausas [32m201[0m 88.728 ms - 497[0m
+2022-06-06 05:21:21 info: [0mGET /api/servicios/obtenerTipoServicios [36m304[0m 88.577 ms - -[0m
+2022-06-06 05:21:21 info: [0mGET /api/servicios/obtenerProcedimientos [36m304[0m 86.350 ms - -[0m
+2022-06-06 05:22:34 info: [0mGET /api/users/getUsers [32m200[0m 227.511 ms - -[0m
+2022-06-06 05:25:11 info: =================================
+2022-06-06 05:25:11 info: ======= ENV: development =======
+2022-06-06 05:25:11 info: 🚀 App listening on the port 5100
+2022-06-06 05:25:11 info: =================================
+2022-06-06 05:25:23 info: [0mGET /api/causas/obtenerCausas [32m201[0m 120.688 ms - 535[0m
+2022-06-06 05:25:23 info: [0mGET /api/servicios/obtenerTipoServicios [36m304[0m 119.362 ms - -[0m
+2022-06-06 05:25:23 info: [0mGET /api/servicios/obtenerProcedimientos [36m304[0m 119.288 ms - -[0m
+2022-06-06 05:25:23 info: [0mGET /api/clients/getAllClients [36m304[0m 120.430 ms - -[0m
+2022-06-06 05:28:39 info: [0mGET /api/clients/getAllClients [36m304[0m 100.807 ms - -[0m
+2022-06-06 05:28:41 info: [0mGET /api/users/getAbogados [36m304[0m 87.895 ms - -[0m
+2022-06-06 05:28:44 info: [0mGET /api/servicios/obtenerTipoServicios [36m304[0m 84.576 ms - -[0m
+2022-06-06 05:29:05 info: [0mPOST /api/causas/guardarCausa [32m201[0m 162.005 ms - 529[0m
+2022-06-06 05:29:12 info: [0mGET /api/servicios/obtenerTipoServicios [36m304[0m 119.944 ms - -[0m
+2022-06-06 05:29:12 info: [0mGET /api/servicios/obtenerProcedimientos [36m304[0m 118.298 ms - -[0m
+2022-06-06 05:29:12 info: [0mGET /api/causas/obtenerCausas [32m201[0m 121.674 ms - -[0m
+2022-06-06 05:30:43 info: =================================
+2022-06-06 05:30:43 info: ======= ENV: development =======
+2022-06-06 05:30:43 info: 🚀 App listening on the port 5100
+2022-06-06 05:30:43 info: =================================
+2022-06-06 05:31:05 info: [0mGET /api/users/getUsers [32m200[0m 188.437 ms - -[0m
+2022-06-06 05:31:08 info: [0mGET /api/causas/obtenerCausas [32m201[0m 148.118 ms - 993[0m
+2022-06-06 05:31:08 info: [0mGET /api/servicios/obtenerTipoServicios [36m304[0m 76.328 ms - -[0m
+2022-06-06 05:31:08 info: [0mGET /api/servicios/obtenerProcedimientos [36m304[0m 77.882 ms - -[0m
+2022-06-06 05:31:08 info: [0mGET /api/clients/getAllClients [36m304[0m 107.451 ms - -[0m
+2022-06-06 05:31:25 info: [0mGET /api/clients/getAllClients [36m304[0m 97.784 ms - -[0m
+2022-06-06 05:31:53 info: [0mGET /api/clients/getAllClients [36m304[0m 81.307 ms - -[0m
+2022-06-06 05:33:20 info: [0mGET /api/users/getUsers [36m304[0m 259.083 ms - -[0m
+2022-06-06 05:38:52 info: =================================
+2022-06-06 05:38:52 info: ======= ENV: development =======
+2022-06-06 05:38:52 info: 🚀 App listening on the port 5100
+2022-06-06 05:38:52 info: =================================
+2022-06-06 05:39:06 info: [0mGET /api/causas/obtenerCausas [32m201[0m 96.160 ms - 993[0m
+2022-06-06 05:39:06 info: [0mGET /api/servicios/obtenerProcedimientos [36m304[0m 89.344 ms - -[0m
+2022-06-06 05:39:06 info: [0mGET /api/servicios/obtenerTipoServicios [36m304[0m 95.713 ms - -[0m
+2022-06-06 05:40:12 info: [0mGET /api/users/getUsers [32m200[0m 275.598 ms - -[0m
+2022-06-06 05:40:28 info: [0mGET /api/users/getUsers [36m304[0m 210.072 ms - -[0m
+2022-06-06 05:40:30 info: [0mGET /api/clients/getAllClients [36m304[0m 112.635 ms - -[0m
+2022-06-06 05:40:30 info: [0mGET /api/causas/obtenerCausas [32m201[0m 111.619 ms - 993[0m
+2022-06-06 05:40:30 info: [0mGET /api/servicios/obtenerTipoServicios [36m304[0m 110.322 ms - -[0m
+2022-06-06 05:40:30 info: [0mGET /api/servicios/obtenerProcedimientos [36m304[0m 104.547 ms - -[0m
+2022-06-06 05:40:30 info: [0mGET /api/clients/getAllClients [36m304[0m 80.161 ms - -[0m
+2022-06-06 05:40:42 info: [0mGET /api/users/getUsers [36m304[0m 165.249 ms - -[0m
+2022-06-06 05:48:49 info: [0mGET /api/clients/getAllClients [36m304[0m 134.787 ms - -[0m
+2022-06-06 05:48:49 info: [0mGET /api/users/getUsers [36m304[0m 229.135 ms - -[0m
+2022-06-06 05:48:54 info: [0mGET /api/users/getUsers [36m304[0m 273.906 ms - -[0m
+2022-06-06 05:51:22 info: [0mGET /api/users/getUsers [36m304[0m 167.607 ms - -[0m
+2022-06-06 05:54:31 info: =================================
+2022-06-06 05:54:31 info: ======= ENV: development =======
+2022-06-06 05:54:31 info: 🚀 App listening on the port 5100
+2022-06-06 05:54:31 info: =================================
+2022-06-06 05:54:55 info: [0mGET /api/users/getUsers [32m200[0m 453.126 ms - -[0m
+2022-06-06 05:55:23 info: =================================
+2022-06-06 05:55:23 info: ======= ENV: development =======
+2022-06-06 05:55:23 info: 🚀 App listening on the port 5100
+2022-06-06 05:55:23 info: =================================
+2022-06-06 05:55:26 info: [0mGET /api/users/getUsers [32m200[0m 358.050 ms - -[0m
+2022-06-06 06:01:58 info: =================================
+2022-06-06 06:01:58 info: ======= ENV: development =======
+2022-06-06 06:01:58 info: 🚀 App listening on the port 5100
+2022-06-06 06:01:58 info: =================================
+2022-06-06 06:01:59 info: [0mGET /api/servicios/obtenerTipoServicios [32m200[0m 148.242 ms - 41[0m
+2022-06-06 06:01:59 info: [0mGET /api/causas/obtenerCausas [32m201[0m 151.615 ms - -[0m
+2022-06-06 06:01:59 info: [0mGET /api/servicios/obtenerProcedimientos [32m200[0m 150.809 ms - 50[0m
+2022-06-06 06:13:07 error: [GET] /api/users/user/629dc319d3a1e6cc88271842 >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Tesso\Sigma\Sigma-App\sigma-app\build\index.html'
+2022-06-06 06:13:07 info: [0mGET /api/users/user/629dc319d3a1e6cc88271842 [33m404[0m 6.486 ms - 138[0m
+2022-06-06 06:13:07 error: [GET] /api/users/user/629dc319d3a1e6cc88271842 >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Tesso\Sigma\Sigma-App\sigma-app\build\index.html'
+2022-06-06 06:13:07 info: [0mGET /api/users/user/629dc319d3a1e6cc88271842 [33m404[0m 3.999 ms - 138[0m
+2022-06-06 06:13:08 error: [GET] /api/users/user/629dc319d3a1e6cc88271842 >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Tesso\Sigma\Sigma-App\sigma-app\build\index.html'
+2022-06-06 06:13:08 info: [0mGET /api/users/user/629dc319d3a1e6cc88271842 [33m404[0m 3.177 ms - 138[0m
+2022-06-06 06:13:08 error: [GET] /api/users/user/629dc319d3a1e6cc88271842 >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Tesso\Sigma\Sigma-App\sigma-app\build\index.html'
+2022-06-06 06:13:08 info: [0mGET /api/users/user/629dc319d3a1e6cc88271842 [33m404[0m 2.454 ms - 138[0m
+2022-06-06 06:14:00 info: [0mGET /api/causas/obtenerCausas [32m201[0m 1093.962 ms - 529[0m
+2022-06-06 06:14:00 info: [0mGET /api/servicios/obtenerTipoServicios [36m304[0m 782.568 ms - -[0m
+2022-06-06 06:14:00 info: [0mGET /api/servicios/obtenerProcedimientos [36m304[0m 841.551 ms - -[0m
+2022-06-06 06:14:01 info: [0mPOST /api/users/user/629dc319d3a1e6cc88271842 [32m200[0m 242.927 ms - 354[0m
+2022-06-06 06:14:01 info: [0mPOST /api/users/user/629dc319d3a1e6cc88271842 [32m200[0m 242.203 ms - 354[0m
+2022-06-06 06:14:25 info: [0mGET /api/servicios/obtenerTipoServicios [36m304[0m 174.040 ms - -[0m
+2022-06-06 06:14:25 info: [0mGET /api/causas/obtenerCausas [32m201[0m 173.591 ms - 529[0m
+2022-06-06 06:14:25 info: [0mGET /api/servicios/obtenerProcedimientos [36m304[0m 172.808 ms - -[0m
+2022-06-06 06:14:25 info: [0mPOST /api/users/user/629dc319d3a1e6cc88271842 [32m200[0m 187.564 ms - 354[0m
+2022-06-06 06:14:25 info: [0mPOST /api/users/user/629dc319d3a1e6cc88271842 [32m200[0m 183.429 ms - 354[0m
+2022-06-06 06:15:36 info: [0mGET /api/causas/obtenerCausas [32m201[0m 193.195 ms - 529[0m
+2022-06-06 06:15:36 info: [0mGET /api/servicios/obtenerTipoServicios [36m304[0m 119.535 ms - -[0m
+2022-06-06 06:15:37 info: [0mGET /api/servicios/obtenerProcedimientos [36m304[0m 190.452 ms - -[0m
+2022-06-06 06:16:48 info: [0mGET /api/causas/obtenerCausas [32m201[0m 275.277 ms - 529[0m
+2022-06-06 06:17:20 info: [0mGET /api/causas/obtenerCausas [32m201[0m 137.364 ms - 529[0m
+2022-06-06 06:19:52 info: [0mGET /api/causas/obtenerCausas [32m201[0m 86.612 ms - 529[0m
+2022-06-06 06:20:25 info: [0mPOST /api/users/user/629dc319d3a1e6cc88271842 [32m200[0m 184.346 ms - 354[0m
+2022-06-06 06:20:26 info: [0mPOST /api/users/user/629dc319d3a1e6cc88271842 [32m200[0m 285.332 ms - 354[0m
+2022-06-06 06:20:44 info: [0mGET /api/causas/obtenerCausas [32m201[0m 131.118 ms - 529[0m
+2022-06-06 06:20:44 info: [0mGET /api/servicios/obtenerTipoServicios [36m304[0m 128.761 ms - -[0m
+2022-06-06 06:20:44 info: [0mGET /api/servicios/obtenerProcedimientos [36m304[0m 76.511 ms - -[0m
+2022-06-06 06:21:02 info: [0mGET /api/causas/obtenerCausas [32m201[0m 132.824 ms - 529[0m
+2022-06-06 06:21:02 info: [0mGET /api/servicios/obtenerTipoServicios [36m304[0m 131.646 ms - -[0m
+2022-06-06 06:21:03 info: [0mGET /api/servicios/obtenerProcedimientos [36m304[0m 130.621 ms - -[0m
+2022-06-06 06:24:22 info: [0mGET /api/causas/obtenerCausas [32m201[0m 83.998 ms - 529[0m
+2022-06-06 06:24:22 info: [0mGET /api/servicios/obtenerProcedimientos [36m304[0m 82.459 ms - -[0m
+2022-06-06 06:24:22 info: [0mGET /api/servicios/obtenerTipoServicios [36m304[0m 89.598 ms - -[0m
+2022-06-06 06:24:22 info: [0mGET /api/clients/getAllClients [36m304[0m 149.126 ms - -[0m
+2022-06-06 06:24:29 info: [0mGET /api/users/getUsers [32m200[0m 243.367 ms - -[0m
+2022-06-06 06:24:40 info: [0mGET /api/users/getUsers [36m304[0m 271.940 ms - -[0m

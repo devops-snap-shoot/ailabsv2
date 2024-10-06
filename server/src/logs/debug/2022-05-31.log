@@ -1,0 +1,350 @@
+2022-05-31 06:25:22 info: [0mGET /api/users/getUsers [36m304[0m 643.878 ms - -[0m
+2022-05-31 06:25:22 info: [0mGET /api/users/getUsers [36m304[0m 152.092 ms - -[0m
+2022-05-31 06:25:35 info: =================================
+2022-05-31 06:25:35 info: ======= ENV: development =======
+2022-05-31 06:25:35 info: 🚀 App listening on the port 5100
+2022-05-31 06:25:35 info: =================================
+2022-05-31 06:25:36 info: [0mGET /api/clients/getAllClients [36m304[0m 82.977 ms - -[0m
+2022-05-31 06:25:36 info: [0mGET /api/clients/getAllClients [36m304[0m 75.087 ms - -[0m
+2022-05-31 06:25:58 info: [0mGET /api/users/getUsers [32m200[0m 165.945 ms - 937[0m
+2022-05-31 06:25:59 info: [0mGET /api/users/getUsers [36m304[0m 154.962 ms - -[0m
+2022-05-31 06:26:02 info: [0mGET /api/users/getUsers [36m304[0m 152.767 ms - -[0m
+2022-05-31 06:26:02 info: [0mGET /api/users/getUsers [36m304[0m 147.128 ms - -[0m
+2022-05-31 06:26:16 info: [0mGET /api/clients/getAllClients [36m304[0m 81.576 ms - -[0m
+2022-05-31 06:26:16 info: [0mGET /api/clients/getAllClients [36m304[0m 77.818 ms - -[0m
+2022-05-31 06:38:23 info: =================================
+2022-05-31 06:38:23 info: ======= ENV: development =======
+2022-05-31 06:38:23 info: 🚀 App listening on the port 5100
+2022-05-31 06:38:23 info: =================================
+2022-05-31 06:43:42 info: =================================
+2022-05-31 06:43:42 info: ======= ENV: development =======
+2022-05-31 06:43:42 info: 🚀 App listening on the port 5100
+2022-05-31 06:43:42 info: =================================
+2022-05-31 06:53:29 info: =================================
+2022-05-31 06:53:29 info: ======= ENV: development =======
+2022-05-31 06:53:29 info: 🚀 App listening on the port 5100
+2022-05-31 06:53:29 info: =================================
+2022-05-31 07:03:51 info: =================================
+2022-05-31 07:03:51 info: ======= ENV: development =======
+2022-05-31 07:03:51 info: 🚀 App listening on the port 5100
+2022-05-31 07:03:51 info: =================================
+2022-05-31 07:08:11 info: =================================
+2022-05-31 07:08:11 info: ======= ENV: development =======
+2022-05-31 07:08:11 info: 🚀 App listening on the port 5100
+2022-05-31 07:08:11 info: =================================
+2022-05-31 07:09:11 info: =================================
+2022-05-31 07:09:11 info: ======= ENV: development =======
+2022-05-31 07:09:11 info: 🚀 App listening on the port 5100
+2022-05-31 07:09:11 info: =================================
+2022-05-31 07:10:03 info: =================================
+2022-05-31 07:10:03 info: ======= ENV: development =======
+2022-05-31 07:10:03 info: 🚀 App listening on the port 5100
+2022-05-31 07:10:03 info: =================================
+2022-05-31 07:11:02 info: =================================
+2022-05-31 07:11:02 info: ======= ENV: development =======
+2022-05-31 07:11:02 info: 🚀 App listening on the port 5100
+2022-05-31 07:11:02 info: =================================
+2022-05-31 07:11:48 info: =================================
+2022-05-31 07:11:48 info: ======= ENV: development =======
+2022-05-31 07:11:48 info: 🚀 App listening on the port 5100
+2022-05-31 07:11:48 info: =================================
+2022-05-31 07:18:51 info: =================================
+2022-05-31 07:18:51 info: ======= ENV: development =======
+2022-05-31 07:18:51 info: 🚀 App listening on the port 5100
+2022-05-31 07:18:51 info: =================================
+2022-05-31 07:21:09 info: =================================
+2022-05-31 07:21:09 info: ======= ENV: development =======
+2022-05-31 07:21:09 info: 🚀 App listening on the port 5100
+2022-05-31 07:21:09 info: =================================
+2022-05-31 07:35:23 info: =================================
+2022-05-31 07:35:23 info: ======= ENV: development =======
+2022-05-31 07:35:23 info: 🚀 App listening on the port 5100
+2022-05-31 07:35:23 info: =================================
+2022-05-31 07:36:47 info: =================================
+2022-05-31 07:36:47 info: ======= ENV: development =======
+2022-05-31 07:36:47 info: 🚀 App listening on the port 5100
+2022-05-31 07:36:47 info: =================================
+2022-05-31 07:37:53 info: =================================
+2022-05-31 07:37:53 info: ======= ENV: development =======
+2022-05-31 07:37:53 info: 🚀 App listening on the port 5100
+2022-05-31 07:37:53 info: =================================
+2022-05-31 07:38:25 info: =================================
+2022-05-31 07:38:25 info: ======= ENV: development =======
+2022-05-31 07:38:25 info: 🚀 App listening on the port 5100
+2022-05-31 07:38:25 info: =================================
+2022-05-31 07:43:58 info: [0mGET /api/servicios/obtenerServicios [32m200[0m 80.891 ms - 41[0m
+2022-05-31 07:43:58 info: [0mGET /api/servicios/obtenerTipoServicios [32m200[0m 74.340 ms - 41[0m
+2022-05-31 07:47:52 info: [0mGET /api/servicios/obtenerServicios [36m304[0m 76.622 ms - -[0m
+2022-05-31 07:47:53 info: [0mGET /api/servicios/obtenerTipoServicios [36m304[0m 76.867 ms - -[0m
+2022-05-31 07:48:24 info: [0mGET /api/servicios/obtenerServicios [36m304[0m 78.617 ms - -[0m
+2022-05-31 07:48:25 info: [0mGET /api/servicios/obtenerTipoServicios [36m304[0m 75.388 ms - -[0m
+2022-05-31 07:48:28 info: [0mGET /api/servicios/obtenerServicios [36m304[0m 73.634 ms - -[0m
+2022-05-31 07:48:28 info: [0mGET /api/servicios/obtenerTipoServicios [36m304[0m 78.988 ms - -[0m
+2022-05-31 07:48:28 info: [0mGET /api/clients/getAllClients [32m200[0m 77.814 ms - 40[0m
+2022-05-31 07:48:28 info: [0mGET /api/servicios/obtenerServicios [36m304[0m 73.756 ms - -[0m
+2022-05-31 07:48:28 info: [0mGET /api/servicios/obtenerTipoServicios [36m304[0m 77.348 ms - -[0m
+2022-05-31 07:48:28 info: [0mGET /api/servicios/obtenerServicios [36m304[0m 77.743 ms - -[0m
+2022-05-31 07:48:28 info: [0mGET /api/servicios/obtenerTipoServicios [36m304[0m 77.264 ms - -[0m
+2022-05-31 07:49:04 info: [0mGET /api/servicios/obtenerServicios [36m304[0m 81.509 ms - -[0m
+2022-05-31 07:49:04 info: [0mGET /api/servicios/obtenerTipoServicios [36m304[0m 76.731 ms - -[0m
+2022-05-31 07:49:29 info: [0mGET /api/servicios/obtenerTipoServicios [36m304[0m 123.033 ms - -[0m
+2022-05-31 07:49:29 info: [0mGET /api/servicios/obtenerServicios [36m304[0m 371.083 ms - -[0m
+2022-05-31 07:51:13 info: [0mGET /api/servicios/obtenerServicios [36m304[0m 73.641 ms - -[0m
+2022-05-31 07:51:14 info: [0mGET /api/servicios/obtenerTipoServicios [36m304[0m 74.428 ms - -[0m
+2022-05-31 07:51:31 info: [0mGET /api/servicios/obtenerServicios [36m304[0m 77.179 ms - -[0m
+2022-05-31 07:51:31 info: [0mGET /api/servicios/obtenerTipoServicios [36m304[0m 79.584 ms - -[0m
+2022-05-31 07:53:01 info: [0mGET /api/servicios/obtenerServicios [36m304[0m 75.151 ms - -[0m
+2022-05-31 07:53:01 info: [0mGET /api/servicios/obtenerTipoServicios [36m304[0m 73.160 ms - -[0m
+2022-05-31 07:53:06 info: [0mGET /api/servicios/obtenerServicios [36m304[0m 75.352 ms - -[0m
+2022-05-31 07:53:07 info: [0mGET /api/servicios/obtenerTipoServicios [36m304[0m 76.992 ms - -[0m
+2022-05-31 07:53:35 info: [0mGET /api/servicios/obtenerServicios [36m304[0m 73.771 ms - -[0m
+2022-05-31 07:53:36 info: [0mGET /api/servicios/obtenerTipoServicios [36m304[0m 75.302 ms - -[0m
+2022-05-31 07:54:30 info: [0mGET /api/servicios/obtenerServicios [36m304[0m 77.585 ms - -[0m
+2022-05-31 07:54:31 info: [0mGET /api/servicios/obtenerTipoServicios [36m304[0m 78.173 ms - -[0m
+2022-05-31 07:54:43 info: [0mGET /api/servicios/obtenerServicios [36m304[0m 77.057 ms - -[0m
+2022-05-31 07:54:43 info: [0mGET /api/servicios/obtenerTipoServicios [36m304[0m 73.238 ms - -[0m
+2022-05-31 07:55:21 info: [0mGET /api/servicios/obtenerServicios [36m304[0m 84.811 ms - -[0m
+2022-05-31 07:55:22 info: [0mGET /api/servicios/obtenerTipoServicios [36m304[0m 78.771 ms - -[0m
+2022-05-31 07:56:14 info: [0mGET /api/servicios/obtenerServicios [36m304[0m 73.590 ms - -[0m
+2022-05-31 07:56:14 info: [0mGET /api/servicios/obtenerTipoServicios [36m304[0m 74.631 ms - -[0m
+2022-05-31 07:57:19 info: [0mGET /api/servicios/obtenerServicios [36m304[0m 78.244 ms - -[0m
+2022-05-31 07:57:20 info: [0mGET /api/servicios/obtenerTipoServicios [36m304[0m 76.443 ms - -[0m
+2022-05-31 07:57:30 info: [0mGET /api/servicios/obtenerServicios [36m304[0m 76.505 ms - -[0m
+2022-05-31 07:57:30 info: [0mGET /api/servicios/obtenerTipoServicios [36m304[0m 72.169 ms - -[0m
+2022-05-31 07:57:43 info: [0mGET /api/servicios/obtenerServicios [36m304[0m 75.657 ms - -[0m
+2022-05-31 07:57:44 info: [0mGET /api/servicios/obtenerTipoServicios [36m304[0m 77.145 ms - -[0m
+2022-05-31 07:59:31 info: [0mGET /api/servicios/obtenerServicios [36m304[0m 73.951 ms - -[0m
+2022-05-31 07:59:31 info: [0mGET /api/servicios/obtenerTipoServicios [36m304[0m 76.314 ms - -[0m
+2022-05-31 08:12:35 info: [0mGET /api/clients/getAllClients [36m304[0m 81.336 ms - -[0m
+2022-05-31 08:16:57 info: [0mGET /api/servicios/obtenerServicios [36m304[0m 79.766 ms - -[0m
+2022-05-31 08:16:58 info: [0mGET /api/servicios/obtenerTipoServicios [36m304[0m 78.621 ms - -[0m
+2022-05-31 08:40:57 info: [0mGET /api/servicios/obtenerServicios [36m304[0m 74.076 ms - -[0m
+2022-05-31 08:40:57 info: [0mGET /api/servicios/obtenerTipoServicios [36m304[0m 79.562 ms - -[0m
+2022-05-31 08:41:18 info: [0mGET /api/servicios/obtenerServicios [36m304[0m 76.457 ms - -[0m
+2022-05-31 08:41:18 info: [0mGET /api/servicios/obtenerTipoServicios [36m304[0m 74.646 ms - -[0m
+2022-05-31 09:15:49 info: [0mGET /api/servicios/obtenerServicios [36m304[0m 76.635 ms - -[0m
+2022-05-31 09:15:50 info: [0mGET /api/servicios/obtenerTipoServicios [36m304[0m 78.505 ms - -[0m
+2022-05-31 09:29:22 info: =================================
+2022-05-31 09:29:22 info: ======= ENV: development =======
+2022-05-31 09:29:22 info: 🚀 App listening on the port 5100
+2022-05-31 09:29:22 info: =================================
+2022-05-31 09:33:47 info: [0mGET /api/servicios/obtenerServicios [32m200[0m 76.171 ms - 41[0m
+2022-05-31 09:33:47 info: [0mGET /api/servicios/obtenerTipoServicios [32m200[0m 81.562 ms - 41[0m
+2022-05-31 09:34:06 error: [POST] /api/servicios/crearTipoServicio >> StatusCode:: 500, Message:: ServicioTipo validation failed: nombre: Path `nombre` is required.
+2022-05-31 09:34:06 info: [0mPOST /api/servicios/crearTipoServicio [31m500[0m 53.733 ms - 80[0m
+2022-05-31 09:35:24 info: =================================
+2022-05-31 09:35:24 info: ======= ENV: development =======
+2022-05-31 09:35:24 info: 🚀 App listening on the port 5100
+2022-05-31 09:35:24 info: =================================
+2022-05-31 09:35:30 info: [0mPOST /api/servicios/crearTipoServicio [32m201[0m 149.711 ms - 182[0m
+2022-05-31 09:35:55 info: [0mGET /api/servicios/obtenerServicios [36m304[0m 75.164 ms - -[0m
+2022-05-31 09:35:55 info: [0mGET /api/servicios/obtenerTipoServicios [32m200[0m 80.241 ms - 181[0m
+2022-05-31 09:36:36 info: [0mGET /api/servicios/obtenerTipoServicios [36m304[0m 73.317 ms - -[0m
+2022-05-31 09:36:36 info: [0mGET /api/servicios/obtenerServicios [36m304[0m 80.203 ms - -[0m
+2022-05-31 09:37:28 info: [0mGET /api/servicios/obtenerServicios [36m304[0m 76.871 ms - -[0m
+2022-05-31 09:37:28 info: [0mGET /api/servicios/obtenerTipoServicios [36m304[0m 75.492 ms - -[0m
+2022-05-31 09:37:45 error: [POST] /api/servicios/crearTipoServicio >> StatusCode:: 500, Message:: ServicioTipo validation failed: nombre: Path `nombre` is required.
+2022-05-31 09:37:45 info: [0mPOST /api/servicios/crearTipoServicio [31m500[0m 10.772 ms - 80[0m
+2022-05-31 09:38:17 info: [0mPOST /api/servicios/crearTipoServicio [32m201[0m 87.692 ms - 182[0m
+2022-05-31 09:38:17 info: [0mGET /api/servicios/obtenerTipoServicios [32m200[0m 73.233 ms - 322[0m
+2022-05-31 09:39:08 info: [0mPOST /api/servicios/crearTipoServicio [32m201[0m 86.479 ms - 182[0m
+2022-05-31 09:39:08 info: [0mGET /api/servicios/obtenerTipoServicios [32m200[0m 74.994 ms - 463[0m
+2022-05-31 09:39:31 info: [0mPOST /api/servicios/crearTipoServicio [32m201[0m 86.725 ms - 182[0m
+2022-05-31 09:39:32 info: [0mGET /api/servicios/obtenerTipoServicios [32m200[0m 76.510 ms - 604[0m
+2022-05-31 09:41:24 info: [0mPOST /api/servicios/crearTipoServicio [32m201[0m 91.101 ms - 189[0m
+2022-05-31 09:41:24 info: [0mGET /api/servicios/obtenerTipoServicios [32m200[0m 75.653 ms - 752[0m
+2022-05-31 09:41:38 info: [0mPOST /api/servicios/crearTipoServicio [32m201[0m 81.673 ms - 189[0m
+2022-05-31 09:41:38 info: [0mGET /api/servicios/obtenerTipoServicios [32m200[0m 74.525 ms - 900[0m
+2022-05-31 09:43:23 info: [0mGET /api/servicios/obtenerServicios [36m304[0m 83.864 ms - -[0m
+2022-05-31 09:43:23 info: [0mGET /api/servicios/obtenerTipoServicios [36m304[0m 88.945 ms - -[0m
+2022-05-31 09:45:45 info: [0mGET /api/servicios/obtenerServicios [36m304[0m 73.553 ms - -[0m
+2022-05-31 09:45:45 info: [0mGET /api/servicios/obtenerTipoServicios [36m304[0m 75.819 ms - -[0m
+2022-05-31 09:54:01 info: [0mGET /api/servicios/obtenerServicios [36m304[0m 77.037 ms - -[0m
+2022-05-31 09:54:01 info: [0mGET /api/servicios/obtenerTipoServicios [36m304[0m 79.628 ms - -[0m
+2022-05-31 09:54:01 info: [0mGET /api/clients/getAllClients [36m304[0m 79.611 ms - -[0m
+2022-05-31 09:54:03 info: [0mGET /api/users/getUsers [32m200[0m 157.427 ms - 468[0m
+2022-05-31 09:54:49 info: [0mPOST /api/users/createUser [32m201[0m 217.675 ms - 449[0m
+2022-05-31 09:54:51 info: [0mGET /api/users/getUsers [32m200[0m 158.181 ms - 789[0m
+2022-05-31 09:54:57 info: [0mGET /api/users/getUsers [36m304[0m 165.170 ms - -[0m
+2022-05-31 09:55:12 info: [0mGET /api/users/getUsers [36m304[0m 151.544 ms - -[0m
+2022-05-31 09:56:35 info: [0mGET /api/users/getUsers [36m304[0m 153.233 ms - -[0m
+2022-05-31 09:57:21 info: [0mGET /api/users/getUsers [36m304[0m 152.221 ms - -[0m
+2022-05-31 09:58:13 info: [0mGET /api/users/getUsers [36m304[0m 152.811 ms - -[0m
+2022-05-31 10:00:33 info: [0mGET /api/users/getUsers [36m304[0m 162.491 ms - -[0m
+2022-05-31 10:02:28 info: [0mGET /api/users/getUsers [36m304[0m 158.460 ms - -[0m
+2022-05-31 10:02:28 info: [0mGET /api/users/getUsers [36m304[0m 154.875 ms - -[0m
+2022-05-31 10:03:57 info: [0mGET /api/users/getUsers [36m304[0m 165.928 ms - -[0m
+2022-05-31 10:03:58 info: [0mGET /api/users/getUsers [36m304[0m 153.873 ms - -[0m
+2022-05-31 10:04:52 info: [0mGET /api/clients/getAllClients [36m304[0m 87.913 ms - -[0m
+2022-05-31 10:04:54 info: [0mGET /api/users/getVendedores [32m200[0m 75.443 ms - 466[0m
+2022-05-31 10:08:29 info: [0mPOST /api/clients/createClient [32m201[0m 91.628 ms - 550[0m
+2022-05-31 10:08:30 info: [0mGET /api/clients/getAllClients [32m200[0m 81.821 ms - 554[0m
+2022-05-31 10:10:15 info: [0mGET /api/clients/getAllClients [36m304[0m 82.593 ms - -[0m
+2022-05-31 10:10:51 info: [0mGET /api/servicios/obtenerServicios [36m304[0m 77.500 ms - -[0m
+2022-05-31 10:10:52 info: [0mGET /api/servicios/obtenerTipoServicios [36m304[0m 93.279 ms - -[0m
+2022-05-31 10:15:37 info: [0mGET /api/clients/getAllClients [36m304[0m 81.547 ms - -[0m
+2022-05-31 10:15:37 info: [0mGET /api/servicios/obtenerTipoServicios [36m304[0m 78.585 ms - -[0m
+2022-05-31 10:15:37 info: [0mGET /api/servicios/obtenerServicios [36m304[0m 83.312 ms - -[0m
+2022-05-31 10:22:47 info: [0mGET /api/clients/getAllClients [36m304[0m 84.793 ms - -[0m
+2022-05-31 10:22:47 info: [0mGET /api/servicios/obtenerServicios [36m304[0m 82.192 ms - -[0m
+2022-05-31 10:22:47 info: [0mGET /api/servicios/obtenerTipoServicios [36m304[0m 92.073 ms - -[0m
+2022-05-31 10:32:02 info: [0mGET /api/users/getUsers [36m304[0m 168.556 ms - -[0m
+2022-05-31 10:32:03 info: [0mGET /api/users/getUsers [36m304[0m 150.983 ms - -[0m
+2022-05-31 10:32:07 info: [0mGET /api/clients/getAllClients [36m304[0m 79.632 ms - -[0m
+2022-05-31 10:32:07 info: [0mGET /api/servicios/obtenerTipoServicios [36m304[0m 94.921 ms - -[0m
+2022-05-31 10:32:07 info: [0mGET /api/servicios/obtenerServicios [36m304[0m 92.705 ms - -[0m
+2022-05-31 11:02:17 info: [0mGET /api/servicios/obtenerServicios [36m304[0m 85.423 ms - -[0m
+2022-05-31 11:02:17 info: [0mGET /api/servicios/obtenerTipoServicios [36m304[0m 76.501 ms - -[0m
+2022-05-31 11:02:55 info: [0mGET /api/servicios/obtenerServicios [36m304[0m 76.117 ms - -[0m
+2022-05-31 11:02:55 info: [0mGET /api/servicios/obtenerTipoServicios [36m304[0m 71.938 ms - -[0m
+2022-05-31 11:03:11 info: [0mGET /api/servicios/obtenerServicios [36m304[0m 72.156 ms - -[0m
+2022-05-31 11:03:12 info: [0mGET /api/servicios/obtenerTipoServicios [36m304[0m 76.505 ms - -[0m
+2022-05-31 11:03:33 info: [0mGET /api/servicios/obtenerServicios [36m304[0m 76.939 ms - -[0m
+2022-05-31 11:03:33 info: [0mGET /api/servicios/obtenerTipoServicios [32m200[0m 79.185 ms - 41[0m
+2022-05-31 11:03:46 info: [0mGET /api/servicios/obtenerServicios [36m304[0m 76.758 ms - -[0m
+2022-05-31 11:03:46 info: [0mGET /api/servicios/obtenerTipoServicios [36m304[0m 79.701 ms - -[0m
+2022-05-31 11:04:30 info: [0mGET /api/servicios/obtenerServicios [36m304[0m 73.179 ms - -[0m
+2022-05-31 11:04:30 info: [0mGET /api/servicios/obtenerTipoServicios [36m304[0m 74.427 ms - -[0m
+2022-05-31 11:04:49 info: [0mGET /api/servicios/obtenerServicios [36m304[0m 69.697 ms - -[0m
+2022-05-31 11:04:49 info: [0mGET /api/servicios/obtenerTipoServicios [36m304[0m 75.641 ms - -[0m
+2022-05-31 11:05:13 info: [0mGET /api/servicios/obtenerServicios [36m304[0m 74.224 ms - -[0m
+2022-05-31 11:05:13 info: [0mGET /api/servicios/obtenerTipoServicios [36m304[0m 77.262 ms - -[0m
+2022-05-31 11:05:24 info: [0mGET /api/servicios/obtenerServicios [36m304[0m 82.112 ms - -[0m
+2022-05-31 11:05:24 info: [0mGET /api/servicios/obtenerTipoServicios [36m304[0m 75.866 ms - -[0m
+2022-05-31 11:06:06 info: [0mGET /api/servicios/obtenerServicios [36m304[0m 72.514 ms - -[0m
+2022-05-31 11:06:06 info: [0mGET /api/servicios/obtenerTipoServicios [36m304[0m 74.812 ms - -[0m
+2022-05-31 11:06:21 info: [0mGET /api/servicios/obtenerServicios [36m304[0m 73.163 ms - -[0m
+2022-05-31 11:06:21 info: [0mGET /api/servicios/obtenerTipoServicios [36m304[0m 78.324 ms - -[0m
+2022-05-31 11:08:58 info: [0mPOST /api/servicios/crearTipoServicio [32m201[0m 87.960 ms - 178[0m
+2022-05-31 11:08:59 info: [0mGET /api/servicios/obtenerTipoServicios [32m200[0m 75.684 ms - 177[0m
+2022-05-31 11:09:08 info: [0mPOST /api/servicios/crearTipoServicio [32m201[0m 93.133 ms - 181[0m
+2022-05-31 11:09:09 info: [0mGET /api/servicios/obtenerTipoServicios [32m200[0m 76.619 ms - 317[0m
+2022-05-31 11:09:21 info: [0mPOST /api/servicios/crearTipoServicio [32m201[0m 75.323 ms - 181[0m
+2022-05-31 11:09:21 info: [0mGET /api/servicios/obtenerTipoServicios [32m200[0m 73.953 ms - 457[0m
+2022-05-31 11:09:26 info: [0mPOST /api/servicios/crearTipoServicio [32m201[0m 75.081 ms - 179[0m
+2022-05-31 11:09:27 info: [0mGET /api/servicios/obtenerTipoServicios [32m200[0m 77.310 ms - 595[0m
+2022-05-31 11:09:44 info: [0mPOST /api/servicios/crearTipoServicio [32m201[0m 82.775 ms - 188[0m
+2022-05-31 11:09:44 info: [0mGET /api/servicios/obtenerTipoServicios [32m200[0m 77.216 ms - 742[0m
+2022-05-31 11:16:31 info: [0mGET /api/servicios/obtenerServicios [36m304[0m 77.616 ms - -[0m
+2022-05-31 11:16:31 info: [0mGET /api/servicios/obtenerTipoServicios [36m304[0m 78.177 ms - -[0m
+2022-05-31 11:16:52 info: [0mGET /api/servicios/obtenerServicios [36m304[0m 81.824 ms - -[0m
+2022-05-31 11:16:52 info: [0mGET /api/servicios/obtenerTipoServicios [36m304[0m 73.046 ms - -[0m
+2022-05-31 11:17:15 info: [0mGET /api/servicios/obtenerServicios [36m304[0m 73.346 ms - -[0m
+2022-05-31 11:17:15 info: [0mGET /api/servicios/obtenerTipoServicios [36m304[0m 76.593 ms - -[0m
+2022-05-31 11:17:41 info: [0mGET /api/servicios/obtenerServicios [36m304[0m 76.133 ms - -[0m
+2022-05-31 11:17:42 info: [0mGET /api/servicios/obtenerTipoServicios [36m304[0m 83.544 ms - -[0m
+2022-05-31 11:17:51 info: [0mGET /api/servicios/obtenerServicios [36m304[0m 75.340 ms - -[0m
+2022-05-31 11:17:52 info: [0mGET /api/servicios/obtenerTipoServicios [36m304[0m 76.068 ms - -[0m
+2022-05-31 11:20:23 info: [0mGET /api/servicios/obtenerServicios [36m304[0m 72.037 ms - -[0m
+2022-05-31 11:20:23 info: [0mGET /api/servicios/obtenerTipoServicios [36m304[0m 74.402 ms - -[0m
+2022-05-31 11:23:43 info: [0mGET /api/servicios/obtenerServicios [36m304[0m 87.469 ms - -[0m
+2022-05-31 11:23:43 info: [0mGET /api/servicios/obtenerTipoServicios [36m304[0m 78.541 ms - -[0m
+2022-05-31 11:24:43 info: [0mPOST /api/servicios/crearTipoServicio [32m201[0m 85.960 ms - 179[0m
+2022-05-31 11:24:43 info: [0mGET /api/servicios/obtenerTipoServicios [32m200[0m 77.515 ms - 880[0m
+2022-05-31 11:27:19 info: [0mGET /api/servicios/obtenerServicios [36m304[0m 75.424 ms - -[0m
+2022-05-31 11:27:19 info: [0mGET /api/servicios/obtenerTipoServicios [36m304[0m 77.977 ms - -[0m
+2022-05-31 11:29:42 info: [0mGET /api/servicios/obtenerServicios [36m304[0m 76.334 ms - -[0m
+2022-05-31 11:29:42 info: [0mGET /api/servicios/obtenerTipoServicios [36m304[0m 78.278 ms - -[0m
+2022-05-31 11:30:42 info: [0mGET /api/servicios/obtenerServicios [36m304[0m 75.876 ms - -[0m
+2022-05-31 11:30:43 info: [0mGET /api/servicios/obtenerTipoServicios [36m304[0m 80.398 ms - -[0m
+2022-05-31 11:31:04 info: [0mGET /api/servicios/obtenerServicios [36m304[0m 78.102 ms - -[0m
+2022-05-31 11:31:04 info: [0mGET /api/servicios/obtenerTipoServicios [36m304[0m 76.707 ms - -[0m
+2022-05-31 11:31:46 info: [0mGET /api/servicios/obtenerServicios [36m304[0m 75.634 ms - -[0m
+2022-05-31 11:31:46 info: [0mGET /api/servicios/obtenerTipoServicios [36m304[0m 76.790 ms - -[0m
+2022-05-31 11:32:51 info: [0mGET /api/servicios/obtenerServicios [36m304[0m 80.047 ms - -[0m
+2022-05-31 11:32:51 info: [0mGET /api/servicios/obtenerTipoServicios [36m304[0m 75.802 ms - -[0m
+2022-05-31 11:33:12 info: [0mGET /api/servicios/obtenerServicios [36m304[0m 76.379 ms - -[0m
+2022-05-31 11:33:12 info: [0mGET /api/servicios/obtenerTipoServicios [36m304[0m 76.249 ms - -[0m
+2022-05-31 11:35:30 info: [0mGET /api/servicios/obtenerServicios [36m304[0m 74.232 ms - -[0m
+2022-05-31 11:35:30 info: [0mGET /api/servicios/obtenerTipoServicios [36m304[0m 74.371 ms - -[0m
+2022-05-31 11:35:37 info: [0mGET /api/servicios/obtenerServicios [36m304[0m 76.688 ms - -[0m
+2022-05-31 11:35:37 info: [0mGET /api/servicios/obtenerTipoServicios [36m304[0m 75.319 ms - -[0m
+2022-05-31 11:36:30 info: [0mGET /api/servicios/obtenerServicios [36m304[0m 71.471 ms - -[0m
+2022-05-31 11:36:30 info: [0mGET /api/servicios/obtenerTipoServicios [36m304[0m 74.999 ms - -[0m
+2022-05-31 11:36:45 info: [0mGET /api/servicios/obtenerServicios [36m304[0m 70.278 ms - -[0m
+2022-05-31 11:36:46 info: [0mGET /api/servicios/obtenerTipoServicios [36m304[0m 76.792 ms - -[0m
+2022-05-31 11:37:16 info: [0mGET /api/servicios/obtenerServicios [36m304[0m 75.445 ms - -[0m
+2022-05-31 11:37:17 info: [0mGET /api/servicios/obtenerTipoServicios [36m304[0m 77.909 ms - -[0m
+2022-05-31 11:41:46 info: =================================
+2022-05-31 11:41:46 info: ======= ENV: development =======
+2022-05-31 11:41:46 info: 🚀 App listening on the port 5100
+2022-05-31 11:41:46 info: =================================
+2022-05-31 11:44:22 info: =================================
+2022-05-31 11:44:22 info: ======= ENV: development =======
+2022-05-31 11:44:22 info: 🚀 App listening on the port 5100
+2022-05-31 11:44:22 info: =================================
+2022-05-31 11:55:07 info: [0mGET /api/servicios/obtenerServicios [32m200[0m 84.925 ms - 41[0m
+2022-05-31 11:55:07 info: [0mGET /api/servicios/obtenerTipoServicios [32m200[0m 91.967 ms - 880[0m
+2022-05-31 11:57:02 info: [0mGET /api/servicios/obtenerServicios [36m304[0m 76.281 ms - -[0m
+2022-05-31 11:57:02 info: [0mGET /api/servicios/obtenerTipoServicios [36m304[0m 79.782 ms - -[0m
+2022-05-31 11:57:02 info: [0mGET /api/servicios/obtenerProcedimientos [32m200[0m 76.781 ms - 886[0m
+2022-05-31 11:57:24 info: [0mGET /api/servicios/obtenerServicios [36m304[0m 73.141 ms - -[0m
+2022-05-31 11:57:24 info: [0mGET /api/servicios/obtenerProcedimientos [36m304[0m 74.550 ms - -[0m
+2022-05-31 11:57:24 info: [0mGET /api/servicios/obtenerTipoServicios [36m304[0m 81.197 ms - -[0m
+2022-05-31 11:58:21 info: =================================
+2022-05-31 11:58:21 info: ======= ENV: development =======
+2022-05-31 11:58:21 info: 🚀 App listening on the port 5100
+2022-05-31 11:58:21 info: =================================
+2022-05-31 11:58:24 info: [0mGET /api/servicios/obtenerServicios [36m304[0m 84.356 ms - -[0m
+2022-05-31 11:58:24 info: [0mGET /api/servicios/obtenerTipoServicios [36m304[0m 99.524 ms - -[0m
+2022-05-31 11:58:24 info: [0mGET /api/servicios/obtenerProcedimientos [32m200[0m 99.936 ms - 47[0m
+2022-05-31 11:59:00 info: [0mGET /api/servicios/obtenerServicios [36m304[0m 76.737 ms - -[0m
+2022-05-31 11:59:00 info: [0mGET /api/servicios/obtenerTipoServicios [36m304[0m 75.778 ms - -[0m
+2022-05-31 11:59:00 info: [0mGET /api/servicios/obtenerProcedimientos [36m304[0m 76.880 ms - -[0m
+2022-05-31 12:43:24 info: [0mGET /api/servicios/obtenerServicios [36m304[0m 74.633 ms - -[0m
+2022-05-31 12:43:24 info: [0mGET /api/servicios/obtenerTipoServicios [36m304[0m 82.593 ms - -[0m
+2022-05-31 12:43:24 info: [0mGET /api/servicios/obtenerProcedimientos [36m304[0m 76.489 ms - -[0m
+2022-05-31 12:48:29 info: [0mGET /api/servicios/obtenerServicios [36m304[0m 73.273 ms - -[0m
+2022-05-31 12:48:29 info: [0mGET /api/servicios/obtenerTipoServicios [36m304[0m 77.937 ms - -[0m
+2022-05-31 12:48:30 info: [0mGET /api/servicios/obtenerProcedimientos [36m304[0m 72.447 ms - -[0m
+2022-05-31 12:49:12 info: [0mGET /api/servicios/obtenerServicios [36m304[0m 72.911 ms - -[0m
+2022-05-31 12:49:13 info: [0mGET /api/servicios/obtenerTipoServicios [36m304[0m 86.503 ms - -[0m
+2022-05-31 12:49:13 info: [0mGET /api/servicios/obtenerProcedimientos [36m304[0m 85.907 ms - -[0m
+2022-05-31 12:49:21 info: [0mPOST /api/servicios/crearProcedimiento [32m201[0m 162.134 ms - 183[0m
+2022-05-31 12:49:21 info: [0mGET /api/servicios/obtenerProcedimientos [32m200[0m 79.056 ms - 188[0m
+2022-05-31 12:49:42 info: [0mGET /api/servicios/obtenerServicios [36m304[0m 73.477 ms - -[0m
+2022-05-31 12:49:42 info: [0mGET /api/servicios/obtenerTipoServicios [36m304[0m 71.899 ms - -[0m
+2022-05-31 12:49:42 info: [0mGET /api/servicios/obtenerProcedimientos [36m304[0m 74.106 ms - -[0m
+2022-05-31 12:49:53 info: [0mPOST /api/servicios/crearProcedimiento [32m201[0m 85.581 ms - 181[0m
+2022-05-31 12:49:53 info: [0mGET /api/servicios/obtenerProcedimientos [32m200[0m 74.925 ms - 328[0m
+2022-05-31 12:50:03 info: [0mPOST /api/servicios/crearProcedimiento [32m201[0m 81.631 ms - 183[0m
+2022-05-31 12:50:04 info: [0mGET /api/servicios/obtenerProcedimientos [32m200[0m 77.509 ms - 470[0m
+2022-05-31 12:50:10 info: [0mPOST /api/servicios/crearProcedimiento [32m201[0m 87.924 ms - 181[0m
+2022-05-31 12:50:10 info: [0mGET /api/servicios/obtenerProcedimientos [32m200[0m 73.130 ms - 610[0m
+2022-05-31 12:50:35 info: [0mPOST /api/servicios/crearProcedimiento [32m201[0m 86.715 ms - 187[0m
+2022-05-31 12:50:36 info: [0mGET /api/servicios/obtenerProcedimientos [32m200[0m 73.732 ms - 756[0m
+2022-05-31 13:09:11 info: =================================
+2022-05-31 13:09:11 info: ======= ENV: development =======
+2022-05-31 13:09:11 info: 🚀 App listening on the port 5100
+2022-05-31 13:09:11 info: =================================
+2022-05-31 13:10:34 info: [0mGET /api/servicios/obtenerServicios [36m304[0m 76.993 ms - -[0m
+2022-05-31 13:10:35 info: [0mGET /api/servicios/obtenerTipoServicios [36m304[0m 77.502 ms - -[0m
+2022-05-31 13:10:35 info: [0mGET /api/servicios/obtenerProcedimientos [32m200[0m 76.608 ms - 759[0m
+2022-05-31 13:13:29 info: [0mGET /api/servicios/obtenerServicios [36m304[0m 96.417 ms - -[0m
+2022-05-31 13:13:29 info: [0mGET /api/servicios/obtenerTipoServicios [36m304[0m 77.104 ms - -[0m
+2022-05-31 13:13:30 info: [0mGET /api/servicios/obtenerProcedimientos [36m304[0m 73.642 ms - -[0m
+2022-05-31 13:13:37 info: [0mPOST /api/servicios/borrarProcedimiento [32m201[0m 105.915 ms - 47[0m
+2022-05-31 13:13:38 info: [0mGET /api/servicios/obtenerProcedimientos [32m200[0m 77.098 ms - 613[0m
+2022-05-31 13:13:45 info: [0mPOST /api/servicios/crearProcedimiento [32m201[0m 92.496 ms - 187[0m
+2022-05-31 13:13:45 info: [0mGET /api/servicios/obtenerProcedimientos [32m200[0m 72.722 ms - 759[0m
+2022-05-31 13:16:03 info: [0mGET /api/servicios/obtenerServicios [36m304[0m 73.095 ms - -[0m
+2022-05-31 13:16:03 info: [0mGET /api/servicios/obtenerTipoServicios [36m304[0m 76.749 ms - -[0m
+2022-05-31 13:16:03 info: [0mGET /api/servicios/obtenerProcedimientos [36m304[0m 76.381 ms - -[0m
+2022-05-31 13:16:08 info: [0mGET /api/servicios/obtenerServicios [36m304[0m 71.457 ms - -[0m
+2022-05-31 13:16:08 info: [0mGET /api/servicios/obtenerTipoServicios [36m304[0m 72.245 ms - -[0m
+2022-05-31 13:16:08 info: [0mGET /api/servicios/obtenerProcedimientos [36m304[0m 80.026 ms - -[0m
+2022-05-31 13:16:12 info: [0mPOST /api/servicios/borrarTipoServicio [32m201[0m 84.894 ms - 46[0m
+2022-05-31 13:16:12 info: [0mGET /api/servicios/obtenerProcedimientos [36m304[0m 73.237 ms - -[0m
+2022-05-31 13:16:44 info: [0mGET /api/servicios/obtenerServicios [36m304[0m 73.293 ms - -[0m
+2022-05-31 13:16:44 info: [0mGET /api/servicios/obtenerTipoServicios [32m200[0m 79.385 ms - 743[0m
+2022-05-31 13:16:44 info: [0mGET /api/servicios/obtenerProcedimientos [36m304[0m 80.206 ms - -[0m
+2022-05-31 13:16:51 info: [0mPOST /api/servicios/crearTipoServicio [32m201[0m 80.612 ms - 179[0m
+2022-05-31 13:16:51 info: [0mGET /api/servicios/obtenerTipoServicios [32m200[0m 74.525 ms - 881[0m
+2022-05-31 13:16:57 info: [0mPOST /api/servicios/borrarTipoServicio [32m201[0m 86.179 ms - 46[0m
+2022-05-31 13:16:57 info: [0mGET /api/servicios/obtenerTipoServicios [32m200[0m 73.445 ms - 743[0m
+2022-05-31 13:18:14 info: [0mGET /api/servicios/obtenerServicios [36m304[0m 73.260 ms - -[0m
+2022-05-31 13:18:15 info: [0mGET /api/servicios/obtenerTipoServicios [36m304[0m 72.941 ms - -[0m
+2022-05-31 13:18:15 info: [0mGET /api/servicios/obtenerProcedimientos [36m304[0m 79.778 ms - -[0m
+2022-05-31 13:18:31 info: [0mGET /api/servicios/obtenerServicios [36m304[0m 77.806 ms - -[0m
+2022-05-31 13:18:31 info: [0mGET /api/servicios/obtenerProcedimientos [36m304[0m 74.473 ms - -[0m
+2022-05-31 13:18:31 info: [0mGET /api/servicios/obtenerTipoServicios [36m304[0m 76.110 ms - -[0m

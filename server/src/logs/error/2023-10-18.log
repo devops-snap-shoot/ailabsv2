@@ -1,0 +1,52 @@
+2023-10-18 21:19:58 error: uncaughtException: Something went wrong. It took over five seconds to find the next execution time for the cron job.
+							Please refer to the canonical issue (https://github.com/kelektiv/node-cron/issues/467) and provide the following string if you would like to help debug:
+							Time Zone: "" - Cron String: 0 * * * * * - UTC offset: 0
+							- current Date: 2023-10-18T21:19:47.123+00:00
+Error: Something went wrong. It took over five seconds to find the next execution time for the cron job.
+							Please refer to the canonical issue (https://github.com/kelektiv/node-cron/issues/467) and provide the following string if you would like to help debug:
+							Time Zone: "" - Cron String: 0 * * * * * - UTC offset: 0
+							- current Date: 2023-10-18T21:19:47.123+00:00
+    at CT._getNextDateFrom (/home/kauel/imkchat-app-dev/imkchat/server/node_modules/cron/lib/time.js:272:12)
+    at CT.sendAt (/home/kauel/imkchat-app-dev/imkchat/server/node_modules/cron/lib/time.js:185:17)
+    at CT.getTimeout (/home/kauel/imkchat-app-dev/imkchat/server/node_modules/cron/lib/time.js:202:29)
+    at CJ.start (/home/kauel/imkchat-app-dev/imkchat/server/node_modules/cron/lib/job.js:119:31)
+    at Timeout.callbackWrapper [as _onTimeout] (/home/kauel/imkchat-app-dev/imkchat/server/node_modules/cron/lib/job.js:172:11)
+    at listOnTimeout (node:internal/timers:569:17)
+    at processTimers (node:internal/timers:512:7)
+<<<<<<< HEAD
+2023-10-18 22:11:05 error: uncaughtException: Cannot find module '@azure/storage-blob'
+Require stack:
+- /home/kauel/imkchat-app-dev/imkchat/server/src/services/azure-storage.service.ts
+- /home/kauel/imkchat-app-dev/imkchat/server/src/controllers/ia.controller.ts
+- /home/kauel/imkchat-app-dev/imkchat/server/src/routes/ia.route.ts
+- /home/kauel/imkchat-app-dev/imkchat/server/src/routes/index.route.ts
+- /home/kauel/imkchat-app-dev/imkchat/server/src/app.ts
+- /home/kauel/imkchat-app-dev/imkchat/server/src/server.ts
+Error: Cannot find module '@azure/storage-blob'
+Require stack:
+- /home/kauel/imkchat-app-dev/imkchat/server/src/services/azure-storage.service.ts
+- /home/kauel/imkchat-app-dev/imkchat/server/src/controllers/ia.controller.ts
+- /home/kauel/imkchat-app-dev/imkchat/server/src/routes/ia.route.ts
+- /home/kauel/imkchat-app-dev/imkchat/server/src/routes/index.route.ts
+- /home/kauel/imkchat-app-dev/imkchat/server/src/app.ts
+- /home/kauel/imkchat-app-dev/imkchat/server/src/server.ts
+    at Function.Module._resolveFilename (node:internal/modules/cjs/loader:1077:15)
+    at Function.Module._resolveFilename.sharedData.moduleResolveFilenameHook.installedValue (/home/kauel/imkchat-app-dev/imkchat/server/node_modules/@cspotcode/source-map-support/source-map-support.js:679:30)
+    at Function.Module._resolveFilename (/home/kauel/imkchat-app-dev/imkchat/server/node_modules/tsconfig-paths/lib/register.js:75:40)
+    at Function.Module._load (node:internal/modules/cjs/loader:922:27)
+    at Module.require (node:internal/modules/cjs/loader:1143:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (/home/kauel/imkchat-app-dev/imkchat/server/src/services/azure-storage.service.ts:2:1)
+    at Module._compile (node:internal/modules/cjs/loader:1256:14)
+    at Module.m._compile (/home/kauel/imkchat-app-dev/imkchat/server/node_modules/ts-node/src/index.ts:1371:23)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1310:10)
+    at Object.require.extensions.<computed> [as .ts] (/home/kauel/imkchat-app-dev/imkchat/server/node_modules/ts-node/src/index.ts:1374:12)
+    at Module.load (node:internal/modules/cjs/loader:1119:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:960:12)
+    at Module.require (node:internal/modules/cjs/loader:1143:19)
+    at require (node:internal/modules/cjs/helpers:110:18)
+    at Object.<anonymous> (/home/kauel/imkchat-app-dev/imkchat/server/src/controllers/ia.controller.ts:4:1)
+=======
+2023-10-18 19:02:11 error: [POST] /api/login >> StatusCode:: 500, Message:: Cannot read properties of null (reading '_id')
+2023-10-18 19:02:35 error: [POST] /api/login >> StatusCode:: 500, Message:: Cannot read properties of null (reading '_id')
+>>>>>>> fd9d76cca6da3f8ea48e590dd83ab7dd0543f527

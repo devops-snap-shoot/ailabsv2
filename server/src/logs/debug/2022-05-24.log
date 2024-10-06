@@ -1,0 +1,322 @@
+2022-05-24 08:18:32 info: =================================
+2022-05-24 08:18:32 info: ======= ENV: development =======
+2022-05-24 08:18:32 info: 🚀 App listening on the port 5100
+2022-05-24 08:18:32 info: =================================
+2022-05-24 08:18:34 info: [0mPOST /api/auth/login [32m200[0m 182.028 ms - 593[0m
+2022-05-24 08:18:35 info: [0mGET /api/roles/getRoles [32m200[0m 78.036 ms - 581[0m
+2022-05-24 08:18:39 info: [0mGET /api/users/getUsers [32m200[0m 151.179 ms - 454[0m
+2022-05-24 08:20:46 info: =================================
+2022-05-24 08:20:46 info: ======= ENV: development =======
+2022-05-24 08:20:46 info: 🚀 App listening on the port 5100
+2022-05-24 08:20:46 info: =================================
+2022-05-24 08:28:25 info: =================================
+2022-05-24 08:28:25 info: ======= ENV: development =======
+2022-05-24 08:28:25 info: 🚀 App listening on the port 5100
+2022-05-24 08:28:25 info: =================================
+2022-05-24 08:29:28 info: =================================
+2022-05-24 08:29:28 info: ======= ENV: development =======
+2022-05-24 08:29:28 info: 🚀 App listening on the port 5100
+2022-05-24 08:29:28 info: =================================
+2022-05-24 08:30:29 info: =================================
+2022-05-24 08:30:29 info: ======= ENV: development =======
+2022-05-24 08:30:29 info: 🚀 App listening on the port 5100
+2022-05-24 08:30:29 info: =================================
+2022-05-24 08:48:41 info: =================================
+2022-05-24 08:48:41 info: ======= ENV: development =======
+2022-05-24 08:48:41 info: 🚀 App listening on the port 5100
+2022-05-24 08:48:41 info: =================================
+2022-05-24 08:50:59 info: [0mGET /api/users/getUsers [32m200[0m 158.283 ms - 454[0m
+2022-05-24 08:51:58 info: [0mGET /api/users/getUsers [36m304[0m 156.178 ms - -[0m
+2022-05-24 08:53:02 info: [0mGET /api/users/getUsers [36m304[0m 157.137 ms - -[0m
+2022-05-24 08:54:03 info: [0mGET /api/users/getUsers [36m304[0m 148.459 ms - -[0m
+2022-05-24 08:54:46 info: [0mGET /api/users/getUsers [36m304[0m 144.327 ms - -[0m
+2022-05-24 08:55:13 info: [0mGET /api/users/getUsers [36m304[0m 149.822 ms - -[0m
+2022-05-24 08:55:37 info: [0mGET /api/users/getUsers [36m304[0m 145.681 ms - -[0m
+2022-05-24 09:00:01 info: [0mGET /api/users/getUsers [36m304[0m 144.717 ms - -[0m
+2022-05-24 09:00:03 info: [0mGET /api/users/getUsers [36m304[0m 150.596 ms - -[0m
+2022-05-24 09:00:34 info: [0mGET /api/users/getUsers [36m304[0m 148.412 ms - -[0m
+2022-05-24 09:00:38 info: [0mGET /api/users/getUsers [36m304[0m 148.639 ms - -[0m
+2022-05-24 09:01:00 info: [0mPOST /api/auth/login [32m200[0m 156.445 ms - 593[0m
+2022-05-24 09:01:00 info: [0mGET /api/roles/getRoles [32m200[0m 75.622 ms - 581[0m
+2022-05-24 09:01:02 info: [0mGET /api/users/getUsers [36m304[0m 147.193 ms - -[0m
+2022-05-24 09:01:06 info: [0mGET /api/users/getUsers [36m304[0m 151.048 ms - -[0m
+2022-05-24 09:01:08 info: [0mGET /api/users/getUsers [36m304[0m 147.038 ms - -[0m
+2022-05-24 09:01:12 info: [0mGET /api/users/getUsers [36m304[0m 150.115 ms - -[0m
+2022-05-24 09:17:22 info: =================================
+2022-05-24 09:17:22 info: ======= ENV: development =======
+2022-05-24 09:17:22 info: 🚀 App listening on the port 5100
+2022-05-24 09:17:22 info: =================================
+2022-05-24 10:02:56 info: =================================
+2022-05-24 10:02:56 info: ======= ENV: development =======
+2022-05-24 10:02:56 info: 🚀 App listening on the port 5100
+2022-05-24 10:02:56 info: =================================
+2022-05-24 10:43:03 info: [0mGET /api/users/getUsers [32m200[0m 170.446 ms - 454[0m
+2022-05-24 10:43:39 info: [0mPOST /api/auth/login [32m200[0m 174.760 ms - 593[0m
+2022-05-24 10:43:40 info: [0mGET /api/roles/getRoles [32m200[0m 77.471 ms - 581[0m
+2022-05-24 10:43:41 info: [0mGET /api/users/getUsers [36m304[0m 147.704 ms - -[0m
+2022-05-24 10:50:24 info: [0mPOST /api/users/createUser [32m201[0m 230.327 ms - 431[0m
+2022-05-24 10:50:31 info: [0mGET /api/users/getUsers [32m200[0m 150.214 ms - 891[0m
+2022-05-24 10:51:23 info: [0mGET /api/users/getUsers [32m200[0m 152.359 ms - 454[0m
+2022-05-24 10:53:20 info: [0mGET /api/users/getUsers [36m304[0m 150.737 ms - -[0m
+2022-05-24 10:53:38 info: [0mGET /api/users/getUsers [36m304[0m 147.776 ms - -[0m
+2022-05-24 10:54:01 info: [0mGET /api/users/getUsers [36m304[0m 147.764 ms - -[0m
+2022-05-24 10:54:55 info: [0mGET /api/users/getUsers [36m304[0m 148.530 ms - -[0m
+2022-05-24 10:55:06 info: [0mGET /api/users/getUsers [36m304[0m 148.856 ms - -[0m
+2022-05-24 10:55:55 info: =================================
+2022-05-24 10:55:55 info: ======= ENV: development =======
+2022-05-24 10:55:55 info: 🚀 App listening on the port 5100
+2022-05-24 10:55:55 info: =================================
+2022-05-24 10:57:23 info: =================================
+2022-05-24 10:57:23 info: ======= ENV: development =======
+2022-05-24 10:57:23 info: 🚀 App listening on the port 5100
+2022-05-24 10:57:23 info: =================================
+2022-05-24 10:58:03 info: [0mPOST /api/users/createUser [32m201[0m 257.341 ms - 456[0m
+2022-05-24 10:58:40 info: [0mGET /api/users/getUsers [32m200[0m 158.764 ms - 930[0m
+2022-05-24 10:59:18 info: [0mGET /api/users/getUsers [36m304[0m 158.695 ms - -[0m
+2022-05-24 11:00:03 info: [0mGET /api/users/getUsers [36m304[0m 149.844 ms - -[0m
+2022-05-24 11:10:21 info: [0mGET /api/users/getUsers [36m304[0m 147.903 ms - -[0m
+2022-05-24 11:12:47 info: [0mGET /api/users/getUsers [36m304[0m 146.881 ms - -[0m
+2022-05-24 11:13:14 info: [0mGET /api/users/getUsers [36m304[0m 152.529 ms - -[0m
+2022-05-24 11:13:24 info: [0mGET /api/users/getUsers [36m304[0m 150.477 ms - -[0m
+2022-05-24 11:13:54 info: [0mGET /api/users/getUsers [36m304[0m 147.796 ms - -[0m
+2022-05-24 11:19:24 info: [0mGET /api/users/getUsers [36m304[0m 147.686 ms - -[0m
+2022-05-24 11:19:48 info: [0mGET /api/users/getUsers [36m304[0m 148.949 ms - -[0m
+2022-05-24 11:21:55 info: [0mGET /api/users/getUsers [36m304[0m 155.650 ms - -[0m
+2022-05-24 11:23:10 info: [0mGET /api/users/getUsers [36m304[0m 146.832 ms - -[0m
+2022-05-24 11:23:55 info: [0mGET /api/users/getUsers [32m200[0m 151.291 ms - 468[0m
+2022-05-24 11:26:38 info: =================================
+2022-05-24 11:26:38 info: ======= ENV: development =======
+2022-05-24 11:26:38 info: 🚀 App listening on the port 5100
+2022-05-24 11:26:38 info: =================================
+2022-05-24 11:26:49 info: [0mPOST /api/users/createUser [32m201[0m 245.792 ms - 440[0m
+2022-05-24 11:26:59 info: [0mGET /api/users/getUsers [32m200[0m 162.553 ms - 915[0m
+2022-05-24 11:27:53 info: [0mGET /api/users/getUsers [36m304[0m 151.157 ms - -[0m
+2022-05-24 11:28:34 info: [0mGET /api/users/getUsers [36m304[0m 149.737 ms - -[0m
+2022-05-24 11:29:08 info: [0mGET /api/users/getUsers [36m304[0m 167.021 ms - -[0m
+2022-05-24 11:29:39 info: [0mGET /api/users/getUsers [36m304[0m 149.910 ms - -[0m
+2022-05-24 11:30:03 info: [0mGET /api/users/getUsers [36m304[0m 162.112 ms - -[0m
+2022-05-24 11:30:09 info: [0mGET /api/users/getUsers [36m304[0m 154.076 ms - -[0m
+2022-05-24 11:31:25 info: [0mGET /api/users/getUsers [36m304[0m 145.336 ms - -[0m
+2022-05-24 11:32:11 info: [0mGET /api/users/getUsers [36m304[0m 171.085 ms - -[0m
+2022-05-24 11:32:42 info: [0mGET /api/users/getUsers [36m304[0m 146.181 ms - -[0m
+2022-05-24 11:33:52 info: [0mGET /api/users/getUsers [36m304[0m 147.599 ms - -[0m
+2022-05-24 11:34:27 info: [0mGET /api/users/getUsers [36m304[0m 146.715 ms - -[0m
+2022-05-24 11:35:27 info: [0mGET /api/users/getUsers [36m304[0m 208.201 ms - -[0m
+2022-05-24 11:36:17 info: [0mGET /api/users/getUsers [36m304[0m 145.899 ms - -[0m
+2022-05-24 11:39:13 info: [0mGET /api/users/getUsers [36m304[0m 149.554 ms - -[0m
+2022-05-24 11:40:01 info: [0mGET /api/users/getUsers [36m304[0m 155.617 ms - -[0m
+2022-05-24 11:40:17 info: [0mGET /api/users/getUsers [36m304[0m 153.400 ms - -[0m
+2022-05-24 11:40:30 info: [0mGET /api/users/getUsers [36m304[0m 146.646 ms - -[0m
+2022-05-24 11:40:53 info: [0mGET /api/users/getUsers [36m304[0m 150.192 ms - -[0m
+2022-05-24 11:41:06 info: [0mGET /api/users/getUsers [36m304[0m 158.727 ms - -[0m
+2022-05-24 11:41:22 info: [0mGET /api/users/getUsers [36m304[0m 148.822 ms - -[0m
+2022-05-24 11:42:34 info: [0mGET /api/users/getUsers [36m304[0m 158.297 ms - -[0m
+2022-05-24 11:43:19 info: [0mGET /api/users/getUsers [36m304[0m 148.532 ms - -[0m
+2022-05-24 11:49:11 info: [0mGET /api/users/getUsers [36m304[0m 148.965 ms - -[0m
+2022-05-24 11:49:28 info: [0mGET /api/users/getUsers [36m304[0m 149.714 ms - -[0m
+2022-05-24 11:51:07 info: [0mGET /api/users/getUsers [36m304[0m 147.885 ms - -[0m
+2022-05-24 11:52:00 info: [0mGET /api/users/getUsers [36m304[0m 149.206 ms - -[0m
+2022-05-24 11:57:57 info: [0mGET /api/users/getUsers [36m304[0m 148.790 ms - -[0m
+2022-05-24 11:58:16 info: [0mGET /api/users/getUsers [36m304[0m 146.754 ms - -[0m
+2022-05-24 12:08:32 info: [0mGET /api/users/getUsers [36m304[0m 150.811 ms - -[0m
+2022-05-24 12:08:48 info: [0mGET /api/users/getUsers [36m304[0m 148.142 ms - -[0m
+2022-05-24 12:08:56 info: [0mGET /api/users/getUsers [36m304[0m 148.249 ms - -[0m
+2022-05-24 12:09:14 info: [0mGET /api/users/getUsers [36m304[0m 149.138 ms - -[0m
+2022-05-24 12:19:05 info: [0mGET /api/users/getUsers [36m304[0m 151.255 ms - -[0m
+2022-05-24 12:26:44 info: [0mGET /api/users/getUsers [36m304[0m 147.976 ms - -[0m
+2022-05-24 12:26:46 info: [0mGET /api/users/getUsers [36m304[0m 156.713 ms - -[0m
+2022-05-24 12:26:48 info: [0mGET /api/users/getUsers [36m304[0m 147.431 ms - -[0m
+2022-05-24 12:28:49 info: [0mGET /api/users/getUsers [36m304[0m 145.234 ms - -[0m
+2022-05-24 12:30:10 info: [0mGET /api/users/getUsers [36m304[0m 146.679 ms - -[0m
+2022-05-24 12:30:37 info: [0mGET /api/users/getUsers [36m304[0m 149.160 ms - -[0m
+2022-05-24 12:31:35 info: [0mGET /api/users/getUsers [36m304[0m 150.796 ms - -[0m
+2022-05-24 12:32:06 info: [0mGET /api/users/getUsers [36m304[0m 146.891 ms - -[0m
+2022-05-24 12:32:31 info: [0mGET /api/users/getUsers [36m304[0m 148.033 ms - -[0m
+2022-05-24 12:32:41 info: [0mGET /api/users/getUsers [36m304[0m 154.039 ms - -[0m
+2022-05-24 12:43:19 info: [0mGET /api/users/getUsers [36m304[0m 147.495 ms - -[0m
+2022-05-24 12:47:54 info: [0mGET /api/users/getUsers [36m304[0m 146.753 ms - -[0m
+2022-05-24 12:53:00 info: [0mGET /api/users/getUsers [36m304[0m 150.379 ms - -[0m
+2022-05-24 12:54:24 info: [0mGET /api/users/getUsers [36m304[0m 149.288 ms - -[0m
+2022-05-24 12:58:12 info: [0mPOST /api/auth/login [32m200[0m 168.546 ms - 607[0m
+2022-05-24 12:58:12 info: [0mGET /api/roles/getRoles [32m200[0m 75.423 ms - 581[0m
+2022-05-24 12:58:17 info: [0mGET /api/users/getUsers [36m304[0m 143.564 ms - -[0m
+2022-05-24 13:00:18 info: [0mGET /api/users/getUsers [36m304[0m 149.573 ms - -[0m
+2022-05-24 13:00:21 info: [0mGET /api/users/getUsers [36m304[0m 153.899 ms - -[0m
+2022-05-24 13:00:27 info: [0mGET /api/users/getUsers [36m304[0m 147.489 ms - -[0m
+2022-05-24 13:00:34 info: [0mGET /api/users/getUsers [36m304[0m 147.531 ms - -[0m
+2022-05-24 13:01:04 info: [0mGET /api/users/getUsers [36m304[0m 150.166 ms - -[0m
+2022-05-24 13:06:26 info: [0mPOST /api/users/createUser [32m201[0m 213.905 ms - 436[0m
+2022-05-24 13:06:31 info: [0mGET /api/users/getUsers [32m200[0m 181.211 ms - -[0m
+2022-05-24 13:08:08 info: [0mGET /api/users/getUsers [36m304[0m 153.031 ms - -[0m
+2022-05-24 13:08:25 info: [0mGET /api/users/getUsers [36m304[0m 147.559 ms - -[0m
+2022-05-24 13:08:55 info: [0mGET /api/users/getUsers [36m304[0m 147.657 ms - -[0m
+2022-05-24 13:12:56 info: [0mPOST /api/auth/login [32m200[0m 131.522 ms - 607[0m
+2022-05-24 13:12:56 info: [0mGET /api/roles/getRoles [36m304[0m 74.361 ms - -[0m
+2022-05-24 13:13:04 info: [0mGET /api/users/getUsers [36m304[0m 147.786 ms - -[0m
+2022-05-24 13:16:02 info: [0mGET /api/users/getUsers [36m304[0m 149.346 ms - -[0m
+2022-05-24 13:17:04 info: [0mPOST /api/auth/login [32m200[0m 142.347 ms - 617[0m
+2022-05-24 13:17:04 info: [0mGET /api/roles/getRoles [36m304[0m 92.636 ms - -[0m
+2022-05-24 13:17:28 info: [0mGET /api/users/getUsers [36m304[0m 147.269 ms - -[0m
+2022-05-24 13:20:06 info: [0mGET /api/users/getUsers [36m304[0m 157.368 ms - -[0m
+2022-05-24 13:20:41 info: [0mPOST /api/auth/login [32m200[0m 128.302 ms - 621[0m
+2022-05-24 13:20:41 info: [0mGET /api/roles/getRoles [36m304[0m 74.457 ms - -[0m
+2022-05-24 13:21:21 info: [0mPOST /api/auth/login [32m200[0m 130.932 ms - 621[0m
+2022-05-24 13:21:22 info: [0mGET /api/roles/getRoles [36m304[0m 74.101 ms - -[0m
+2022-05-24 13:30:17 info: [0mPOST /api/auth/login [32m200[0m 157.505 ms - 621[0m
+2022-05-24 13:30:18 info: [0mGET /api/roles/getRoles [36m304[0m 73.413 ms - -[0m
+2022-05-24 13:30:19 info: [0mGET /api/users/getUsers [36m304[0m 148.928 ms - -[0m
+2022-05-24 13:31:02 info: [0mPOST /api/auth/login [32m200[0m 129.501 ms - 621[0m
+2022-05-24 13:31:02 info: [0mGET /api/roles/getRoles [36m304[0m 76.778 ms - -[0m
+2022-05-24 13:31:05 info: [0mGET /api/users/getUsers [36m304[0m 146.541 ms - -[0m
+2022-05-24 13:32:17 info: [0mPOST /api/auth/login [32m200[0m 130.205 ms - 621[0m
+2022-05-24 13:32:17 info: [0mGET /api/roles/getRoles [36m304[0m 77.358 ms - -[0m
+2022-05-24 13:34:10 info: [0mPOST /api/auth/login [32m200[0m 129.972 ms - 621[0m
+2022-05-24 13:34:11 info: [0mGET /api/roles/getRoles [36m304[0m 73.322 ms - -[0m
+2022-05-24 13:34:45 info: [0mPOST /api/auth/login [32m200[0m 129.744 ms - 621[0m
+2022-05-24 13:34:45 info: [0mGET /api/roles/getRoles [36m304[0m 73.674 ms - -[0m
+2022-05-24 13:35:13 info: [0mPOST /api/auth/login [32m200[0m 132.125 ms - 621[0m
+2022-05-24 13:35:13 info: [0mGET /api/roles/getRoles [36m304[0m 72.502 ms - -[0m
+2022-05-24 13:35:27 info: [0mPOST /api/auth/login [32m200[0m 144.598 ms - 621[0m
+2022-05-24 13:35:27 info: [0mGET /api/roles/getRoles [36m304[0m 73.749 ms - -[0m
+2022-05-24 13:35:39 info: [0mPOST /api/auth/login [32m200[0m 129.624 ms - 621[0m
+2022-05-24 13:35:39 info: [0mGET /api/roles/getRoles [36m304[0m 75.483 ms - -[0m
+2022-05-24 13:35:41 info: [0mGET /api/users/getUsers [36m304[0m 162.947 ms - -[0m
+2022-05-24 13:36:53 error: [POST] /api/auth/login >> StatusCode:: 409, Message:: Contraseña incorrecta
+2022-05-24 13:36:53 info: [0mPOST /api/auth/login [33m409[0m 131.892 ms - 36[0m
+2022-05-24 13:36:55 error: [POST] /api/auth/login >> StatusCode:: 409, Message:: Contraseña incorrecta
+2022-05-24 13:36:55 info: [0mPOST /api/auth/login [33m409[0m 129.800 ms - 36[0m
+2022-05-24 13:38:56 error: [POST] /api/auth/login >> StatusCode:: 409, Message:: Contraseña incorrecta
+2022-05-24 13:38:56 info: [0mPOST /api/auth/login [33m409[0m 128.467 ms - 36[0m
+2022-05-24 13:40:19 error: [POST] /api/auth/login >> StatusCode:: 409, Message:: Contraseña incorrecta
+2022-05-24 13:40:19 info: [0mPOST /api/auth/login [33m409[0m 130.336 ms - 36[0m
+2022-05-24 13:40:24 error: [POST] /api/auth/login >> StatusCode:: 409, Message:: Contraseña incorrecta
+2022-05-24 13:40:24 info: [0mPOST /api/auth/login [33m409[0m 131.639 ms - 36[0m
+2022-05-24 13:40:33 info: [0mPOST /api/auth/login [32m200[0m 130.059 ms - 621[0m
+2022-05-24 13:40:34 info: [0mGET /api/roles/getRoles [36m304[0m 74.873 ms - -[0m
+2022-05-24 13:40:36 info: [0mGET /api/users/getUsers [36m304[0m 145.784 ms - -[0m
+2022-05-24 13:41:37 info: [0mPOST /api/users/createUser [32m201[0m 209.276 ms - 475[0m
+2022-05-24 13:41:46 info: [0mGET /api/users/getUsers [32m200[0m 148.161 ms - -[0m
+2022-05-24 13:42:15 info: [0mPOST /api/auth/login [32m200[0m 130.741 ms - 656[0m
+2022-05-24 13:42:16 info: [0mGET /api/roles/getRoles [36m304[0m 74.359 ms - -[0m
+2022-05-24 13:42:16 info: [0mGET /api/users/getUsers [36m304[0m 149.260 ms - -[0m
+2022-05-24 13:42:23 info: [0mGET /api/users/getUsers [36m304[0m 149.457 ms - -[0m
+2022-05-24 15:07:20 info: =================================
+2022-05-24 15:07:20 info: ======= ENV: development =======
+2022-05-24 15:07:20 info: 🚀 App listening on the port 5100
+2022-05-24 15:07:20 info: =================================
+2022-05-24 15:11:29 info: =================================
+2022-05-24 15:11:29 info: ======= ENV: development =======
+2022-05-24 15:11:29 info: 🚀 App listening on the port 5100
+2022-05-24 15:11:29 info: =================================
+2022-05-24 15:26:46 info: [0mPOST /api/auth/login [32m200[0m 176.765 ms - 621[0m
+2022-05-24 15:26:46 info: [0mGET /api/roles/getRoles [32m200[0m 76.642 ms - 581[0m
+2022-05-24 15:26:55 info: [0mGET /api/users/getUsers [32m200[0m 160.028 ms - -[0m
+2022-05-24 15:39:54 info: [0mGET /api/users/getUsers [36m304[0m 166.574 ms - -[0m
+2022-05-24 15:42:32 info: [0mGET /api/users/getUsers [36m304[0m 146.810 ms - -[0m
+2022-05-24 15:44:18 info: [0mGET /api/users/getUsers [36m304[0m 147.521 ms - -[0m
+2022-05-24 15:44:57 info: [0mGET /api/users/getUsers [36m304[0m 165.981 ms - -[0m
+2022-05-24 15:45:33 info: [0mGET /api/users/getUsers [36m304[0m 149.679 ms - -[0m
+2022-05-24 15:48:01 info: [0mGET /api/users/getUsers [36m304[0m 150.528 ms - -[0m
+2022-05-24 15:50:05 info: [0mGET /api/users/getUsers [36m304[0m 153.693 ms - -[0m
+2022-05-24 15:52:06 info: [0mGET /api/users/getUsers [36m304[0m 149.583 ms - -[0m
+2022-05-24 15:57:28 info: [0mGET /api/users/getUsers [36m304[0m 148.179 ms - -[0m
+2022-05-24 15:57:38 info: [0mGET /api/users/getUsers [36m304[0m 162.045 ms - -[0m
+2022-05-24 15:59:11 info: [0mGET /api/users/getUsers [36m304[0m 150.780 ms - -[0m
+2022-05-24 15:59:19 info: [0mGET /api/users/getUsers [36m304[0m 153.291 ms - -[0m
+2022-05-24 16:00:04 info: [0mGET /api/users/getUsers [36m304[0m 180.978 ms - -[0m
+2022-05-24 16:00:29 info: [0mGET /api/users/getUsers [36m304[0m 143.810 ms - -[0m
+2022-05-24 16:00:48 info: [0mGET /api/users/getUsers [36m304[0m 157.288 ms - -[0m
+2022-05-24 16:04:32 info: [0mGET /api/users/getUsers [36m304[0m 148.974 ms - -[0m
+2022-05-24 16:04:40 info: [0mGET /api/users/getUsers [36m304[0m 151.458 ms - -[0m
+2022-05-24 16:05:00 info: [0mGET /api/users/getUsers [36m304[0m 144.639 ms - -[0m
+2022-05-24 16:05:53 info: [0mGET /api/users/getUsers [36m304[0m 153.953 ms - -[0m
+2022-05-24 16:07:29 info: [0mGET /api/users/getUsers [36m304[0m 149.350 ms - -[0m
+2022-05-24 16:10:44 info: [0mGET /api/users/getUsers [36m304[0m 147.929 ms - -[0m
+2022-05-24 16:11:41 info: [0mGET /api/users/getUsers [36m304[0m 149.717 ms - -[0m
+2022-05-24 16:13:42 info: [0mGET /api/users/getUsers [36m304[0m 149.919 ms - -[0m
+2022-05-24 16:14:13 info: [0mGET /api/users/getUsers [36m304[0m 150.328 ms - -[0m
+2022-05-24 16:14:47 info: [0mGET /api/users/getUsers [36m304[0m 147.435 ms - -[0m
+2022-05-24 16:15:07 info: [0mGET /api/users/getUsers [36m304[0m 149.814 ms - -[0m
+2022-05-24 16:15:55 info: [0mGET /api/users/getUsers [36m304[0m 156.150 ms - -[0m
+2022-05-24 16:16:11 info: [0mGET /api/users/getUsers [36m304[0m 147.403 ms - -[0m
+2022-05-24 16:16:33 info: [0mGET /api/users/getUsers [36m304[0m 152.181 ms - -[0m
+2022-05-24 16:17:43 info: [0mGET /api/users/getUsers [36m304[0m 152.426 ms - -[0m
+2022-05-24 16:18:18 info: [0mGET /api/users/getUsers [36m304[0m 146.206 ms - -[0m
+2022-05-24 16:18:44 info: [0mGET /api/users/getUsers [36m304[0m 147.424 ms - -[0m
+2022-05-24 16:19:00 info: [0mGET /api/users/getUsers [36m304[0m 155.777 ms - -[0m
+2022-05-24 16:19:12 info: [0mGET /api/users/getUsers [36m304[0m 159.659 ms - -[0m
+2022-05-24 16:19:17 info: [0mGET /api/users/getUsers [36m304[0m 156.531 ms - -[0m
+2022-05-24 16:19:29 info: [0mGET /api/users/getUsers [36m304[0m 154.820 ms - -[0m
+2022-05-24 16:21:00 info: [0mGET /api/users/getUsers [36m304[0m 148.660 ms - -[0m
+2022-05-24 16:21:15 info: [0mGET /api/users/getUsers [36m304[0m 147.516 ms - -[0m
+2022-05-24 16:21:59 info: [0mGET /api/users/getUsers [36m304[0m 146.602 ms - -[0m
+2022-05-24 16:22:20 info: [0mGET /api/users/getUsers [36m304[0m 150.082 ms - -[0m
+2022-05-24 16:23:49 info: [0mGET /api/users/getUsers [36m304[0m 150.283 ms - -[0m
+2022-05-24 16:25:05 info: [0mGET /api/users/getUsers [36m304[0m 147.449 ms - -[0m
+2022-05-24 16:26:25 info: [0mGET /api/users/getUsers [36m304[0m 155.895 ms - -[0m
+2022-05-24 16:26:30 info: [0mGET /api/users/getUsers [36m304[0m 149.194 ms - -[0m
+2022-05-24 16:26:39 info: [0mGET /api/users/getUsers [36m304[0m 148.309 ms - -[0m
+2022-05-24 16:26:44 info: [0mGET /api/users/getUsers [36m304[0m 148.389 ms - -[0m
+2022-05-24 16:27:39 info: [0mGET /api/users/getUsers [36m304[0m 159.266 ms - -[0m
+2022-05-24 16:27:44 info: [0mGET /api/users/getUsers [36m304[0m 148.615 ms - -[0m
+2022-05-24 16:28:29 info: [0mGET /api/users/getUsers [36m304[0m 144.344 ms - -[0m
+2022-05-24 16:30:26 info: [0mGET /api/users/getUsers [36m304[0m 153.510 ms - -[0m
+2022-05-24 16:30:49 info: [0mGET /api/users/getUsers [36m304[0m 146.848 ms - -[0m
+2022-05-24 16:30:55 info: [0mGET /api/users/getUsers [36m304[0m 155.581 ms - -[0m
+2022-05-24 16:32:02 info: [0mGET /api/users/getUsers [36m304[0m 147.385 ms - -[0m
+2022-05-24 16:32:25 info: [0mGET /api/users/getUsers [36m304[0m 150.574 ms - -[0m
+2022-05-24 16:36:34 info: [0mGET /api/users/getUsers [36m304[0m 148.033 ms - -[0m
+2022-05-24 16:36:43 info: [0mGET /api/users/getUsers [36m304[0m 150.133 ms - -[0m
+2022-05-24 16:43:23 error: [POST] /api/auth/login >> StatusCode:: 409, Message:: Contraseña incorrecta
+2022-05-24 16:43:23 info: [0mPOST /api/auth/login [33m409[0m 134.048 ms - 36[0m
+2022-05-24 16:43:32 info: [0mPOST /api/auth/login [32m200[0m 135.992 ms - 607[0m
+2022-05-24 16:43:33 info: [0mGET /api/roles/getRoles [36m304[0m 74.128 ms - -[0m
+2022-05-24 16:46:05 info: [0mPOST /api/auth/login [32m200[0m 135.303 ms - 607[0m
+2022-05-24 16:46:06 info: [0mGET /api/roles/getRoles [36m304[0m 77.693 ms - -[0m
+2022-05-24 16:46:12 info: [0mGET /api/users/getUsers [36m304[0m 146.870 ms - -[0m
+2022-05-24 16:50:29 info: [0mPOST /api/auth/login [32m200[0m 131.922 ms - 621[0m
+2022-05-24 16:50:30 info: [0mGET /api/roles/getRoles [36m304[0m 75.786 ms - -[0m
+2022-05-24 16:50:34 info: [0mGET /api/users/getUsers [36m304[0m 150.952 ms - -[0m
+2022-05-24 16:51:23 info: [0mPOST /api/auth/login [32m200[0m 131.025 ms - 621[0m
+2022-05-24 16:51:23 info: [0mGET /api/roles/getRoles [36m304[0m 71.444 ms - -[0m
+2022-05-24 16:53:12 info: [0mGET /api/users/getUsers [36m304[0m 144.127 ms - -[0m
+2022-05-24 16:54:21 info: [0mPOST /api/auth/login [32m200[0m 135.564 ms - 621[0m
+2022-05-24 16:54:21 info: [0mGET /api/roles/getRoles [36m304[0m 72.013 ms - -[0m
+2022-05-24 16:54:29 info: [0mGET /api/users/getUsers [36m304[0m 148.011 ms - -[0m
+2022-05-24 16:55:22 info: [0mPOST /api/auth/login [32m200[0m 130.667 ms - 621[0m
+2022-05-24 16:55:22 info: [0mGET /api/roles/getRoles [36m304[0m 74.328 ms - -[0m
+2022-05-24 16:55:25 info: [0mGET /api/users/getUsers [36m304[0m 148.389 ms - -[0m
+2022-05-24 16:55:31 info: [0mGET /api/users/getUsers [36m304[0m 145.752 ms - -[0m
+2022-05-24 16:56:09 info: [0mPOST /api/auth/login [32m200[0m 134.328 ms - 621[0m
+2022-05-24 16:56:09 info: [0mGET /api/roles/getRoles [36m304[0m 72.244 ms - -[0m
+2022-05-24 16:56:54 info: [0mGET /api/users/getUsers [36m304[0m 149.482 ms - -[0m
+2022-05-24 16:57:14 info: [0mPOST /api/auth/login [32m200[0m 132.263 ms - 621[0m
+2022-05-24 16:57:15 info: [0mGET /api/roles/getRoles [36m304[0m 71.145 ms - -[0m
+2022-05-24 16:57:15 info: [0mGET /api/users/getUsers [36m304[0m 150.745 ms - -[0m
+2022-05-24 16:59:16 info: [0mPOST /api/auth/login [32m200[0m 133.038 ms - 621[0m
+2022-05-24 16:59:16 info: [0mGET /api/roles/getRoles [36m304[0m 71.686 ms - -[0m
+2022-05-24 16:59:19 info: [0mGET /api/users/getUsers [36m304[0m 154.266 ms - -[0m
+2022-05-24 17:19:19 info: =================================
+2022-05-24 17:19:19 info: ======= ENV: development =======
+2022-05-24 17:19:19 info: 🚀 App listening on the port 5100
+2022-05-24 17:19:19 info: =================================
+2022-05-24 17:19:39 info: [0mPOST /api/auth/login [32m200[0m 182.115 ms - 607[0m
+2022-05-24 17:19:39 info: [0mGET /api/roles/getRoles [32m200[0m 79.400 ms - 581[0m
+2022-05-24 17:19:42 info: [0mGET /api/users/getUsers [32m200[0m 154.550 ms - 468[0m
+2022-05-24 17:21:26 info: [0mGET /api/users/getUsers [36m304[0m 147.556 ms - -[0m
+2022-05-24 17:22:12 info: [0mGET /api/users/getUsers [36m304[0m 148.199 ms - -[0m
+2022-05-24 17:22:51 error: [POST] /api/auth/login >> StatusCode:: 409, Message:: Contraseña incorrecta
+2022-05-24 17:22:52 info: [0mPOST /api/auth/login [33m409[0m 133.852 ms - 36[0m
+2022-05-24 17:23:02 info: [0mPOST /api/auth/login [32m200[0m 130.624 ms - 607[0m
+2022-05-24 17:23:02 info: [0mGET /api/roles/getRoles [36m304[0m 75.214 ms - -[0m
+2022-05-24 17:23:05 info: [0mGET /api/users/getUsers [36m304[0m 147.287 ms - -[0m
+2022-05-24 17:56:10 info: =================================
+2022-05-24 17:56:10 info: ======= ENV: development =======
+2022-05-24 17:56:10 info: 🚀 App listening on the port 5100
+2022-05-24 17:56:10 info: =================================
+2022-05-24 17:56:18 info: [0mGET / [32m200[0m 5.652 ms - 2[0m
+2022-05-24 17:57:00 info: =================================
+2022-05-24 17:57:00 info: ======= ENV: development =======
+2022-05-24 17:57:00 info: 🚀 App listening on the port 5100
+2022-05-24 17:57:00 info: =================================
+2022-05-24 17:57:02 info: [0mGET / [36m304[0m 4.078 ms - -[0m

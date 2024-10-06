@@ -1,0 +1,14 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "C:\\Users\\gorel\\Documents\\Desarrollos\\SigmaAbogados-SAC\\server\\src\\logs\\debug\\.309c2937fe2d14c643a6486add15026398a08e5f-audit.json",
+    "files": [
+        {
+            "date": 1651182148018,
+            "name": "C:\\Users\\gorel\\Documents\\Desarrollos\\SigmaAbogados-SAC\\server\\src\\logs\\debug\\2022-04-28.log",
+            "hash": "1e8b571a99709d23d477c652b1ea8ce3"
+        }
+    ]
+}

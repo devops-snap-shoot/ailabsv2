@@ -1,0 +1,123 @@
+2024-04-28 00:03:56 info: [0mGET /api/veify-token/ [36m304[0m 2.517 ms - -[0m
+2024-04-28 00:03:57 info: [0mGET /api/roles/getRolesById/organization/652934c5aaf7a00a88749e47 [36m304[0m 107.548 ms - -[0m
+2024-04-28 00:03:57 info: [0mGET /api/users/getUsersByCompany/652934c5aaf7a00a88749e47 [36m304[0m 186.803 ms - -[0m
+2024-04-28 00:03:57 info: [0mGET /api/veify-token/ [36m304[0m 1.143 ms - -[0m
+2024-04-28 00:03:57 info: [0mPOST /api/files/getFilesByUserId [32m200[0m 597.178 ms - -[0m
+2024-04-28 12:58:07 info: =================================
+2024-04-28 12:58:07 info: ======= ENV: development =======
+2024-04-28 12:58:07 info: 🚀 App listening on the port 5210
+2024-04-28 12:58:07 info: =================================
+2024-04-28 13:02:17 info: =================================
+2024-04-28 13:02:17 info: ======= ENV: development =======
+2024-04-28 13:02:17 info: 🚀 App listening on the port 5210
+2024-04-28 13:02:17 info: =================================
+2024-04-28 13:02:45 info: =================================
+2024-04-28 13:02:45 info: ======= ENV: development =======
+2024-04-28 13:02:45 info: 🚀 App listening on the port 5210
+2024-04-28 13:02:45 info: =================================
+2024-04-28 13:04:49 info: =================================
+2024-04-28 13:04:49 info: ======= ENV: development =======
+2024-04-28 13:04:49 info: 🚀 App listening on the port 5210
+2024-04-28 13:04:49 info: =================================
+2024-04-28 13:05:46 info: =================================
+2024-04-28 13:05:46 info: ======= ENV: development =======
+2024-04-28 13:05:46 info: 🚀 App listening on the port 5210
+2024-04-28 13:05:46 info: =================================
+2024-04-28 13:06:02 info: =================================
+2024-04-28 13:06:02 info: ======= ENV: development =======
+2024-04-28 13:06:02 info: 🚀 App listening on the port 5210
+2024-04-28 13:06:02 info: =================================
+2024-04-28 13:06:45 info: =================================
+2024-04-28 13:06:45 info: ======= ENV: development =======
+2024-04-28 13:06:45 info: 🚀 App listening on the port 5210
+2024-04-28 13:06:45 info: =================================
+2024-04-28 13:07:19 info: =================================
+2024-04-28 13:07:19 info: ======= ENV: development =======
+2024-04-28 13:07:19 info: 🚀 App listening on the port 5210
+2024-04-28 13:07:19 info: =================================
+2024-04-28 13:07:30 info: =================================
+2024-04-28 13:07:30 info: ======= ENV: development =======
+2024-04-28 13:07:30 info: 🚀 App listening on the port 5210
+2024-04-28 13:07:30 info: =================================
+2024-04-28 13:07:41 info: =================================
+2024-04-28 13:07:41 info: ======= ENV: development =======
+2024-04-28 13:07:41 info: 🚀 App listening on the port 5210
+2024-04-28 13:07:41 info: =================================
+2024-04-28 13:07:52 info: =================================
+2024-04-28 13:07:52 info: ======= ENV: development =======
+2024-04-28 13:07:52 info: 🚀 App listening on the port 5210
+2024-04-28 13:07:52 info: =================================
+2024-04-28 13:08:01 info: =================================
+2024-04-28 13:08:01 info: ======= ENV: development =======
+2024-04-28 13:08:01 info: 🚀 App listening on the port 5210
+2024-04-28 13:08:01 info: =================================
+2024-04-28 15:52:21 info: =================================
+2024-04-28 15:52:21 info: ======= ENV: development =======
+2024-04-28 15:52:21 info: 🚀 App listening on the port 5210
+2024-04-28 15:52:21 info: =================================
+2024-04-28 17:40:47 info: =================================
+2024-04-28 17:40:47 info: ======= ENV: development =======
+2024-04-28 17:40:47 info: 🚀 App listening on the port 5210
+2024-04-28 17:40:47 info: =================================
+2024-04-28 18:07:20 info: =================================
+2024-04-28 18:07:20 info: ======= ENV: development =======
+2024-04-28 18:07:20 info: 🚀 App listening on the port 5210
+2024-04-28 18:07:20 info: =================================
+2024-04-28 18:08:50 info: =================================
+2024-04-28 18:08:50 info: ======= ENV: development =======
+2024-04-28 18:08:50 info: 🚀 App listening on the port 5210
+2024-04-28 18:08:50 info: =================================
+2024-04-28 18:13:04 info: =================================
+2024-04-28 18:13:04 info: ======= ENV: development =======
+2024-04-28 18:13:04 info: 🚀 App listening on the port 5210
+2024-04-28 18:13:04 info: =================================
+2024-04-28 18:13:51 info: [0mOPTIONS /api/login [32m200[0m 1.569 ms - 0[0m
+2024-04-28 18:13:52 info: [0mPOST /api/login [32m200[0m 517.380 ms - -[0m
+2024-04-28 18:13:52 error: [GET] /api/users/getUsers >> StatusCode:: 401, Message:: Wrong authentication token
+2024-04-28 18:13:52 info: [0mGET /api/users/getUsers [33m401[0m 13.638 ms - 40[0m
+2024-04-28 18:13:52 error: [GET] /api/users/getUsers >> StatusCode:: 401, Message:: Wrong authentication token
+2024-04-28 18:13:52 info: [0mGET /api/users/getUsers [33m401[0m 4.807 ms - 40[0m
+2024-04-28 18:13:52 info: [0mGET /api/organization/getOrganizations [32m200[0m 78.228 ms - 745[0m
+2024-04-28 18:13:52 info: [0mGET /api/organization/getOrganizations [36m304[0m 126.147 ms - -[0m
+2024-04-28 18:13:52 info: [0mGET /api/roles/getRoles [32m200[0m 209.399 ms - -[0m
+2024-04-28 18:13:52 info: [0mGET /api/roles/getRoles [36m304[0m 231.170 ms - -[0m
+2024-04-28 18:13:53 info: [0mGET /api/files/getFiles [32m200[0m 1388.198 ms - -[0m
+2024-04-28 18:14:36 info: [0mGET /api/veify-token/ [32m200[0m 23.067 ms - 874[0m
+2024-04-28 18:14:36 info: [0mGET /api/veify-token/ [36m304[0m 2.419 ms - -[0m
+2024-04-28 18:14:36 error: [GET] /api/users/getUsers >> StatusCode:: 401, Message:: Wrong authentication token
+2024-04-28 18:14:36 info: [0mGET /api/users/getUsers [33m401[0m 3.008 ms - 40[0m
+2024-04-28 18:14:36 info: [0mGET /api/organization/getOrganizations [36m304[0m 77.178 ms - -[0m
+2024-04-28 18:14:36 info: [0mGET /api/roles/getRoles [36m304[0m 177.023 ms - -[0m
+2024-04-28 18:14:37 info: [0mGET /api/files/getFiles [36m304[0m 1354.026 ms - -[0m
+2024-04-28 18:15:21 info: =================================
+2024-04-28 18:15:21 info: ======= ENV: development =======
+2024-04-28 18:15:21 info: 🚀 App listening on the port 5210
+2024-04-28 18:15:21 info: =================================
+2024-04-28 18:15:22 info: [0mGET /api/veify-token/ [36m304[0m 11.793 ms - -[0m
+2024-04-28 18:15:22 info: [0mGET /api/veify-token/ [36m304[0m 3.232 ms - -[0m
+2024-04-28 18:15:22 info: [0mGET /api/organization/getOrganizations [36m304[0m 98.160 ms - -[0m
+2024-04-28 18:15:23 info: [0mGET /api/users/getUsers [32m200[0m 195.160 ms - -[0m
+2024-04-28 18:15:23 info: [0mGET /api/roles/getRoles [32m200[0m 187.745 ms - -[0m
+2024-04-28 18:15:24 info: [0mGET /api/files/getFiles [32m200[0m 1482.388 ms - -[0m
+2024-04-28 18:50:31 info: =================================
+2024-04-28 18:50:31 info: ======= ENV: development =======
+2024-04-28 18:50:31 info: 🚀 App listening on the port 5210
+2024-04-28 18:50:31 info: =================================
+2024-04-28 18:50:43 info: [0mGET /api/veify-token/ [32m200[0m 12.887 ms - 874[0m
+2024-04-28 18:50:43 info: [0mGET /api/veify-token/ [36m304[0m 4.406 ms - -[0m
+2024-04-28 18:51:02 error: [POST] /api/login >> StatusCode:: 500, Message:: Cannot read properties of null (reading '_id')
+2024-04-28 18:51:02 info: [0mPOST /api/login [31m500[0m 86.834 ms - 60[0m
+2024-04-28 18:52:17 info: =================================
+2024-04-28 18:52:17 info: ======= ENV: development =======
+2024-04-28 18:52:17 info: 🚀 App listening on the port 5210
+2024-04-28 18:52:17 info: =================================
+2024-04-28 18:52:21 error: [POST] /api/login >> StatusCode:: 500, Message:: Cannot read properties of null (reading '_id')
+2024-04-28 18:52:21 info: [0mPOST /api/login [31m500[0m 84.708 ms - 60[0m
+2024-04-28 18:53:14 info: [0mPOST /api/login [32m200[0m 350.648 ms - -[0m
+2024-04-28 18:53:26 error: [POST] /api/login >> StatusCode:: 500, Message:: Cannot read properties of null (reading '_id')
+2024-04-28 18:53:26 info: [0mPOST /api/login [31m500[0m 90.118 ms - 60[0m
+2024-04-28 18:57:43 info: [0mGET /api/veify-token/ [36m304[0m 6.965 ms - -[0m
+2024-04-28 19:00:17 error: [POST] /api/login >> StatusCode:: 500, Message:: Cannot read properties of null (reading '_id')
+2024-04-28 19:00:17 info: [0mPOST /api/login [31m500[0m 71.723 ms - 60[0m
+2024-04-28 19:00:25 info: [0mPOST /api/login [32m200[0m 292.110 ms - -[0m
+2024-04-28 19:06:09 info: [0mGET /api/veify-token/ [32m200[0m 5.332 ms - 874[0m

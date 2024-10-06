@@ -1,0 +1,69 @@
+<<<<<<< HEAD
+2023-07-31 17:09:26 error: uncaughtException: Cannot read properties of undefined (reading 'data')
+TypeError: Cannot read properties of undefined (reading 'data')
+    at /home/kauel/imkchat/server/src/controllers/ia.controller.ts:41:61
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)
+=======
+2023-07-31 15:20:32 error: [POST] /api/login >> StatusCode:: 500, Message:: connection timed out
+2023-07-31 15:21:30 error: [POST] /api/login >> StatusCode:: 500, Message:: connection timed out
+2023-07-31 15:31:04 error: uncaughtException: connection timed out
+MongoNetworkTimeoutError: connection timed out
+    at connectionFailureError (/home/kauel/imkchat-dev/server/node_modules/mongodb/lib/core/connection/connect.js:362:14)
+    at TLSSocket.<anonymous> (/home/kauel/imkchat-dev/server/node_modules/mongodb/lib/core/connection/connect.js:330:16)
+    at Object.onceWrapper (node:events:627:28)
+    at TLSSocket.emit (node:events:513:28)
+    at TLSSocket.emit (node:domain:489:12)
+    at TLSSocket.Socket._onTimeout (node:net:570:8)
+    at listOnTimeout (node:internal/timers:569:17)
+    at processTimers (node:internal/timers:512:7)
+2023-07-31 15:31:04 error: uncaughtException: connection timed out
+MongoNetworkTimeoutError: connection timed out
+    at connectionFailureError (/home/kauel/imkchat-dev/server/node_modules/mongodb/lib/core/connection/connect.js:362:14)
+    at TLSSocket.<anonymous> (/home/kauel/imkchat-dev/server/node_modules/mongodb/lib/core/connection/connect.js:330:16)
+    at Object.onceWrapper (node:events:627:28)
+    at TLSSocket.emit (node:events:513:28)
+    at TLSSocket.emit (node:domain:489:12)
+    at TLSSocket.Socket._onTimeout (node:net:570:8)
+    at listOnTimeout (node:internal/timers:569:17)
+    at processTimers (node:internal/timers:512:7)
+2023-07-31 15:31:04 error: uncaughtException: connection timed out
+MongoNetworkTimeoutError: connection timed out
+    at connectionFailureError (/home/kauel/imkchat-dev/server/node_modules/mongodb/lib/core/connection/connect.js:362:14)
+    at TLSSocket.<anonymous> (/home/kauel/imkchat-dev/server/node_modules/mongodb/lib/core/connection/connect.js:330:16)
+    at Object.onceWrapper (node:events:627:28)
+    at TLSSocket.emit (node:events:513:28)
+    at TLSSocket.emit (node:domain:489:12)
+    at TLSSocket.Socket._onTimeout (node:net:570:8)
+    at listOnTimeout (node:internal/timers:569:17)
+    at processTimers (node:internal/timers:512:7)
+2023-07-31 15:31:04 error: uncaughtException: connection timed out
+MongoNetworkTimeoutError: connection timed out
+    at connectionFailureError (/home/kauel/imkchat-dev/server/node_modules/mongodb/lib/core/connection/connect.js:362:14)
+    at TLSSocket.<anonymous> (/home/kauel/imkchat-dev/server/node_modules/mongodb/lib/core/connection/connect.js:330:16)
+    at Object.onceWrapper (node:events:627:28)
+    at TLSSocket.emit (node:events:513:28)
+    at TLSSocket.emit (node:domain:489:12)
+    at TLSSocket.Socket._onTimeout (node:net:570:8)
+    at listOnTimeout (node:internal/timers:569:17)
+    at processTimers (node:internal/timers:512:7)
+2023-07-31 15:31:04 error: uncaughtException: connection timed out
+MongoNetworkTimeoutError: connection timed out
+    at connectionFailureError (/home/kauel/imkchat-dev/server/node_modules/mongodb/lib/core/connection/connect.js:362:14)
+    at TLSSocket.<anonymous> (/home/kauel/imkchat-dev/server/node_modules/mongodb/lib/core/connection/connect.js:330:16)
+    at Object.onceWrapper (node:events:627:28)
+    at TLSSocket.emit (node:events:513:28)
+    at TLSSocket.emit (node:domain:489:12)
+    at TLSSocket.Socket._onTimeout (node:net:570:8)
+    at listOnTimeout (node:internal/timers:569:17)
+    at processTimers (node:internal/timers:512:7)
+2023-07-31 15:31:05 error: uncaughtException: connection timed out
+MongoNetworkTimeoutError: connection timed out
+    at connectionFailureError (/home/kauel/imkchat-dev/server/node_modules/mongodb/lib/core/connection/connect.js:362:14)
+    at TLSSocket.<anonymous> (/home/kauel/imkchat-dev/server/node_modules/mongodb/lib/core/connection/connect.js:330:16)
+    at Object.onceWrapper (node:events:627:28)
+    at TLSSocket.emit (node:events:513:28)
+    at TLSSocket.emit (node:domain:489:12)
+    at TLSSocket.Socket._onTimeout (node:net:570:8)
+    at listOnTimeout (node:internal/timers:569:17)
+    at processTimers (node:internal/timers:512:7)
+>>>>>>> dev

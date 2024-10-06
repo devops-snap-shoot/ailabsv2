@@ -1,0 +1,5 @@
+2023-07-15 02:55:14 error: [POST] /api/login >> StatusCode:: 410, Message:: Email yeriel.paz@sansano.usm.cl not found
+2023-07-15 02:55:37 error: uncaughtException: Cannot read properties of undefined (reading 'data')
+TypeError: Cannot read properties of undefined (reading 'data')
+    at /home/kauel/imkchat/server/src/controllers/ia.controller.ts:41:61
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)

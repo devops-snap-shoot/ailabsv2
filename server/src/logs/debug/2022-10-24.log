@@ -1,0 +1,66 @@
+2022-10-24 00:52:41 info: [0mPOST /api/login [32m200[0m 212.037 ms - -[0m
+2022-10-24 00:52:49 info: =================================
+2022-10-24 00:52:49 info: ======= ENV: development =======
+2022-10-24 00:52:49 info: 🚀 App listening on the port 5110
+2022-10-24 00:52:49 info: =================================
+2022-10-24 00:53:47 info: [0mPOST /api/login [32m200[0m 256.622 ms - -[0m
+2022-10-24 01:11:11 info: =================================
+2022-10-24 01:11:11 info: ======= ENV: development =======
+2022-10-24 01:11:11 info: 🚀 App listening on the port 5110
+2022-10-24 01:11:11 info: =================================
+2022-10-24 09:23:09 error: [GET] /favicon.ico >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Tesso\DemocraciaOnline\democracia_online\client\build\index.html'
+2022-10-24 09:23:09 info: [0mGET /favicon.ico [33m404[0m 12.924 ms - 154[0m
+2022-10-24 09:23:57 info: =================================
+2022-10-24 09:23:57 info: ======= ENV: development =======
+2022-10-24 09:23:57 info: 🚀 App listening on the port 5110
+2022-10-24 09:23:57 info: =================================
+2022-10-24 09:46:56 error: [GET] /favicon.ico >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Tesso\DemocraciaOnline\democracia_online\client\build\index.html'
+2022-10-24 09:46:56 info: [0mGET /favicon.ico [33m404[0m 16.641 ms - 154[0m
+2022-10-24 10:11:44 info: =================================
+2022-10-24 10:11:44 info: ======= ENV: development =======
+2022-10-24 10:11:44 info: 🚀 App listening on the port 5110
+2022-10-24 10:11:44 info: =================================
+2022-10-24 10:37:47 info: [0mPOST /api/login [32m200[0m 260.797 ms - -[0m
+2022-10-24 10:46:12 info: [0mPOST /api/login [32m200[0m 203.319 ms - -[0m
+2022-10-24 12:13:29 info: [0mPOST /api/login [32m200[0m 223.435 ms - -[0m
+2022-10-24 12:36:11 info: [0mPOST /api/login [32m200[0m 294.930 ms - -[0m
+2022-10-24 12:37:27 info: [0mPOST /api/login [32m200[0m 235.015 ms - -[0m
+2022-10-24 12:41:21 info: [0mPOST /api/login [32m200[0m 208.497 ms - -[0m
+2022-10-24 12:46:10 info: [0mPOST /api/login [32m200[0m 200.190 ms - -[0m
+2022-10-24 12:48:03 info: [0mPOST /api/login [32m200[0m 235.688 ms - -[0m
+2022-10-24 12:59:59 info: [0mPOST /api/login [32m200[0m 694.634 ms - -[0m
+2022-10-24 13:00:31 info: [0mPOST /api/login [32m200[0m 204.716 ms - -[0m
+2022-10-24 13:00:59 info: [0mPOST /api/login [32m200[0m 200.509 ms - -[0m
+2022-10-24 13:03:12 info: [0mPOST /api/login [32m200[0m 243.503 ms - -[0m
+2022-10-24 13:03:47 info: [0mPOST /api/login [32m200[0m 215.137 ms - -[0m
+2022-10-24 13:04:28 info: [0mPOST /api/login [32m200[0m 211.662 ms - -[0m
+2022-10-24 14:05:34 info: [0mPOST /api/login [32m200[0m 256.473 ms - -[0m
+2022-10-24 14:06:48 info: [0mPOST /api/login [32m200[0m 199.782 ms - -[0m
+2022-10-24 14:12:41 info: [0mPOST /api/login [32m200[0m 199.577 ms - -[0m
+2022-10-24 14:13:15 info: [0mPOST /api/login [32m200[0m 204.360 ms - -[0m
+2022-10-24 14:14:14 info: [0mPOST /api/login [32m200[0m 227.709 ms - -[0m
+2022-10-24 14:15:27 info: [0mPOST /api/login [32m200[0m 206.806 ms - -[0m
+2022-10-24 14:15:57 info: [0mPOST /api/login [32m200[0m 278.240 ms - -[0m
+2022-10-24 14:16:45 info: [0mPOST /api/login [32m200[0m 263.983 ms - -[0m
+2022-10-24 14:18:39 info: [0mPOST /api/login [32m200[0m 214.009 ms - -[0m
+2022-10-24 14:20:07 info: [0mPOST /api/login [32m200[0m 200.605 ms - -[0m
+2022-10-24 14:30:31 info: [0mPOST /api/login [32m200[0m 216.735 ms - -[0m
+2022-10-24 14:30:36 info: [0mGET /api/users/getUsers [32m200[0m 224.853 ms - 444[0m
+2022-10-24 14:30:36 info: [0mGET /api/users/getUsers [36m304[0m 146.014 ms - -[0m
+2022-10-24 14:30:40 info: [0mGET /api/users/getUsers [36m304[0m 144.503 ms - -[0m
+2022-10-24 14:30:41 info: [0mGET /api/users/getUsers [36m304[0m 189.012 ms - -[0m
+2022-10-24 14:45:45 info: [0mPOST /api/login [32m200[0m 207.147 ms - -[0m
+2022-10-24 14:45:51 info: [0mGET /api/users/getUsers [36m304[0m 147.152 ms - -[0m
+2022-10-24 14:45:51 info: [0mGET /api/users/getUsers [36m304[0m 143.616 ms - -[0m
+2022-10-24 14:50:59 error: [POST] /api/login >> StatusCode:: 409, Message:: Email gonzalo.orellana@tesso.xn--c-rga no encontrado
+2022-10-24 14:50:59 info: [0mPOST /api/login [33m409[0m 144.828 ms - 66[0m
+2022-10-24 14:51:08 error: [POST] /api/login >> StatusCode:: 409, Message:: Contraseña incorrecta
+2022-10-24 14:51:08 info: [0mPOST /api/login [33m409[0m 199.652 ms - 36[0m
+2022-10-24 14:51:13 info: [0mPOST /api/login [32m200[0m 198.069 ms - -[0m
+2022-10-24 14:51:15 info: [0mGET /api/users/getUsers [36m304[0m 149.741 ms - -[0m
+2022-10-24 14:51:15 info: [0mGET /api/users/getUsers [36m304[0m 190.974 ms - -[0m
+2022-10-24 15:00:21 info: [0mGET /api/users/getUsers [36m304[0m 146.397 ms - -[0m
+2022-10-24 15:00:21 info: [0mGET /api/users/getUsers [36m304[0m 142.309 ms - -[0m
+2022-10-24 15:01:55 info: [0mGET /api/users/getUsers [36m304[0m 174.569 ms - -[0m
+2022-10-24 15:03:20 info: [0mGET /api/users/getUsers [36m304[0m 143.279 ms - -[0m
+2022-10-24 15:03:22 info: [0mGET /api/users/getUsers [36m304[0m 143.876 ms - -[0m

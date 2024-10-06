@@ -1,0 +1,7 @@
+2024-04-28 18:13:52 error: [GET] /api/users/getUsers >> StatusCode:: 401, Message:: Wrong authentication token
+2024-04-28 18:13:52 error: [GET] /api/users/getUsers >> StatusCode:: 401, Message:: Wrong authentication token
+2024-04-28 18:14:36 error: [GET] /api/users/getUsers >> StatusCode:: 401, Message:: Wrong authentication token
+2024-04-28 18:51:02 error: [POST] /api/login >> StatusCode:: 500, Message:: Cannot read properties of null (reading '_id')
+2024-04-28 18:52:21 error: [POST] /api/login >> StatusCode:: 500, Message:: Cannot read properties of null (reading '_id')
+2024-04-28 18:53:26 error: [POST] /api/login >> StatusCode:: 500, Message:: Cannot read properties of null (reading '_id')
+2024-04-28 19:00:17 error: [POST] /api/login >> StatusCode:: 500, Message:: Cannot read properties of null (reading '_id')

@@ -1,0 +1,34 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "C:\\Users\\gorel\\Documents\\Izzimed_App\\server\\src\\logs\\debug\\.082e5aeaacb0da2808a283a75b929611869008d8-audit.json",
+    "files": [
+        {
+            "date": 1649685381715,
+            "name": "C:\\Users\\gorel\\Documents\\Izzimed_App\\server\\src\\logs\\debug\\2022-04-11.log",
+            "hash": "944173f9c3200db7aca6e6bc218d17bc"
+        },
+        {
+            "date": 1649773866826,
+            "name": "C:\\Users\\gorel\\Documents\\Izzimed_App\\server\\src\\logs\\debug\\2022-04-12.log",
+            "hash": "fda84146ab364932bb39ed3518941159"
+        },
+        {
+            "date": 1649853553603,
+            "name": "C:\\Users\\gorel\\Documents\\Izzimed_App\\server\\src\\logs\\debug\\2022-04-13.log",
+            "hash": "bacba9bdee7f728f7c39ab65d64022c0"
+        },
+        {
+            "date": 1650432199966,
+            "name": "C:\\Users\\gorel\\Documents\\Izzimed_App\\server\\src\\logs\\debug\\2022-04-20.log",
+            "hash": "dd4d670d6a4fdea25625d67b40e728e8"
+        },
+        {
+            "date": 1650671455419,
+            "name": "C:\\Users\\gorel\\Documents\\Izzimed_App\\server\\src\\logs\\debug\\2022-04-22.log",
+            "hash": "30ae6234fbbe227b730daae64ecbe9eb"
+        }
+    ]
+}

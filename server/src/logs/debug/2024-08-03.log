@@ -1,0 +1,12 @@
+2024-08-03 19:44:56 info: =================================
+2024-08-03 19:44:56 info: ======= ENV: development =======
+2024-08-03 19:44:56 info: 🚀 App listening on the port 5210
+2024-08-03 19:44:56 info: =================================
+2024-08-03 19:44:58 info: [0mGET /api/users/getUsers [32m200[0m 1755.621 ms - 927[0m
+2024-08-03 19:44:58 info: [0mGET /api/files/getFiles [32m200[0m 1873.268 ms - -[0m
+2024-08-03 20:17:08 info: [0mGET /api/users/getUsers [36m304[0m 144.015 ms - -[0m
+2024-08-03 20:17:08 info: [0mGET /api/files/getFiles [36m304[0m 418.260 ms - -[0m
+2024-08-03 20:17:26 info: [0mGET /api/users/getUsers [36m304[0m 142.988 ms - -[0m
+2024-08-03 20:17:26 info: [0mGET /api/files/getFiles [36m304[0m 414.572 ms - -[0m
+2024-08-03 20:17:58 info: [0mGET /api/users/getUsers [36m304[0m 147.577 ms - -[0m
+2024-08-03 20:17:58 info: [0mGET /api/files/getFiles [36m304[0m 429.713 ms - -[0m

@@ -1,0 +1,140 @@
+2022-03-16 09:49:20 info: =================================
+2022-03-16 09:49:21 info: ======= ENV: development =======
+2022-03-16 09:49:21 info: 🚀 App listening on the port 5000
+2022-03-16 09:49:21 info: =================================
+2022-03-16 12:27:24 info: =================================
+2022-03-16 12:27:24 info: ======= ENV: development =======
+2022-03-16 12:27:24 info: 🚀 App listening on the port 5000
+2022-03-16 12:27:24 info: =================================
+2022-03-16 12:31:19 info: =================================
+2022-03-16 12:31:19 info: ======= ENV: development =======
+2022-03-16 12:31:19 info: 🚀 App listening on the port 5000
+2022-03-16 12:31:19 info: =================================
+2022-03-16 12:35:38 info: =================================
+2022-03-16 12:35:38 info: ======= ENV: development =======
+2022-03-16 12:35:38 info: 🚀 App listening on the port 5000
+2022-03-16 12:35:38 info: =================================
+2022-03-16 12:36:48 error: [POST] /auth/login >> StatusCode:: 400, Message:: email must be an email, password must be a string
+2022-03-16 12:37:35 error: [POST] /auth/login >> StatusCode:: 400, Message:: email must be an email, password must be a string
+2022-03-16 12:38:15 info: =================================
+2022-03-16 12:38:15 info: ======= ENV: development =======
+2022-03-16 12:38:15 info: 🚀 App listening on the port 5000
+2022-03-16 12:38:15 info: =================================
+2022-03-16 12:38:19 error: [POST] /auth/login >> StatusCode:: 400, Message:: email must be an email, password must be a string
+2022-03-16 12:38:22 error: [POST] /auth/login >> StatusCode:: 400, Message:: email must be an email, password must be a string
+2022-03-16 12:38:23 error: [POST] /auth/login >> StatusCode:: 400, Message:: email must be an email, password must be a string
+2022-03-16 12:38:24 error: [POST] /auth/login >> StatusCode:: 400, Message:: email must be an email, password must be a string
+2022-03-16 12:38:25 error: [POST] /auth/login >> StatusCode:: 400, Message:: email must be an email, password must be a string
+2022-03-16 12:41:42 info: =================================
+2022-03-16 12:41:42 info: ======= ENV: development =======
+2022-03-16 12:41:42 info: 🚀 App listening on the port 5000
+2022-03-16 12:41:42 info: =================================
+2022-03-16 12:41:45 error: [POST] /auth/login >> StatusCode:: 400, Message:: email must be an email, password must be a string
+2022-03-16 12:42:11 error: [POST] /auth/login >> StatusCode:: 400, Message:: email must be an email, password must be a string
+2022-03-16 12:42:22 error: [POST] /auth/login >> StatusCode:: 400, Message:: email must be an email, password must be a string
+2022-03-16 12:45:00 info: =================================
+2022-03-16 12:45:00 info: ======= ENV: development =======
+2022-03-16 12:45:00 info: 🚀 App listening on the port 5000
+2022-03-16 12:45:00 info: =================================
+2022-03-16 12:45:24 info: =================================
+2022-03-16 12:45:24 info: ======= ENV: development =======
+2022-03-16 12:45:24 info: 🚀 App listening on the port 5000
+2022-03-16 12:45:24 info: =================================
+2022-03-16 13:01:20 info: =================================
+2022-03-16 13:01:20 info: ======= ENV: production =======
+2022-03-16 13:01:20 info: 🚀 App listening on the port 5000
+2022-03-16 13:01:20 info: =================================
+2022-03-16 13:04:47 info: =================================
+2022-03-16 13:04:47 info: ======= ENV: production =======
+2022-03-16 13:04:47 info: 🚀 App listening on the port 5000
+2022-03-16 13:04:47 info: =================================
+2022-03-16 13:09:39 info: =================================
+2022-03-16 13:09:39 info: ======= ENV: development =======
+2022-03-16 13:09:39 info: 🚀 App listening on the port 5000
+2022-03-16 13:09:39 info: =================================
+2022-03-16 16:17:33 info: =================================
+2022-03-16 16:17:33 info: ======= ENV: development =======
+2022-03-16 16:17:33 info: 🚀 App listening on the port 5000
+2022-03-16 16:17:33 info: =================================
+2022-03-16 16:17:41 error: [GET] / >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\KauelWorks\teleton_motion_tracker\client\build\index.html'
+2022-03-16 16:17:41 error: [GET] /favicon.ico >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\KauelWorks\teleton_motion_tracker\client\build\index.html'
+2022-03-16 16:29:34 info: =================================
+2022-03-16 16:29:34 info: ======= ENV: development =======
+2022-03-16 16:29:34 info: 🚀 App listening on the port 5000
+2022-03-16 16:29:34 info: =================================
+2022-03-16 16:30:26 info: =================================
+2022-03-16 16:30:26 info: ======= ENV: development =======
+2022-03-16 16:30:26 info: 🚀 App listening on the port 5000
+2022-03-16 16:30:26 info: =================================
+2022-03-16 16:33:55 info: =================================
+2022-03-16 16:33:55 info: ======= ENV: development =======
+2022-03-16 16:33:55 info: 🚀 App listening on the port 5000
+2022-03-16 16:33:55 info: =================================
+2022-03-16 16:39:30 info: =================================
+2022-03-16 16:39:30 info: ======= ENV: development =======
+2022-03-16 16:39:30 info: 🚀 App listening on the port 5000
+2022-03-16 16:39:30 info: =================================
+2022-03-16 16:40:18 info: =================================
+2022-03-16 16:40:18 info: ======= ENV: development =======
+2022-03-16 16:40:18 info: 🚀 App listening on the port 5000
+2022-03-16 16:40:18 info: =================================
+2022-03-16 16:41:50 info: =================================
+2022-03-16 16:41:50 info: ======= ENV: development =======
+2022-03-16 16:41:50 info: 🚀 App listening on the port 5000
+2022-03-16 16:41:50 info: =================================
+2022-03-16 16:42:47 info: =================================
+2022-03-16 16:42:47 info: ======= ENV: development =======
+2022-03-16 16:42:47 info: 🚀 App listening on the port 5000
+2022-03-16 16:42:47 info: =================================
+2022-03-16 16:45:36 info: =================================
+2022-03-16 16:45:36 info: ======= ENV: development =======
+2022-03-16 16:45:36 info: 🚀 App listening on the port 5000
+2022-03-16 16:45:36 info: =================================
+2022-03-16 16:47:40 info: =================================
+2022-03-16 16:47:40 info: ======= ENV: development =======
+2022-03-16 16:47:40 info: 🚀 App listening on the port 5000
+2022-03-16 16:47:40 info: =================================
+2022-03-16 17:08:04 info: =================================
+2022-03-16 17:08:04 info: ======= ENV: development =======
+2022-03-16 17:08:04 info: 🚀 App listening on the port 5000
+2022-03-16 17:08:04 info: =================================
+2022-03-16 17:08:50 info: =================================
+2022-03-16 17:08:50 info: ======= ENV: development =======
+2022-03-16 17:08:50 info: 🚀 App listening on the port 5000
+2022-03-16 17:08:50 info: =================================
+2022-03-16 17:12:41 info: =================================
+2022-03-16 17:12:41 info: ======= ENV: development =======
+2022-03-16 17:12:41 info: 🚀 App listening on the port 5000
+2022-03-16 17:12:41 info: =================================
+2022-03-16 17:31:58 info: =================================
+2022-03-16 17:31:58 info: ======= ENV: development =======
+2022-03-16 17:31:58 info: 🚀 App listening on the port 5000
+2022-03-16 17:31:58 info: =================================
+2022-03-16 17:34:02 info: =================================
+2022-03-16 17:34:02 info: ======= ENV: development =======
+2022-03-16 17:34:02 info: 🚀 App listening on the port 5000
+2022-03-16 17:34:02 info: =================================
+2022-03-16 17:36:22 info: =================================
+2022-03-16 17:36:22 info: ======= ENV: development =======
+2022-03-16 17:36:22 info: 🚀 App listening on the port 5000
+2022-03-16 17:36:22 info: =================================
+2022-03-16 21:36:32 info: =================================
+2022-03-16 21:36:32 info: ======= ENV: development =======
+2022-03-16 21:36:32 info: 🚀 App listening on the port 5000
+2022-03-16 21:36:32 info: =================================
+2022-03-16 21:39:11 info: =================================
+2022-03-16 21:39:11 info: ======= ENV: development =======
+2022-03-16 21:39:11 info: 🚀 App listening on the port 5000
+2022-03-16 21:39:11 info: =================================
+2022-03-16 22:35:20 info: =================================
+2022-03-16 22:35:20 info: ======= ENV: development =======
+2022-03-16 22:35:20 info: 🚀 App listening on the port 5000
+2022-03-16 22:35:20 info: =================================
+2022-03-16 22:35:48 info: =================================
+2022-03-16 22:35:48 info: ======= ENV: development =======
+2022-03-16 22:35:48 info: 🚀 App listening on the port 5000
+2022-03-16 22:35:48 info: =================================
+2022-03-16 22:49:20 info: =================================
+2022-03-16 22:49:20 info: ======= ENV: development =======
+2022-03-16 22:49:20 info: 🚀 App listening on the port 5000
+2022-03-16 22:49:20 info: =================================

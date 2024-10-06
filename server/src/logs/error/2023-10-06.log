@@ -1,0 +1,26 @@
+2023-10-06 06:58:40 error: [POST] /api/forgot-password >> StatusCode:: 500, Message:: 2C400000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:c:\ws\deps\openssl\openssl\ssl\record\ssl3_record.c:355:
+
+2023-10-06 07:01:34 error: [POST] /api/forgot-password >> StatusCode:: 500, Message:: D07B0000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:c:\ws\deps\openssl\openssl\ssl\record\ssl3_record.c:355:
+
+2023-10-06 07:03:46 error: [POST] /api/forgot-password >> StatusCode:: 500, Message:: Cannot create property 'mailer' on string 'SMTP'
+2023-10-06 07:04:24 error: [POST] /api/forgot-password >> StatusCode:: 500, Message:: 50580000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:c:\ws\deps\openssl\openssl\ssl\record\ssl3_record.c:355:
+
+2023-10-06 07:06:49 error: [POST] /api/forgot-password >> StatusCode:: 500, Message:: F4110000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:c:\ws\deps\openssl\openssl\ssl\record\ssl3_record.c:355:
+
+2023-10-06 17:40:44 error: [POST] /api/forgot-password >> StatusCode:: 500, Message:: 8C450000:error:0A00010B:SSL routines:ssl3_get_record:wrong version number:c:\ws\deps\openssl\openssl\ssl\record\ssl3_record.c:355:
+
+2023-10-06 18:21:53 error: [POST] /api/forgot-password >> StatusCode:: 500, Message:: connect ETIMEDOUT 137.135.105.213:587
+2023-10-06 18:22:51 error: [POST] /api/forgot-password >> StatusCode:: 500, Message:: getaddrinfo ENOTFOUND 'box5178.bluehost.com'
+2023-10-06 18:23:28 error: [POST] /api/forgot-password >> StatusCode:: 500, Message:: getaddrinfo ENOTFOUND 'box5178.bluehost.com'
+2023-10-06 18:25:32 error: [POST] /api/forgot-password >> StatusCode:: 500, Message:: getaddrinfo ENOTFOUND 'box5178.bluehost.com'
+2023-10-06 18:26:23 error: [POST] /api/forgot-password >> StatusCode:: 500, Message:: getaddrinfo ENOTFOUND 'box5178.bluehost.com'
+2023-10-06 18:27:42 error: [POST] /api/forgot-password >> StatusCode:: 500, Message:: getaddrinfo ENOTFOUND 'box5178.bluehost.com'
+2023-10-06 18:29:35 error: [POST] /api/forgot-password >> StatusCode:: 500, Message:: getaddrinfo ENOTFOUND 'app.imkchat.com'
+2023-10-06 18:29:57 error: [POST] /api/forgot-password >> StatusCode:: 500, Message:: getaddrinfo ENOTFOUND 'imkchat.com'
+2023-10-06 18:35:35 error: [POST] /api/forgot-password >> StatusCode:: 500, Message:: getaddrinfo ENOTFOUND 'box5178.bluehost.com'
+2023-10-06 18:38:15 error: [POST] /api/forgot-password >> StatusCode:: 500, Message:: getaddrinfo ENOTFOUND 'box5178.bluehost.com'
+2023-10-06 18:38:56 error: [POST] /api/forgot-password >> StatusCode:: 500, Message:: getaddrinfo ENOTFOUND 'box5178.bluehost.com'
+2023-10-06 18:41:37 error: [POST] /api/forgot-password >> StatusCode:: 500, Message:: getaddrinfo ENOTFOUND 'box5178.bluehost.com'
+2023-10-06 18:41:59 error: [POST] /api/forgot-password >> StatusCode:: 500, Message:: getaddrinfo ENOTFOUND 'box5178.bluehost.com'
+2023-10-06 18:43:14 error: [POST] /api/forgot-password >> StatusCode:: 500, Message:: getaddrinfo ENOTFOUND 'box5178.bluehost.com'
+2023-10-06 18:43:58 error: [POST] /api/forgot-password >> StatusCode:: 500, Message:: getaddrinfo ENOTFOUND 'box5178.bluehost.com'

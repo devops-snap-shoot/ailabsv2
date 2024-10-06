@@ -1,0 +1,22 @@
+2024-08-15 04:50:58 info: =================================
+2024-08-15 04:50:58 info: ======= ENV: development =======
+2024-08-15 04:50:58 info: 🚀 App listening on the port 5210
+2024-08-15 04:50:58 info: =================================
+2024-08-15 04:51:19 info: [0mGET /api/roles/getRolesById/organization/652934c5aaf7a00a88749e47 [36m304[0m 115.261 ms - -[0m
+2024-08-15 04:51:27 info: [0mOPTIONS /api/login [32m204[0m 0.721 ms - 0[0m
+2024-08-15 04:51:28 info: [0mPOST /api/login [32m200[0m 936.977 ms - -[0m
+2024-08-15 04:51:28 info: [0mOPTIONS /api/files/getFilesByCompany [32m204[0m 0.539 ms - 0[0m
+2024-08-15 04:51:28 info: [0mGET /api/roles/getRolesById/organization/652934c5aaf7a00a88749e47 [36m304[0m 92.121 ms - -[0m
+2024-08-15 04:51:28 info: [0mGET /api/roles/getRolesById/organization/652934c5aaf7a00a88749e47 [36m304[0m 78.691 ms - -[0m
+2024-08-15 04:51:29 info: [0mPOST /api/files/getFilesByCompany [32m200[0m 464.976 ms - -[0m
+2024-08-15 04:51:29 info: [0mPOST /api/files/getFilesByCompany [32m200[0m 489.764 ms - -[0m
+2024-08-15 04:53:56 info: [0mOPTIONS /api/login [32m204[0m 0.269 ms - 0[0m
+2024-08-15 04:53:57 info: [0mPOST /api/login [32m200[0m 492.133 ms - -[0m
+2024-08-15 04:53:57 info: [0mOPTIONS /api/files/getFilesByCompany [32m204[0m 0.428 ms - 0[0m
+2024-08-15 04:53:57 info: [0mGET /api/roles/getRolesById/organization/652934c5aaf7a00a88749e47 [36m304[0m 84.697 ms - -[0m
+2024-08-15 04:53:57 info: [0mPOST /api/files/getFilesByCompany [32m200[0m 143.219 ms - 710[0m
+2024-08-15 04:53:57 info: [0mGET /api/roles/getRolesById/organization/652934c5aaf7a00a88749e47 [36m304[0m 79.874 ms - -[0m
+2024-08-15 04:53:57 info: [0mPOST /api/files/getFilesByCompany [32m200[0m 143.061 ms - 710[0m
+2024-08-15 04:54:21 info: [0mOPTIONS /api/ia/chat [32m204[0m 0.298 ms - 0[0m
+2024-08-15 04:55:25 info: [0mPOST /api/ia/chat [32m200[0m 63976.651 ms - -[0m
+2024-08-15 04:55:26 info: [0mGET /wav/mario1723712065188.wav [32m206[0m 31.573 ms - 2320108[0m

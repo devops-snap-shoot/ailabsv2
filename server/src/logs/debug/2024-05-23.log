@@ -1,0 +1,17 @@
+2024-05-23 15:55:37 info: =================================
+2024-05-23 15:55:37 info: ======= ENV: development =======
+2024-05-23 15:55:37 info: 🚀 App listening on the port 5210
+2024-05-23 15:55:37 info: =================================
+2024-05-23 15:55:45 info: [0mGET /api/veify-token/ [32m200[0m 14.723 ms - 944[0m
+2024-05-23 15:55:45 info: [0mGET /api/veify-token/ [36m304[0m 3.443 ms - -[0m
+2024-05-23 15:55:52 info: [0mGET /api/veify-token/ [36m304[0m 2.418 ms - -[0m
+2024-05-23 15:55:52 info: [0mGET /api/veify-token/ [36m304[0m 2.090 ms - -[0m
+2024-05-23 15:56:18 info: [0mOPTIONS /api/login [32m204[0m 0.246 ms - 0[0m
+2024-05-23 15:56:19 info: [0mPOST /api/login [32m200[0m 329.817 ms - -[0m
+2024-05-23 15:56:19 info: [0mGET /api/organization/getOrganizations [32m200[0m 89.940 ms - 979[0m
+2024-05-23 15:56:19 info: [0mGET /api/organization/getOrganizations [36m304[0m 85.142 ms - -[0m
+2024-05-23 15:56:19 info: [0mGET /api/roles/getRoles [32m200[0m 160.104 ms - -[0m
+2024-05-23 15:56:19 info: [0mGET /api/users/getUsers [32m200[0m 178.986 ms - -[0m
+2024-05-23 15:56:19 info: [0mGET /api/roles/getRoles [36m304[0m 142.827 ms - -[0m
+2024-05-23 15:56:19 info: [0mGET /api/users/getUsers [36m304[0m 159.244 ms - -[0m
+2024-05-23 15:56:19 info: [0mGET /api/files/getFiles [32m200[0m 646.371 ms - -[0m

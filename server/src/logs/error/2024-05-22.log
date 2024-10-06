@@ -1,0 +1,4 @@
+2024-05-22 15:20:23 error: uncaughtException: Cannot read properties of undefined (reading 'data')
+TypeError: Cannot read properties of undefined (reading 'data')
+    at C:\Users\amont\Documents\Gonzalo\Trabajo\imkchat\server\src\controllers\ia.controller.ts:149:42
+    at processTicksAndRejections (node:internal/process/task_queues:95:5)

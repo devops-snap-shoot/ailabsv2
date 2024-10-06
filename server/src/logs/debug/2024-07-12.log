@@ -1,0 +1,8 @@
+2024-07-12 18:47:58 info: =================================
+2024-07-12 18:47:58 info: ======= ENV: development =======
+2024-07-12 18:47:58 info: 🚀 App listening on the port 5210
+2024-07-12 18:47:58 info: =================================
+2024-07-12 18:49:11 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-12 18:49:11 info: [0mGET /api/veify-token/ [33m404[0m 29.472 ms - 131[0m
+2024-07-12 18:49:11 error: [GET] /api/veify-token/ >> StatusCode:: 404, Message:: ENOENT: no such file or directory, stat 'C:\Users\gorel\Documents\Projects\k-eternal\client\build\index.html'
+2024-07-12 18:49:11 info: [0mGET /api/veify-token/ [33m404[0m 7.636 ms - 131[0m
